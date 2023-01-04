@@ -1,0 +1,4280 @@
+{
+  "audio_identifier": "KF_532",
+  "audio_url": "https://traffic.libsyn.com/secure/knowledgefight/Feb-16-2021.mp3",
+  "blocks": [
+    {
+      "end_timestamp": 11.0,
+      "id": "a3eee29f-a1a9-3efd-b44e-8ba7d509a082",
+      "speaker": null,
+      "start_timestamp": 0.0,
+      "text": "Red Alert!"
+    },
+    {
+      "end_timestamp": 13.0,
+      "id": "74c4e2d3-96ef-3bac-a6c7-884e6bca6c4c",
+      "speaker": null,
+      "start_timestamp": 11.0,
+      "text": "N-n-n-n-n-n-n-n-knowledge fight!"
+    },
+    {
+      "end_timestamp": 13.5,
+      "id": "0242f0df-6703-3fd7-b948-247bc8ef5ca8",
+      "speaker": null,
+      "start_timestamp": 13.0,
+      "text": "Dad!"
+    },
+    {
+      "end_timestamp": 14.0,
+      "id": "f37f4744-1589-3fde-8ee1-3d7de7192131",
+      "speaker": null,
+      "start_timestamp": 13.5,
+      "text": "Blech!"
+    },
+    {
+      "end_timestamp": 14.5,
+      "id": "0b73503f-0003-3859-892a-ee9a18ac8c94",
+      "speaker": null,
+      "start_timestamp": 14.0,
+      "text": "Blech!"
+    },
+    {
+      "end_timestamp": 15.0,
+      "id": "7d21c448-3fa3-3752-aa80-1e98bec1d8cf",
+      "speaker": null,
+      "start_timestamp": 14.5,
+      "text": "Blech!"
+    },
+    {
+      "end_timestamp": 15.5,
+      "id": "fb72d7f5-0f75-374d-a675-b8ee94072468",
+      "speaker": null,
+      "start_timestamp": 15.0,
+      "text": "Blech!"
+    },
+    {
+      "end_timestamp": 16.0,
+      "id": "f10a4183-ccfa-3ee5-954b-06d29e11ae09",
+      "speaker": null,
+      "start_timestamp": 15.5,
+      "text": "Blech!"
+    },
+    {
+      "end_timestamp": 18.0,
+      "id": "3bdfd1ee-40f8-3466-8246-04cf077caa54",
+      "speaker": null,
+      "start_timestamp": 16.0,
+      "text": "Damn, and, Jordan, I am sweating!"
+    },
+    {
+      "end_timestamp": 18.5,
+      "id": "72cd5e11-3dfd-3aeb-a234-15a411eea3a7",
+      "speaker": null,
+      "start_timestamp": 18.0,
+      "text": "Blech!"
+    },
+    {
+      "end_timestamp": 19.0,
+      "id": "46e270bc-8664-3b91-b4d3-6db3d9b114d2",
+      "speaker": null,
+      "start_timestamp": 18.5,
+      "text": "Blech!"
+    },
+    {
+      "end_timestamp": 19.5,
+      "id": "9d337df0-dacc-39cd-9cb0-2ff78c7848ab",
+      "speaker": null,
+      "start_timestamp": 19.0,
+      "text": "Blech!"
+    },
+    {
+      "end_timestamp": 21.5,
+      "id": "9c949f40-8d8f-3041-9487-095e392270c1",
+      "speaker": null,
+      "start_timestamp": 19.5,
+      "text": "Knowledgefight.com, it's time to pray!"
+    },
+    {
+      "end_timestamp": 24.0,
+      "id": "0c917cdb-32dd-37bb-95a7-69a7d40df6b6",
+      "speaker": null,
+      "start_timestamp": 21.5,
+      "text": "I have great respect for knowledgefight!"
+    },
+    {
+      "end_timestamp": 25.0,
+      "id": "ce088bcb-872f-336b-be61-a4745971107f",
+      "speaker": null,
+      "start_timestamp": 24.0,
+      "text": "Knowledgefight!"
+    },
+    {
+      "end_timestamp": 28.0,
+      "id": "a02138f6-838a-3801-ab1a-707d4f801dfa",
+      "speaker": null,
+      "start_timestamp": 25.0,
+      "text": "I'm sick of them posing as if they're the good guys, saying,"
+    },
+    {
+      "end_timestamp": 30.0,
+      "id": "22c4a5f7-3379-340f-8eb9-03d60945e4f6",
+      "speaker": null,
+      "start_timestamp": 28.0,
+      "text": "We are the bad guys, knowledgefight!"
+    },
+    {
+      "end_timestamp": 32.0,
+      "id": "cf67a479-cb37-3c4d-9618-d64753639edc",
+      "speaker": null,
+      "start_timestamp": 30.0,
+      "text": "Dan and Jordan, knowledgefight!"
+    },
+    {
+      "end_timestamp": 33.0,
+      "id": "75212134-f428-36f1-a17b-ed2199488340",
+      "speaker": null,
+      "start_timestamp": 32.0,
+      "text": "Red Alert!"
+    },
+    {
+      "end_timestamp": 33.5,
+      "id": "484a5400-dff8-3e6b-8fb0-23c7a5c9a293",
+      "speaker": null,
+      "start_timestamp": 33.0,
+      "text": "Red Alert!"
+    },
+    {
+      "end_timestamp": 34.0,
+      "id": "503b7bc6-55db-391e-a463-4bcc05447909",
+      "speaker": null,
+      "start_timestamp": 33.5,
+      "text": "Red Alert!"
+    },
+    {
+      "end_timestamp": 35.0,
+      "id": "42b2f144-9a5e-37a7-a2e9-99bb0bc87640",
+      "speaker": null,
+      "start_timestamp": 34.0,
+      "text": "Blech!"
+    },
+    {
+      "end_timestamp": 36.0,
+      "id": "076284ef-997b-3c50-aa23-353fa7f81f6f",
+      "speaker": null,
+      "start_timestamp": 35.0,
+      "text": "I need, I need money!"
+    },
+    {
+      "end_timestamp": 37.0,
+      "id": "5c9831da-e14c-3fdf-ac44-06cc7005ba94",
+      "speaker": null,
+      "start_timestamp": 36.0,
+      "text": "Red Alert!"
+    },
+    {
+      "end_timestamp": 38.0,
+      "id": "63448329-5a2b-3380-9901-63c0016b1ad8",
+      "speaker": null,
+      "start_timestamp": 37.0,
+      "text": "Red Alert!"
+    },
+    {
+      "end_timestamp": 39.0,
+      "id": "fa446d8e-7f30-3bfc-ae44-e9fecd7ea9c8",
+      "speaker": null,
+      "start_timestamp": 38.0,
+      "text": "Red Alert!"
+    },
+    {
+      "end_timestamp": 40.0,
+      "id": "1a00e43f-80ab-3f1b-894b-8bb5a301bf12",
+      "speaker": null,
+      "start_timestamp": 39.0,
+      "text": "Andy and Kansas!"
+    },
+    {
+      "end_timestamp": 42.0,
+      "id": "193444fe-6a8d-3139-ae8e-515b0ddeb492",
+      "speaker": null,
+      "start_timestamp": 40.0,
+      "text": "Andy and Kansas!"
+    },
+    {
+      "end_timestamp": 43.0,
+      "id": "aee2b942-5969-35a2-a0bf-f31028d6bb9a",
+      "speaker": null,
+      "start_timestamp": 42.0,
+      "text": "Stop it!"
+    },
+    {
+      "end_timestamp": 44.0,
+      "id": "d6e576fb-1581-38dc-8c6c-13d7995916b6",
+      "speaker": null,
+      "start_timestamp": 43.0,
+      "text": "Andy and Kansas!"
+    },
+    {
+      "end_timestamp": 45.0,
+      "id": "9f349c28-24f8-3b9d-9f21-163b6c72507f",
+      "speaker": null,
+      "start_timestamp": 44.0,
+      "text": "Andy and Kansas!"
+    },
+    {
+      "end_timestamp": 46.0,
+      "id": "1d983da2-e026-319d-bc89-c07989590ac0",
+      "speaker": null,
+      "start_timestamp": 45.0,
+      "text": "Andy and, Andy!"
+    },
+    {
+      "end_timestamp": 47.0,
+      "id": "a1f65e0a-b1ef-3e81-8281-72571822e54a",
+      "speaker": null,
+      "start_timestamp": 46.0,
+      "text": "It's time to pray!"
+    },
+    {
+      "end_timestamp": 49.0,
+      "id": "cd600f84-88c1-3902-b695-3e961b4f49d6",
+      "speaker": null,
+      "start_timestamp": 47.0,
+      "text": "Andy and Kansas, you're on the air, thanks for holding!"
+    },
+    {
+      "end_timestamp": 53.0,
+      "id": "8c35375e-d6b0-38fd-8212-cf6e68bcde50",
+      "speaker": null,
+      "start_timestamp": 49.0,
+      "text": "Hello Alex, I'm a first time caller, I'm a huge fan, I love your work!"
+    },
+    {
+      "end_timestamp": 54.0,
+      "id": "99414b5c-2696-3fe0-a427-984df309091e",
+      "speaker": null,
+      "start_timestamp": 53.0,
+      "text": "Knowledgefight!"
+    },
+    {
+      "end_timestamp": 57.0,
+      "id": "52166a1f-20e6-340c-a389-289921839527",
+      "speaker": null,
+      "start_timestamp": 54.0,
+      "text": "N-n-n-n-n-n-n-knowledgefight.com"
+    },
+    {
+      "end_timestamp": 59.0,
+      "id": "478a6e8d-d1d4-3f6d-83c1-4374cb8092c0",
+      "speaker": null,
+      "start_timestamp": 57.0,
+      "text": "I love you."
+    },
+    {
+      "end_timestamp": 62.0,
+      "id": "1ebc152b-6a40-3929-8c92-0d97155426ee",
+      "speaker": null,
+      "start_timestamp": 59.0,
+      "text": "Hey everybody, welcome back to Knowledgefight, I'm Dan."
+    },
+    {
+      "end_timestamp": 63.0,
+      "id": "9bb246e1-7048-36ba-b359-f458cd553524",
+      "speaker": null,
+      "start_timestamp": 62.0,
+      "text": "I'm Jordan!"
+    },
+    {
+      "end_timestamp": 68.0,
+      "id": "8e25af61-1aa3-3ace-9e55-df2dc2007cb2",
+      "speaker": null,
+      "start_timestamp": 63.0,
+      "text": "We're couple dudes who like to drink novelty beverages in their own homes and sit around"
+    },
+    {
+      "end_timestamp": 70.0,
+      "id": "44f65acb-c56e-3950-8ef7-980ee59fcf49",
+      "speaker": null,
+      "start_timestamp": 68.0,
+      "text": "and talk a little bit about Alex Jones."
+    },
+    {
+      "end_timestamp": 74.0,
+      "id": "1ffa031e-f9ba-32b9-b49c-db6164ca8531",
+      "speaker": null,
+      "start_timestamp": 70.0,
+      "text": "It does appear that that is our plan for the time being right now, Dan."
+    },
+    {
+      "end_timestamp": 80.0,
+      "id": "a890988e-8da2-3415-be22-e3e562212b23",
+      "speaker": null,
+      "start_timestamp": 74.0,
+      "text": "Yeah, Jordan, we are recording this separately, probably the first actual episode that we've"
+    },
+    {
+      "end_timestamp": 83.0,
+      "id": "e1a84209-2d1a-38d0-a3df-b3ff70125c05",
+      "speaker": null,
+      "start_timestamp": 80.0,
+      "text": "recorded over a distance."
+    },
+    {
+      "end_timestamp": 84.0,
+      "id": "33cba70b-d33c-3644-8e1b-74773f610cd3",
+      "speaker": null,
+      "start_timestamp": 83.0,
+      "text": "It's a little bit weird."
+    },
+    {
+      "end_timestamp": 85.0,
+      "id": "9172f7ec-6143-3244-a73d-3e44d4bddbb8",
+      "speaker": null,
+      "start_timestamp": 84.0,
+      "text": "Sure!"
+    },
+    {
+      "end_timestamp": 89.0,
+      "id": "2754a6cd-e119-3c39-872f-f14b7b7cf4a3",
+      "speaker": null,
+      "start_timestamp": 85.0,
+      "text": "Yeah, that remains to be seen as to whether or not it's an actual episode now."
+    },
+    {
+      "end_timestamp": 97.0,
+      "id": "7cd73a1e-9342-3f19-80b5-1876746df5ae",
+      "speaker": null,
+      "start_timestamp": 89.0,
+      "text": "I set out with the intention of a regular episode-ish, kind of, kind of a mini episode."
+    },
+    {
+      "end_timestamp": 102.0,
+      "id": "35ca4e73-070e-3f3f-b352-ca28e7898860",
+      "speaker": null,
+      "start_timestamp": 97.0,
+      "text": "I don't want to, again, I want to stress to everybody that we're not going to have episodes"
+    },
+    {
+      "end_timestamp": 108.0,
+      "id": "e1e44113-5c51-3123-9144-56d811fc8cc7",
+      "speaker": null,
+      "start_timestamp": 102.0,
+      "text": "every Monday, Wednesday, and Friday, but the circumstances kind of demanded this week."
+    },
+    {
+      "end_timestamp": 113.0,
+      "id": "befe2629-e086-3375-940a-31c65cae4dc0",
+      "speaker": null,
+      "start_timestamp": 108.0,
+      "text": "We had to jump on the horse and get something together."
+    },
+    {
+      "end_timestamp": 117.0,
+      "id": "b632d0c2-9c5c-33e4-ada1-7ed369845a7a",
+      "speaker": null,
+      "start_timestamp": 113.0,
+      "text": "Yeah, I don't think that's a terrible idea."
+    },
+    {
+      "end_timestamp": 121.0,
+      "id": "86bc53e3-8bcc-3ae2-9a9e-fc6ef9d4c80f",
+      "speaker": null,
+      "start_timestamp": 117.0,
+      "text": "But, simultaneously, we can't get together."
+    },
+    {
+      "end_timestamp": 124.0,
+      "id": "55902dee-d2b5-3988-8262-5b66239c437f",
+      "speaker": null,
+      "start_timestamp": 121.0,
+      "text": "Because Chicago has waist-deep snow outside."
+    },
+    {
+      "end_timestamp": 125.0,
+      "id": "ed8cb72b-8a3b-3454-8e84-6c83468621cd",
+      "speaker": null,
+      "start_timestamp": 124.0,
+      "text": "It's bad."
+    },
+    {
+      "end_timestamp": 127.0,
+      "id": "13faa2dc-b225-3a44-959d-ba63ee168446",
+      "speaker": null,
+      "start_timestamp": 125.0,
+      "text": "It's really bad."
+    },
+    {
+      "end_timestamp": 128.0,
+      "id": "7c0f42e2-e927-30b1-b189-3cc35a146901",
+      "speaker": null,
+      "start_timestamp": 127.0,
+      "text": "And I ran out of coffee."
+    },
+    {
+      "end_timestamp": 130.0,
+      "id": "e932fb3b-d459-3c72-a988-f2761c591fb3",
+      "speaker": null,
+      "start_timestamp": 128.0,
+      "text": "I ran out of coffee last night, Dan."
+    },
+    {
+      "end_timestamp": 136.0,
+      "id": "8235cc71-0685-3452-92f0-eac932de7253",
+      "speaker": null,
+      "start_timestamp": 130.0,
+      "text": "So this morning, I was about to take the dogs out for a walk and I always start a cup of"
+    },
+    {
+      "end_timestamp": 142.0,
+      "id": "f45c009e-3e20-336e-b0e5-7daa3fb0996f",
+      "speaker": null,
+      "start_timestamp": 136.0,
+      "text": "coffee, a pot of coffee, before I take the dogs out and I realized in that moment I have"
+    },
+    {
+      "end_timestamp": 143.0,
+      "id": "1715aa06-e5f5-384f-9afb-2ff247d19c0a",
+      "speaker": null,
+      "start_timestamp": 142.0,
+      "text": "none."
+    },
+    {
+      "end_timestamp": 150.0,
+      "id": "6c897861-89d6-376d-8faa-f4f276de84a6",
+      "speaker": null,
+      "start_timestamp": 143.0,
+      "text": "So, I had to walk through close to a mile of waist-deep snow to get some coffee."
+    },
+    {
+      "end_timestamp": 153.0,
+      "id": "8d6e5ed8-f6bf-3443-93f3-03496f274621",
+      "speaker": null,
+      "start_timestamp": 150.0,
+      "text": "It was the most brutal morning I've ever had."
+    },
+    {
+      "end_timestamp": 162.0,
+      "id": "098e84f2-4e52-3546-945d-821a85a8331a",
+      "speaker": null,
+      "start_timestamp": 153.0,
+      "text": "Yeah, I walked down to the grocery store because I needed some salad stuff for lunch and it"
+    },
+    {
+      "end_timestamp": 164.0,
+      "id": "40c12361-4f39-35bf-b16e-442f587dc6cf",
+      "speaker": null,
+      "start_timestamp": 162.0,
+      "text": "was just a dead zone."
+    },
+    {
+      "end_timestamp": 165.0,
+      "id": "e3916fd2-a431-3cdd-a9bd-fcc9f8fbbafc",
+      "speaker": null,
+      "start_timestamp": 164.0,
+      "text": "There was nobody there."
+    },
+    {
+      "end_timestamp": 166.0,
+      "id": "e4890024-edf9-3126-8a29-24d32dc9a81b",
+      "speaker": null,
+      "start_timestamp": 165.0,
+      "text": "It was fantastic."
+    },
+    {
+      "end_timestamp": 167.0,
+      "id": "fe44a5fe-91cd-3e4e-b4c6-416290f8a9e6",
+      "speaker": null,
+      "start_timestamp": 166.0,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 174.0,
+      "id": "0bf8e3c0-0e95-3e38-80b2-9c9ffde606ad",
+      "speaker": null,
+      "start_timestamp": 167.0,
+      "text": "I mean, other than the logistical problems that everyone's dealing with, the fact that"
+    },
+    {
+      "end_timestamp": 178.0,
+      "id": "315f908e-107c-326c-b45f-a9c476207630",
+      "speaker": null,
+      "start_timestamp": 174.0,
+      "text": "there was no one at a grocery store was pretty nice."
+    },
+    {
+      "end_timestamp": 180.0,
+      "id": "b59e053d-e9f5-35b2-a6d7-114d58051138",
+      "speaker": null,
+      "start_timestamp": 178.0,
+      "text": "There are some advantages."
+    },
+    {
+      "end_timestamp": 181.0,
+      "id": "32c5d7bb-d496-30bd-99fe-6323e4c85365",
+      "speaker": null,
+      "start_timestamp": 180.0,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 186.0,
+      "id": "5eb68163-8700-3760-97f4-f4704a96726d",
+      "speaker": null,
+      "start_timestamp": 181.0,
+      "text": "So, I guess my bright spot is that you and I are both doing relatively alright with this."
+    },
+    {
+      "end_timestamp": 191.0,
+      "id": "bf99da40-1229-3e54-9b45-9b5e235e3b4f",
+      "speaker": null,
+      "start_timestamp": 186.0,
+      "text": "I mean, it was coming down all day, all night yesterday."
+    },
+    {
+      "end_timestamp": 192.0,
+      "id": "7de7aed1-7173-3311-b531-ebaf58d0e1af",
+      "speaker": null,
+      "start_timestamp": 191.0,
+      "text": "Just a disaster."
+    },
+    {
+      "end_timestamp": 197.0,
+      "id": "999c7166-e5ec-37a0-a35a-ff7f94578354",
+      "speaker": null,
+      "start_timestamp": 192.0,
+      "text": "Last night, it was one of the first times I've seen that kind of snowstorm and I was"
+    },
+    {
+      "end_timestamp": 201.0,
+      "id": "70ef1f1a-bec5-3894-a94f-8a4b19c0cbc7",
+      "speaker": null,
+      "start_timestamp": 197.0,
+      "text": "like, man, I think I'm actually scared for Chicago."
+    },
+    {
+      "end_timestamp": 204.0,
+      "id": "3d59e6ed-f7d1-33b8-b806-eb050573ef23",
+      "speaker": null,
+      "start_timestamp": 201.0,
+      "text": "Look, we get covered in snow."
+    },
+    {
+      "end_timestamp": 205.0,
+      "id": "bc97f40f-b6de-32a9-b734-65f6d18760b0",
+      "speaker": null,
+      "start_timestamp": 204.0,
+      "text": "That's fine."
+    },
+    {
+      "end_timestamp": 209.0,
+      "id": "309b8f11-6f19-3bed-96b4-5086a1891498",
+      "speaker": null,
+      "start_timestamp": 205.0,
+      "text": "But this one was like, oh shit, this one might be too much for us."
+    },
+    {
+      "end_timestamp": 210.0,
+      "id": "2ad6e6cd-b2c0-3b0c-b919-aefc7b08b989",
+      "speaker": null,
+      "start_timestamp": 209.0,
+      "text": "Yeah, yeah."
+    },
+    {
+      "end_timestamp": 214.0,
+      "id": "17366c80-fb1a-35e3-ada6-e2706c173c1f",
+      "speaker": null,
+      "start_timestamp": 210.0,
+      "text": "Whenever people start talking in feet, it's like, alright, hold on."
+    },
+    {
+      "end_timestamp": 216.0,
+      "id": "8ca91a79-0c5a-371f-9ddf-5025727a387a",
+      "speaker": null,
+      "start_timestamp": 214.0,
+      "text": "You didn't say 16 inches."
+    },
+    {
+      "end_timestamp": 218.0,
+      "id": "c07614ca-553f-3047-8b98-9ff1c88420a5",
+      "speaker": null,
+      "start_timestamp": 216.0,
+      "text": "You said multiple feet."
+    },
+    {
+      "end_timestamp": 219.0,
+      "id": "f14f5155-030b-3c27-92a4-2b4c78f87e22",
+      "speaker": null,
+      "start_timestamp": 218.0,
+      "text": "That's trouble."
+    },
+    {
+      "end_timestamp": 220.0,
+      "id": "59f7a605-d3e6-389d-b910-ccb57df6581c",
+      "speaker": null,
+      "start_timestamp": 219.0,
+      "text": "That's trouble."
+    },
+    {
+      "end_timestamp": 225.0,
+      "id": "6f918f78-57d3-36d2-8e4d-31669e583aae",
+      "speaker": null,
+      "start_timestamp": 220.0,
+      "text": "Alright, so the reason that we needed to jump on the old Zoom here and get an episode together"
+    },
+    {
+      "end_timestamp": 229.0,
+      "id": "2ee83cb0-831c-304e-8e2e-14874fe97efe",
+      "speaker": null,
+      "start_timestamp": 225.0,
+      "text": "was because Alex is also dealing with inclement weather."
+    },
+    {
+      "end_timestamp": 230.0,
+      "id": "1272c8d8-42cb-3e00-974f-d7b1053303e8",
+      "speaker": null,
+      "start_timestamp": 229.0,
+      "text": "Naturally."
+    },
+    {
+      "end_timestamp": 236.56,
+      "id": "264e56e7-aee3-3b0b-a0ce-a6392eb96706",
+      "speaker": null,
+      "start_timestamp": 230.0,
+      "text": "He's got some, you know, Texas is seeing some unprecedented winter storms that are happening"
+    },
+    {
+      "end_timestamp": 245.96,
+      "id": "00e5ddd8-4fa8-3348-a949-12e1b80ee2e9",
+      "speaker": null,
+      "start_timestamp": 236.56,
+      "text": "right now and Infowars Studio has been struck by the ice, the Winter Queen."
+    },
+    {
+      "end_timestamp": 250.88,
+      "id": "2e5c56cb-f664-3cce-a130-4dfc6cc4b195",
+      "speaker": null,
+      "start_timestamp": 245.96,
+      "text": "What's the name of the character in the Lion, the Witch, and the Wardrobe?"
+    },
+    {
+      "end_timestamp": 252.2,
+      "id": "cdac1d05-936a-3bdb-b3f4-71014c081d04",
+      "speaker": null,
+      "start_timestamp": 250.88,
+      "text": "I think it's just the Ice Queen."
+    },
+    {
+      "end_timestamp": 253.2,
+      "id": "2e02cc6e-1aff-3a37-a3c5-f46969e55488",
+      "speaker": null,
+      "start_timestamp": 252.2,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 254.2,
+      "id": "673add89-3255-37bf-9f66-848f6f83099e",
+      "speaker": null,
+      "start_timestamp": 253.2,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 256.2,
+      "id": "1ad90f9f-b351-3a22-9eaf-e7b9f9a14016",
+      "speaker": null,
+      "start_timestamp": 254.2,
+      "text": "Well, anyway, Alex wants some Turkish delight and..."
+    },
+    {
+      "end_timestamp": 257.2,
+      "id": "574b322c-2fed-3b8e-a2b8-e72e60ff5df6",
+      "speaker": null,
+      "start_timestamp": 256.2,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 258.2,
+      "id": "0aa53010-9d2d-398f-906a-64f28c251dd2",
+      "speaker": null,
+      "start_timestamp": 257.2,
+      "text": "Alright."
+    },
+    {
+      "end_timestamp": 259.2,
+      "id": "b89c66f8-9eb0-3ea7-acf0-adbb111068ff",
+      "speaker": null,
+      "start_timestamp": 258.2,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 260.2,
+      "id": "6875975a-1d92-37a3-bf42-cf0eae54d48d",
+      "speaker": null,
+      "start_timestamp": 259.2,
+      "text": "Running out of references."
+    },
+    {
+      "end_timestamp": 261.2,
+      "id": "56155491-4b8a-3666-be85-816b6cf7c52b",
+      "speaker": null,
+      "start_timestamp": 260.2,
+      "text": "We'll stop there."
+    },
+    {
+      "end_timestamp": 262.2,
+      "id": "334f1fa8-5a8d-3c8b-997b-768c046f3602",
+      "speaker": null,
+      "start_timestamp": 261.2,
+      "text": "Let's just name all of the..."
+    },
+    {
+      "end_timestamp": 264.2,
+      "id": "2821488a-3aff-3623-9c74-0ebbbfe04509",
+      "speaker": null,
+      "start_timestamp": 262.2,
+      "text": "Voyage of the Dawn Treader."
+    },
+    {
+      "end_timestamp": 266.2,
+      "id": "cabf3250-5dae-3aeb-a7e2-f24b0543cea1",
+      "speaker": null,
+      "start_timestamp": 264.2,
+      "text": "Boy and his horse."
+    },
+    {
+      "end_timestamp": 268.2,
+      "id": "81311764-8b9e-3996-8ffe-47e29d9179d7",
+      "speaker": null,
+      "start_timestamp": 266.2,
+      "text": "Or Horse and his Boy."
+    },
+    {
+      "end_timestamp": 269.2,
+      "id": "b67a0264-51b4-3caa-aee2-415d909428e1",
+      "speaker": null,
+      "start_timestamp": 268.2,
+      "text": "Sorry."
+    },
+    {
+      "end_timestamp": 270.2,
+      "id": "7ba0e8bc-5411-3b57-8698-b27feef1836e",
+      "speaker": null,
+      "start_timestamp": 269.2,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 271.2,
+      "id": "cb0ed024-eed5-386b-ab56-67c92a0de99d",
+      "speaker": null,
+      "start_timestamp": 270.2,
+      "text": "Silver Chair."
+    },
+    {
+      "end_timestamp": 272.2,
+      "id": "f61f4893-6093-3865-b694-f838a0db0940",
+      "speaker": null,
+      "start_timestamp": 271.2,
+      "text": "Prince Caspian."
+    },
+    {
+      "end_timestamp": 273.2,
+      "id": "d2d76b26-2011-3549-84fe-00aebc6eab74",
+      "speaker": null,
+      "start_timestamp": 272.2,
+      "text": "Silver Chair."
+    },
+    {
+      "end_timestamp": 274.2,
+      "id": "26f3dc12-3a65-3dfb-b88e-59cf45d6a1c3",
+      "speaker": null,
+      "start_timestamp": 273.2,
+      "text": "Lion, the Witch, and the Wardrobe."
+    },
+    {
+      "end_timestamp": 275.2,
+      "id": "8d969433-c6b4-331d-ac7c-554873dbffd0",
+      "speaker": null,
+      "start_timestamp": 274.2,
+      "text": "Right."
+    },
+    {
+      "end_timestamp": 276.2,
+      "id": "cd857b88-e4bf-3cb2-9a5f-72287d8001b0",
+      "speaker": null,
+      "start_timestamp": 275.2,
+      "text": "I think I said that first."
+    },
+    {
+      "end_timestamp": 277.2,
+      "id": "663443b0-08af-38f5-a13e-8a63c5df7291",
+      "speaker": null,
+      "start_timestamp": 276.2,
+      "text": "You did."
+    },
+    {
+      "end_timestamp": 278.2,
+      "id": "88cea36c-c607-33d0-9d40-e7591bdd8fee",
+      "speaker": null,
+      "start_timestamp": 277.2,
+      "text": "You're missing two of them."
+    },
+    {
+      "end_timestamp": 280.6,
+      "id": "59fafca5-591f-367e-adca-abaf5f3fc8d5",
+      "speaker": null,
+      "start_timestamp": 278.2,
+      "text": "You're missing the final two."
+    },
+    {
+      "end_timestamp": 282.16,
+      "id": "8ac6a3b5-95af-3642-9c9a-06b81a3e9764",
+      "speaker": null,
+      "start_timestamp": 280.6,
+      "text": "The Magician's Apprentice."
+    },
+    {
+      "end_timestamp": 283.88,
+      "id": "4a9f37be-52c1-3a8f-961e-aa045605149f",
+      "speaker": null,
+      "start_timestamp": 282.16,
+      "text": "Oh, close."
+    },
+    {
+      "end_timestamp": 284.88,
+      "id": "7470402f-46c5-3e3f-8bf0-c8d8bf99e913",
+      "speaker": null,
+      "start_timestamp": 283.88,
+      "text": "Sorcerer's Apprentice."
+    },
+    {
+      "end_timestamp": 285.88,
+      "id": "e2adad0d-24c2-3d83-93f8-4b90ad1fa713",
+      "speaker": null,
+      "start_timestamp": 284.88,
+      "text": "No."
+    },
+    {
+      "end_timestamp": 286.88,
+      "id": "0bb4b3e6-278b-3b3e-98fb-4b526cbd5919",
+      "speaker": null,
+      "start_timestamp": 285.88,
+      "text": "Oh, real close."
+    },
+    {
+      "end_timestamp": 287.88,
+      "id": "73403165-43a7-3d56-84cc-2707b73d8657",
+      "speaker": null,
+      "start_timestamp": 286.88,
+      "text": "The Magician's Nephew."
+    },
+    {
+      "end_timestamp": 288.88,
+      "id": "f375c077-014c-3589-9e21-6b8e85c6670b",
+      "speaker": null,
+      "start_timestamp": 287.88,
+      "text": "Yes."
+    },
+    {
+      "end_timestamp": 289.88,
+      "id": "f9ba7dc6-310d-3277-8df7-1cfb722a6034",
+      "speaker": null,
+      "start_timestamp": 288.88,
+      "text": "There you go."
+    },
+    {
+      "end_timestamp": 292.4,
+      "id": "e1808c80-0528-3da2-83cc-7d3d5d5ab613",
+      "speaker": null,
+      "start_timestamp": 289.88,
+      "text": "What's the last one?"
+    },
+    {
+      "end_timestamp": 295.24,
+      "id": "58556f3c-872a-35ba-a980-433042626c0a",
+      "speaker": null,
+      "start_timestamp": 292.4,
+      "text": "I think I forgot."
+    },
+    {
+      "end_timestamp": 296.96,
+      "id": "c93f62e8-8542-3741-8b16-b342d2115e5d",
+      "speaker": null,
+      "start_timestamp": 295.24,
+      "text": "I think it's just the last battle."
+    },
+    {
+      "end_timestamp": 298.52,
+      "id": "1556b3fb-1102-3b99-bbbb-a313c0d773e4",
+      "speaker": null,
+      "start_timestamp": 296.96,
+      "text": "Oh, that's probably it."
+    },
+    {
+      "end_timestamp": 300.24,
+      "id": "51e25c8d-8418-302c-ab8c-b5177ea27471",
+      "speaker": null,
+      "start_timestamp": 298.52,
+      "text": "Very boring."
+    },
+    {
+      "end_timestamp": 301.6,
+      "id": "905967bb-c3f3-33e7-af59-89793b0bacf0",
+      "speaker": null,
+      "start_timestamp": 300.24,
+      "text": "It's a really boring book."
+    },
+    {
+      "end_timestamp": 303.6,
+      "id": "a7d2210b-7ea8-3940-97ee-9ed35df63ed8",
+      "speaker": null,
+      "start_timestamp": 301.6,
+      "text": "Can't believe I forgot The Magician's Nephew."
+    },
+    {
+      "end_timestamp": 306.6,
+      "id": "2ebac808-b079-32cb-8416-3cc5d4e3aae3",
+      "speaker": null,
+      "start_timestamp": 303.6,
+      "text": "What a stupid name for a book."
+    },
+    {
+      "end_timestamp": 307.6,
+      "id": "c767f6be-fd60-36c2-ad81-0015ae0414e1",
+      "speaker": null,
+      "start_timestamp": 306.6,
+      "text": "You know what?"
+    },
+    {
+      "end_timestamp": 308.92,
+      "id": "d58e3937-0e8a-3bba-b20d-a703421a779f",
+      "speaker": null,
+      "start_timestamp": 307.6,
+      "text": "I think that one's always been my favorite."
+    },
+    {
+      "end_timestamp": 309.92,
+      "id": "ac40143c-b64f-30fa-930e-3e8b3be115b7",
+      "speaker": null,
+      "start_timestamp": 308.92,
+      "text": "I always liked that one."
+    },
+    {
+      "end_timestamp": 315.92,
+      "id": "4e6b37a5-17ed-3ab8-ab4c-381b563f4369",
+      "speaker": null,
+      "start_timestamp": 309.92,
+      "text": "The little rings that they go into the little middle of the world to teleport thing."
+    },
+    {
+      "end_timestamp": 316.92,
+      "id": "daeb1df1-99e0-3871-8bc2-874b898969bf",
+      "speaker": null,
+      "start_timestamp": 315.92,
+      "text": "Always fun."
+    },
+    {
+      "end_timestamp": 321.84,
+      "id": "161e5d15-0ce2-3074-8d8b-c0f781b9cf87",
+      "speaker": null,
+      "start_timestamp": 316.92,
+      "text": "I read the hell out of those books and I don't think I remember the plot of any of the..."
+    },
+    {
+      "end_timestamp": 323.56,
+      "id": "a13bae04-e85d-33ee-b407-87736a51d663",
+      "speaker": null,
+      "start_timestamp": 321.84,
+      "text": "At least the last four of them."
+    },
+    {
+      "end_timestamp": 324.64,
+      "id": "1621d347-03f5-393d-8fd3-cd7b22f8af2c",
+      "speaker": null,
+      "start_timestamp": 323.56,
+      "text": "Oh, no."
+    },
+    {
+      "end_timestamp": 325.64,
+      "id": "b2144f77-a3b5-3e8b-b939-f0c5f4e3a610",
+      "speaker": null,
+      "start_timestamp": 324.64,
+      "text": "That's fine."
+    },
+    {
+      "end_timestamp": 326.64,
+      "id": "ca782c75-a0b4-3890-ac1d-8f34c04e3a19",
+      "speaker": null,
+      "start_timestamp": 325.64,
+      "text": "That is totally fine."
+    },
+    {
+      "end_timestamp": 330.8,
+      "id": "003ac175-a3c1-3500-88c5-b1f843dbb0c5",
+      "speaker": null,
+      "start_timestamp": 326.64,
+      "text": "Magician's Nephew is the prequel, though, and that's why I've always liked it."
+    },
+    {
+      "end_timestamp": 332.84,
+      "id": "9b1c8b9f-a5dc-3510-9bc0-dc3bfc4ca4ef",
+      "speaker": null,
+      "start_timestamp": 330.8,
+      "text": "It's the prequel to The Lion, the Witch, and the Wardrobe."
+    },
+    {
+      "end_timestamp": 333.84,
+      "id": "7e0e3d5e-e0b2-3bc1-9e3d-240922bd703e",
+      "speaker": null,
+      "start_timestamp": 332.84,
+      "text": "Oh, okay."
+    },
+    {
+      "end_timestamp": 336.36,
+      "id": "7e92613e-c9e0-3e97-8c8c-5308545a0fbc",
+      "speaker": null,
+      "start_timestamp": 333.84,
+      "text": "So it's like the Tokyo Drift of the..."
+    },
+    {
+      "end_timestamp": 337.36,
+      "id": "e812c8cf-59ff-37d0-add1-11c3073289ea",
+      "speaker": null,
+      "start_timestamp": 336.36,
+      "text": "Exactly."
+    },
+    {
+      "end_timestamp": 338.36,
+      "id": "1d2ac26b-f6bd-3d49-8942-cfd81be13b10",
+      "speaker": null,
+      "start_timestamp": 337.36,
+      "text": "Yes."
+    },
+    {
+      "end_timestamp": 339.36,
+      "id": "672c6d11-4821-39bc-84f5-eafab7d327dc",
+      "speaker": null,
+      "start_timestamp": 338.36,
+      "text": "Yes."
+    },
+    {
+      "end_timestamp": 340.84,
+      "id": "b18aadb8-012e-326e-a630-744e2e66fb02",
+      "speaker": null,
+      "start_timestamp": 339.36,
+      "text": "Before the main characters die."
+    },
+    {
+      "end_timestamp": 341.84,
+      "id": "f261705d-1ffb-3fd4-a4fa-eaf959a9d27a",
+      "speaker": null,
+      "start_timestamp": 340.84,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 347.28,
+      "id": "5a9ec988-8020-3532-9d6b-ede2c82c842c",
+      "speaker": null,
+      "start_timestamp": 341.84,
+      "text": "So, Jordan, we got some Alex Jones stupidity to deal with."
+    },
+    {
+      "end_timestamp": 352.84,
+      "id": "d3d01bb1-92a8-3495-ba4a-6d213e674327",
+      "speaker": null,
+      "start_timestamp": 347.28,
+      "text": "It'll be a little bit of a briefer episode, but I wanted to check in with how he's doing"
+    },
+    {
+      "end_timestamp": 355.44,
+      "id": "1bf26c03-edd3-3fcb-924e-f2097de74a7f",
+      "speaker": null,
+      "start_timestamp": 352.84,
+      "text": "in Occupied by Ice, Austin."
+    },
+    {
+      "end_timestamp": 357.84,
+      "id": "dee078b1-ec3a-3127-a652-ca487921194c",
+      "speaker": null,
+      "start_timestamp": 355.44,
+      "text": "But before we do that, Jordan, let's take a moment to say thank you to some folks who"
+    },
+    {
+      "end_timestamp": 358.84,
+      "id": "37f15821-1477-3c3b-9751-bc77e53bcd58",
+      "speaker": null,
+      "start_timestamp": 357.84,
+      "text": "signed up and are supporting the show."
+    },
+    {
+      "end_timestamp": 360.26,
+      "id": "f215689c-3013-3604-b474-9e7631209cfd",
+      "speaker": null,
+      "start_timestamp": 358.84,
+      "text": "Oh, that's a great idea."
+    },
+    {
+      "end_timestamp": 362.72,
+      "id": "ecdcae6a-a76b-360a-9851-2edcdb6bc86a",
+      "speaker": null,
+      "start_timestamp": 360.26,
+      "text": "So first, Bill W., thank you so much for your policy walk."
+    },
+    {
+      "end_timestamp": 363.72,
+      "id": "7a5c7d1a-cc80-3e71-abea-56efb3f923bc",
+      "speaker": null,
+      "start_timestamp": 362.72,
+      "text": "I'm a policy walk."
+    },
+    {
+      "end_timestamp": 364.72,
+      "id": "a37bcced-16bb-37d5-812e-7fce5c2a5146",
+      "speaker": null,
+      "start_timestamp": 363.72,
+      "text": "Thanks Bill."
+    },
+    {
+      "end_timestamp": 365.72,
+      "id": "eb347f06-f40d-3af4-9db7-6d7b8945ef7b",
+      "speaker": null,
+      "start_timestamp": 364.72,
+      "text": "Thanks, Bill."
+    },
+    {
+      "end_timestamp": 367.28,
+      "id": "1e5282b5-a1a4-3aa1-876a-1a91f9eb3836",
+      "speaker": null,
+      "start_timestamp": 365.72,
+      "text": "Next, Jordan th, not Jordan th."
+    },
+    {
+      "end_timestamp": 368.28,
+      "id": "edf2e00c-ac95-3f31-95e5-eafdb1cb298e",
+      "speaker": null,
+      "start_timestamp": 367.28,
+      "text": "Thank you so much."
+    },
+    {
+      "end_timestamp": 369.28,
+      "id": "19a692aa-5bf1-39b5-a055-b88df84798bd",
+      "speaker": null,
+      "start_timestamp": 368.28,
+      "text": "You're now policy want."
+    },
+    {
+      "end_timestamp": 370.32,
+      "id": "3074bfe7-29a2-3569-b050-9564dd59ecf8",
+      "speaker": null,
+      "start_timestamp": 369.28,
+      "text": "I'm a policy walk."
+    },
+    {
+      "end_timestamp": 371.32,
+      "id": "f2d5017d-7d06-343d-b7de-2927fb19bd0b",
+      "speaker": null,
+      "start_timestamp": 370.32,
+      "text": "Thanks Jordan."
+    },
+    {
+      "end_timestamp": 372.32,
+      "id": "3c5dd8b7-8735-304e-be38-05d9fdf58abc",
+      "speaker": null,
+      "start_timestamp": 371.32,
+      "text": "Great name."
+    },
+    {
+      "end_timestamp": 380.32,
+      "id": "4db67f54-4eaa-3ca4-8400-5900041839ec",
+      "speaker": null,
+      "start_timestamp": 372.32,
+      "text": "Oh, look at that."
+    },
+    {
+      "end_timestamp": 381.32,
+      "id": "897764b6-96ec-3ba6-a304-eed202753817",
+      "speaker": null,
+      "start_timestamp": 380.32,
+      "text": "Ah."
+    },
+    {
+      "end_timestamp": 382.32,
+      "id": "d944d966-106f-3c00-b961-af5762d9d75b",
+      "speaker": null,
+      "start_timestamp": 381.32,
+      "text": "There we go."
+    },
+    {
+      "end_timestamp": 383.32,
+      "id": "687ca09e-01ce-3f71-97ea-1756f063f7a0",
+      "speaker": null,
+      "start_timestamp": 382.32,
+      "text": "You're playing on my side of the streets."
+    },
+    {
+      "end_timestamp": 384.32,
+      "id": "136c3a19-5332-3115-861e-6c07f3b9e87c",
+      "speaker": null,
+      "start_timestamp": 383.32,
+      "text": "Next, Nicholas B. Thanks, Nicholas."
+    },
+    {
+      "end_timestamp": 385.32,
+      "id": "6826b287-9a3a-3174-84b8-067ee596763a",
+      "speaker": null,
+      "start_timestamp": 384.32,
+      "text": "Next, Andrew A. Thank you so much for your now policy walk."
+    },
+    {
+      "end_timestamp": 386.32,
+      "id": "a224031a-1e87-38e6-9747-2e60e9e98241",
+      "speaker": null,
+      "start_timestamp": 385.32,
+      "text": "I'm a policy walk."
+    },
+    {
+      "end_timestamp": 388.08,
+      "id": "f349183f-3241-35ec-9750-86062c9c523b",
+      "speaker": null,
+      "start_timestamp": 386.32,
+      "text": "Thank you Andrew Aa."
+    },
+    {
+      "end_timestamp": 390.88,
+      "id": "1e6d683f-b6ad-33b6-98e0-793ef43cb4ee",
+      "speaker": null,
+      "start_timestamp": 388.08,
+      "text": "Next, Amelia are thank you so much for your now policy walk."
+    },
+    {
+      "end_timestamp": 391.88,
+      "id": "4ff4e5a2-3d27-36d8-9772-2bf035d0167c",
+      "speaker": null,
+      "start_timestamp": 390.88,
+      "text": "I'm a policy walk."
+    },
+    {
+      "end_timestamp": 397.16,
+      "id": "3c76a684-bf8b-3ed3-9f42-53deb3018cf5",
+      "speaker": null,
+      "start_timestamp": 391.88,
+      "text": "Thanks Amelia. And finally, Drax. Thank you so much, you are now a policy wonk."
+    },
+    {
+      "end_timestamp": 400.52,
+      "id": "5ed60986-5b06-31bc-b451-95b365ccfc09",
+      "speaker": null,
+      "start_timestamp": 397.16,
+      "text": "I'm a policy wonk. Thank you very much, Drax."
+    },
+    {
+      "end_timestamp": 403.64,
+      "id": "c06d3053-68d0-34fe-9cc6-5dc9693f3ff2",
+      "speaker": null,
+      "start_timestamp": 400.52,
+      "text": "You want to say hi to Drax? Maybe a hi Drax?"
+    },
+    {
+      "end_timestamp": 407.24,
+      "id": "6df2f2a9-4ffa-3f40-af6f-6ed86a6c7b0e",
+      "speaker": null,
+      "start_timestamp": 403.64,
+      "text": "I don't know what I did. I saw it. I saw that joke coming."
+    },
+    {
+      "end_timestamp": 414.2,
+      "id": "8ed84b23-3eb7-34b6-821d-45e14cfa6c11",
+      "speaker": null,
+      "start_timestamp": 407.24,
+      "text": "Yeah, a mile away. I tried to duck, and you still hit me in the face with it, so that happens."
+    },
+    {
+      "end_timestamp": 419.24,
+      "id": "532522c6-e9f9-32f4-a345-84a8dbad295f",
+      "speaker": null,
+      "start_timestamp": 414.2,
+      "text": "Yep. Well, sorry, I have cookies on the mind."
+    },
+    {
+      "end_timestamp": 423.16,
+      "id": "6b29b5ae-5ea6-343c-877d-638e90d1897e",
+      "speaker": null,
+      "start_timestamp": 419.24,
+      "text": "Yeah, yeah, yeah. And I think we've got one more little piece of..."
+    },
+    {
+      "end_timestamp": 428.92,
+      "id": "889d64c1-3378-362f-ab36-7644d4281a27",
+      "speaker": null,
+      "start_timestamp": 424.36,
+      "text": "I think we've got one more little piece of... We're getting into this place of..."
+    },
+    {
+      "end_timestamp": 433.96,
+      "id": "cb8c4895-2d96-387c-b32f-11df901e3141",
+      "speaker": null,
+      "start_timestamp": 428.92,
+      "text": "We're just shouting people out for no reason at this point, but we do have one reason for"
+    },
+    {
+      "end_timestamp": 440.44,
+      "id": "139d45a4-050a-36f1-848d-cb7e50aa8be7",
+      "speaker": null,
+      "start_timestamp": 433.96,
+      "text": "this particular shout out. We have one particular reason, and that is it is their anniversary"
+    },
+    {
+      "end_timestamp": 450.68,
+      "id": "3d6926f3-1316-370d-8415-ea53622b997f",
+      "speaker": null,
+      "start_timestamp": 440.44,
+      "text": "today, I believe. Bonnie and Eric, happy 20th wedding anniversary for Wednesday the 17th."
+    },
+    {
+      "end_timestamp": 455.88,
+      "id": "38b09655-10ff-353e-a666-688a0b7fb34c",
+      "speaker": null,
+      "start_timestamp": 450.68,
+      "text": "20 years, Dan. That's exciting. That's the piano anniversary, right? The 20th is the piano?"
+    },
+    {
+      "end_timestamp": 462.28,
+      "id": "912e4615-c380-32a4-a1fe-956f8b3af2a1",
+      "speaker": null,
+      "start_timestamp": 456.68,
+      "text": "Yeah, yeah, yeah. First is paper. Second is silver. No, wait, that's much later."
+    },
+    {
+      "end_timestamp": 467.08,
+      "id": "6a87e92f-5acd-3a72-8646-db4f4185774f",
+      "speaker": null,
+      "start_timestamp": 464.12,
+      "text": "You know, the customary gifts thing that you're supposed to give on anniversaries."
+    },
+    {
+      "end_timestamp": 470.68,
+      "id": "d8963af1-8fc0-3da2-8c4e-b3f68a689945",
+      "speaker": null,
+      "start_timestamp": 467.08,
+      "text": "Sure. Of course. 20th is pianos. I hope you guys"
+    },
+    {
+      "end_timestamp": 474.6,
+      "id": "9277ec8a-7564-37eb-8a0b-4f40c5ece8fe",
+      "speaker": null,
+      "start_timestamp": 470.68,
+      "text": "exchanged pianos, and... That would be the right way to do it."
+    },
+    {
+      "end_timestamp": 481.24,
+      "id": "0bddec4c-c206-32ce-9d94-05ca6ff48adc",
+      "speaker": null,
+      "start_timestamp": 474.6,
+      "text": "Yeah. This is taking me back to my hosting stand-up comedy days. I like to do, you know,"
+    },
+    {
+      "end_timestamp": 485.56,
+      "id": "ca6f9c14-b34d-3607-aa65-54773f941a93",
+      "speaker": null,
+      "start_timestamp": 481.24,
+      "text": "you start out every show at Zany's with, hey, anybody celebrating anything tonight?"
+    },
+    {
+      "end_timestamp": 489.16,
+      "id": "9298cf9e-31fd-3cf3-8fcd-9bc2a5c2f858",
+      "speaker": null,
+      "start_timestamp": 485.56,
+      "text": "The difference here is that people have told us that they're celebrating something as opposed"
+    },
+    {
+      "end_timestamp": 494.92,
+      "id": "bb08f18e-2be8-3654-b8cb-ecc7b6f8186a",
+      "speaker": null,
+      "start_timestamp": 489.16,
+      "text": "to us starting the show having to fish for something. That's fair. It is different."
+    },
+    {
+      "end_timestamp": 505.4,
+      "id": "ac10f744-2ae8-3dcb-8b5c-df951b627346",
+      "speaker": null,
+      "start_timestamp": 494.92,
+      "text": "It's more celebratory, less sad. So, Jordan, on the 16th, or maybe it was yesterday,"
+    },
+    {
+      "end_timestamp": 513.32,
+      "id": "8c2776bb-0a69-3731-a4a2-1dd5aa49ce12",
+      "speaker": null,
+      "start_timestamp": 505.4,
+      "text": "I think it was the 15th, actually, Alex put out a series of short vignettes of himself at the"
+    },
+    {
+      "end_timestamp": 519.64,
+      "id": "ccb14ece-4cab-3f0e-be33-7dea5bd771f0",
+      "speaker": null,
+      "start_timestamp": 513.32,
+      "text": "Infowars studio. Lights are out in the studio. There's also a couple of them where he's outside"
+    },
+    {
+      "end_timestamp": 525.48,
+      "id": "b04dfbce-8ef5-3e34-a297-ed97f411df08",
+      "speaker": null,
+      "start_timestamp": 519.64,
+      "text": "yelling in the snow. Sure. Well, that just makes sense, though. It's a load of nonsense,"
+    },
+    {
+      "end_timestamp": 528.52,
+      "id": "cb82f718-cbd0-338b-a77c-daf713bdbe21",
+      "speaker": null,
+      "start_timestamp": 525.48,
+      "text": "and we're going to talk about it. But first, here's an out of context drop from today's show."
+    },
+    {
+      "end_timestamp": 533.0,
+      "id": "ec1fc30a-0262-3c0f-a4bb-645ba7919db8",
+      "speaker": null,
+      "start_timestamp": 528.52,
+      "text": "If a dog starts running at you, don't be scared. Yell at it, throw rocks at it. It'll run off most"
+    },
+    {
+      "end_timestamp": 536.92,
+      "id": "3a72f894-1368-353d-ac26-3b18e5b8344a",
+      "speaker": null,
+      "start_timestamp": 533.0,
+      "text": "of the time if you're not on its property. Whoa. Dogs know about property rights."
+    },
+    {
+      "end_timestamp": 539.64,
+      "id": "cab1b30a-3b33-3534-9850-e776f7305252",
+      "speaker": null,
+      "start_timestamp": 536.92,
+      "text": "Wow. That's the plan. That's the trick. Yeah."
+    },
+    {
+      "end_timestamp": 546.36,
+      "id": "022fc16f-e036-321d-9128-67593b3f413b",
+      "speaker": null,
+      "start_timestamp": 539.64,
+      "text": "Dogs are very interested in borders. They don't like immigration from house to house."
+    },
+    {
+      "end_timestamp": 552.12,
+      "id": "1e12e511-9b5a-3944-aea7-0cdddd240ac4",
+      "speaker": null,
+      "start_timestamp": 546.36,
+      "text": "That's the situation. Dogs are libertarians. They're part of the Austrian school."
+    },
+    {
+      "end_timestamp": 559.96,
+      "id": "b42fd1db-1c61-3faa-8572-a6ebf8f3ce2d",
+      "speaker": null,
+      "start_timestamp": 552.76,
+      "text": "I feel like this is just Alex protecting other people from his mistakes. He's hurt so many dogs"
+    },
+    {
+      "end_timestamp": 565.4,
+      "id": "23e32c42-1651-33f5-96f8-13397481d6d8",
+      "speaker": null,
+      "start_timestamp": 559.96,
+      "text": "because he was afraid of them, and now he's sharing his wisdom with the rest of the world."
+    },
+    {
+      "end_timestamp": 568.44,
+      "id": "59e5d936-c06a-3f63-b7ae-b12ed0192857",
+      "speaker": null,
+      "start_timestamp": 565.4,
+      "text": "Hey, guys. Just throw a rock at it. It's bad to be a dog murderer."
+    },
+    {
+      "end_timestamp": 571.24,
+      "id": "38e27999-2fe9-3b48-80d3-679e60cc38ca",
+      "speaker": null,
+      "start_timestamp": 568.44,
+      "text": "Just throw a rock at the dog. That's fine. That's enough."
+    },
+    {
+      "end_timestamp": 575.8,
+      "id": "14d03306-bb96-3d34-8c0c-8f35451da998",
+      "speaker": null,
+      "start_timestamp": 571.24,
+      "text": "Yeah. Don't shoot too hard. So, Jordan, we're here recording on Tuesday,"
+    },
+    {
+      "end_timestamp": 578.04,
+      "id": "4c1f7692-5bad-37cc-b448-a4a367e96129",
+      "speaker": null,
+      "start_timestamp": 575.8,
+      "text": "and as the time of this episode being put together,"
+    },
+    {
+      "end_timestamp": 582.04,
+      "id": "be01bae1-8380-3cef-a2d1-9985af22677f",
+      "speaker": null,
+      "start_timestamp": 578.04,
+      "text": "InfoWars has essentially been off air since Sunday evening."
+    },
+    {
+      "end_timestamp": 582.84,
+      "id": "6048d543-7c22-34a8-abce-5318851bfc1a",
+      "speaker": null,
+      "start_timestamp": 582.04,
+      "text": "Cancel culture."
+    },
+    {
+      "end_timestamp": 587.24,
+      "id": "6ae0898e-8386-3efb-b4a9-1ec0d4488452",
+      "speaker": null,
+      "start_timestamp": 583.8,
+      "text": "Austin and most of Texas is dealing with a once-in-a-lifetime winter storm that has"
+    },
+    {
+      "end_timestamp": 592.6,
+      "id": "da79aaed-be2a-3fb2-a97c-9a121b4ec5bf",
+      "speaker": null,
+      "start_timestamp": 587.24,
+      "text": "left countless people without power in severe conditions. It appears that the InfoWars studio"
+    },
+    {
+      "end_timestamp": 598.28,
+      "id": "232dff01-4b7f-373a-ba1f-373960601d26",
+      "speaker": null,
+      "start_timestamp": 592.6,
+      "text": "has been left also without power, and that means no show for Alex. It makes sense, and I don't"
+    },
+    {
+      "end_timestamp": 601.96,
+      "id": "17ab79b5-7676-39f0-80e8-afab7713c542",
+      "speaker": null,
+      "start_timestamp": 598.28,
+      "text": "think anyone would bat an eye if he just got on air and said that there was a weather emergency"
+    },
+    {
+      "end_timestamp": 605.96,
+      "id": "0cb9cccd-6967-3a0b-b724-d0d1686726c0",
+      "speaker": null,
+      "start_timestamp": 601.96,
+      "text": "and they had to take an unplanned break in programming. It could be an effective way to"
+    },
+    {
+      "end_timestamp": 611.08,
+      "id": "642bd927-ebb0-368f-8934-908fab9954b3",
+      "speaker": null,
+      "start_timestamp": 605.96,
+      "text": "push emergency food sales even, so it might not end up being a total money loss if he did that,"
+    },
+    {
+      "end_timestamp": 616.76,
+      "id": "cb7ced79-fb89-3926-b610-22f3384c2750",
+      "speaker": null,
+      "start_timestamp": 611.64,
+      "text": "but Alex does not go that route. Instead of just expressing solidarity with the people of Texas,"
+    },
+    {
+      "end_timestamp": 621.0,
+      "id": "d0cb6ee6-8a8b-3bda-9b16-22012c844415",
+      "speaker": null,
+      "start_timestamp": 616.76,
+      "text": "encouraging people to stay inside if possible, and donating to a mutual aid fund,"
+    },
+    {
+      "end_timestamp": 624.92,
+      "id": "6aecc148-3303-365d-bb77-e89748832f21",
+      "speaker": null,
+      "start_timestamp": 621.0,
+      "text": "Alex decided to record a video of himself at the InfoWars studio with the lights off,"
+    },
+    {
+      "end_timestamp": 628.52,
+      "id": "40123e1f-fe41-3690-81b1-e88d42dae062",
+      "speaker": null,
+      "start_timestamp": 624.92,
+      "text": "explaining how power outages are actually a globalist conspiracy."
+    },
+    {
+      "end_timestamp": 635.0,
+      "id": "9a125fae-d312-3b81-8689-0b7b631e74d0",
+      "speaker": null,
+      "start_timestamp": 628.52,
+      "text": "Really? We had to get there, huh? I would prefer a scaler attack. I want a scaler attack. I want"
+    },
+    {
+      "end_timestamp": 640.2,
+      "id": "df886282-c3a7-35c5-8cd5-d95cc618c85f",
+      "speaker": null,
+      "start_timestamp": 635.0,
+      "text": "aliens if we're gonna do this. Globalist conspiracy. We'll get to the specifics of"
+    },
+    {
+      "end_timestamp": 645.0,
+      "id": "f2621903-df7b-381a-8846-5cc00420480d",
+      "speaker": null,
+      "start_timestamp": 640.2,
+      "text": "this, but right off the bat, I wanted to explain why Alex feels the need to make this conspiracy"
+    },
+    {
+      "end_timestamp": 649.96,
+      "id": "4c4a66fe-033f-32f5-a46d-f0035171b3c9",
+      "speaker": null,
+      "start_timestamp": 645.0,
+      "text": "instead of just being, you know, a normal kind of thing. You know, you're a human. You accept that"
+    },
+    {
+      "end_timestamp": 655.64,
+      "id": "105b9248-95d4-3703-a1c7-a47b38451aa7",
+      "speaker": null,
+      "start_timestamp": 649.96,
+      "text": "inclement weather happens, and sometimes it gets in the way. I have a reason, I think, that he might"
+    },
+    {
+      "end_timestamp": 662.28,
+      "id": "ec8d0394-6c4a-3d01-b6ce-45217c2ae3d3",
+      "speaker": null,
+      "start_timestamp": 655.64,
+      "text": "want this to be a conspiracy. Let's see if it's on my list. I'm just gonna go with mainly one of the"
+    },
+    {
+      "end_timestamp": 668.04,
+      "id": "f63deeb0-fd1c-39ed-a08e-d245e631d6a0",
+      "speaker": null,
+      "start_timestamp": 662.28,
+      "text": "large contributors to this disaster being so much worse is his state actually being interested in"
+    },
+    {
+      "end_timestamp": 672.92,
+      "id": "162e2234-bd50-3611-9fdd-78b00f29948e",
+      "speaker": null,
+      "start_timestamp": 668.04,
+      "text": "following the policies that he himself advocates for. All right, I'm gonna cross number four off"
+    },
+    {
+      "end_timestamp": 679.16,
+      "id": "4a460a1e-6757-314f-afde-5359e2257d49",
+      "speaker": null,
+      "start_timestamp": 672.92,
+      "text": "the list. That was number four. There we go. The first reason is that Alex has a vested interest"
+    },
+    {
+      "end_timestamp": 684.04,
+      "id": "813b40db-ebd2-3b0f-bbe6-f9c5bbb01a6e",
+      "speaker": null,
+      "start_timestamp": 679.16,
+      "text": "in infantilizing his audience. He needs their critical thinking skills to be on a child's level,"
+    },
+    {
+      "end_timestamp": 689.0,
+      "id": "b0f2b701-2459-3ff8-9fbf-a71339639329",
+      "speaker": null,
+      "start_timestamp": 684.04,
+      "text": "so whenever he has the chance he creates childish narratives. When you're in bed and you hear a bump"
+    },
+    {
+      "end_timestamp": 692.92,
+      "id": "074d1ff7-06e0-3161-9b5a-50fa3d9c412c",
+      "speaker": null,
+      "start_timestamp": 689.0,
+      "text": "you could either think that it's the water heater or you could think it's a viking who's invaded"
+    },
+    {
+      "end_timestamp": 698.28,
+      "id": "f9035a0d-bf09-385f-b5b6-1024d2e2dde9",
+      "speaker": null,
+      "start_timestamp": 692.92,
+      "text": "your house to come and get you. Adults are really capable, you know, they're able to reason it out,"
+    },
+    {
+      "end_timestamp": 702.76,
+      "id": "2090c8b1-0f4c-3f11-ad22-8a156c578562",
+      "speaker": null,
+      "start_timestamp": 698.28,
+      "text": "that there's no reason a viking would be in your home, but for children their minds gravitate to"
+    },
+    {
+      "end_timestamp": 708.2,
+      "id": "860d04d9-a102-37c7-adc5-f9527b660310",
+      "speaker": null,
+      "start_timestamp": 702.76,
+      "text": "the more exciting possibilities, which is often nonsense, but it appeals to a particular emotional"
+    },
+    {
+      "end_timestamp": 716.52,
+      "id": "960614c0-1de4-3074-8fe1-b696d1b81e80",
+      "speaker": null,
+      "start_timestamp": 708.2,
+      "text": "need and a drive that children have. A quick question, is it around like 860 AD? In which case"
+    },
+    {
+      "end_timestamp": 722.12,
+      "id": "8e9dc034-af81-32c4-a622-0063bcb79051",
+      "speaker": null,
+      "start_timestamp": 716.52,
+      "text": "it is a terrifying time for viking. Time travel is possible. You have a time traveling water heater."
+    },
+    {
+      "end_timestamp": 729.08,
+      "id": "78faab6a-a320-3faa-ab8f-c571a2453379",
+      "speaker": null,
+      "start_timestamp": 724.6,
+      "text": "Knowing that the noise is the water heater doesn't prompt an irrational response in a person."
+    },
+    {
+      "end_timestamp": 733.08,
+      "id": "4ddb813e-b184-323d-9e8a-b299daaeaa2d",
+      "speaker": null,
+      "start_timestamp": 729.08,
+      "text": "They can ignore it, or if it's a serious noise they can choose to call a technician."
+    },
+    {
+      "end_timestamp": 737.08,
+      "id": "8ff5bb57-81cb-358a-854a-1760a54aa372",
+      "speaker": null,
+      "start_timestamp": 733.08,
+      "text": "If you can convince people though that it's actually a viking who almost got them,"
+    },
+    {
+      "end_timestamp": 741.32,
+      "id": "017039d8-5694-3e41-bd46-4b1c3d39260e",
+      "speaker": null,
+      "start_timestamp": 737.08,
+      "text": "you might be able to sell them all sorts of products to protect against vikings or even"
+    },
+    {
+      "end_timestamp": 745.4,
+      "id": "e4bd5f8a-7a17-368a-95e4-7473953127a0",
+      "speaker": null,
+      "start_timestamp": 741.32,
+      "text": "documentaries where you explain how vikings operate and how to avoid their attack plans."
+    },
+    {
+      "end_timestamp": 751.72,
+      "id": "251211fa-71dc-3810-8b50-34a274fd52a3",
+      "speaker": null,
+      "start_timestamp": 746.28,
+      "text": "Keeping the audience in a state where they don't deal with the problems that come up in a boring"
+    },
+    {
+      "end_timestamp": 756.76,
+      "id": "e0c9ab9d-41cc-3b55-9717-429c8ba4c423",
+      "speaker": null,
+      "start_timestamp": 751.72,
+      "text": "but ultimately real way and keeping them fixated on childish emotional interpretations of every"
+    },
+    {
+      "end_timestamp": 762.44,
+      "id": "2f439302-efdf-32dc-9910-8c48595e07b6",
+      "speaker": null,
+      "start_timestamp": 757.32,
+      "text": "stimulus they receive is essential for Alex's business model, so even a giant storm can't"
+    },
+    {
+      "end_timestamp": 768.36,
+      "id": "06ea759a-8f8e-3ae1-9a93-aab0816d11d2",
+      "speaker": null,
+      "start_timestamp": 762.44,
+      "text": "just be a storm. It's clearly an attack on conservatives. Absolutely. The second reason"
+    },
+    {
+      "end_timestamp": 773.08,
+      "id": "d5f22bb2-9b4d-3c8c-9ccd-96c395aae8cf",
+      "speaker": null,
+      "start_timestamp": 768.36,
+      "text": "that Alex has a strong interest in presenting this storm as some kind of an act of foul play is that"
+    },
+    {
+      "end_timestamp": 779.32,
+      "id": "61779d8a-0472-37fa-812c-dd68d101638c",
+      "speaker": null,
+      "start_timestamp": 773.08,
+      "text": "it's really something that just happens in nature, and if so, he should have been prepared for it."
+    },
+    {
+      "end_timestamp": 783.88,
+      "id": "5bc68016-5a7e-3698-a93f-2d6e22b11f0f",
+      "speaker": null,
+      "start_timestamp": 779.32,
+      "text": "His brand is largely built around being a prepper type of guy, so the first question that comes up"
+    },
+    {
+      "end_timestamp": 788.52,
+      "id": "82ce1f53-b661-3f0d-9313-d4dcc36cc751",
+      "speaker": null,
+      "start_timestamp": 783.88,
+      "text": "in the case of his network being taken offline by a storm is naturally, why weren't you prepared for"
+    },
+    {
+      "end_timestamp": 795.8,
+      "id": "acf682e5-887b-3e7f-89a4-39cdf404da3c",
+      "speaker": null,
+      "start_timestamp": 788.52,
+      "text": "that? A winter storm like this hitting Texas is obviously a very unlikely event and something that"
+    },
+    {
+      "end_timestamp": 799.96,
+      "id": "3db9332d-1dcd-36b9-af1a-b2405f7d40e9",
+      "speaker": null,
+      "start_timestamp": 795.8,
+      "text": "the infrastructure was unprepared for, and my heart goes out to everyone who's dealing with the"
+    },
+    {
+      "end_timestamp": 804.76,
+      "id": "7127f0b0-9611-3863-90af-c8c2f4a3e18c",
+      "speaker": null,
+      "start_timestamp": 799.96,
+      "text": "consequences of it, but for Alex, the fact that he could be caught off guard by a natural event,"
+    },
+    {
+      "end_timestamp": 809.0,
+      "id": "0e243010-a250-3bee-b223-bdb650fa5189",
+      "speaker": null,
+      "start_timestamp": 804.76,
+      "text": "that's a contradiction of the way he wants the audience to see him, and so obviously you're"
+    },
+    {
+      "end_timestamp": 814.36,
+      "id": "c8da6f1e-0846-3db0-9596-80a7fb28403d",
+      "speaker": null,
+      "start_timestamp": 809.0,
+      "text": "supposed to be prepared for the literal end of the world. I would imagine that includes some"
+    },
+    {
+      "end_timestamp": 820.12,
+      "id": "a2a5a9d2-9417-3c98-8f8f-3f033b84680b",
+      "speaker": null,
+      "start_timestamp": 814.36,
+      "text": "sort of the power grid going down, right? Yeah, you touched on the fourth one, which is the"
+    },
+    {
+      "end_timestamp": 824.04,
+      "id": "0df753f6-a3a5-3d67-8090-0e4094a2a9c0",
+      "speaker": null,
+      "start_timestamp": 820.12,
+      "text": "state of Texas and how they operate, and we'll talk about that a little bit down the line,"
+    },
+    {
+      "end_timestamp": 829.4,
+      "id": "3a10f675-8e30-34ab-bd85-f6dc281086d0",
+      "speaker": null,
+      "start_timestamp": 824.04,
+      "text": "but the third issue is that a storm like this brings into sharp focus some of the elements of"
+    },
+    {
+      "end_timestamp": 835.24,
+      "id": "9ceb31c1-c35c-34b4-a292-655e8ba36e9a",
+      "speaker": null,
+      "start_timestamp": 829.4,
+      "text": "the climate change conversation that Alex doesn't want people to think about. As the climate changes"
+    },
+    {
+      "end_timestamp": 839.8,
+      "id": "f53b15a7-1776-3030-9ef0-73c51ec6c7b7",
+      "speaker": null,
+      "start_timestamp": 835.24,
+      "text": "and weather events become more severe, they're going to test long-standing assumptions about"
+    },
+    {
+      "end_timestamp": 845.24,
+      "id": "eca03f70-f512-32f1-90bf-90c742752756",
+      "speaker": null,
+      "start_timestamp": 839.8,
+      "text": "infrastructure and how we build. For instance, houses are designed differently in different parts"
+    },
+    {
+      "end_timestamp": 853.08,
+      "id": "575b586b-f0bd-38e5-97cb-12c6873e6916",
+      "speaker": null,
+      "start_timestamp": 845.24,
+      "text": "of the country, like in California they prioritize earthquake protection, whereas in Missouri where"
+    },
+    {
+      "end_timestamp": 858.6,
+      "id": "2c3356b7-b2f7-3519-a3e7-8ab4e0f92a72",
+      "speaker": null,
+      "start_timestamp": 853.08,
+      "text": "I grew up, every single family home that you're going to find has a basement because of tornadoes."
+    },
+    {
+      "end_timestamp": 865.72,
+      "id": "dd25b865-47d4-36a8-b921-014c04903538",
+      "speaker": null,
+      "start_timestamp": 858.6,
+      "text": "Right. So, you know, basements are less prevalent in flood prone regions. Yeah, Florida is not known"
+    },
+    {
+      "end_timestamp": 871.8,
+      "id": "f56805cf-c477-36d0-ae64-9847ef55a09c",
+      "speaker": null,
+      "start_timestamp": 865.72,
+      "text": "for having tons of basements that are literally underneath the swamp. Yeah, and as, you know,"
+    },
+    {
+      "end_timestamp": 876.84,
+      "id": "66db1738-38f3-3c38-8174-4252cf42d4d4",
+      "speaker": null,
+      "start_timestamp": 871.8,
+      "text": "different sorts of weather patterns and more severe storms hit different areas, you're going"
+    },
+    {
+      "end_timestamp": 885.24,
+      "id": "7639dd46-9e09-3839-9d3e-9cde52bff060",
+      "speaker": null,
+      "start_timestamp": 876.84,
+      "text": "to see those things, the long-standing assumptions that we've had, not be enough to suffice, and Alex"
+    },
+    {
+      "end_timestamp": 891.56,
+      "id": "67c8e2a4-af8e-39ac-89fc-bbb6ecb66839",
+      "speaker": null,
+      "start_timestamp": 885.24,
+      "text": "doesn't want the audience to think about that because it requires shifting ideas and paradigms"
+    },
+    {
+      "end_timestamp": 898.04,
+      "id": "ce9e20aa-0987-3b50-9253-60688546afbf",
+      "speaker": null,
+      "start_timestamp": 891.56,
+      "text": "and he's not into that. Of course. I have a plan. Here's my plan, okay, because as shifting weather"
+    },
+    {
+      "end_timestamp": 905.64,
+      "id": "48c475ec-9c32-379c-bff0-23e18485bf4d",
+      "speaker": null,
+      "start_timestamp": 898.04,
+      "text": "patterns are going to test our assumptions and our architecture, what if now, and hear me out,"
+    },
+    {
+      "end_timestamp": 913.0,
+      "id": "634707bf-88ef-3796-b608-1af4fbd7fb0d",
+      "speaker": null,
+      "start_timestamp": 905.64,
+      "text": "we've got a lot of real estate, now admittedly it is being held right now, but if you go underneath"
+    },
+    {
+      "end_timestamp": 920.36,
+      "id": "75582d96-6136-35e3-a9bb-4d5826c967eb",
+      "speaker": null,
+      "start_timestamp": 913.0,
+      "text": "the get, all right, no problems with weather issues, no problems with, you know, all that stuff,"
+    },
+    {
+      "end_timestamp": 925.4,
+      "id": "8a85aafb-6638-364d-aa48-4439fc8664ce",
+      "speaker": null,
+      "start_timestamp": 920.36,
+      "text": "you go into there, you knock out a few Nazis and then you got a home for life, Dan. There is"
+    },
+    {
+      "end_timestamp": 930.84,
+      "id": "fbb6caff-5a6d-3e9e-a988-2a68e61ab552",
+      "speaker": null,
+      "start_timestamp": 925.4,
+      "text": "essentially a city under the Getty Museum, if we were to believe the people we've heard from. We"
+    },
+    {
+      "end_timestamp": 936.76,
+      "id": "6c0c0939-8e39-3b7f-9a8a-dc6053de5d01",
+      "speaker": null,
+      "start_timestamp": 930.84,
+      "text": "got space down there. Yeah. So, you know, these are the kind of things that are essential for"
+    },
+    {
+      "end_timestamp": 942.84,
+      "id": "a8bcc351-155e-3105-a567-01b6b6042ea6",
+      "speaker": null,
+      "start_timestamp": 936.76,
+      "text": "Alex to have his audience not think about, like, wait, this is a natural storm. This is bad,"
+    },
+    {
+      "end_timestamp": 947.8,
+      "id": "50aab64a-d310-355e-971b-3e569322a466",
+      "speaker": null,
+      "start_timestamp": 942.84,
+      "text": "but, you know, you should have known that it was a possibility. You are not prepared for this. You"
+    },
+    {
+      "end_timestamp": 953.64,
+      "id": "8574fd9b-01df-3915-a3f4-b1d4da822925",
+      "speaker": null,
+      "start_timestamp": 947.8,
+      "text": "got caught on your back foot. Weird. Maybe I shouldn't trust you about everything. Yeah,"
+    },
+    {
+      "end_timestamp": 960.28,
+      "id": "dba48259-50e1-379e-baf1-4f2f4c99597a",
+      "speaker": null,
+      "start_timestamp": 953.64,
+      "text": "instead of a conspiracy, maybe go, like, no conspiracy, buy snow tires, just in case. Sure."
+    },
+    {
+      "end_timestamp": 964.04,
+      "id": "98e1c70b-3973-3277-9bac-4a17892809d3",
+      "speaker": null,
+      "start_timestamp": 960.28,
+      "text": "Well, you know, it kind of felt like that was the direction he was going to go on Sunday after"
+    },
+    {
+      "end_timestamp": 972.36,
+      "id": "edeb7f89-218d-3f52-a8d2-786edcfb550e",
+      "speaker": null,
+      "start_timestamp": 964.04,
+      "text": "obsessing about the, like, the traffic accidents, but it turns out not. Turns out that Alex is in"
+    },
+    {
+      "end_timestamp": 981.64,
+      "id": "07590e77-0c9e-3e91-b864-f06050ca84a1",
+      "speaker": null,
+      "start_timestamp": 972.36,
+      "text": "the great reset and that is why the power is out at Infowar Studios. Our power has been turned off"
+    },
+    {
+      "end_timestamp": 987.48,
+      "id": "1442e385-4d53-3df4-a74f-baf01d3d43b4",
+      "speaker": null,
+      "start_timestamp": 981.64,
+      "text": "40% of the state without power this morning. All the great reset. I told my wife that this morning,"
+    },
+    {
+      "end_timestamp": 991.48,
+      "id": "723b956f-6690-3baf-9742-8c6c33a4b34b",
+      "speaker": null,
+      "start_timestamp": 987.48,
+      "text": "I told my security people that, and then my head security guy walks up and goes, here's the"
+    },
+    {
+      "end_timestamp": 996.12,
+      "id": "67c3ab83-8805-3a52-8862-fa55b2124455",
+      "speaker": null,
+      "start_timestamp": 991.48,
+      "text": "Austin American statesman admitting that since they shut down the coal plants in Texas under"
+    },
+    {
+      "end_timestamp": 1002.44,
+      "id": "2f64d0ad-68cc-3543-8624-f73ad2fa9078",
+      "speaker": null,
+      "start_timestamp": 996.12,
+      "text": "Obama, the windmills in West Texas failed and the power may be off for a week or longer."
+    },
+    {
+      "end_timestamp": 1011.8,
+      "id": "3554ab4b-ee94-3083-835e-edf688adaadf",
+      "speaker": null,
+      "start_timestamp": 1003.96,
+      "text": "Rolling blackouts because coal is evil. So here we are at Infohorse and we have to open the windows"
+    },
+    {
+      "end_timestamp": 1017.16,
+      "id": "65afb440-1212-3e55-b99c-7e9c8a794368",
+      "speaker": null,
+      "start_timestamp": 1011.8,
+      "text": "up to have light. Here, let me give you a tour real quick. So Alex wants to pretend that the"
+    },
+    {
+      "end_timestamp": 1022.2,
+      "id": "501e3ea6-6d7e-34c4-bdbe-b1dd22dc7d04",
+      "speaker": null,
+      "start_timestamp": 1017.16,
+      "text": "wind turbines freezing in Texas is what caused the blackouts, but that is absolutely not true."
+    },
+    {
+      "end_timestamp": 1027.24,
+      "id": "a559079f-e81c-3b4c-aa5d-593c8f44d751",
+      "speaker": null,
+      "start_timestamp": 1022.2,
+      "text": "From an article in Bloomberg, quote, while ice has forced some turbines to shut down as the brutal"
+    },
+    {
+      "end_timestamp": 1032.12,
+      "id": "7de2ca87-c9a5-3856-a40b-255c21287b36",
+      "speaker": null,
+      "start_timestamp": 1027.24,
+      "text": "cold wave drives record electricity demand, that's been the least significant factor in the"
+    },
+    {
+      "end_timestamp": 1037.0,
+      "id": "8301c2c1-a27f-34e6-8dd6-5b1dacb2e7c4",
+      "speaker": null,
+      "start_timestamp": 1032.12,
+      "text": "blackouts, according to Dan Woodfin, a senior director for the electric reliability council"
+    },
+    {
+      "end_timestamp": 1042.68,
+      "id": "24796bf6-a6ec-3726-bba5-804e896e1e49",
+      "speaker": null,
+      "start_timestamp": 1037.0,
+      "text": "of Texas, which operates the state's power grid. The main factors, frozen instruments at natural"
+    },
+    {
+      "end_timestamp": 1048.6,
+      "id": "0830f4b4-7b09-31fb-ae8d-21aafcde2e6a",
+      "speaker": null,
+      "start_timestamp": 1042.68,
+      "text": "gas, coal, and even nuclear facilities, as well as limited supplies of natural gas, he said."
+    },
+    {
+      "end_timestamp": 1056.44,
+      "id": "1f9c197e-2935-38a5-adcb-77279b1dfefa",
+      "speaker": null,
+      "start_timestamp": 1048.6,
+      "text": "The article goes on to quote Daniel Cohen, an associate professor of environmental"
+    },
+    {
+      "end_timestamp": 1061.16,
+      "id": "bbc8bd06-9237-3f12-8a42-ea7c0f79cb59",
+      "speaker": null,
+      "start_timestamp": 1056.44,
+      "text": "engineering at Rice University, who said that it, quote, is really a red herring to blame"
+    },
+    {
+      "end_timestamp": 1066.84,
+      "id": "2e94d5f9-dbca-309b-9411-fae0c5388137",
+      "speaker": null,
+      "start_timestamp": 1061.16,
+      "text": "renewable energy production for the blackouts. If the wind turbines were operating at full capacity,"
+    },
+    {
+      "end_timestamp": 1070.76,
+      "id": "0eafc167-2e71-3032-a0c8-b6623bde4289",
+      "speaker": null,
+      "start_timestamp": 1066.84,
+      "text": "things would still be bad because of the infrastructure of Texas's power grid and how it"
+    },
+    {
+      "end_timestamp": 1075.56,
+      "id": "f66e15fb-8f7c-3f97-b7b8-35c7e1b3e432",
+      "speaker": null,
+      "start_timestamp": 1070.76,
+      "text": "was unprepared to deal with a weather event like this. Alex doesn't want to address that point"
+    },
+    {
+      "end_timestamp": 1081.32,
+      "id": "822ba929-e37d-374e-bc84-4138c11aad5b",
+      "speaker": null,
+      "start_timestamp": 1075.56,
+      "text": "because it's real and it requires calling in a technician. He would rather blame imaginary"
+    },
+    {
+      "end_timestamp": 1089.4,
+      "id": "bac0e258-6f32-3b5c-8dd5-0c2bb02a7e09",
+      "speaker": null,
+      "start_timestamp": 1081.32,
+      "text": "Vikings. Yeah. Yeah. You have to pay for a technician. You have to pay for maintaining your"
+    },
+    {
+      "end_timestamp": 1094.36,
+      "id": "69d7fadd-f646-3c62-9238-b88d8d843bee",
+      "speaker": null,
+      "start_timestamp": 1089.4,
+      "text": "power grid. You have to pay for all of this stuff. But if it's the imaginary globalist, somehow"
+    },
+    {
+      "end_timestamp": 1099.96,
+      "id": "6040bce2-caf4-3be2-92de-74478863520b",
+      "speaker": null,
+      "start_timestamp": 1094.36,
+      "text": "they're paying Alex. It makes perfect sense. Yeah. That's the way to do it. So Alex doesn't quite"
+    },
+    {
+      "end_timestamp": 1104.68,
+      "id": "8bdb5663-6f96-3ed4-998c-7827c0c12e6c",
+      "speaker": null,
+      "start_timestamp": 1099.96,
+      "text": "understand the conversation that a lot of people are having surrounding climate issues. And we"
+    },
+    {
+      "end_timestamp": 1110.92,
+      "id": "b28ec457-f72d-3ae8-aed6-a4e29b3e5330",
+      "speaker": null,
+      "start_timestamp": 1104.68,
+      "text": "heard this kind of position be expressed on when he was on Rogan's show, this idea that like"
+    },
+    {
+      "end_timestamp": 1118.76,
+      "id": "d2f13fdc-11ff-3ba1-aa3c-c66d59f6adad",
+      "speaker": null,
+      "start_timestamp": 1112.12,
+      "text": "everybody wants like there to be no carbon. You're like, sure, sure, sure, sure. It's,"
+    },
+    {
+      "end_timestamp": 1125.4,
+      "id": "493f10b9-9415-3c5b-b85d-5074652a0523",
+      "speaker": null,
+      "start_timestamp": 1118.76,
+      "text": "it's very strange. Here we are watching the most high tech, clean burning coal plants in the world"
+    },
+    {
+      "end_timestamp": 1129.64,
+      "id": "db585a57-842a-390e-99dc-263214cd1dfd",
+      "speaker": null,
+      "start_timestamp": 1125.4,
+      "text": "that nothing comes out of them, the carbon dioxide and water vapor, and they shut them down."
+    },
+    {
+      "end_timestamp": 1136.12,
+      "id": "cf00307a-625a-3d25-a498-1da868adba6f",
+      "speaker": null,
+      "start_timestamp": 1129.64,
+      "text": "But Obama had already shut down thousands over a hundred in Texas. And then I'm reading the"
+    },
+    {
+      "end_timestamp": 1142.68,
+      "id": "746738a2-38b2-38aa-857b-acd408ffc4d6",
+      "speaker": null,
+      "start_timestamp": 1136.12,
+      "text": "Austin American Statesman and they admit the whole thing and say, this is green energy,"
+    },
+    {
+      "end_timestamp": 1148.68,
+      "id": "b6efe61c-d362-3cd1-8d76-dbc53c0b15f3",
+      "speaker": null,
+      "start_timestamp": 1142.68,
+      "text": "but it's worth it. Folks. This is the new dark age. Let's not, uh, I didn't see that in the"
+    },
+    {
+      "end_timestamp": 1153.48,
+      "id": "cf4a582b-d1b2-3a00-af9c-7ff5d4e1cd45",
+      "speaker": null,
+      "start_timestamp": 1148.68,
+      "text": "Austin American Statesman article. And, uh, you know, he just doesn't understand the, the issues"
+    },
+    {
+      "end_timestamp": 1159.48,
+      "id": "2d15a265-50b7-3a83-b384-74c58ca73db8",
+      "speaker": null,
+      "start_timestamp": 1153.48,
+      "text": "of like it's excess carbon dioxide. It's not like there will be no carbon dioxide in the world."
+    },
+    {
+      "end_timestamp": 1163.4,
+      "id": "0340fc67-acc3-347f-a54d-3eb6bbd59d85",
+      "speaker": null,
+      "start_timestamp": 1159.48,
+      "text": "I don't, I don't, I don't think that that anyone would advocate for that."
+    },
+    {
+      "end_timestamp": 1170.84,
+      "id": "55ca1ceb-08a6-3b8b-b3b8-7603f29cca8d",
+      "speaker": null,
+      "start_timestamp": 1164.12,
+      "text": "No, it's, it's, this is a, this is a child going, okay, what? So I eat 35 apples a day."
+    },
+    {
+      "end_timestamp": 1177.0,
+      "id": "748894ce-5d8a-36be-b72e-ecff763755b2",
+      "speaker": null,
+      "start_timestamp": 1170.84,
+      "text": "You want nobody to have any apples? Zero apples then, huh? Not, Oh, you're saying I should have"
+    },
+    {
+      "end_timestamp": 1183.32,
+      "id": "25165b87-dade-3fa1-83f7-312eab7e743f",
+      "speaker": null,
+      "start_timestamp": 1177.0,
+      "text": "a moderate amount. Fuck you. You want to take apples away from the honest working man. I don't"
+    },
+    {
+      "end_timestamp": 1190.04,
+      "id": "a9e6e8f5-1518-376a-b966-190948a8c6c0",
+      "speaker": null,
+      "start_timestamp": 1183.32,
+      "text": "know why that's a six year old kid, but yeah, it's creating a false argument. Yeah, it's stupid."
+    },
+    {
+      "end_timestamp": 1195.0,
+      "id": "f54f6951-02c4-36bc-ae3c-52296002717b",
+      "speaker": null,
+      "start_timestamp": 1190.04,
+      "text": "And that's because, and Alex is able to do that because he's a climate scientist, basically."
+    },
+    {
+      "end_timestamp": 1205.96,
+      "id": "fa909b3f-1a85-3850-92ef-60eb07e92783",
+      "speaker": null,
+      "start_timestamp": 1196.04,
+      "text": "Carbon dioxide are trace gases, trace gases. And if you look at the earth, it was a lot hotter in"
+    },
+    {
+      "end_timestamp": 1210.44,
+      "id": "3a945176-7d25-311f-8ffc-87a32100a9c4",
+      "speaker": null,
+      "start_timestamp": 1205.96,
+      "text": "the last few hundred thousand years and then was going down and now has gone up a tiny bit. Yes,"
+    },
+    {
+      "end_timestamp": 1215.48,
+      "id": "61860c59-1e67-3854-85d0-f296d4922c1a",
+      "speaker": null,
+      "start_timestamp": 1210.44,
+      "text": "we've raised the temperature like maybe half a degree and thank God that's us terraforming it"
+    },
+    {
+      "end_timestamp": 1221.4,
+      "id": "6b965c3b-f30b-3e4a-bc3d-59cc393ca696",
+      "speaker": null,
+      "start_timestamp": 1215.48,
+      "text": "in a good way. Unknowingly. Wow. He knows a lot. He's very, he's very insightful on these things."
+    },
+    {
+      "end_timestamp": 1227.88,
+      "id": "dd9132f9-0465-3d09-b269-9060685f49c9",
+      "speaker": null,
+      "start_timestamp": 1221.4,
+      "text": "Yeah. Yeah. That's not good. No, that's not good. Also, oxygen is specifically not a trace gas."
+    },
+    {
+      "end_timestamp": 1234.44,
+      "id": "8f535f92-ab8a-3586-9141-5d430ca19f07",
+      "speaker": null,
+      "start_timestamp": 1228.52,
+      "text": "No, it's a trace gas. There's only like what? Zero percent of oxygen in the atmosphere? Nothing."
+    },
+    {
+      "end_timestamp": 1239.48,
+      "id": "11858790-0b9f-39a1-b581-c0ece1c4a44e",
+      "speaker": null,
+      "start_timestamp": 1234.44,
+      "text": "And saying that CO2 is a trace gas is meaningless in this context because the message he's seeming"
+    },
+    {
+      "end_timestamp": 1244.76,
+      "id": "2d5167e4-bde5-3690-9de0-697965715a46",
+      "speaker": null,
+      "start_timestamp": 1239.48,
+      "text": "to suggest is that there's so little of it that we should just make more. That's dumb. Ammonia is"
+    },
+    {
+      "end_timestamp": 1249.16,
+      "id": "3638a656-2f69-32bc-8770-04fad3c46898",
+      "speaker": null,
+      "start_timestamp": 1244.76,
+      "text": "also a trace gas, but I think that Alex would realize you don't want a ton of it in the air"
+    },
+    {
+      "end_timestamp": 1255.32,
+      "id": "0fb543b5-a3bf-3e00-8d21-c7ba9db4919f",
+      "speaker": null,
+      "start_timestamp": 1249.96,
+      "text": "because of obvious reasons. All right. You're making a good point, but have you ever walked"
+    },
+    {
+      "end_timestamp": 1261.48,
+      "id": "ecab7e13-84ee-34c4-93ae-2a3ef53d5a98",
+      "speaker": null,
+      "start_timestamp": 1255.32,
+      "text": "near a volcano and just breathed in pure sulfur dioxide? That's the good stuff. That's what gets"
+    },
+    {
+      "end_timestamp": 1265.48,
+      "id": "8d9c60c1-fb79-3142-b9af-95db5202dd12",
+      "speaker": null,
+      "start_timestamp": 1261.48,
+      "text": "you breathing real good. You know, that's what you want in the atmosphere. It's a trace gas."
+    },
+    {
+      "end_timestamp": 1270.28,
+      "id": "0b25427e-f85c-34cc-b212-ea48ec849f4e",
+      "speaker": null,
+      "start_timestamp": 1265.48,
+      "text": "We shouldn't limit the amount of sulfur dioxide. Don't you want to chew your air?"
+    },
+    {
+      "end_timestamp": 1276.44,
+      "id": "6342a230-7335-35a5-9248-d9d2b7865927",
+      "speaker": null,
+      "start_timestamp": 1273.96,
+      "text": "Oh, so good that we raised the temperature."
+    },
+    {
+      "end_timestamp": 1284.92,
+      "id": "f7eb1125-98df-3826-bff3-14d6bbfd7955",
+      "speaker": null,
+      "start_timestamp": 1278.12,
+      "text": "So good. Yeah. I don't know. I think at this point, if you're a climate denier, it has to be"
+    },
+    {
+      "end_timestamp": 1291.32,
+      "id": "98599871-a91c-39ea-a525-5206954ecd76",
+      "speaker": null,
+      "start_timestamp": 1284.92,
+      "text": "like, ah, I think I can wait out the clock. Right. You know, like there's no way Alex isn't,"
+    },
+    {
+      "end_timestamp": 1296.44,
+      "id": "4e800b2e-9bf8-3291-92cb-d761dd709cd6",
+      "speaker": null,
+      "start_timestamp": 1291.32,
+      "text": "isn't like at a certain point, like, oh shit, the climate really is fucked. I can't ignore this"
+    },
+    {
+      "end_timestamp": 1301.96,
+      "id": "234835f8-851e-346c-ab96-b85a5e386016",
+      "speaker": null,
+      "start_timestamp": 1296.44,
+      "text": "anymore, but I'll probably be off the air by the time people want to really hold me accountable for"
+    },
+    {
+      "end_timestamp": 1306.52,
+      "id": "09e68eea-c396-3ca4-a853-df67c42b641f",
+      "speaker": null,
+      "start_timestamp": 1301.96,
+      "text": "it. So fuck it, you know? Yeah, it could be. I mean, I mean, there, there has to be a certain"
+    },
+    {
+      "end_timestamp": 1310.84,
+      "id": "6c8569dd-f6aa-324e-8a3e-6dea0100b7ce",
+      "speaker": null,
+      "start_timestamp": 1306.52,
+      "text": "amount of, I'm not going to have to pay the fiddler and then there's, there's another part"
+    },
+    {
+      "end_timestamp": 1316.2,
+      "id": "d2e108ec-0035-3830-8aca-0725bed0de04",
+      "speaker": null,
+      "start_timestamp": 1310.84,
+      "text": "with Alex though. I really do think that he is just like, dumb. He is just not interested."
+    },
+    {
+      "end_timestamp": 1321.0,
+      "id": "65e01ee7-c5ea-3303-aea9-b870e80598d4",
+      "speaker": null,
+      "start_timestamp": 1316.2,
+      "text": "And someone has explained it to him in such a way that like, Oh, Hey, the power plants are totally"
+    },
+    {
+      "end_timestamp": 1326.84,
+      "id": "f3e1cf50-11a8-3e22-a908-a27fc11735e7",
+      "speaker": null,
+      "start_timestamp": 1321.0,
+      "text": "clean. And he's never seen fit to have to look into it. Cause why would, yeah. Yeah. I just"
+    },
+    {
+      "end_timestamp": 1334.04,
+      "id": "6e49f774-ee58-39e2-a12c-8851173c6ac7",
+      "speaker": null,
+      "start_timestamp": 1326.84,
+      "text": "don't know what, how stupid do you have to believe be to just believe that on like a gullibility"
+    },
+    {
+      "end_timestamp": 1340.04,
+      "id": "8426b7de-effc-39f5-88c6-dc7880f3505f",
+      "speaker": null,
+      "start_timestamp": 1334.04,
+      "text": "scale, I wouldn't trust a coal plant. If I walked through like the people who run coal are"
+    },
+    {
+      "end_timestamp": 1347.16,
+      "id": "a471ebc6-92ae-3a85-832f-d80bc40ea05a",
+      "speaker": null,
+      "start_timestamp": 1340.04,
+      "text": "demonstrably evil and have been for 150 years. Yeah. But they also tend to politically align"
+    },
+    {
+      "end_timestamp": 1353.64,
+      "id": "ff8459df-8f44-3abe-8bb6-f3d63f45dc5a",
+      "speaker": null,
+      "start_timestamp": 1347.16,
+      "text": "with the, the sort of things that Alex is into, you know, generally sure. He's, he's, he's inclined"
+    },
+    {
+      "end_timestamp": 1359.56,
+      "id": "3ee62406-17c5-3497-94c2-32b96d85f675",
+      "speaker": null,
+      "start_timestamp": 1353.64,
+      "text": "to, to trust them even though maybe, maybe on some level, I mean, he does fucking Darth Vader"
+    },
+    {
+      "end_timestamp": 1368.44,
+      "id": "4d16b40c-8fec-3739-b5c4-65ddbb98e682",
+      "speaker": null,
+      "start_timestamp": 1359.56,
+      "text": "impressions all the time and talks about the dark side is the good people. That's fair. So Alex is"
+    },
+    {
+      "end_timestamp": 1374.68,
+      "id": "c69ee8e7-9359-3d15-aa5b-313e65001817",
+      "speaker": null,
+      "start_timestamp": 1368.44,
+      "text": "inside in the hallway at this point in the video. And then he, he now tells us we're going to go"
+    },
+    {
+      "end_timestamp": 1381.16,
+      "id": "4a17f290-d864-3a3b-b548-9a18fceee14b",
+      "speaker": null,
+      "start_timestamp": 1374.68,
+      "text": "outside. Let's go outside outside and show you Bill Gates, wanting to cool block out the sun"
+    },
+    {
+      "end_timestamp": 1387.0,
+      "id": "1e555b7c-c3ce-3105-ab16-a114a9c22368",
+      "speaker": null,
+      "start_timestamp": 1381.16,
+      "text": "and look where we're at in a fricking frozen tundra with the power off freezing our asses off"
+    },
+    {
+      "end_timestamp": 1393.16,
+      "id": "4f17d45e-6484-3392-90cb-61283f1f2ef7",
+      "speaker": null,
+      "start_timestamp": 1387.0,
+      "text": "like surfs. That's 21st century war. That's the great reset. And the great reset has cut"
+    },
+    {
+      "end_timestamp": 1398.76,
+      "id": "75db4419-7434-3f59-ac39-85a283932f3e",
+      "speaker": null,
+      "start_timestamp": 1393.16,
+      "text": "the power off in Texas. He is not established that he did not demonstrate this in any way."
+    },
+    {
+      "end_timestamp": 1406.84,
+      "id": "f362d497-6475-3609-90c3-a2d740d53379",
+      "speaker": null,
+      "start_timestamp": 1398.76,
+      "text": "Um, no wind turbines, real cold coal destroyed by Obama. See, it's the great reset. Oh, you could"
+    },
+    {
+      "end_timestamp": 1413.24,
+      "id": "6e379f20-b15f-355b-85ed-d4ec5e5cdbcf",
+      "speaker": null,
+      "start_timestamp": 1406.84,
+      "text": "say those things, but it doesn't mean it. There's no, no connection to reality. Really? No. If it"
+    },
+    {
+      "end_timestamp": 1421.56,
+      "id": "f924e7f3-ab59-30b6-81e3-539473e93707",
+      "speaker": null,
+      "start_timestamp": 1413.24,
+      "text": "was destroyed by Obama, it's the great resets fault. Dan, do you understand? Yeah, sure."
+    },
+    {
+      "end_timestamp": 1429.56,
+      "id": "c90681c5-1038-3baf-ad2a-795f49a71561",
+      "speaker": null,
+      "start_timestamp": 1421.56,
+      "text": "And so Alex goes outside and he's just a man yelling in the snow. He is, uh, hanging out"
+    },
+    {
+      "end_timestamp": 1435.96,
+      "id": "987c8d66-b1cb-3294-aa9b-c9c19f119bc8",
+      "speaker": null,
+      "start_timestamp": 1429.56,
+      "text": "with a snow backdrop being mad. And I, I think this is really interesting because if you take"
+    },
+    {
+      "end_timestamp": 1441.56,
+      "id": "46998480-1efe-32ff-b9e2-c88290ee063c",
+      "speaker": null,
+      "start_timestamp": 1435.96,
+      "text": "him at his word, he seems to be lamenting the industrial revolution and how, how it made it."
+    },
+    {
+      "end_timestamp": 1445.96,
+      "id": "334b60a4-775b-36e9-b576-9decd7117830",
+      "speaker": null,
+      "start_timestamp": 1441.56,
+      "text": "So we don't have to make our own power or something that made us soft."
+    },
+    {
+      "end_timestamp": 1452.12,
+      "id": "f0078d70-faae-33fa-9d83-1c94aac067a8",
+      "speaker": null,
+      "start_timestamp": 1445.96,
+      "text": "So modern society is great in many ways, but it's domesticated since man is very dependent"
+    },
+    {
+      "end_timestamp": 1456.44,
+      "id": "e2a0c158-ec15-3fae-9ca7-285fede899cd",
+      "speaker": null,
+      "start_timestamp": 1452.12,
+      "text": "on the system. Now the average American, the average person in the industrialized world"
+    },
+    {
+      "end_timestamp": 1461.16,
+      "id": "dc5c5863-d51e-38e0-b221-f99539ed39b8",
+      "speaker": null,
+      "start_timestamp": 1456.44,
+      "text": "flips on the light switch and just expects power or they pull into the gas station and they expect"
+    },
+    {
+      "end_timestamp": 1466.28,
+      "id": "db29a980-6706-32e9-8000-7e4bcbae4b19",
+      "speaker": null,
+      "start_timestamp": 1461.16,
+      "text": "gasoline or they go to the grocery store and they expected fresh food is going to be flown in or"
+    },
+    {
+      "end_timestamp": 1471.96,
+      "id": "1c7e6588-c8d8-3fef-9a4b-362b65dcb2a3",
+      "speaker": null,
+      "start_timestamp": 1466.28,
+      "text": "trucked into where they're at. Even in the winter, people have been taken away from the land and have"
+    },
+    {
+      "end_timestamp": 1477.48,
+      "id": "952392e3-1746-36bd-b3a5-9661fbcbf609",
+      "speaker": null,
+      "start_timestamp": 1471.96,
+      "text": "been made very, very soft, myself included. But at least I know that that's going on."
+    },
+    {
+      "end_timestamp": 1484.12,
+      "id": "5dcc81bc-ec43-364a-8345-1762ff32c49d",
+      "speaker": null,
+      "start_timestamp": 1477.48,
+      "text": "I don't understand what he's complaining about. We're so soft because we expect there to be power"
+    },
+    {
+      "end_timestamp": 1488.36,
+      "id": "541e0219-6a2a-34ac-8cbe-656baff60d30",
+      "speaker": null,
+      "start_timestamp": 1484.12,
+      "text": "when we, you know, have all agreed to collectively pay for a power company to take care of that."
+    },
+    {
+      "end_timestamp": 1496.2,
+      "id": "b15d9132-4bff-398e-b5eb-05bea929b988",
+      "speaker": null,
+      "start_timestamp": 1488.36,
+      "text": "Yeah. Yeah. Yeah. You know, one, uh, hello Unabomber. It's been a while since we've talked."
+    },
+    {
+      "end_timestamp": 1503.8,
+      "id": "defdc453-85ce-3af2-b0a0-3e0777a8a099",
+      "speaker": null,
+      "start_timestamp": 1496.2,
+      "text": "And two, no, I think it's far worse. Look, if you, if you and I want to say we're unaware that,"
+    },
+    {
+      "end_timestamp": 1509.8,
+      "id": "e1a475e3-af89-3767-a800-d9f088f27fe9",
+      "speaker": null,
+      "start_timestamp": 1503.8,
+      "text": "uh, that technology has domesticated us and we have moved away from the land and then act like"
+    },
+    {
+      "end_timestamp": 1514.92,
+      "id": "d2f5e420-7936-3fd6-bab5-0747efd00afd",
+      "speaker": null,
+      "start_timestamp": 1509.8,
+      "text": "that, that's fine. But if we are aware of it and don't take steps to avoid it and instead only tell"
+    },
+    {
+      "end_timestamp": 1519.4,
+      "id": "814f6170-f2c1-342c-bde0-4b9d30ac051c",
+      "speaker": null,
+      "start_timestamp": 1514.92,
+      "text": "other people to do it, we're hypocritical pieces of shit you wish you didn't listen to."
+    },
+    {
+      "end_timestamp": 1525.16,
+      "id": "ce84ab8c-2ecb-3cf6-9403-0df36a4b69e3",
+      "speaker": null,
+      "start_timestamp": 1519.4,
+      "text": "Oh yeah, absolutely. His, his pretending that like, at least I know is, yeah, it doesn't matter."
+    },
+    {
+      "end_timestamp": 1531.4,
+      "id": "75252155-9ecf-3856-9229-97821f0343fb",
+      "speaker": null,
+      "start_timestamp": 1525.16,
+      "text": "It does make it way worse. It's worse. Yeah. You should, you should be, uh, not putting out"
+    },
+    {
+      "end_timestamp": 1538.84,
+      "id": "3b2f6380-cffb-3d01-8ce0-89a4d8707b44",
+      "speaker": null,
+      "start_timestamp": 1532.12,
+      "text": "little tiny videos, uh, should be underground somewhere. Maybe if you want to, if you want to"
+    },
+    {
+      "end_timestamp": 1545.48,
+      "id": "c9985847-89b9-395f-bb00-31e734dffd8c",
+      "speaker": null,
+      "start_timestamp": 1538.84,
+      "text": "join the land, if you want to broadcast, you should not ever have inclement weather get in"
+    },
+    {
+      "end_timestamp": 1550.12,
+      "id": "0ff3d028-3ff0-3334-a924-aace448e41ee",
+      "speaker": null,
+      "start_timestamp": 1545.48,
+      "text": "the way because you should have a ton of generators and you should be broadcasting from a compound"
+    },
+    {
+      "end_timestamp": 1554.2,
+      "id": "d8a0e778-09cf-3e2a-bd6c-1713d2ef74cc",
+      "speaker": null,
+      "start_timestamp": 1550.12,
+      "text": "somewhere that no one knows where it is. And you got a bunch of potatoes growing, so you don't have"
+    },
+    {
+      "end_timestamp": 1560.68,
+      "id": "19fbaece-c85d-3e98-898e-a7a7fb9fe1a5",
+      "speaker": null,
+      "start_timestamp": 1554.2,
+      "text": "to worry about anybody. Hello, Unabomber. It's been a long time since we've done it."
+    },
+    {
+      "end_timestamp": 1566.2,
+      "id": "c8d8419d-bb03-3994-b610-5e27075ea207",
+      "speaker": null,
+      "start_timestamp": 1560.68,
+      "text": "It is strange. Although it is, it's, it's really interesting thing that Alex is like, okay, so"
+    },
+    {
+      "end_timestamp": 1570.84,
+      "id": "5607d0f6-5214-3b79-a5f3-1b845d3952eb",
+      "speaker": null,
+      "start_timestamp": 1566.2,
+      "text": "our uplinks are in another state, so they still have power. So what we have to do is we have to"
+    },
+    {
+      "end_timestamp": 1577.88,
+      "id": "b7df7135-215a-32b5-9f0b-e979d5177dc2",
+      "speaker": null,
+      "start_timestamp": 1570.84,
+      "text": "shoot these little videos and then send them over somewhere else. And then he's got an elaborate"
+    },
+    {
+      "end_timestamp": 1586.12,
+      "id": "8dc7a88b-42e0-3d68-b65c-8c76f262bc29",
+      "speaker": null,
+      "start_timestamp": 1577.88,
+      "text": "system to get like little tiny videos, which is just kind of, yeah, that's great. Yeah. It seems"
+    },
+    {
+      "end_timestamp": 1591.72,
+      "id": "ae0a4120-4bde-3c76-b045-441c83b73727",
+      "speaker": null,
+      "start_timestamp": 1586.12,
+      "text": "like you should just not do this. I don't know. Take the day off. Yeah. That's my snow day."
+    },
+    {
+      "end_timestamp": 1596.36,
+      "id": "cd172f17-600b-3bf5-acf0-b97fc0e02022",
+      "speaker": null,
+      "start_timestamp": 1591.72,
+      "text": "That's my feeling about it. And the argument that he's making is so not compelling that I"
+    },
+    {
+      "end_timestamp": 1603.24,
+      "id": "2c9294a4-551d-39f2-9d12-3793086b5128",
+      "speaker": null,
+      "start_timestamp": 1596.36,
+      "text": "don't even know why you bother, like why try to make this a conspiracy? Just like stay home."
+    },
+    {
+      "end_timestamp": 1610.36,
+      "id": "da864002-42e3-3181-8c95-e8c171182985",
+      "speaker": null,
+      "start_timestamp": 1603.24,
+      "text": "Yeah. You don't need to risk driving. Yeah. Yeah. But on the other hand, he could risk other people's"
+    },
+    {
+      "end_timestamp": 1614.68,
+      "id": "1e637468-18d2-31d0-936e-02a4f1b98757",
+      "speaker": null,
+      "start_timestamp": 1610.36,
+      "text": "lives and still probably make it to work, which is maybe his favorite thing to do. Yeah, sure."
+    },
+    {
+      "end_timestamp": 1619.32,
+      "id": "5e9bffa7-ae95-30ab-a8d5-ad4f728b8eb2",
+      "speaker": null,
+      "start_timestamp": 1614.68,
+      "text": "And I mean, there's employees there too. It's not like he's alone at the studio too. So yeah,"
+    },
+    {
+      "end_timestamp": 1624.76,
+      "id": "11ea93b7-9c28-33ab-90ed-84354c27dac6",
+      "speaker": null,
+      "start_timestamp": 1619.32,
+      "text": "that's true. Even better. I wonder if his wife is still playing tennis today. Probably. Yeah."
+    },
+    {
+      "end_timestamp": 1628.92,
+      "id": "090dc296-c4ec-3cf1-8c29-79d798eafafd",
+      "speaker": null,
+      "start_timestamp": 1624.76,
+      "text": "So Alex, uh, well, I mean, I think the reason he's doing this is because he wants to gloat"
+    },
+    {
+      "end_timestamp": 1635.0,
+      "id": "47e1d856-78ac-33a3-a24c-0c362a107deb",
+      "speaker": null,
+      "start_timestamp": 1628.92,
+      "text": "because he saw this coming. He knew what was going to happen. These guys have written about every"
+    },
+    {
+      "end_timestamp": 1641.64,
+      "id": "4497c15e-4e65-3ec4-927f-6e15d21f18fb",
+      "speaker": null,
+      "start_timestamp": 1635.0,
+      "text": "damn bit of it. How do you think I could make a film 13, 14 years ago called in game blueprint"
+    },
+    {
+      "end_timestamp": 1645.24,
+      "id": "9728c726-34ca-37eb-9b0e-f15713450731",
+      "speaker": null,
+      "start_timestamp": 1641.64,
+      "text": "for global enslavement. And you watch the damn film and almost all of it's come true"
+    },
+    {
+      "end_timestamp": 1651.8,
+      "id": "970dd309-25af-3a31-961e-8ad59bcd626e",
+      "speaker": null,
+      "start_timestamp": 1646.6,
+      "text": "because I know their quotes and their statements and they think you deserve to have this done to"
+    },
+    {
+      "end_timestamp": 1659.56,
+      "id": "70df6247-10bb-3f71-860e-6c8f9452d6ba",
+      "speaker": null,
+      "start_timestamp": 1651.8,
+      "text": "you. What's now unfolding because you're not fighting back. They all have private jets."
+    },
+    {
+      "end_timestamp": 1663.4,
+      "id": "3350f7c7-35c1-3e9f-9a77-16405d75098e",
+      "speaker": null,
+      "start_timestamp": 1659.56,
+      "text": "They all got a bunch of kids. They all have palatial mansions. They all live. However,"
+    },
+    {
+      "end_timestamp": 1668.2,
+      "id": "d2b0e0e3-e4d4-3d82-9997-e9a87ca7da79",
+      "speaker": null,
+      "start_timestamp": 1663.4,
+      "text": "they want to have huge yachts. They're telling you when Obama goes to Africa,"
+    },
+    {
+      "end_timestamp": 1672.76,
+      "id": "8cb30e9a-6f26-3029-b6e6-6ba4f774c68c",
+      "speaker": null,
+      "start_timestamp": 1668.2,
+      "text": "that you can't have a car. You can't have an air conditioning. That's a lie. Yeah. Yeah."
+    },
+    {
+      "end_timestamp": 1677.16,
+      "id": "0d442188-cf70-3c20-b5be-0ca7763241ef",
+      "speaker": null,
+      "start_timestamp": 1672.76,
+      "text": "It's an old, old, fun lie that he, I guess the snow pulled out of his little brain."
+    },
+    {
+      "end_timestamp": 1684.28,
+      "id": "8bcb56da-3d34-37ae-a138-3924d0515acb",
+      "speaker": null,
+      "start_timestamp": 1677.16,
+      "text": "Um, but like this is nonsense and I'm starting to get feelings of almost like stolen valor on his,"
+    },
+    {
+      "end_timestamp": 1691.16,
+      "id": "61ca13a4-b284-3d39-84ca-84fbbd9bbf47",
+      "speaker": null,
+      "start_timestamp": 1684.28,
+      "text": "like his part of like being right about things. Yeah. Yeah. How dare you? I resent that. He's"
+    },
+    {
+      "end_timestamp": 1694.84,
+      "id": "59dcc254-5c5b-3d62-b6bc-791b91a4d2ee",
+      "speaker": null,
+      "start_timestamp": 1691.16,
+      "text": "just pointing to end game and being like, I was right about everything. I was like,"
+    },
+    {
+      "end_timestamp": 1699.4,
+      "id": "ff3f835f-6ec6-3c9d-a6a1-515c54dac1b8",
+      "speaker": null,
+      "start_timestamp": 1694.84,
+      "text": "you should go and rewatch your own work. This is not good. No, here's the worst part. Okay."
+    },
+    {
+      "end_timestamp": 1707.08,
+      "id": "3d162efe-6a45-3fd5-958f-6f59cf323f1c",
+      "speaker": null,
+      "start_timestamp": 1699.4,
+      "text": "Okay. End game. Was this a large amount about a road jet had it been built would probably"
+    },
+    {
+      "end_timestamp": 1712.2,
+      "id": "5d06b008-3667-33fa-832f-bd194b92b31e",
+      "speaker": null,
+      "start_timestamp": 1707.08,
+      "text": "have ameliorated a lot of problems they are currently experiencing. So not only was he"
+    },
+    {
+      "end_timestamp": 1716.2,
+      "id": "b3ffab09-bf71-30a8-beba-0378a930f977",
+      "speaker": null,
+      "start_timestamp": 1712.2,
+      "text": "not right about that, it should have been built. So he didn't have to deal with it today."
+    },
+    {
+      "end_timestamp": 1720.84,
+      "id": "3e0d7780-490c-3609-b7aa-9bce6c3eeea7",
+      "speaker": null,
+      "start_timestamp": 1716.2,
+      "text": "I'm not positive that the road would have helped as much as you think, but it was a really big road"
+    },
+    {
+      "end_timestamp": 1726.2,
+      "id": "95a9ed11-0da0-36b3-b176-a8f5cd203c48",
+      "speaker": null,
+      "start_timestamp": 1720.84,
+      "text": "that it was pretty big. It was pretty big. Yeah. And also Alex does need to do this show, not only"
+    },
+    {
+      "end_timestamp": 1732.04,
+      "id": "0e2a4fc6-7623-344f-aa51-7ef5bf7095bb",
+      "speaker": null,
+      "start_timestamp": 1726.2,
+      "text": "to gloat about how he was right, though he wasn't. Um, he also needs to make an announcement. There"
+    },
+    {
+      "end_timestamp": 1737.4,
+      "id": "57949c9f-1317-39ad-83f9-827da9e16fa2",
+      "speaker": null,
+      "start_timestamp": 1732.04,
+      "text": "are new numbers out the new numbers. Do you know what, do you know what these numbers are? Uh,"
+    },
+    {
+      "end_timestamp": 1743.08,
+      "id": "d5e9a0ba-e205-305f-83ff-c47ce4c6a45a",
+      "speaker": null,
+      "start_timestamp": 1737.4,
+      "text": "Querkin is Querkin a new number? Nope. It's not, no, no, no. Hold on. Hold on. It's not"
+    },
+    {
+      "end_timestamp": 1747.88,
+      "id": "aac9f083-72ac-3812-be78-600b428bcd3b",
+      "speaker": null,
+      "start_timestamp": 1743.08,
+      "text": "brand new numbers. You misunderstood. No. Okay. I've not discovered a new number. I was just"
+    },
+    {
+      "end_timestamp": 1752.2,
+      "id": "ef162303-7693-3987-a06b-757dd643742b",
+      "speaker": null,
+      "start_timestamp": 1747.88,
+      "text": "checking to see if maybe they discovered a new number. No, you never know. I recognize that"
+    },
+    {
+      "end_timestamp": 1759.8,
+      "id": "a1616611-0043-3369-8f15-1e56e5bdb6da",
+      "speaker": null,
+      "start_timestamp": 1752.2,
+      "text": "that's a fair interpretation of what I said. That is not correct. So the globalist, right?"
+    },
+    {
+      "end_timestamp": 1763.96,
+      "id": "edbc518b-3361-3953-ac25-ffabeaf8a88a",
+      "speaker": null,
+      "start_timestamp": 1759.8,
+      "text": "Yeah. For a long time, they had claims of how many people they were going to kill."
+    },
+    {
+      "end_timestamp": 1767.32,
+      "id": "7e5f81b1-27a8-3e46-88de-c70bd7979a78",
+      "speaker": null,
+      "start_timestamp": 1763.96,
+      "text": "They're going to kill a bunch. Sure. Sure. Sure. Sure. There's new numbers."
+    },
+    {
+      "end_timestamp": 1773.8,
+      "id": "d1ae9e0b-d2bc-32d6-aa4b-cfc452378668",
+      "speaker": null,
+      "start_timestamp": 1769.8,
+      "text": "Like you're part of the establishment and going along with this. That's why they always taught,"
+    },
+    {
+      "end_timestamp": 1777.0,
+      "id": "a1be5f44-94a2-3401-a92e-16be9290eac9",
+      "speaker": null,
+      "start_timestamp": 1773.8,
+      "text": "Oh, we're going to get rid of half the world population in the seventies. And then later,"
+    },
+    {
+      "end_timestamp": 1781.08,
+      "id": "4496a9c9-6234-3358-96fe-c24c69398765",
+      "speaker": null,
+      "start_timestamp": 1777.0,
+      "text": "well, once we set up real government will be about 80%, but the good people will still be"
+    },
+    {
+      "end_timestamp": 1786.28,
+      "id": "c591dd1a-4c51-31ec-a671-3c0230611ea4",
+      "speaker": null,
+      "start_timestamp": 1781.08,
+      "text": "around to guard the earth. Now they probably say 90% will be exterminated. And the new numbers are"
+    },
+    {
+      "end_timestamp": 1793.88,
+      "id": "1f2b28e1-c3af-3e80-b582-917976b180af",
+      "speaker": null,
+      "start_timestamp": 1786.28,
+      "text": "down to 1% of world population. Do you understand? You've been taught to hate yourselves. You've"
+    },
+    {
+      "end_timestamp": 1798.68,
+      "id": "85e38124-ce0b-3ac8-95f8-1e019da93ff4",
+      "speaker": null,
+      "start_timestamp": 1793.88,
+      "text": "been isolated. Big tech media is designed. They admit to make you depressed to make you alone."
+    },
+    {
+      "end_timestamp": 1804.12,
+      "id": "05a4ba64-1d30-3e74-8dbf-84ff4bfe5cff",
+      "speaker": null,
+      "start_timestamp": 1799.56,
+      "text": "You are under a reclamation program to remove you and build a new world."
+    },
+    {
+      "end_timestamp": 1811.8,
+      "id": "fb7bcb28-f899-3ecf-8f82-2ada7c9abd2b",
+      "speaker": null,
+      "start_timestamp": 1804.12,
+      "text": "You were under a culling program. They decided to dynamite us. They decided to remove us. They"
+    },
+    {
+      "end_timestamp": 1817.24,
+      "id": "9747b14c-d295-36e9-bbd0-78af521cb03b",
+      "speaker": null,
+      "start_timestamp": 1811.8,
+      "text": "decided to blot us out. Like you destroy a building with a wrecking ball. So at least admit what's"
+    },
+    {
+      "end_timestamp": 1823.0,
+      "id": "ce30f680-319d-3ed7-b1ed-c09dc42704a0",
+      "speaker": null,
+      "start_timestamp": 1817.24,
+      "text": "happening to you and recognize what's happening to you as it happens and realize that the inhuman,"
+    },
+    {
+      "end_timestamp": 1829.88,
+      "id": "f9749778-a7cd-3f71-800f-6e206d8e7bba",
+      "speaker": null,
+      "start_timestamp": 1823.0,
+      "text": "degenerate scumbag, filth and garbage that is carrying this out and doing this all lives"
+    },
+    {
+      "end_timestamp": 1835.4,
+      "id": "838f9b3e-155f-3ec2-ae08-eca109339dd1",
+      "speaker": null,
+      "start_timestamp": 1829.88,
+      "text": "lavish lifestyles are all completely wicked and hateful. Most of their children commit suicide."
+    },
+    {
+      "end_timestamp": 1840.92,
+      "id": "40136ad4-1e33-3e0f-8224-41d7c9e5af90",
+      "speaker": null,
+      "start_timestamp": 1835.4,
+      "text": "They're totally disconnected and they are ruthless scum and only have a will to dominate control"
+    },
+    {
+      "end_timestamp": 1845.56,
+      "id": "fb0817af-7b68-3027-8f70-1ee0712a752b",
+      "speaker": null,
+      "start_timestamp": 1840.92,
+      "text": "others. And if you lay down to them, you allow them to hurt other innocence and you cut yourself"
+    },
+    {
+      "end_timestamp": 1850.84,
+      "id": "052265d2-b959-3520-bfa7-11a14ff719da",
+      "speaker": null,
+      "start_timestamp": 1845.56,
+      "text": "off from God. So don't be part of it. And that's why we need to primary weak Republicans."
+    },
+    {
+      "end_timestamp": 1855.16,
+      "id": "dc66614b-3c1c-36d6-9934-ea56e831b56e",
+      "speaker": null,
+      "start_timestamp": 1850.84,
+      "text": "I'm confused. Is this not okay? All right. You need to take back the house."
+    },
+    {
+      "end_timestamp": 1861.32,
+      "id": "b85e26d3-b255-39d7-95f5-2d43052017d5",
+      "speaker": null,
+      "start_timestamp": 1855.16,
+      "text": "This is ridiculous. This is so inciting. It's just nonsense,"
+    },
+    {
+      "end_timestamp": 1865.0,
+      "id": "5e0c0790-fa8c-31ed-b057-a6a3ff9c7baf",
+      "speaker": null,
+      "start_timestamp": 1861.32,
+      "text": "but it's also just an idiot standing in the snow, yelling for no reason."
+    },
+    {
+      "end_timestamp": 1870.84,
+      "id": "c3308b91-80a2-3964-990c-1b3237de1ede",
+      "speaker": null,
+      "start_timestamp": 1865.72,
+      "text": "This is kind of, it's kind of a preview of what his life is going to be like in 10 years."
+    },
+    {
+      "end_timestamp": 1875.72,
+      "id": "b86c6800-f6b9-3ccb-8a71-7db6882383d1",
+      "speaker": null,
+      "start_timestamp": 1870.84,
+      "text": "The visual of it is really jarring because it is like, I mean, it's Alex Jones. So like he's,"
+    },
+    {
+      "end_timestamp": 1882.76,
+      "id": "9e951ef6-8f2e-3530-8efa-606751052052",
+      "speaker": null,
+      "start_timestamp": 1875.72,
+      "text": "you know, this, this notable firebrand, ding dong idiot, but it's also a complete impotence"
+    },
+    {
+      "end_timestamp": 1888.52,
+      "id": "f03b3f6e-ab31-3414-900a-2fcb67de1e09",
+      "speaker": null,
+      "start_timestamp": 1882.76,
+      "text": "that he's showing because he's just standing in the snow, yelling about his enemies."
+    },
+    {
+      "end_timestamp": 1891.4,
+      "id": "7c38000d-feb3-3900-b4c6-d4c878c25afd",
+      "speaker": null,
+      "start_timestamp": 1888.52,
+      "text": "No, he's an apocalypse preacher."
+    },
+    {
+      "end_timestamp": 1896.92,
+      "id": "efa8341c-8a3b-30bd-b7ef-7731a56fd96f",
+      "speaker": null,
+      "start_timestamp": 1891.4,
+      "text": "Yeah. But also, but also how little import or meaning is there to him being like,"
+    },
+    {
+      "end_timestamp": 1903.24,
+      "id": "07126e1c-877c-39bc-acc0-34a98e208e4b",
+      "speaker": null,
+      "start_timestamp": 1896.92,
+      "text": "there's new numbers that 99% of the population is going to be killed. Like, okay, now you can't"
+    },
+    {
+      "end_timestamp": 1907.96,
+      "id": "9b8653e4-e4e8-3eb7-ab05-ec9aba7545ba",
+      "speaker": null,
+      "start_timestamp": 1903.24,
+      "text": "make it smaller or like the survivor number smaller. Like you have just backed yourself"
+    },
+    {
+      "end_timestamp": 1912.92,
+      "id": "ca17bfc8-55ec-3118-aea6-f419ea7bf976",
+      "speaker": null,
+      "start_timestamp": 1907.96,
+      "text": "into a corner where it's like, okay, now a hundred percent. This doesn't mean anything. You're just"
+    },
+    {
+      "end_timestamp": 1917.24,
+      "id": "01105fd9-dfd6-33dc-ba07-fde613b7c9a8",
+      "speaker": null,
+      "start_timestamp": 1912.92,
+      "text": "making up numbers. And now you've gotten to the end of the line. There's no more numbers."
+    },
+    {
+      "end_timestamp": 1923.0,
+      "id": "5b4edefb-f5fd-395c-bb14-f9a928b4e2a3",
+      "speaker": null,
+      "start_timestamp": 1917.88,
+      "text": "I like the idea that there are quarterly, uh, extermination reports, you know, like every"
+    },
+    {
+      "end_timestamp": 1928.44,
+      "id": "43ca1233-7596-323c-bb39-aa1cdc00e25b",
+      "speaker": null,
+      "start_timestamp": 1923.0,
+      "text": "quarter there's new numbers like, Oh no, no, no. We were going to kill 99% at the end of the first"
+    },
+    {
+      "end_timestamp": 1934.28,
+      "id": "0519785f-02fb-3768-ab6e-b9a7b23ab73b",
+      "speaker": null,
+      "start_timestamp": 1928.44,
+      "text": "quarter, but now re looking things into the second quarter, we're projecting a 97% murder."
+    },
+    {
+      "end_timestamp": 1939.08,
+      "id": "96cf844f-95fb-3a91-a3eb-5b0fe13b45c1",
+      "speaker": null,
+      "start_timestamp": 1934.28,
+      "text": "Some weirdo like Daniel calls Alex and he's like, hey, build a bird. They were saying that,"
+    },
+    {
+      "end_timestamp": 1944.84,
+      "id": "f7c54767-75b4-326f-ae04-dc0b18c3dc9c",
+      "speaker": null,
+      "start_timestamp": 1939.08,
+      "text": "uh, it's 99 now. Yeah. Yeah. There was a action that was saying 98,"
+    },
+    {
+      "end_timestamp": 1954.76,
+      "id": "964422da-5466-355e-9820-7e6e7a17d0ba",
+      "speaker": null,
+      "start_timestamp": 1946.44,
+      "text": "but they lost the negotiations were fraught. Yes. All fell apart. So not to, not to spend"
+    },
+    {
+      "end_timestamp": 1961.88,
+      "id": "5ceacfa2-41a6-39f2-bdb3-47e0ebc13281",
+      "speaker": null,
+      "start_timestamp": 1954.76,
+      "text": "too much time, uh, uh, talking about why he's standing in the snow. Uh, Alex decides now time"
+    },
+    {
+      "end_timestamp": 1967.88,
+      "id": "c16e7800-d699-3c8e-841f-589e4f0fbd3f",
+      "speaker": null,
+      "start_timestamp": 1961.88,
+      "text": "to yell about the vaccines. Sure. There is hope. As I said,"
+    },
+    {
+      "end_timestamp": 1974.04,
+      "id": "05014257-b87d-3665-8931-63ff6a31a8e7",
+      "speaker": null,
+      "start_timestamp": 1969.8,
+      "text": "Merck had to pull their vaccine three weeks ago because it was making people sick and killing them."
+    },
+    {
+      "end_timestamp": 1977.16,
+      "id": "f4fba95d-c102-3db5-a044-e2ead2cfc133",
+      "speaker": null,
+      "start_timestamp": 1974.04,
+      "text": "And they admitted that even if you take it, it doesn't protect you. They recommended you just"
+    },
+    {
+      "end_timestamp": 1981.56,
+      "id": "95d2ef2e-ae12-3134-bedf-c816c74f65d7",
+      "speaker": null,
+      "start_timestamp": 1977.16,
+      "text": "get COVID and get over it. And it was a scam, huge move that they, they got scared and said,"
+    },
+    {
+      "end_timestamp": 1984.76,
+      "id": "68f53028-4055-37ad-93d5-23d66afb0646",
+      "speaker": null,
+      "start_timestamp": 1981.56,
+      "text": "this is too evil. That would be a huge move. South Africa banned the vaccine,"
+    },
+    {
+      "end_timestamp": 1988.36,
+      "id": "0743566a-a096-367e-9c8a-8e553f71fbb1",
+      "speaker": null,
+      "start_timestamp": 1984.76,
+      "text": "make people sick and killing them. Australia had to ban their vaccine that they put out."
+    },
+    {
+      "end_timestamp": 1995.64,
+      "id": "cd826c32-1a62-35fa-820b-b55a83887c8c",
+      "speaker": null,
+      "start_timestamp": 1988.36,
+      "text": "Cause it was going to be HIV positive stuff. India just banned the MRNA Pfizer shot HIV stuff."
+    },
+    {
+      "end_timestamp": 2000.92,
+      "id": "437fb081-2f11-3dc6-a9c2-68c4164953e5",
+      "speaker": null,
+      "start_timestamp": 1996.28,
+      "text": "What? Yeah. All right. Most of that shit we've covered in the past, uh, in episodes."
+    },
+    {
+      "end_timestamp": 2005.56,
+      "id": "7180b755-96e3-3389-bf4f-796028ed8057",
+      "speaker": null,
+      "start_timestamp": 2000.92,
+      "text": "That's all nonsense. The India one though is a new narrative. So I wanted to just clarify why"
+    },
+    {
+      "end_timestamp": 2012.28,
+      "id": "990a3de2-f638-3fad-9f5c-380ba9a1cbfb",
+      "speaker": null,
+      "start_timestamp": 2005.56,
+      "text": "India didn't approve the use of Pfizer's COVID-19 vaccine. It was reported by CNBC back on February"
+    },
+    {
+      "end_timestamp": 2016.92,
+      "id": "482cde24-64cf-3b60-a4d9-d335b1334cfb",
+      "speaker": null,
+      "start_timestamp": 2012.28,
+      "text": "5th that Pfizer had withdrawn their application for emergency use of their vaccine in India after"
+    },
+    {
+      "end_timestamp": 2022.52,
+      "id": "9bf04043-f058-36b8-b786-7ebe1cd4d43c",
+      "speaker": null,
+      "start_timestamp": 2016.92,
+      "text": "quote the government in January approved too much cheaper shots. There were a couple of other"
+    },
+    {
+      "end_timestamp": 2027.56,
+      "id": "966d059c-6f2b-35a9-9c98-6aa1a28fdaf1",
+      "speaker": null,
+      "start_timestamp": 2022.52,
+      "text": "hurdles, namely that India requires local studies to be done to approve vaccine use. And the studies"
+    },
+    {
+      "end_timestamp": 2032.68,
+      "id": "4d1de42e-f32d-32d2-915f-8273e4807bfd",
+      "speaker": null,
+      "start_timestamp": 2027.56,
+      "text": "of Pfizer's vaccines had not been done in India. The second issue is that vaccine, uh, the one that"
+    },
+    {
+      "end_timestamp": 2037.64,
+      "id": "408cf730-b3a7-387f-a225-ca960c5efad1",
+      "speaker": null,
+      "start_timestamp": 2032.68,
+      "text": "they had created the Pfizer one, it requires storage in very cold conditions, which creates"
+    },
+    {
+      "end_timestamp": 2042.84,
+      "id": "44f7361f-aede-33f4-8415-b879a8d4e9c2",
+      "speaker": null,
+      "start_timestamp": 2037.64,
+      "text": "a concern about the ability for it to be rolled out all over India. You know, there's, there's"
+    },
+    {
+      "end_timestamp": 2049.4,
+      "id": "17ec6edc-a2ba-38ff-a97c-b55b09083804",
+      "speaker": null,
+      "start_timestamp": 2042.84,
+      "text": "concerns about the supply of deep freeze, uh, capabilities. Alex is pretending, Alex is"
+    },
+    {
+      "end_timestamp": 2053.08,
+      "id": "14652bde-e56f-3930-9be0-569cf19f02f1",
+      "speaker": null,
+      "start_timestamp": 2049.4,
+      "text": "pretending that they banned it because it's dangerous. When in reality, it's really just"
+    },
+    {
+      "end_timestamp": 2059.56,
+      "id": "1c9390c4-ecbe-343c-89ac-bcdb17a26299",
+      "speaker": null,
+      "start_timestamp": 2053.08,
+      "text": "kind of a boring logistics issue. Again, this is a water heater noise. Alex is trying to tell you"
+    },
+    {
+      "end_timestamp": 2065.8,
+      "id": "0287b171-9d5e-34d0-8e41-255a72694a69",
+      "speaker": null,
+      "start_timestamp": 2059.56,
+      "text": "is a Viking. Yeah. That's a, that's like India being like, listen guys, we're going to have to"
+    },
+    {
+      "end_timestamp": 2071.16,
+      "id": "ccc2f7c5-9f9e-380a-8142-b0456cee2fa9",
+      "speaker": null,
+      "start_timestamp": 2065.8,
+      "text": "ban the import of snowballs. Now I know they don't get far once they get across the border,"
+    },
+    {
+      "end_timestamp": 2076.92,
+      "id": "0aab82de-cea1-32f9-a3b4-4387743dd8e8",
+      "speaker": null,
+      "start_timestamp": 2071.16,
+      "text": "but we just can't let this happen anymore. There are cheaper options that will do the same thing"
+    },
+    {
+      "end_timestamp": 2084.04,
+      "id": "e16e7bbc-433f-3893-a508-6a9757f29548",
+      "speaker": null,
+      "start_timestamp": 2076.92,
+      "text": "that a snowball does. And yeah, we'll, we'll go with those. So Alex, uh, still, uh, being dumb"
+    },
+    {
+      "end_timestamp": 2090.92,
+      "id": "dc779336-97f5-3e56-8d0f-d1d0d67dc091",
+      "speaker": null,
+      "start_timestamp": 2084.04,
+      "text": "starts talking about how Texas used to supply everyone with power. They have shut our power"
+    },
+    {
+      "end_timestamp": 2095.72,
+      "id": "8d8eccfb-b44f-3231-93ec-1e18456044f4",
+      "speaker": null,
+      "start_timestamp": 2090.92,
+      "text": "systems down so much that we can't even provide power in the summer and the winter and the great"
+    },
+    {
+      "end_timestamp": 2101.48,
+      "id": "8f7f4b95-1245-376b-aa39-754eb8f93e0a",
+      "speaker": null,
+      "start_timestamp": 2095.72,
+      "text": "state of Texas that up until 10 years ago was supplying power to 15 States and was doing an"
+    },
+    {
+      "end_timestamp": 2107.64,
+      "id": "0abe5079-454c-3371-8dda-003456686d18",
+      "speaker": null,
+      "start_timestamp": 2101.48,
+      "text": "incredible job, but we've been shut down. That's a complete lie. Uh, Texas is a unique state in the"
+    },
+    {
+      "end_timestamp": 2111.32,
+      "id": "e380aae2-411d-32ef-8ab1-deec4beda66d",
+      "speaker": null,
+      "start_timestamp": 2107.64,
+      "text": "country in terms of their power grid. And it's actually one of the reasons that the situation"
+    },
+    {
+      "end_timestamp": 2116.2,
+      "id": "7ca2d818-8d43-39ea-a2c7-9dd1798d5806",
+      "speaker": null,
+      "start_timestamp": 2111.32,
+      "text": "in the state now is so much more complicated. Texas is the only state in the country that has"
+    },
+    {
+      "end_timestamp": 2121.48,
+      "id": "8d1e7e8b-8aef-3eea-b266-e01090377678",
+      "speaker": null,
+      "start_timestamp": 2116.2,
+      "text": "its own completely autonomous power grid called ERCOT, which is run by the electric reliability"
+    },
+    {
+      "end_timestamp": 2126.36,
+      "id": "7be9464f-ca18-3bd1-9a70-91345db17a4d",
+      "speaker": null,
+      "start_timestamp": 2121.48,
+      "text": "council of Texas. Houston public media recently posted a very concise explanation of how the"
+    },
+    {
+      "end_timestamp": 2132.04,
+      "id": "8f9f3352-c2c7-3e48-ac89-2aef8e337bed",
+      "speaker": null,
+      "start_timestamp": 2126.36,
+      "text": "system works and how it got to be the way it is, which I will paraphrase now. It doesn't and they"
+    },
+    {
+      "end_timestamp": 2137.72,
+      "id": "d6b2a1ac-eb55-32e5-abb4-8b5a5c9dc6ce",
+      "speaker": null,
+      "start_timestamp": 2132.04,
+      "text": "fucked it up. When electricity started to become more prevalent, the country saw utility companies"
+    },
+    {
+      "end_timestamp": 2145.48,
+      "id": "eb368691-a1fa-3365-8438-0143ba9e0a31",
+      "speaker": null,
+      "start_timestamp": 2137.72,
+      "text": "begin to combine and link up, uh, and, uh, create regional things. In 1935, FDR signed the federal"
+    },
+    {
+      "end_timestamp": 2151.16,
+      "id": "e31e4877-b46d-3c72-8110-d5781af727d1",
+      "speaker": null,
+      "start_timestamp": 2145.48,
+      "text": "power act quote, which charged the federal power commission with overseeing interstate electricity"
+    },
+    {
+      "end_timestamp": 2156.2,
+      "id": "9e008c49-fe99-3e3d-8160-5dcd591d8c30",
+      "speaker": null,
+      "start_timestamp": 2151.16,
+      "text": "sales. The federal government could only really get involved with regulating interstate power"
+    },
+    {
+      "end_timestamp": 2161.48,
+      "id": "4094e449-ed30-3064-866c-e42be1dd8f3e",
+      "speaker": null,
+      "start_timestamp": 2156.2,
+      "text": "exchanges. So in order to avoid that regulation, Texas has remained the only state in the country"
+    },
+    {
+      "end_timestamp": 2167.8,
+      "id": "23ae0e2b-0f80-3ef1-9e73-4f3831c6b038",
+      "speaker": null,
+      "start_timestamp": 2161.48,
+      "text": "with its own power grid. This has been breached a few times, notably in 1976, when a Texas power"
+    },
+    {
+      "end_timestamp": 2173.48,
+      "id": "b8e42287-8452-3bce-9943-37fcdce07446",
+      "speaker": null,
+      "start_timestamp": 2167.8,
+      "text": "company sent power to Oklahoma very briefly in what's been called the quote, midnight connection."
+    },
+    {
+      "end_timestamp": 2178.92,
+      "id": "ef02684b-fee1-38e1-b516-f1d24420e9bb",
+      "speaker": null,
+      "start_timestamp": 2174.36,
+      "text": "Alex is completely making up that the state of Texas formerly provided energy to 15 States."
+    },
+    {
+      "end_timestamp": 2183.8,
+      "id": "5d52f420-923b-3712-8c04-1859619f5197",
+      "speaker": null,
+      "start_timestamp": 2178.92,
+      "text": "I suspect that he doesn't even know that his state's energy set up, uh, is the way it is"
+    },
+    {
+      "end_timestamp": 2187.64,
+      "id": "aaca7932-bbc1-3a8c-bf1f-7feaafe67bae",
+      "speaker": null,
+      "start_timestamp": 2183.8,
+      "text": "and how some of the problems he's complaining about are the direct by-product of his state"
+    },
+    {
+      "end_timestamp": 2192.92,
+      "id": "67e52ebd-e08c-34c3-a1c3-9533edd54965",
+      "speaker": null,
+      "start_timestamp": 2187.64,
+      "text": "following his own anti-federal government paranoia. It's kind of embarrassing that, uh,"
+    },
+    {
+      "end_timestamp": 2199.64,
+      "id": "43a6785c-5d69-3ec7-b812-5289510de95a",
+      "speaker": null,
+      "start_timestamp": 2192.92,
+      "text": "that he has no idea how it works, uh, and that because everybody else does it differently,"
+    },
+    {
+      "end_timestamp": 2207.48,
+      "id": "8f4f600c-977c-3bbe-88a5-ab96353fbcae",
+      "speaker": null,
+      "start_timestamp": 2199.64,
+      "text": "it's their fault despite not knowing how he does it. Yeah, probably. And you know, uh, it's, it's"
+    },
+    {
+      "end_timestamp": 2213.56,
+      "id": "64c8439a-4f75-32d4-86b4-88cce30ffff1",
+      "speaker": null,
+      "start_timestamp": 2207.48,
+      "text": "really, it's really weird to me because like it should be a point of pride to him that the Texas"
+    },
+    {
+      "end_timestamp": 2220.12,
+      "id": "bba9ce8c-3298-36bb-8289-795c43d23f49",
+      "speaker": null,
+      "start_timestamp": 2213.56,
+      "text": "doesn't supply our to other States and other States don't supply power to them. It should be"
+    },
+    {
+      "end_timestamp": 2228.2,
+      "id": "1c4dedec-f86e-320c-8627-5ba482f62bac",
+      "speaker": null,
+      "start_timestamp": 2220.12,
+      "text": "like, this is a rugged individual pre-industrial revolution. We are not pacified instead. We mine"
+    },
+    {
+      "end_timestamp": 2235.88,
+      "id": "aac03cb9-cf84-3033-bdfa-fc721135b4e4",
+      "speaker": null,
+      "start_timestamp": 2228.2,
+      "text": "our own coal, we burn our own coal and that's what we do. He's still, he's instead choosing"
+    },
+    {
+      "end_timestamp": 2243.0,
+      "id": "9095095e-032a-354e-8844-2f613c70148d",
+      "speaker": null,
+      "start_timestamp": 2235.88,
+      "text": "the more attractive narrative to him, which is that Obama made it so Texas doesn't supply most"
+    },
+    {
+      "end_timestamp": 2249.32,
+      "id": "d703978e-5320-344c-a38c-33442e7436f3",
+      "speaker": null,
+      "start_timestamp": 2243.0,
+      "text": "of the country electricity. Somehow it's still, you know, the anti-Obama pro-coal"
+    },
+    {
+      "end_timestamp": 2256.6,
+      "id": "24f2f801-a4fa-39a5-84a7-5f17d6e28283",
+      "speaker": null,
+      "start_timestamp": 2249.32,
+      "text": "kind of narratives take precedence over his state's rights, uh, jacking off, I think. Yeah."
+    },
+    {
+      "end_timestamp": 2263.88,
+      "id": "78c22260-3af6-39bd-802f-b4491880be80",
+      "speaker": null,
+      "start_timestamp": 2256.6,
+      "text": "Yeah. I mean, I think that depends on the day too. Probably. Yeah. I would, uh, I would also argue,"
+    },
+    {
+      "end_timestamp": 2273.96,
+      "id": "4207a97b-d145-35f8-b35b-720e9997b904",
+      "speaker": null,
+      "start_timestamp": 2263.88,
+      "text": "uh, that in this circumstance, Alex is, I guess trapped, you know, like everything that he says"
+    },
+    {
+      "end_timestamp": 2281.24,
+      "id": "a449e4fd-f097-3046-9b08-163f34f59d76",
+      "speaker": null,
+      "start_timestamp": 2273.96,
+      "text": "is going to be wrong. Yeah. Because the reality of it is like, this is all fucked up beyond reason"
+    },
+    {
+      "end_timestamp": 2287.64,
+      "id": "01cb1282-ccd4-3009-83ea-a0a545bfc1e2",
+      "speaker": null,
+      "start_timestamp": 2281.24,
+      "text": "because, you know, we made choices to get at this place. Um, I think that Alex might be literally"
+    },
+    {
+      "end_timestamp": 2294.28,
+      "id": "5748bf83-f593-371e-a3e2-42676432e62b",
+      "speaker": null,
+      "start_timestamp": 2287.64,
+      "text": "trapped as well. Uh, he might, his wife might be driving the Audi, so he might be stuck at the"
+    },
+    {
+      "end_timestamp": 2301.24,
+      "id": "60acd98f-0dc4-3d0b-96b0-48c4121e88a3",
+      "speaker": null,
+      "start_timestamp": 2294.28,
+      "text": "studio. Might as well scream on the street. I'm not going anywhere until five. Yeah. So Alex gets"
+    },
+    {
+      "end_timestamp": 2307.24,
+      "id": "ed2d38d8-96f6-3894-92f1-854c1271d481",
+      "speaker": null,
+      "start_timestamp": 2301.24,
+      "text": "to rambling about some other stuff. And I found this particular, uh, thought that he has a little"
+    },
+    {
+      "end_timestamp": 2312.12,
+      "id": "4b415007-9b6a-37db-a0ae-24aab3029b27",
+      "speaker": null,
+      "start_timestamp": 2307.24,
+      "text": "bit upsetting. This has to do with the storming of the Capitol. Because the globalists fear what"
+    },
+    {
+      "end_timestamp": 2316.92,
+      "id": "aea70044-0d15-3137-89fa-707b82a8758f",
+      "speaker": null,
+      "start_timestamp": 2312.12,
+      "text": "you saw at the Capitol. It was a few hundred that got the big mass to do it. The globalists"
+    },
+    {
+      "end_timestamp": 2322.44,
+      "id": "f184ea14-5e4c-3598-8e38-31c610134c7c",
+      "speaker": null,
+      "start_timestamp": 2316.92,
+      "text": "the globalists provocateur it had security stand down so that what they feared in the future could"
+    },
+    {
+      "end_timestamp": 2329.48,
+      "id": "06604d56-89b7-3882-b471-ad0d5a1d9325",
+      "speaker": null,
+      "start_timestamp": 2322.44,
+      "text": "be discredited. Now, a million people in DC with a serious mission to take over and overthrow"
+    },
+    {
+      "end_timestamp": 2337.08,
+      "id": "721419b8-f211-3b06-b8bb-ba2877b00914",
+      "speaker": null,
+      "start_timestamp": 2329.48,
+      "text": "an illegitimate government is powerful. Okay. So what I'm hearing is the globalists are afraid of"
+    },
+    {
+      "end_timestamp": 2342.52,
+      "id": "3fd5b28e-c5b5-39bc-9f15-9ba9072e1a19",
+      "speaker": null,
+      "start_timestamp": 2337.08,
+      "text": "what happened on the sixth. And so they did the sixth in order to make sure that Alex couldn't do"
+    },
+    {
+      "end_timestamp": 2350.44,
+      "id": "59f3c4a2-f855-31fc-9cbe-85a00d84aa67",
+      "speaker": null,
+      "start_timestamp": 2342.52,
+      "text": "it better later. Yes, you are correct. That is exactly what happened. Great. And Alex's Alex's"
+    },
+    {
+      "end_timestamp": 2359.16,
+      "id": "f84fcdc7-bfff-363c-8589-85a55f4b0c92",
+      "speaker": null,
+      "start_timestamp": 2350.44,
+      "text": "point, I believe is that a few million people overrunning the Capitol, that's a W guys. That"
+    },
+    {
+      "end_timestamp": 2366.68,
+      "id": "91a872c6-cdc0-3ae0-8cc5-3395e6996d1c",
+      "speaker": null,
+      "start_timestamp": 2359.16,
+      "text": "means we win this one. A few hundred people were fucked. So yeah, I think he's really against the"
+    },
+    {
+      "end_timestamp": 2371.88,
+      "id": "2ceb325a-b4be-3bdc-9342-f59421fcbea2",
+      "speaker": null,
+      "start_timestamp": 2366.68,
+      "text": "principles of what happened on the sixth. Yeah. I think, I think it's, I think it's become quite"
+    },
+    {
+      "end_timestamp": 2376.6,
+      "id": "eb94b660-e5dc-3fd3-9dfe-fc9c6253ffdd",
+      "speaker": null,
+      "start_timestamp": 2371.88,
+      "text": "clear that now he realizes he's not going to get arrested or anything. He can sort of now sort of"
+    },
+    {
+      "end_timestamp": 2383.0,
+      "id": "6a8a91f9-393d-387a-a75d-cf61a462c917",
+      "speaker": null,
+      "start_timestamp": 2376.6,
+      "text": "subtly, just, just chill out and, you know, Hey guys, guys, two weeks from now, anybody"
+    },
+    {
+      "end_timestamp": 2389.56,
+      "id": "a43e720d-7b43-373a-a854-aa2e0abbcc65",
+      "speaker": null,
+      "start_timestamp": 2383.0,
+      "text": "not busy two weeks. That's when we got to get a couple of million, two weeks. So, uh, we know"
+    },
+    {
+      "end_timestamp": 2398.04,
+      "id": "ad55ff4d-b33a-39cb-940c-97f1e4467f4f",
+      "speaker": null,
+      "start_timestamp": 2389.56,
+      "text": "that Alex is a scholar on the, uh, matter of carbon dioxide, um, climate change, world war two."
+    },
+    {
+      "end_timestamp": 2404.28,
+      "id": "7b72147d-3b43-342a-b050-cd01070b333d",
+      "speaker": null,
+      "start_timestamp": 2398.04,
+      "text": "Yeah. Alex does. He, he, he seems to think this I've heard him say this before. And that's why I"
+    },
+    {
+      "end_timestamp": 2410.44,
+      "id": "440350ec-7c3b-3e50-bf89-3a015e7b9fb6",
+      "speaker": null,
+      "start_timestamp": 2404.28,
+      "text": "wanted to play this again, because it's such a dumb thought that I'm, I'm surprised he repeats"
+    },
+    {
+      "end_timestamp": 2414.92,
+      "id": "bca28060-f7ba-3a9b-9a4d-17c8ee788186",
+      "speaker": null,
+      "start_timestamp": 2410.44,
+      "text": "this multiple times. It's clearly something he actually believes. And that is that people are"
+    },
+    {
+      "end_timestamp": 2423.08,
+      "id": "7c24df21-7e23-3af9-b0b5-2c2d143c3694",
+      "speaker": null,
+      "start_timestamp": 2414.92,
+      "text": "only afraid of carbon dioxide because it sounds like carbon monoxide. Oh boy. Yeah. This is very"
+    },
+    {
+      "end_timestamp": 2430.12,
+      "id": "f23c06f4-a2f9-30fe-a4c0-47f46abcae3d",
+      "speaker": null,
+      "start_timestamp": 2423.08,
+      "text": "bad. The sun is energy. It drives almost all of our climate, light, carbon dioxide, oxygen,"
+    },
+    {
+      "end_timestamp": 2435.96,
+      "id": "2f217ed4-f251-3c8f-a684-460133694167",
+      "speaker": null,
+      "start_timestamp": 2430.12,
+      "text": "and water is the carbon cycle. And if you take any of those very, you have death on the planet."
+    },
+    {
+      "end_timestamp": 2441.8,
+      "id": "551d0513-1f6e-3150-b741-06e566efa6f5",
+      "speaker": null,
+      "start_timestamp": 2435.96,
+      "text": "Well, people know water's good. Folks know oxygen is good and they know the sun's good."
+    },
+    {
+      "end_timestamp": 2448.84,
+      "id": "d6df4952-9735-3d3b-bae6-e6c7feebf8b8",
+      "speaker": null,
+      "start_timestamp": 2442.92,
+      "text": "So what is it? They attack carbon dioxide. Cause it sounds like monoxide Penn and Teller did it"
+    },
+    {
+      "end_timestamp": 2453.32,
+      "id": "a4461998-3dcd-3d87-9016-ae5b0ac7bbe2",
+      "speaker": null,
+      "start_timestamp": 2448.84,
+      "text": "20 years ago. I did it 15 years ago. We ought to go out and do it again. You go out, you give"
+    },
+    {
+      "end_timestamp": 2460.2,
+      "id": "07faa92b-d44f-3b3d-bf9b-f3be4e13cc3a",
+      "speaker": null,
+      "start_timestamp": 2453.32,
+      "text": "people the name of water scientific 95% saving it. And we talked to over a hundred people and"
+    },
+    {
+      "end_timestamp": 2466.36,
+      "id": "d3238f59-691a-3d78-b1b3-51b4aa51d3dd",
+      "speaker": null,
+      "start_timestamp": 2460.2,
+      "text": "only a few went, wait a minute. We're like dihydrogen monoxide. It's everywhere. It's toxic."
+    },
+    {
+      "end_timestamp": 2472.44,
+      "id": "62e9491a-4d2f-35bb-9801-838de5761341",
+      "speaker": null,
+      "start_timestamp": 2466.36,
+      "text": "If you drink too much of it, it can kill you. Um, it, it, you know, it, it, they're like, yes,"
+    },
+    {
+      "end_timestamp": 2479.88,
+      "id": "17b95f61-c522-3f1d-a630-035956cfe29c",
+      "speaker": null,
+      "start_timestamp": 2472.44,
+      "text": "I agree. We should be in that. That's water even better. 99% of the studies we did out of the"
+    },
+    {
+      "end_timestamp": 2486.6,
+      "id": "d001f322-5b6c-3cc3-8a70-425f0b140d4f",
+      "speaker": null,
+      "start_timestamp": 2479.88,
+      "text": "public, unofficial study, if you give them the name of table salt, Oh my God, it sounds like"
+    },
+    {
+      "end_timestamp": 2493.96,
+      "id": "7ff087d7-396c-3011-842b-90a53f955613",
+      "speaker": null,
+      "start_timestamp": 2486.6,
+      "text": "Satan. I mean, table salt has a really scary name and the average person will come to you"
+    },
+    {
+      "end_timestamp": 2498.28,
+      "id": "e610c172-26ad-3651-b0ad-16c0d1609355",
+      "speaker": null,
+      "start_timestamp": 2493.96,
+      "text": "and we'll say, let's be in that. Alex couldn't remember the name of table salt. Yeah. I was"
+    },
+    {
+      "end_timestamp": 2502.92,
+      "id": "6bfdf6cd-103b-30c7-b22a-0164902bb5cc",
+      "speaker": null,
+      "start_timestamp": 2498.28,
+      "text": "going to say, why didn't you say it then? If you're so proud of knowing what it is,"
+    },
+    {
+      "end_timestamp": 2508.2,
+      "id": "af2a564f-963a-3bed-ad1d-3e8b178fb365",
+      "speaker": null,
+      "start_timestamp": 2502.92,
+      "text": "Jordan, I hate to say a demonic word here, but sodium chloride, get the fuck out."
+    },
+    {
+      "end_timestamp": 2516.84,
+      "id": "147b8e3a-1369-322b-b727-7535aa6af66f",
+      "speaker": null,
+      "start_timestamp": 2513.32,
+      "text": "You guys can't see those are Jordan is doing a cross the sign of a cross."
+    },
+    {
+      "end_timestamp": 2526.2,
+      "id": "a9cbca3b-ef2c-3409-8a90-d713556f85a6",
+      "speaker": null,
+      "start_timestamp": 2521.88,
+      "text": "I might be crazy. I might be crazy, but I'm going to toss this out for you, Dan. Yeah. I think"
+    },
+    {
+      "end_timestamp": 2533.08,
+      "id": "2b3ccc80-555e-3e86-a3d4-5bb5d6aee8cc",
+      "speaker": null,
+      "start_timestamp": 2526.2,
+      "text": "somebody who knows what dihydrogen monoxide is yet believes that the president is secretly"
+    },
+    {
+      "end_timestamp": 2539.16,
+      "id": "c24ce9e9-bd9b-3d5b-83b2-e0fefdd43f21",
+      "speaker": null,
+      "start_timestamp": 2533.08,
+      "text": "controlled by the devil is still dumber than somebody who thinks things are what they are,"
+    },
+    {
+      "end_timestamp": 2545.8,
+      "id": "30c1a2cd-190b-3fd7-bbf7-064d05a0109a",
+      "speaker": null,
+      "start_timestamp": 2539.16,
+      "text": "but it's like, just say one. Yeah. That's my belief. And I think that, you know,"
+    },
+    {
+      "end_timestamp": 2549.96,
+      "id": "02d34a76-5d23-3d6f-b8f8-cb5a67a88c3a",
+      "speaker": null,
+      "start_timestamp": 2545.8,
+      "text": "we're leaving all that aside. I think, you know, you may be right. You may be wrong,"
+    },
+    {
+      "end_timestamp": 2556.68,
+      "id": "883bbf0b-a0ec-3bb8-a2ec-b7c28176d1c7",
+      "speaker": null,
+      "start_timestamp": 2549.96,
+      "text": "but my conjecture is sure. Anybody who thinks one of these kinds of studies of the public means"
+    },
+    {
+      "end_timestamp": 2563.48,
+      "id": "16ab76cf-addd-3b7a-8f7d-e9f0946673bb",
+      "speaker": null,
+      "start_timestamp": 2556.68,
+      "text": "anything is a dick. Oh, that's fair. And they don't, they don't have much going on. I mean,"
+    },
+    {
+      "end_timestamp": 2568.12,
+      "id": "c59f2f66-ec9b-309e-b299-65b63acefa3c",
+      "speaker": null,
+      "start_timestamp": 2563.48,
+      "text": "you don't, you don't remember the greatest poster before there was five 38, Dan,"
+    },
+    {
+      "end_timestamp": 2574.6,
+      "id": "3dfbc801-8483-3e67-9b2d-6377049c87e8",
+      "speaker": null,
+      "start_timestamp": 2568.12,
+      "text": "there was Jay Leno. All right. And when you do jaywalking, you get the right results. Yeah. Yeah."
+    },
+    {
+      "end_timestamp": 2584.68,
+      "id": "1d876d94-bc91-3b67-ae08-e7c29b295020",
+      "speaker": null,
+      "start_timestamp": 2574.6,
+      "text": "Yeah. I tricked you scientific poll. Fuck you. Yeah. So we just got one last clip here. And"
+    },
+    {
+      "end_timestamp": 2591.8,
+      "id": "6b13ea10-971a-312f-927f-0e600e98a2f0",
+      "speaker": null,
+      "start_timestamp": 2585.64,
+      "text": "I mean, the, the report ends with Alex sitting in a dark studio and it actually ends with him"
+    },
+    {
+      "end_timestamp": 2597.24,
+      "id": "48c37bd7-e246-32ae-869b-52eeb098dd07",
+      "speaker": null,
+      "start_timestamp": 2591.8,
+      "text": "yelling about how the new world order is going down and just the visual of it, of him sitting"
+    },
+    {
+      "end_timestamp": 2605.8,
+      "id": "8b35a0ce-86d6-3edc-8f90-180285fb069b",
+      "speaker": null,
+      "start_timestamp": 2597.24,
+      "text": "in a completely dark studio. That is like a review. That is Andy daily review. It is exactly"
+    },
+    {
+      "end_timestamp": 2612.36,
+      "id": "d529df0f-1d57-37bf-8598-9726152dd178",
+      "speaker": null,
+      "start_timestamp": 2605.8,
+      "text": "that. It's like, guys, where's everybody. Why is everybody leaving this show? What's going on?"
+    },
+    {
+      "end_timestamp": 2615.8,
+      "id": "c4303179-3548-3574-b93f-ef93797e12be",
+      "speaker": null,
+      "start_timestamp": 2612.36,
+      "text": "Yeah. There's a, if I didn't hate him so much, there'd be a little bit of pathos"
+    },
+    {
+      "end_timestamp": 2623.16,
+      "id": "7466cbab-232a-3a0d-a14f-1a342dbeea16",
+      "speaker": null,
+      "start_timestamp": 2616.6,
+      "text": "in the moment of, of him sitting alone in a dark studio, insisting he was going to destroy"
+    },
+    {
+      "end_timestamp": 2628.68,
+      "id": "e3b9217e-6e8b-3541-801b-8494a58f22b3",
+      "speaker": null,
+      "start_timestamp": 2623.16,
+      "text": "the globalists. But I choose not to end our episode with that clip because honestly it's"
+    },
+    {
+      "end_timestamp": 2635.24,
+      "id": "5752f436-beab-3156-8b0f-b0df1af140d6",
+      "speaker": null,
+      "start_timestamp": 2628.68,
+      "text": "angry. It's kind of funny to think about, but it's, it's meaningless compared to this,"
+    },
+    {
+      "end_timestamp": 2642.52,
+      "id": "48cef07d-1d56-3543-859f-b8972df4bdfb",
+      "speaker": null,
+      "start_timestamp": 2636.12,
+      "text": "this clip, I think says everything that you need to know. I understand the average person doesn't"
+    },
+    {
+      "end_timestamp": 2650.28,
+      "id": "7324ff97-7e0e-3990-b2dc-3199a52813f3",
+      "speaker": null,
+      "start_timestamp": 2642.52,
+      "text": "read 300 books on world war II. Correct. I understand the average person doesn't read a"
+    },
+    {
+      "end_timestamp": 2656.2,
+      "id": "8ce8ce05-a2f5-3bd7-b7d9-f3c50a797a77",
+      "speaker": null,
+      "start_timestamp": 2650.28,
+      "text": "hundred books on Rome. The person doesn't read 50 books on British naval history. The average"
+    },
+    {
+      "end_timestamp": 2661.4,
+      "id": "478a4774-0d4e-3d84-b14d-5c6131545490",
+      "speaker": null,
+      "start_timestamp": 2656.2,
+      "text": "person doesn't read 30 books on us history in the revolutionary war or five books. I disagree."
+    },
+    {
+      "end_timestamp": 2670.2,
+      "id": "ed7eb98d-12b3-3b1a-b444-98044a0c2d39",
+      "speaker": null,
+      "start_timestamp": 2661.4,
+      "text": "The civil war or a couple of hundred books on globalism and perfectly in Zbigniew Brzezinski and"
+    },
+    {
+      "end_timestamp": 2680.04,
+      "id": "b8a6a16a-9784-3a33-aa23-d25a333d40f5",
+      "speaker": null,
+      "start_timestamp": 2671.16,
+      "text": "Klaus Schwab. But I did. Nope. And so I know who these people are just because I happen to"
+    },
+    {
+      "end_timestamp": 2687.24,
+      "id": "8df8d3a2-d24b-3b7c-94e2-8c064cdfd51f",
+      "speaker": null,
+      "start_timestamp": 2680.04,
+      "text": "get into it when I was like nine years old because these books were all over my house."
+    },
+    {
+      "end_timestamp": 2691.8,
+      "id": "ec2499ac-aeb5-36f6-be01-153fb0527907",
+      "speaker": null,
+      "start_timestamp": 2688.52,
+      "text": "And so I had a piece of chip earlier, so I keep licking my lips."
+    },
+    {
+      "end_timestamp": 2697.64,
+      "id": "881e4ce3-5a9f-3ed3-b647-b96348e3c161",
+      "speaker": null,
+      "start_timestamp": 2694.6,
+      "text": "Cause all the stores are closed. There's no food. The grocery stores are all closed."
+    },
+    {
+      "end_timestamp": 2701.16,
+      "id": "2a8389e3-12bb-3ea7-adc9-06fa8b01daff",
+      "speaker": null,
+      "start_timestamp": 2698.2,
+      "text": "So I went out and got the crew some food, got some potato chips and"
+    },
+    {
+      "end_timestamp": 2707.32,
+      "id": "745b4b39-0265-3ddc-abb5-35a777e16cd1",
+      "speaker": null,
+      "start_timestamp": 2703.24,
+      "text": "some candy bars. That's that. That's about all we get right now. Cause the power's off"
+    },
+    {
+      "end_timestamp": 2712.12,
+      "id": "2d3a084b-ca43-3c98-9bc3-f4da2b3658db",
+      "speaker": null,
+      "start_timestamp": 2707.32,
+      "text": "because the government shut the power off by shutting the power plants down."
+    },
+    {
+      "end_timestamp": 2716.68,
+      "id": "f1be71cf-d919-351d-9cb2-72f5f536663b",
+      "speaker": null,
+      "start_timestamp": 2712.12,
+      "text": "Yeah. I think that's a good summation of Alex. Just like bragging about books he's read that"
+    },
+    {
+      "end_timestamp": 2721.48,
+      "id": "270b44a6-6333-3d51-82ba-7caed96a1130",
+      "speaker": null,
+      "start_timestamp": 2716.68,
+      "text": "he hasn't read. What hundred books are about Klaus Schwab? Get the fuck out of here."
+    },
+    {
+      "end_timestamp": 2727.88,
+      "id": "21f90399-b015-3bb3-b876-56f3b0c2ae9a",
+      "speaker": null,
+      "start_timestamp": 2723.32,
+      "text": "I don't know. He's just rambling about how well ready he is. And he's not like normal people"
+    },
+    {
+      "end_timestamp": 2732.28,
+      "id": "69b73f1c-5242-376b-90b6-6fae946bc686",
+      "speaker": null,
+      "start_timestamp": 2727.88,
+      "text": "cause he's, he's figured all this out because he's so smart and read all this shit. And then"
+    },
+    {
+      "end_timestamp": 2738.6,
+      "id": "33540803-541f-34b8-bbe8-89ccce53b9f5",
+      "speaker": null,
+      "start_timestamp": 2732.28,
+      "text": "he gets completely derailed by a chip. Just, Oh, I ate a chip earlier. That's all we get now."
+    },
+    {
+      "end_timestamp": 2747.32,
+      "id": "0766e631-f92e-3c34-b624-cce9763d4a33",
+      "speaker": null,
+      "start_timestamp": 2738.6,
+      "text": "Cause the power's out, man. The greatest minds of my generation. I saw it taken down by a little"
+    },
+    {
+      "end_timestamp": 2753.64,
+      "id": "201b217c-01f5-3741-bab9-1fb50f27abd9",
+      "speaker": null,
+      "start_timestamp": 2747.32,
+      "text": "chip in the tooth for want of a toothpick. The greatest minds of my generation have been torn"
+    },
+    {
+      "end_timestamp": 2763.8,
+      "id": "15939c97-07e7-3dee-b572-c8c71abb82e5",
+      "speaker": null,
+      "start_timestamp": 2753.64,
+      "text": "asunder. Yeah. This is a bleak. Yeah. That's not good. So I, yeah, I just wanted to check in with"
+    },
+    {
+      "end_timestamp": 2769.0,
+      "id": "3207a29c-859b-3d37-97fa-e30c3d967a62",
+      "speaker": null,
+      "start_timestamp": 2763.8,
+      "text": "you and let you know how things go. We're going for Alex. And it turns out, yeah, it turns out"
+    },
+    {
+      "end_timestamp": 2774.44,
+      "id": "4e486972-bb45-3693-9e5f-1b26c6fed060",
+      "speaker": null,
+      "start_timestamp": 2769.0,
+      "text": "this is how it's going. Last we, last we know of him at the time that we're recording this,"
+    },
+    {
+      "end_timestamp": 2780.6,
+      "id": "a5592eeb-7a1d-3956-b989-d07069200bff",
+      "speaker": null,
+      "start_timestamp": 2774.44,
+      "text": "he's just sitting alone in a dark studio and no, no telling when he'll be back."
+    },
+    {
+      "end_timestamp": 2785.72,
+      "id": "90129aa4-833b-33fd-a2b5-a655baac2bfd",
+      "speaker": null,
+      "start_timestamp": 2780.6,
+      "text": "I, I do like the idea of somebody showing up at the office tomorrow,"
+    },
+    {
+      "end_timestamp": 2790.36,
+      "id": "adb5191e-0ba7-36ae-86ee-eb7b4924da99",
+      "speaker": null,
+      "start_timestamp": 2785.72,
+      "text": "turning the lights off and Alex is just sitting at the desk. Just like eyes haven't"
+    },
+    {
+      "end_timestamp": 2795.48,
+      "id": "2d58de3f-2298-3017-8011-5f49f2694827",
+      "speaker": null,
+      "start_timestamp": 2790.36,
+      "text": "blunt for 20 hours. Just Aaron. He's actually wearing a tie. Yeah."
+    },
+    {
+      "end_timestamp": 2803.08,
+      "id": "5ec092d4-e031-3310-9c30-c9d7e27b2322",
+      "speaker": null,
+      "start_timestamp": 2797.32,
+      "text": "It's more put together than usual. I slept in the office for the first time in a long time."
+    },
+    {
+      "end_timestamp": 2807.0,
+      "id": "42e1aa9f-ac29-3f78-95f5-5fe0d5fc322a",
+      "speaker": null,
+      "start_timestamp": 2803.08,
+      "text": "It feels really great. Really great guys. I didn't, I don't know if you know this,"
+    },
+    {
+      "end_timestamp": 2815.88,
+      "id": "e22ccca5-34ea-3d04-9835-6d0b3e6a2787",
+      "speaker": null,
+      "start_timestamp": 2807.0,
+      "text": "but you can read in the dark, probably have better comprehension of stuff than he does"
+    },
+    {
+      "end_timestamp": 2821.32,
+      "id": "2d5de39f-9628-33b5-8c03-8897538f3946",
+      "speaker": null,
+      "start_timestamp": 2815.88,
+      "text": "at this point. Guys. I started reading books with my hands, even if they aren't in braille,"
+    },
+    {
+      "end_timestamp": 2825.24,
+      "id": "a279d065-5713-368d-98db-103a7e3ebc16",
+      "speaker": null,
+      "start_timestamp": 2821.32,
+      "text": "I'm figuring it out, man. Yeah. Really doing it this time. Did you know that"
+    },
+    {
+      "end_timestamp": 2830.28,
+      "id": "df28caf9-52f9-307d-905e-1917bbd042c2",
+      "speaker": null,
+      "start_timestamp": 2825.24,
+      "text": "Klaus Schwab didn't say all the stuff I said, he says, we're going to be real trouble if people"
+    },
+    {
+      "end_timestamp": 2838.52,
+      "id": "4c612753-85a2-31fc-9397-b600f08c7292",
+      "speaker": null,
+      "start_timestamp": 2830.28,
+      "text": "find that out. Oh shit. Oh no. So, uh, Jordan will be back on Friday, but, uh, until then,"
+    },
+    {
+      "end_timestamp": 2844.04,
+      "id": "5c167b38-9df3-32aa-b5c9-40aa1771e703",
+      "speaker": null,
+      "start_timestamp": 2838.52,
+      "text": "uh, we have a website. We do have a website. It's knowledge fight.com. Yep. We're also on Twitter."
+    },
+    {
+      "end_timestamp": 2848.12,
+      "id": "5b5c8be5-1ee9-316e-bfad-086df75adef5",
+      "speaker": null,
+      "start_timestamp": 2844.04,
+      "text": "We are on Twitter. It's at knowledge. We're fighting that go to bed. Jordan was on Facebook."
+    },
+    {
+      "end_timestamp": 2853.48,
+      "id": "3d717916-8ae9-3c2c-8b6b-475e656baeea",
+      "speaker": null,
+      "start_timestamp": 2848.12,
+      "text": "We are down shy Tuesday. And if you could please find a local charity or bath under your"
+    },
+    {
+      "end_timestamp": 2857.56,
+      "id": "1a3e7008-f655-3b96-9c2f-0d467d4e66d1",
+      "speaker": null,
+      "start_timestamp": 2853.48,
+      "text": "area to help out people do in a God's work. Yeah. We'll be back. But until then I'm Neo,"
+    },
+    {
+      "end_timestamp": 2863.72,
+      "id": "847428c3-1c7f-3d22-a8b1-784a3cc75c71",
+      "speaker": null,
+      "start_timestamp": 2857.56,
+      "text": "I'm Leo. I'm DZX Clark. I'm Daryl Rundis. I, uh, uh, uh, uh, we'll hope the best for everybody"
+    },
+    {
+      "end_timestamp": 2866.2,
+      "id": "9f86e5a2-baa9-39b9-97f9-8553e869c298",
+      "speaker": null,
+      "start_timestamp": 2863.72,
+      "text": "going through tough times with the weather all around the country."
+    },
+    {
+      "end_timestamp": 2868.2,
+      "id": "c72244f7-4d18-3dc9-9319-107a82215545",
+      "speaker": null,
+      "start_timestamp": 2866.2,
+      "text": "Andy in Kansas, you're on the air. Thanks for holding."
+    },
+    {
+      "end_timestamp": 2885.96,
+      "id": "240b66e8-41f7-3fa0-a2d0-5174d16bea3c",
+      "speaker": null,
+      "start_timestamp": 2868.2,
+      "text": "Well, Alex, I'm a first time caller. I'm a huge fan. I love your work."
+    }
+  ],
+  "history": {
+    "original_format": "vtt",
+    "type": "whisper"
+  }
+}

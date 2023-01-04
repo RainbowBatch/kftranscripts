@@ -1,0 +1,6121 @@
+{
+  "audio_identifier": "KF_521",
+  "audio_url": "https://traffic.libsyn.com/secure/knowledgefight/DaveDoben.mp3",
+  "blocks": [
+    {
+      "end_timestamp": 12.96,
+      "id": "9ec87421-b559-3ecd-987e-69511473cd9c",
+      "speaker": null,
+      "start_timestamp": 0.0,
+      "text": "N-N-N-N-N-N-N-Knowledge Fight"
+    },
+    {
+      "end_timestamp": 19.6,
+      "id": "255f104a-c2ad-31b6-a443-d1a902da2d7a",
+      "speaker": null,
+      "start_timestamp": 12.96,
+      "text": "Dan and Jordan, I am sweating."
+    },
+    {
+      "end_timestamp": 21.4,
+      "id": "85c65f43-da55-3cff-abbc-57fa2167eed9",
+      "speaker": null,
+      "start_timestamp": 19.6,
+      "text": "Knowledgefight.com, it's time to pray."
+    },
+    {
+      "end_timestamp": 23.92,
+      "id": "6eb2503f-e2b2-30dd-ac0d-8f53d2e44055",
+      "speaker": null,
+      "start_timestamp": 21.4,
+      "text": "I have great respect for Knowledgefight."
+    },
+    {
+      "end_timestamp": 24.92,
+      "id": "f41d4d4c-542d-35a8-8aa7-850e3f8afe18",
+      "speaker": null,
+      "start_timestamp": 23.92,
+      "text": "Knowledgefight."
+    },
+    {
+      "end_timestamp": 29.36,
+      "id": "81b5794b-4e53-3c37-b715-a6a10001ec16",
+      "speaker": null,
+      "start_timestamp": 24.92,
+      "text": "I'm sick of them posing as if they're the good guys saying we are the bad guys."
+    },
+    {
+      "end_timestamp": 30.36,
+      "id": "9c11aee3-de2d-3420-98d2-e76ebdb809d2",
+      "speaker": null,
+      "start_timestamp": 29.36,
+      "text": "I love you."
+    },
+    {
+      "end_timestamp": 35.36,
+      "id": "60ca714b-39fb-3a4d-84ca-14f725ffdad9",
+      "speaker": null,
+      "start_timestamp": 30.36,
+      "text": "Challenge Fight, Dan and Jordan, Knowledgefight."
+    },
+    {
+      "end_timestamp": 42.36,
+      "id": "309992d4-49f7-3a94-855a-c421da55482e",
+      "speaker": null,
+      "start_timestamp": 35.36,
+      "text": "Need money, Andy and Kansys, Andy and Kansys."
+    },
+    {
+      "end_timestamp": 47.36,
+      "id": "25b974fa-b208-3399-9b74-c58381925685",
+      "speaker": null,
+      "start_timestamp": 42.36,
+      "text": "Stop it, Andy and Kansys, It's time to pray."
+    },
+    {
+      "end_timestamp": 49.36,
+      "id": "70c23756-1d73-3810-a18f-6451f80089de",
+      "speaker": null,
+      "start_timestamp": 47.36,
+      "text": "Andy and Kansys you're on the air, thanks for holding me."
+    },
+    {
+      "end_timestamp": 51.36,
+      "id": "ddf53b42-b9c8-3224-a8f3-206e56bc9fcd",
+      "speaker": null,
+      "start_timestamp": 49.36,
+      "text": "Hello Alex, I'm a first time caller, I'm a huge fan."
+    },
+    {
+      "end_timestamp": 53.36,
+      "id": "5221bcf9-2046-3e6f-bbf8-4e6dfe9695e1",
+      "speaker": null,
+      "start_timestamp": 51.36,
+      "text": "I love your world."
+    },
+    {
+      "end_timestamp": 54.36,
+      "id": "d2a91b19-a6f5-3e47-a276-f67dd3165be8",
+      "speaker": null,
+      "start_timestamp": 53.36,
+      "text": "I'm Dan."
+    },
+    {
+      "end_timestamp": 55.36,
+      "id": "071b0513-ec0d-35b0-9505-dd03eca7a321",
+      "speaker": null,
+      "start_timestamp": 54.36,
+      "text": "I'm Jordan."
+    },
+    {
+      "end_timestamp": 64.52,
+      "id": "df16b194-62ca-38dd-88ef-a5405caa4f46",
+      "speaker": null,
+      "start_timestamp": 55.36,
+      "text": "We're a couple dudes that like to sit around, drink novelty beverages, and talk a little"
+    },
+    {
+      "end_timestamp": 65.84,
+      "id": "2f024482-8e4b-32dc-b055-0bc19e37a654",
+      "speaker": null,
+      "start_timestamp": 64.52,
+      "text": "bit about Alex Jones."
+    },
+    {
+      "end_timestamp": 67.56,
+      "id": "5c93b958-3629-3f23-883e-ff07046a8bb4",
+      "speaker": null,
+      "start_timestamp": 65.84,
+      "text": "Oh, indeed we are, Dan."
+    },
+    {
+      "end_timestamp": 68.56,
+      "id": "9aee2a11-b738-32d7-86e5-3b5f3600f4c1",
+      "speaker": null,
+      "start_timestamp": 67.56,
+      "text": "Jordan."
+    },
+    {
+      "end_timestamp": 69.56,
+      "id": "d90a7d6d-addf-3ef6-a6b4-cacdfa536bd2",
+      "speaker": null,
+      "start_timestamp": 68.56,
+      "text": "Dan!"
+    },
+    {
+      "end_timestamp": 70.56,
+      "id": "fb5ff351-c81c-3976-964c-c3e56e71543e",
+      "speaker": null,
+      "start_timestamp": 69.56,
+      "text": "Jordan."
+    },
+    {
+      "end_timestamp": 71.56,
+      "id": "eb29898d-c7bb-3c35-938a-353d352fbc3e",
+      "speaker": null,
+      "start_timestamp": 70.56,
+      "text": "Quick question for you."
+    },
+    {
+      "end_timestamp": 72.56,
+      "id": "b48e66c3-4f4f-3628-9608-099541f2794f",
+      "speaker": null,
+      "start_timestamp": 71.56,
+      "text": "Yes, sir."
+    },
+    {
+      "end_timestamp": 73.56,
+      "id": "bba8d05d-defb-36b7-b1e5-b7961de427c5",
+      "speaker": null,
+      "start_timestamp": 72.56,
+      "text": "What's your bright spot today?"
+    },
+    {
+      "end_timestamp": 74.56,
+      "id": "e08cf966-4e07-3089-9599-870bd0c24f56",
+      "speaker": null,
+      "start_timestamp": 73.56,
+      "text": "My bright spot today is I'm talking into a new microphone."
+    },
+    {
+      "end_timestamp": 75.56,
+      "id": "edc30954-ac8e-3415-ab14-a31cc3b708bf",
+      "speaker": null,
+      "start_timestamp": 74.56,
+      "text": "Oh, that's right."
+    },
+    {
+      "end_timestamp": 76.56,
+      "id": "4e328014-dab6-3f2d-9f50-1486b69bc272",
+      "speaker": null,
+      "start_timestamp": 75.56,
+      "text": "We are talking to a new microphone."
+    },
+    {
+      "end_timestamp": 77.56,
+      "id": "ee71a4df-ebbe-3e5b-80b1-016ef396e8de",
+      "speaker": null,
+      "start_timestamp": 76.56,
+      "text": "They look the same."
+    },
+    {
+      "end_timestamp": 78.56,
+      "id": "50ac4cb6-3a6a-387c-abfd-20ae0bcb87b9",
+      "speaker": null,
+      "start_timestamp": 77.56,
+      "text": "I completely forgot."
+    },
+    {
+      "end_timestamp": 79.56,
+      "id": "b8209058-8fac-3b56-bf46-8b5e84f4593e",
+      "speaker": null,
+      "start_timestamp": 78.56,
+      "text": "Exactly the same."
+    },
+    {
+      "end_timestamp": 80.56,
+      "id": "f07ee378-77d4-3c7a-aeae-03f8c0ec228e",
+      "speaker": null,
+      "start_timestamp": 79.56,
+      "text": "They're the same."
+    },
+    {
+      "end_timestamp": 81.56,
+      "id": "24f76598-a0c5-3f1b-9b86-4da889be48a4",
+      "speaker": null,
+      "start_timestamp": 80.56,
+      "text": "Still cheap as a pad microphone."
+    },
+    {
+      "end_timestamp": 82.56,
+      "id": "d37e7ed1-f096-3bc9-bd80-f769ae20a78c",
+      "speaker": null,
+      "start_timestamp": 81.56,
+      "text": "Yep."
+    },
+    {
+      "end_timestamp": 83.56,
+      "id": "65c6ad57-f62c-314a-9d91-0d1b468c1bce",
+      "speaker": null,
+      "start_timestamp": 82.56,
+      "text": "But they're new."
+    },
+    {
+      "end_timestamp": 88.32,
+      "id": "7a0be39c-68ec-3f0d-b880-dcea211e85b1",
+      "speaker": null,
+      "start_timestamp": 83.56,
+      "text": "I noticed some poppling and crackling in a couple of our recent episodes."
+    },
+    {
+      "end_timestamp": 92.92,
+      "id": "a6f20004-7c65-3833-b656-3d73ab58b651",
+      "speaker": null,
+      "start_timestamp": 88.32,
+      "text": "I decided it was time to get at least new cords, and man, this new windscreen feels"
+    },
+    {
+      "end_timestamp": 94.6,
+      "id": "f277ba54-225a-3ffa-ab29-daa20c23b57f",
+      "speaker": null,
+      "start_timestamp": 92.92,
+      "text": "good on my face."
+    },
+    {
+      "end_timestamp": 95.6,
+      "id": "55777f82-8d5a-3f34-8ff4-7e568b6f2419",
+      "speaker": null,
+      "start_timestamp": 94.6,
+      "text": "It does."
+    },
+    {
+      "end_timestamp": 97.86,
+      "id": "649b2169-b0ee-3d95-bc26-2e4e0b20a403",
+      "speaker": null,
+      "start_timestamp": 95.6,
+      "text": "It's much smoother."
+    },
+    {
+      "end_timestamp": 101.88,
+      "id": "72eb2f11-ae9d-3c83-8457-3ba70d5632ab",
+      "speaker": null,
+      "start_timestamp": 97.86,
+      "text": "It doesn't have years of other people's faces on it."
+    },
+    {
+      "end_timestamp": 102.88,
+      "id": "4774bab4-a1d3-3cc3-959f-d1bcdee7dd23",
+      "speaker": null,
+      "start_timestamp": 101.88,
+      "text": "Yeah, pre-COVID."
+    },
+    {
+      "end_timestamp": 103.88,
+      "id": "ae0276b9-5d02-34ed-8ab4-3130cfd0cf4e",
+      "speaker": null,
+      "start_timestamp": 102.88,
+      "text": "Pre-COVID, other people's faces."
+    },
+    {
+      "end_timestamp": 106.8,
+      "id": "7eaec426-9536-39de-87ea-12a95b3b8608",
+      "speaker": null,
+      "start_timestamp": 103.88,
+      "text": "You're the only one who's touched it since then."
+    },
+    {
+      "end_timestamp": 109.4,
+      "id": "67ddbd3b-b494-356a-870d-6bbc5b455f4a",
+      "speaker": null,
+      "start_timestamp": 106.8,
+      "text": "For four years, we're the only ones who've touched it, yes."
+    },
+    {
+      "end_timestamp": 111.6,
+      "id": "5b598b1a-164a-345f-ad3d-6ec42a163b6f",
+      "speaker": null,
+      "start_timestamp": 109.4,
+      "text": "Yeah, it's nice though."
+    },
+    {
+      "end_timestamp": 120.32,
+      "id": "91ed3b8e-a584-3607-a63d-4189e35c8d9b",
+      "speaker": null,
+      "start_timestamp": 111.6,
+      "text": "I bought a desk mic stand as well, but it does not attach to the mic holder, so I still"
+    },
+    {
+      "end_timestamp": 129.4,
+      "id": "f0fcc29a-86aa-38bc-8c1d-f8bfc20f2e1e",
+      "speaker": null,
+      "start_timestamp": 120.32,
+      "text": "have some work to do on that, but yeah, it's my weekend warrior type project for today."
+    },
+    {
+      "end_timestamp": 130.4,
+      "id": "ce722d83-5ba0-3b95-9db7-c8287d737a46",
+      "speaker": null,
+      "start_timestamp": 129.4,
+      "text": "I love it."
+    },
+    {
+      "end_timestamp": 131.4,
+      "id": "d533770a-dd99-3352-9eb5-11b39eb09cc0",
+      "speaker": null,
+      "start_timestamp": 130.4,
+      "text": "How about you?"
+    },
+    {
+      "end_timestamp": 143.52,
+      "id": "7781706f-3457-3240-a239-02bd171803de",
+      "speaker": null,
+      "start_timestamp": 131.4,
+      "text": "Similar weekend warrior type project, Dan, I have for probably 13 years lived in apartments,"
+    },
+    {
+      "end_timestamp": 146.96,
+      "id": "471940c9-9f84-35d3-9434-5ba835ca423b",
+      "speaker": null,
+      "start_timestamp": 143.52,
+      "text": "in apartment buildings with people around me."
+    },
+    {
+      "end_timestamp": 153.16,
+      "id": "bfbdd1ab-d9d1-3774-b695-a678ed0a2156",
+      "speaker": null,
+      "start_timestamp": 146.96,
+      "text": "And so when I left for apartment living, I also left my drum set behind."
+    },
+    {
+      "end_timestamp": 154.76,
+      "id": "595c1cba-760d-364f-93df-795042af1b3c",
+      "speaker": null,
+      "start_timestamp": 153.16,
+      "text": "I miss it."
+    },
+    {
+      "end_timestamp": 156.44,
+      "id": "72078cd2-6652-3903-b703-16b5af5e87ad",
+      "speaker": null,
+      "start_timestamp": 154.76,
+      "text": "Your guy likes to throw some sticks around."
+    },
+    {
+      "end_timestamp": 163.12,
+      "id": "15e75c22-aa76-39ae-a5f5-cf08a6baf279",
+      "speaker": null,
+      "start_timestamp": 156.44,
+      "text": "I played drums since I was like eight years old, and then I had to stop at 19 for the"
+    },
+    {
+      "end_timestamp": 165.32,
+      "id": "ad10854f-5f2c-3f48-8165-7cfa5582d3bc",
+      "speaker": null,
+      "start_timestamp": 163.12,
+      "text": "aforementioned reasons."
+    },
+    {
+      "end_timestamp": 171.88,
+      "id": "19ddb4ec-abe5-38ad-9293-1ecf19ed5371",
+      "speaker": null,
+      "start_timestamp": 165.32,
+      "text": "And it has been difficult, and finally I realized that you can get an electric drum kit for"
+    },
+    {
+      "end_timestamp": 173.8,
+      "id": "f833b32b-72e0-3cbb-a1a7-871bd89c3626",
+      "speaker": null,
+      "start_timestamp": 171.88,
+      "text": "like 300 bucks."
+    },
+    {
+      "end_timestamp": 174.8,
+      "id": "bde07113-98e8-3381-b34b-9748a55c40a2",
+      "speaker": null,
+      "start_timestamp": 173.8,
+      "text": "So I got one."
+    },
+    {
+      "end_timestamp": 175.8,
+      "id": "57a56173-6dc5-3288-ba83-940494d2e5fa",
+      "speaker": null,
+      "start_timestamp": 174.8,
+      "text": "Wow."
+    },
+    {
+      "end_timestamp": 176.8,
+      "id": "99aeeecc-e4e4-3923-aba0-3602731e2b67",
+      "speaker": null,
+      "start_timestamp": 175.8,
+      "text": "And it's fantastic."
+    },
+    {
+      "end_timestamp": 177.96,
+      "id": "524ca30f-b9ac-354f-a6dc-03d6b786daf9",
+      "speaker": null,
+      "start_timestamp": 176.8,
+      "text": "Wow, how about that?"
+    },
+    {
+      "end_timestamp": 178.96,
+      "id": "de1d4303-3a34-3051-a6e5-a9336683d690",
+      "speaker": null,
+      "start_timestamp": 177.96,
+      "text": "It's very cheap."
+    },
+    {
+      "end_timestamp": 179.96,
+      "id": "d0df62dc-20a0-376d-a6da-6cb8f1f941d6",
+      "speaker": null,
+      "start_timestamp": 178.96,
+      "text": "It's garbage."
+    },
+    {
+      "end_timestamp": 180.96,
+      "id": "52b63579-e17b-3c5a-bda1-e673d4086418",
+      "speaker": null,
+      "start_timestamp": 179.96,
+      "text": "I'm going to break it in a week."
+    },
+    {
+      "end_timestamp": 181.96,
+      "id": "8443fbb3-3a63-343c-b36b-c6c5024fda11",
+      "speaker": null,
+      "start_timestamp": 180.96,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 182.96,
+      "id": "b43012d8-6f00-3f73-b446-f2329f961953",
+      "speaker": null,
+      "start_timestamp": 181.96,
+      "text": "It's going to be like when I played rock band."
+    },
+    {
+      "end_timestamp": 183.96,
+      "id": "56499d72-4431-30fe-92e7-97eba41db4d2",
+      "speaker": null,
+      "start_timestamp": 182.96,
+      "text": "Yeah, exactly."
+    },
+    {
+      "end_timestamp": 184.96,
+      "id": "e8b3e5a9-77fe-3195-a062-550a30acb6eb",
+      "speaker": null,
+      "start_timestamp": 183.96,
+      "text": "Exactly."
+    },
+    {
+      "end_timestamp": 185.96,
+      "id": "bdf9c7dd-d4e3-3cc9-8a0b-755a2df9e998",
+      "speaker": null,
+      "start_timestamp": 184.96,
+      "text": "Just destroying those pads."
+    },
+    {
+      "end_timestamp": 186.96,
+      "id": "828e9611-136a-3b13-beb6-adc1e4b40337",
+      "speaker": null,
+      "start_timestamp": 185.96,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 187.96,
+      "id": "108617d7-5b19-38a3-95eb-f10b14f94269",
+      "speaker": null,
+      "start_timestamp": 186.96,
+      "text": "I'm going to die to death."
+    },
+    {
+      "end_timestamp": 190.44,
+      "id": "d39a4269-ce68-3a26-ad10-21e45e687ea4",
+      "speaker": null,
+      "start_timestamp": 187.96,
+      "text": "But it is so good to get back to drums."
+    },
+    {
+      "end_timestamp": 192.32,
+      "id": "a78d69a5-3f70-366d-a4ea-62b232578c71",
+      "speaker": null,
+      "start_timestamp": 190.44,
+      "text": "Somehow it's still going to be too loud for your partner."
+    },
+    {
+      "end_timestamp": 193.32,
+      "id": "ac6b3b40-4444-3ded-81d2-faffbe06e7b7",
+      "speaker": null,
+      "start_timestamp": 192.32,
+      "text": "Totally."
+    },
+    {
+      "end_timestamp": 194.32,
+      "id": "8c382a56-ff06-304d-8af1-021fa734c392",
+      "speaker": null,
+      "start_timestamp": 193.32,
+      "text": "She's still going to be like, keep it down."
+    },
+    {
+      "end_timestamp": 201.24,
+      "id": "364a1c65-75cd-393c-b4b6-ca376f3ab9f6",
+      "speaker": null,
+      "start_timestamp": 194.32,
+      "text": "Well, I've also, here's the weekend warrior, the last time that I tried having a conversation"
+    },
+    {
+      "end_timestamp": 205.28,
+      "id": "50298924-57d8-34ac-bd2f-4045b7dd86b2",
+      "speaker": null,
+      "start_timestamp": 201.24,
+      "text": "while she was at work, our rooms share a wall."
+    },
+    {
+      "end_timestamp": 206.28,
+      "id": "abb33376-b96f-3683-830e-0844da3f8efc",
+      "speaker": null,
+      "start_timestamp": 205.28,
+      "text": "Right, right."
+    },
+    {
+      "end_timestamp": 207.28,
+      "id": "446c52f4-3e83-3f86-b443-dc600bf5e4d0",
+      "speaker": null,
+      "start_timestamp": 206.28,
+      "text": "And I am me."
+    },
+    {
+      "end_timestamp": 208.28,
+      "id": "0e36b90b-ed11-313d-a00c-ca50d70cbf0c",
+      "speaker": null,
+      "start_timestamp": 207.28,
+      "text": "Loud."
+    },
+    {
+      "end_timestamp": 209.28,
+      "id": "6fc932ed-76d7-3049-a305-1cd9395e27c2",
+      "speaker": null,
+      "start_timestamp": 208.28,
+      "text": "Loud."
+    },
+    {
+      "end_timestamp": 212.88,
+      "id": "9ea87f1d-01e7-3176-927b-ec39660d25be",
+      "speaker": null,
+      "start_timestamp": 209.28,
+      "text": "And I have a tendency to toss language about in jest."
+    },
+    {
+      "end_timestamp": 214.8,
+      "id": "5cfd1c08-5e63-3cc4-8b67-57f567b2cec8",
+      "speaker": null,
+      "start_timestamp": 212.88,
+      "text": "Not to fit for the classroom."
+    },
+    {
+      "end_timestamp": 215.8,
+      "id": "ebcd5dd2-62f2-3270-befd-b510ae3b5450",
+      "speaker": null,
+      "start_timestamp": 214.8,
+      "text": "No."
+    },
+    {
+      "end_timestamp": 222.52,
+      "id": "0e63b9e9-d809-3601-a3ad-e3bfb65cd735",
+      "speaker": null,
+      "start_timestamp": 215.8,
+      "text": "Her high school students have heard me speak, so I bought some soundproofing shit, so my"
+    },
+    {
+      "end_timestamp": 226.32,
+      "id": "d894d753-db87-3a5c-aadb-be4a6ca370d5",
+      "speaker": null,
+      "start_timestamp": 222.52,
+      "text": "entire room is going to be turned into a studio, essentially."
+    },
+    {
+      "end_timestamp": 227.32,
+      "id": "c9d794f0-0b7e-30d7-a33f-5a425919c780",
+      "speaker": null,
+      "start_timestamp": 226.32,
+      "text": "Good luck with that."
+    },
+    {
+      "end_timestamp": 229.76,
+      "id": "537e394f-bba1-356c-9fef-3d9f89e4082f",
+      "speaker": null,
+      "start_timestamp": 227.32,
+      "text": "Soundproofing is kind of tough unless you can get inside the walls."
+    },
+    {
+      "end_timestamp": 231.28,
+      "id": "575889cf-3db0-3961-bf39-bd8da5cbe3a2",
+      "speaker": null,
+      "start_timestamp": 229.76,
+      "text": "Yeah, I'm working on it."
+    },
+    {
+      "end_timestamp": 232.28,
+      "id": "0b747f7b-8a84-3880-a2ee-22c9c7d64d6f",
+      "speaker": null,
+      "start_timestamp": 231.28,
+      "text": "Well, that's fun."
+    },
+    {
+      "end_timestamp": 236.32,
+      "id": "e67d4284-379e-3a70-a76a-b490e4a38aa7",
+      "speaker": null,
+      "start_timestamp": 232.28,
+      "text": "I hope you have some nice fun Dave Grohl-esque drumming adventures in your future."
+    },
+    {
+      "end_timestamp": 237.32,
+      "id": "50b29013-8c09-3b5e-8124-8b22465f7da4",
+      "speaker": null,
+      "start_timestamp": 236.32,
+      "text": "Love it."
+    },
+    {
+      "end_timestamp": 240.48,
+      "id": "f9b514b6-7f69-3eff-9b84-8baf3eae6bce",
+      "speaker": null,
+      "start_timestamp": 237.32,
+      "text": "Hey, who hasn't played along to Queens of the Stone Age songs for the dead?"
+    },
+    {
+      "end_timestamp": 242.16,
+      "id": "d90ad188-6b66-353f-a52b-078483d2ccf3",
+      "speaker": null,
+      "start_timestamp": 240.48,
+      "text": "I have, only on rock band."
+    },
+    {
+      "end_timestamp": 243.16,
+      "id": "6c72b911-d2d0-3661-a03d-7f71486b55c5",
+      "speaker": null,
+      "start_timestamp": 242.16,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 244.16,
+      "id": "a43c00be-cf44-3b25-bf1f-3529ccad0231",
+      "speaker": null,
+      "start_timestamp": 243.16,
+      "text": "But see what I'm saying?"
+    },
+    {
+      "end_timestamp": 245.16,
+      "id": "657f3706-0a4d-36ae-b416-3b2dfc1cf8f3",
+      "speaker": null,
+      "start_timestamp": 244.16,
+      "text": "You're not even a drummer and you've played along with it."
+    },
+    {
+      "end_timestamp": 247.0,
+      "id": "941cbeaf-c6ab-35de-888c-4b0ff1d93142",
+      "speaker": null,
+      "start_timestamp": 245.16,
+      "text": "You've never played Everlong on rock band."
+    },
+    {
+      "end_timestamp": 249.04,
+      "id": "4f5a8cf6-2770-3838-8f54-912bf1ce013a",
+      "speaker": null,
+      "start_timestamp": 247.0,
+      "text": "Well, that one's fairly easy."
+    },
+    {
+      "end_timestamp": 250.04,
+      "id": "1f99f274-8143-377c-b1e1-cb96054899bf",
+      "speaker": null,
+      "start_timestamp": 249.04,
+      "text": "Not on expert."
+    },
+    {
+      "end_timestamp": 254.88,
+      "id": "7dbbabb5-726c-351d-80d9-5e7c96b69b0d",
+      "speaker": null,
+      "start_timestamp": 250.04,
+      "text": "Yeah, you don't know your sixteenth notes, brah?"
+    },
+    {
+      "end_timestamp": 255.88,
+      "id": "cd9357f1-907b-33ef-b5dd-50ff5cffc9f8",
+      "speaker": null,
+      "start_timestamp": 254.88,
+      "text": "No, I don't."
+    },
+    {
+      "end_timestamp": 257.68,
+      "id": "d5e80f72-69fb-3d40-9f84-4726ed1cc32d",
+      "speaker": null,
+      "start_timestamp": 255.88,
+      "text": "It's very fast."
+    },
+    {
+      "end_timestamp": 259.68,
+      "id": "9321d5f7-ab5b-3907-aa27-54db356f0710",
+      "speaker": null,
+      "start_timestamp": 257.68,
+      "text": "My foot gets tired."
+    },
+    {
+      "end_timestamp": 261.44,
+      "id": "a7395333-d67a-34fd-9e51-8bc995c913dc",
+      "speaker": null,
+      "start_timestamp": 259.68,
+      "text": "I miss rock band."
+    },
+    {
+      "end_timestamp": 262.96,
+      "id": "c2a5f44b-735b-320e-98a6-97b2db8e404f",
+      "speaker": null,
+      "start_timestamp": 261.44,
+      "text": "You let the sticks do the work."
+    },
+    {
+      "end_timestamp": 264.6,
+      "id": "1608ee14-f3fc-3ddc-ab52-f69b8fbcd913",
+      "speaker": null,
+      "start_timestamp": 262.96,
+      "text": "That's what a lot of people don't know about drums."
+    },
+    {
+      "end_timestamp": 266.84,
+      "id": "0defa72a-22ae-30e6-be35-418e67b50623",
+      "speaker": null,
+      "start_timestamp": 264.6,
+      "text": "You think you gotta hit it with your arm."
+    },
+    {
+      "end_timestamp": 267.84,
+      "id": "f678579d-a771-3aee-ab3b-b273afe7380d",
+      "speaker": null,
+      "start_timestamp": 266.84,
+      "text": "You just move your wrist up a little bit."
+    },
+    {
+      "end_timestamp": 269.92,
+      "id": "57cfe0f9-b8d5-3a08-85d5-30168fecaafa",
+      "speaker": null,
+      "start_timestamp": 267.84,
+      "text": "You say that and it's like a cryptic mystery or something."
+    },
+    {
+      "end_timestamp": 270.92,
+      "id": "73234862-a923-3ab9-a375-33f5e3e10c75",
+      "speaker": null,
+      "start_timestamp": 269.92,
+      "text": "No, it's not a mystery."
+    },
+    {
+      "end_timestamp": 271.92,
+      "id": "2c7ea1f5-1c7c-3567-9087-c7f5db7e9186",
+      "speaker": null,
+      "start_timestamp": 270.92,
+      "text": "You let the sticks do the work."
+    },
+    {
+      "end_timestamp": 274.12,
+      "id": "fdcdfcbb-cf6d-3bf5-8a86-90fc2d776a06",
+      "speaker": null,
+      "start_timestamp": 271.92,
+      "text": "You let the sticks do the work, Dan."
+    },
+    {
+      "end_timestamp": 275.12,
+      "id": "20201712-940c-30a6-a3c0-4553ba8691e7",
+      "speaker": null,
+      "start_timestamp": 274.12,
+      "text": "I don't know."
+    },
+    {
+      "end_timestamp": 277.76,
+      "id": "aef7ef22-4f4c-3633-836b-01ff428d7760",
+      "speaker": null,
+      "start_timestamp": 275.12,
+      "text": "I loved rock band."
+    },
+    {
+      "end_timestamp": 286.64,
+      "id": "20ae159e-74e7-384c-890a-ab6234da948d",
+      "speaker": null,
+      "start_timestamp": 277.76,
+      "text": "I spent hours, hours trying to 100% helter-skelter on expert."
+    },
+    {
+      "end_timestamp": 288.28,
+      "id": "b8b71a6b-5146-33b1-8ed9-97641744575d",
+      "speaker": null,
+      "start_timestamp": 286.64,
+      "text": "I don't think I ever succeeded."
+    },
+    {
+      "end_timestamp": 289.28,
+      "id": "77e77da2-72d9-3c16-a34a-3f4b00c465ea",
+      "speaker": null,
+      "start_timestamp": 288.28,
+      "text": "You never succeeded."
+    },
+    {
+      "end_timestamp": 293.42,
+      "id": "ff633af6-c7b5-32b2-be84-9ef48c8e4922",
+      "speaker": null,
+      "start_timestamp": 289.28,
+      "text": "I think I tried it hundreds and hundreds of times because you get an achievement in Beatles"
+    },
+    {
+      "end_timestamp": 297.08,
+      "id": "781eedaf-16a4-3729-9939-67769da72b58",
+      "speaker": null,
+      "start_timestamp": 293.42,
+      "text": "rock band if you're 100% on expert."
+    },
+    {
+      "end_timestamp": 298.8,
+      "id": "891cce2f-e10e-3826-ad4f-23098e925c50",
+      "speaker": null,
+      "start_timestamp": 297.08,
+      "text": "I just couldn't get it."
+    },
+    {
+      "end_timestamp": 299.8,
+      "id": "51b2b10d-b261-3b30-8989-e70c89baeda5",
+      "speaker": null,
+      "start_timestamp": 298.8,
+      "text": "Couldn't get it."
+    },
+    {
+      "end_timestamp": 300.8,
+      "id": "675e5d1f-7279-3520-81b1-e6b0650b245c",
+      "speaker": null,
+      "start_timestamp": 299.8,
+      "text": "Couldn't do it, huh?"
+    },
+    {
+      "end_timestamp": 301.8,
+      "id": "7dec4797-9f4c-3fa1-808f-830057d194b5",
+      "speaker": null,
+      "start_timestamp": 300.8,
+      "text": "Ringo, gotcha."
+    },
+    {
+      "end_timestamp": 302.8,
+      "id": "b0e09260-3020-338b-aef0-8df98c7dde3c",
+      "speaker": null,
+      "start_timestamp": 301.8,
+      "text": "Yep."
+    },
+    {
+      "end_timestamp": 307.08,
+      "id": "7b47d7f4-7c4c-3b86-be1f-dac3cd85d741",
+      "speaker": null,
+      "start_timestamp": 302.8,
+      "text": "The classic drummer that throws people on."
+    },
+    {
+      "end_timestamp": 308.08,
+      "id": "d12cd683-7cda-364f-ac7c-d4a6bd0e1668",
+      "speaker": null,
+      "start_timestamp": 307.08,
+      "text": "Look."
+    },
+    {
+      "end_timestamp": 309.08,
+      "id": "1bc1aa8c-a898-3de3-b5b1-aaac76a2a1a0",
+      "speaker": null,
+      "start_timestamp": 308.08,
+      "text": "I'm sorry."
+    },
+    {
+      "end_timestamp": 310.08,
+      "id": "d80a7a44-dfda-3fc0-9f7b-c004044f54cc",
+      "speaker": null,
+      "start_timestamp": 309.08,
+      "text": "I'm sorry."
+    },
+    {
+      "end_timestamp": 313.16,
+      "id": "60aa5c25-e5ac-3ab1-873c-a091789d04e5",
+      "speaker": null,
+      "start_timestamp": 310.08,
+      "text": "A lot of the other songs are pretty easy, but helter-skelter is a little complex."
+    },
+    {
+      "end_timestamp": 314.16,
+      "id": "3f260061-f860-3e1b-9361-7a6c868d3115",
+      "speaker": null,
+      "start_timestamp": 313.16,
+      "text": "Sure, sure."
+    },
+    {
+      "end_timestamp": 316.12,
+      "id": "af2415cf-976a-321e-900e-3ab308ee400c",
+      "speaker": null,
+      "start_timestamp": 314.16,
+      "text": "I'm also not very good at rhythm based stuff."
+    },
+    {
+      "end_timestamp": 317.12,
+      "id": "4e40916c-5daf-3e77-9ea9-b72a630cc207",
+      "speaker": null,
+      "start_timestamp": 316.12,
+      "text": "No, that's fine."
+    },
+    {
+      "end_timestamp": 320.08,
+      "id": "55d702af-5015-3ab4-81d4-78b58b957c55",
+      "speaker": null,
+      "start_timestamp": 317.12,
+      "text": "I'm sorry if I... I don't mean to make fun of you."
+    },
+    {
+      "end_timestamp": 321.08,
+      "id": "50e84e4b-0fe3-3699-b598-20404e1cefda",
+      "speaker": null,
+      "start_timestamp": 320.08,
+      "text": "I'm just a bully."
+    },
+    {
+      "end_timestamp": 322.08,
+      "id": "3506b5d7-b330-344a-a98b-ff5294e9fd56",
+      "speaker": null,
+      "start_timestamp": 321.08,
+      "text": "I'm a bad person."
+    },
+    {
+      "end_timestamp": 323.08,
+      "id": "247eb826-d3c4-3450-a067-7651ccde55db",
+      "speaker": null,
+      "start_timestamp": 322.08,
+      "text": "That's all right."
+    },
+    {
+      "end_timestamp": 324.08,
+      "id": "f1a79011-71a4-361c-96e6-5945b4778eb9",
+      "speaker": null,
+      "start_timestamp": 323.08,
+      "text": "I'm sorry."
+    },
+    {
+      "end_timestamp": 325.08,
+      "id": "4a93cd9b-6b80-393c-9f6b-e318e8a8b20c",
+      "speaker": null,
+      "start_timestamp": 324.08,
+      "text": "It's okay."
+    },
+    {
+      "end_timestamp": 326.08,
+      "id": "aa7f1a5b-14d2-3944-93df-332f22058dd3",
+      "speaker": null,
+      "start_timestamp": 325.08,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 329.88,
+      "id": "37efbfab-cef9-38b8-9171-9d230a932884",
+      "speaker": null,
+      "start_timestamp": 326.08,
+      "text": "So, Jordan, today we got an interesting thing on our plates in front of us and that is that"
+    },
+    {
+      "end_timestamp": 332.36,
+      "id": "f47bd625-d8e8-3637-b828-cd997c64f884",
+      "speaker": null,
+      "start_timestamp": 329.88,
+      "text": "we don't really have an episode."
+    },
+    {
+      "end_timestamp": 334.56,
+      "id": "06ea3b7b-62b2-3a43-b7ae-debcec0b8c04",
+      "speaker": null,
+      "start_timestamp": 332.36,
+      "text": "That is an interesting thing on our plates."
+    },
+    {
+      "end_timestamp": 335.56,
+      "id": "cb4ec22e-ca8f-39a2-9478-e97e0c432393",
+      "speaker": null,
+      "start_timestamp": 334.56,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 336.56,
+      "id": "d925ffc7-8527-3b4e-834f-f21b9f3ba21e",
+      "speaker": null,
+      "start_timestamp": 335.56,
+      "text": "So, here's what happened."
+    },
+    {
+      "end_timestamp": 337.56,
+      "id": "10afd553-28e5-3d0b-bc77-673b9ab305a5",
+      "speaker": null,
+      "start_timestamp": 336.56,
+      "text": "What's that?"
+    },
+    {
+      "end_timestamp": 340.6,
+      "id": "057c11f7-fcf8-30c4-93b6-7225f8574b00",
+      "speaker": null,
+      "start_timestamp": 337.56,
+      "text": "I did not want to do another episode for today about Alex."
+    },
+    {
+      "end_timestamp": 344.68,
+      "id": "9dbd79a8-75b9-3eae-abed-c368a72f4059",
+      "speaker": null,
+      "start_timestamp": 340.6,
+      "text": "I wanted to push that to Wednesday because I needed personally a break from him."
+    },
+    {
+      "end_timestamp": 346.28,
+      "id": "9a63a855-f62f-37d1-b00d-03db09183bf6",
+      "speaker": null,
+      "start_timestamp": 344.68,
+      "text": "I was tired of his bullshit."
+    },
+    {
+      "end_timestamp": 348.32,
+      "id": "24bb81b5-eb02-307a-b15c-d2840ddce074",
+      "speaker": null,
+      "start_timestamp": 346.28,
+      "text": "Last week was emotionally exhausting."
+    },
+    {
+      "end_timestamp": 349.32,
+      "id": "9ea5e9ca-3dcf-3075-8c96-afb313b34b89",
+      "speaker": null,
+      "start_timestamp": 348.32,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 356.28,
+      "id": "6795455a-c825-38c0-bcab-f7336c839c6d",
+      "speaker": null,
+      "start_timestamp": 349.32,
+      "text": "Starting on the preparation for Friday's episode on the 8th straight through to present, it's"
+    },
+    {
+      "end_timestamp": 357.28,
+      "id": "7ad1867f-0de0-3748-abbb-73efcb5bcc40",
+      "speaker": null,
+      "start_timestamp": 356.28,
+      "text": "been a lot."
+    },
+    {
+      "end_timestamp": 362.28,
+      "id": "7ee2c3f4-f9a2-3f36-a8e5-85cceef49c73",
+      "speaker": null,
+      "start_timestamp": 357.28,
+      "text": "It's been a lot of stuff that I grow weary of and then at the same time the payoff of"
+    },
+    {
+      "end_timestamp": 367.2,
+      "id": "974b1c7a-36c4-3bf9-bb28-5abda5c93738",
+      "speaker": null,
+      "start_timestamp": 362.28,
+      "text": "the interview with Steve Pechenik on our last episode was almost two."
+    },
+    {
+      "end_timestamp": 368.48,
+      "id": "68139634-c964-3a2f-8e63-6b75c1fab610",
+      "speaker": null,
+      "start_timestamp": 367.2,
+      "text": "It was season ending."
+    },
+    {
+      "end_timestamp": 369.48,
+      "id": "19a1fee7-bf85-3cac-b18f-fc81ba63ea81",
+      "speaker": null,
+      "start_timestamp": 368.48,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 372.0,
+      "id": "fbde340f-bbb0-33ae-a914-8968dab9047e",
+      "speaker": null,
+      "start_timestamp": 369.48,
+      "text": "It felt like it was a fucking season finale."
+    },
+    {
+      "end_timestamp": 376.12,
+      "id": "66c3b780-2fa8-38e2-9a98-8040861a399b",
+      "speaker": null,
+      "start_timestamp": 372.0,
+      "text": "We got CVPs giving us the fucking cliffhanger."
+    },
+    {
+      "end_timestamp": 377.12,
+      "id": "b1dc313c-a10a-36fc-a528-add83c489c74",
+      "speaker": null,
+      "start_timestamp": 376.12,
+      "text": "And telling Alex to his face."
+    },
+    {
+      "end_timestamp": 379.12,
+      "id": "65396200-f4d9-37cc-a094-e71f9df4595b",
+      "speaker": null,
+      "start_timestamp": 377.12,
+      "text": "When is he going to come back?"
+    },
+    {
+      "end_timestamp": 380.12,
+      "id": "ecd4d516-d027-3019-81cc-9ec90c34ed66",
+      "speaker": null,
+      "start_timestamp": 379.12,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 382.52,
+      "id": "9ddbfb76-e66b-3985-8587-38eaf63201e4",
+      "speaker": null,
+      "start_timestamp": 380.12,
+      "text": "I have been lying to you for 20 years."
+    },
+    {
+      "end_timestamp": 387.56,
+      "id": "0c794d82-4f52-337e-98a4-c5a48a6280ab",
+      "speaker": null,
+      "start_timestamp": 382.52,
+      "text": "I decided to anoint you as the vehicle by which I would set off a military coup."
+    },
+    {
+      "end_timestamp": 388.56,
+      "id": "740d6062-e7a9-3179-8783-3f76f25f8957",
+      "speaker": null,
+      "start_timestamp": 387.56,
+      "text": "Wait."
+    },
+    {
+      "end_timestamp": 389.56,
+      "id": "3f9c8150-9b4c-3122-ad15-74df485e5df0",
+      "speaker": null,
+      "start_timestamp": 388.56,
+      "text": "Hold on."
+    },
+    {
+      "end_timestamp": 390.56,
+      "id": "647d880e-4cfe-3595-9ad6-5f87fd65625e",
+      "speaker": null,
+      "start_timestamp": 389.56,
+      "text": "Hold on, doc."
+    },
+    {
+      "end_timestamp": 391.56,
+      "id": "8101f245-bea5-3ad6-a9f1-bd97f8bf09cf",
+      "speaker": null,
+      "start_timestamp": 390.56,
+      "text": "I have been the puppet master."
+    },
+    {
+      "end_timestamp": 392.56,
+      "id": "88a2515c-15e4-359f-b758-3d33776c312c",
+      "speaker": null,
+      "start_timestamp": 391.56,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 393.56,
+      "id": "54e96053-3360-33e8-abb7-fd9c58162fa7",
+      "speaker": null,
+      "start_timestamp": 392.56,
+      "text": "You think you're in control."
+    },
+    {
+      "end_timestamp": 394.56,
+      "id": "1cc58b9f-ba78-3d8b-abbe-667448f19455",
+      "speaker": null,
+      "start_timestamp": 393.56,
+      "text": "No, sir."
+    },
+    {
+      "end_timestamp": 395.56,
+      "id": "d2fa077e-29aa-3d59-a76d-df17f6287d3a",
+      "speaker": null,
+      "start_timestamp": 394.56,
+      "text": "Hi."
+    },
+    {
+      "end_timestamp": 396.56,
+      "id": "4afaa523-8eb5-3df0-bfb2-f0748cc5a5b2",
+      "speaker": null,
+      "start_timestamp": 395.56,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 399.44,
+      "id": "2a3831a6-d90c-3153-bba9-132ba412f184",
+      "speaker": null,
+      "start_timestamp": 396.56,
+      "text": "There's something about that that was so satisfying and narratively interesting to"
+    },
+    {
+      "end_timestamp": 404.6,
+      "id": "bb7dd785-b41d-38e8-98d6-428df18bcb8f",
+      "speaker": null,
+      "start_timestamp": 399.44,
+      "text": "me that I found myself having a really tough time going back to Alex."
+    },
+    {
+      "end_timestamp": 405.6,
+      "id": "ff258d87-3b1a-3999-8975-e126a663261e",
+      "speaker": null,
+      "start_timestamp": 404.6,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 406.6,
+      "id": "948b3a96-ba87-3202-a7a6-183e10927073",
+      "speaker": null,
+      "start_timestamp": 405.6,
+      "text": "And I know it'll be temporary."
+    },
+    {
+      "end_timestamp": 411.6,
+      "id": "bf71d40f-3db0-36c4-9aff-166bad923304",
+      "speaker": null,
+      "start_timestamp": 406.6,
+      "text": "I'll be able to get back on the horse soon, but I sat down to try and listen to other"
+    },
+    {
+      "end_timestamp": 414.0,
+      "id": "ae3da9f4-48b0-318b-be9c-b992e368bb2a",
+      "speaker": null,
+      "start_timestamp": 411.6,
+      "text": "episodes and I just like, I can't do this."
+    },
+    {
+      "end_timestamp": 415.0,
+      "id": "8b038189-f0de-30f4-8e2e-367569eafa5a",
+      "speaker": null,
+      "start_timestamp": 414.0,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 418.84,
+      "id": "5f748bc1-b924-38ff-a8ec-ce23620e782f",
+      "speaker": null,
+      "start_timestamp": 415.0,
+      "text": "And so what I wanted to do, naturally in times like this in the past, what we've done is"
+    },
+    {
+      "end_timestamp": 422.8,
+      "id": "b8c320c2-19c2-33b8-8743-6b77e3d5da13",
+      "speaker": null,
+      "start_timestamp": 418.84,
+      "text": "we've gone to various other online space weirdos."
+    },
+    {
+      "end_timestamp": 423.8,
+      "id": "55f21ec7-3dca-3327-a0e7-eb136103dc32",
+      "speaker": null,
+      "start_timestamp": 422.8,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 424.8,
+      "id": "f10190f4-5102-3040-9399-58508d726eea",
+      "speaker": null,
+      "start_timestamp": 423.8,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 425.8,
+      "id": "dcb87742-a67c-3292-89d6-c42d54a87e74",
+      "speaker": null,
+      "start_timestamp": 424.8,
+      "text": "If we could."
+    },
+    {
+      "end_timestamp": 429.4,
+      "id": "49841443-53ca-3c8e-92e4-319a5a8b1d62",
+      "speaker": null,
+      "start_timestamp": 425.8,
+      "text": "And so yeah, I checked in on Carrie Cassidy over at Project Camelot and she had a video"
+    },
+    {
+      "end_timestamp": 431.64,
+      "id": "d8165dee-1607-3331-a600-c37a325db00e",
+      "speaker": null,
+      "start_timestamp": 429.4,
+      "text": "the day after the storming of the Capitol."
+    },
+    {
+      "end_timestamp": 433.36,
+      "id": "6836eb36-fb8e-3d7c-9aa4-d4c047289436",
+      "speaker": null,
+      "start_timestamp": 431.64,
+      "text": "She's on some Q bullshit for 100."
+    },
+    {
+      "end_timestamp": 434.36,
+      "id": "e1796d4d-aa58-3b1f-9c84-650f4ef46ebe",
+      "speaker": null,
+      "start_timestamp": 433.36,
+      "text": "You bet."
+    },
+    {
+      "end_timestamp": 435.36,
+      "id": "9997c9e9-a87e-3510-aa16-6b9cfd93ec80",
+      "speaker": null,
+      "start_timestamp": 434.36,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 439.88,
+      "id": "dedbbc0b-1e1e-30a0-adfa-291dda57c957",
+      "speaker": null,
+      "start_timestamp": 435.36,
+      "text": "100% zero, zero possibility that that wasn't going to happen."
+    },
+    {
+      "end_timestamp": 440.88,
+      "id": "1c801f58-d485-3270-a580-0cd8bd8b7d69",
+      "speaker": null,
+      "start_timestamp": 439.88,
+      "text": "No."
+    },
+    {
+      "end_timestamp": 443.8,
+      "id": "73b43709-ea6f-3134-8859-0d7df8d92b9b",
+      "speaker": null,
+      "start_timestamp": 440.88,
+      "text": "I got really bored listening to that too because aliens weren't in play."
+    },
+    {
+      "end_timestamp": 444.8,
+      "id": "d0605758-aaf2-3fe3-b8eb-e957eca75ee2",
+      "speaker": null,
+      "start_timestamp": 443.8,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 445.8,
+      "id": "7a02a02f-e571-3c9b-a52a-f5e7e5bb04f2",
+      "speaker": null,
+      "start_timestamp": 444.8,
+      "text": "Why would it, what did you say?"
+    },
+    {
+      "end_timestamp": 448.36,
+      "id": "f34cc429-16f3-3910-a118-d81df1b0e1ee",
+      "speaker": null,
+      "start_timestamp": 445.8,
+      "text": "Get the fuck out of Q and get back into space, lady."
+    },
+    {
+      "end_timestamp": 453.48,
+      "id": "c70c1d0c-5e8a-36c7-b380-5bba6ddc5fe7",
+      "speaker": null,
+      "start_timestamp": 448.36,
+      "text": "I did find out from listening to this, but it wasn't worth getting too deep into."
+    },
+    {
+      "end_timestamp": 457.04,
+      "id": "51d65399-799f-318b-aa93-c7c3b7438687",
+      "speaker": null,
+      "start_timestamp": 453.48,
+      "text": "There's apparently an Archon alien, a singular one."
+    },
+    {
+      "end_timestamp": 458.04,
+      "id": "8a76881f-c5df-36b2-8459-479f871ab16a",
+      "speaker": null,
+      "start_timestamp": 457.04,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 459.04,
+      "id": "ca07c34f-28fb-3e8c-9ed7-15dfd35991c4",
+      "speaker": null,
+      "start_timestamp": 458.04,
+      "text": "Just one."
+    },
+    {
+      "end_timestamp": 460.04,
+      "id": "aa2c9367-7917-39c8-b3b6-5869e17decce",
+      "speaker": null,
+      "start_timestamp": 459.04,
+      "text": "That runs the CIA."
+    },
+    {
+      "end_timestamp": 461.04,
+      "id": "87ab65bd-cadc-3891-86d9-3a7f4628b21b",
+      "speaker": null,
+      "start_timestamp": 460.04,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 462.04,
+      "id": "1971059f-5015-3b18-a0d3-16b32e912790",
+      "speaker": null,
+      "start_timestamp": 461.04,
+      "text": "It did not know that."
+    },
+    {
+      "end_timestamp": 463.04,
+      "id": "e19c26eb-c8af-3da9-b156-265abc09dfd9",
+      "speaker": null,
+      "start_timestamp": 462.04,
+      "text": "All right."
+    },
+    {
+      "end_timestamp": 464.04,
+      "id": "ffac0be6-de82-3bfa-a2d5-120d9f83adf0",
+      "speaker": null,
+      "start_timestamp": 463.04,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 465.04,
+      "id": "f05fe0c8-42e6-3532-a183-ec2910f62c96",
+      "speaker": null,
+      "start_timestamp": 464.04,
+      "text": "I didn't learn that."
+    },
+    {
+      "end_timestamp": 466.04,
+      "id": "19287b38-9344-34f7-8fcc-60058e6d4014",
+      "speaker": null,
+      "start_timestamp": 465.04,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 467.04,
+      "id": "1155ca54-991d-34a4-9b88-b9c9a20621c8",
+      "speaker": null,
+      "start_timestamp": 466.04,
+      "text": "And it used to be this guy Archon, right?"
+    },
+    {
+      "end_timestamp": 468.04,
+      "id": "e6deb55a-8ce4-3974-8fdc-13ce99153623",
+      "speaker": null,
+      "start_timestamp": 467.04,
+      "text": "Right."
+    },
+    {
+      "end_timestamp": 469.54,
+      "id": "55aa03e1-f785-3d59-9a83-8b77ddbb47ce",
+      "speaker": null,
+      "start_timestamp": 468.04,
+      "text": "But I think Carrie has some intelligence that he might have died and now there's a female"
+    },
+    {
+      "end_timestamp": 471.32,
+      "id": "c7dd858f-9b72-3561-b6e9-5a769b5d609e",
+      "speaker": null,
+      "start_timestamp": 469.54,
+      "text": "Archon that's in charge of the CIA."
+    },
+    {
+      "end_timestamp": 472.32,
+      "id": "f23f9d2a-dd18-3eaf-8d8b-a61f0f79734b",
+      "speaker": null,
+      "start_timestamp": 471.32,
+      "text": "All right."
+    },
+    {
+      "end_timestamp": 473.32,
+      "id": "8b070754-407b-38f0-b0cd-4f9f823816a1",
+      "speaker": null,
+      "start_timestamp": 472.32,
+      "text": "Unclear."
+    },
+    {
+      "end_timestamp": 474.92,
+      "id": "49352532-d7fa-398c-a791-42acf7295422",
+      "speaker": null,
+      "start_timestamp": 473.32,
+      "text": "Prove that he's dead and not a shape shifter."
+    },
+    {
+      "end_timestamp": 475.92,
+      "id": "98f49731-f135-3141-a996-fc7b1b84e059",
+      "speaker": null,
+      "start_timestamp": 474.92,
+      "text": "Can't do it."
+    },
+    {
+      "end_timestamp": 476.92,
+      "id": "99c76036-0e08-34d8-b53c-034c92e45e63",
+      "speaker": null,
+      "start_timestamp": 475.92,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 477.92,
+      "id": "975b5d78-2118-3183-bb98-1b3a8f500c13",
+      "speaker": null,
+      "start_timestamp": 476.92,
+      "text": "Can't do it."
+    },
+    {
+      "end_timestamp": 478.92,
+      "id": "087fd9e5-abf6-3233-a747-e2dc03a8d5ac",
+      "speaker": null,
+      "start_timestamp": 477.92,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 479.92,
+      "id": "45391856-c399-329b-90eb-7df81696816d",
+      "speaker": null,
+      "start_timestamp": 478.92,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 480.92,
+      "id": "45e13623-5b6f-36b0-9368-335e751d03de",
+      "speaker": null,
+      "start_timestamp": 479.92,
+      "text": "Carrie, bring it to me."
+    },
+    {
+      "end_timestamp": 486.28,
+      "id": "29675f16-4633-3e47-a754-c72cc2ffd6ab",
+      "speaker": null,
+      "start_timestamp": 480.92,
+      "text": "So then I was like, well, I bet Jim Baker's disappointed and I still don't like talking"
+    },
+    {
+      "end_timestamp": 487.28,
+      "id": "3280c486-db54-3e02-891a-8507343a6c27",
+      "speaker": null,
+      "start_timestamp": 486.28,
+      "text": "about Jim Baker."
+    },
+    {
+      "end_timestamp": 488.28,
+      "id": "6945074a-a21a-3915-8065-bed0f3e82983",
+      "speaker": null,
+      "start_timestamp": 487.28,
+      "text": "I don't know why."
+    },
+    {
+      "end_timestamp": 491.64,
+      "id": "9b1e1e72-8959-3deb-8a94-54a3c4162adb",
+      "speaker": null,
+      "start_timestamp": 488.28,
+      "text": "I just don't, it still makes me a little bit uncomfortable."
+    },
+    {
+      "end_timestamp": 492.64,
+      "id": "7ac71721-fdc7-37f7-8e86-02d0f6cb28ab",
+      "speaker": null,
+      "start_timestamp": 491.64,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 493.64,
+      "id": "71186f57-d14e-31b6-9841-f52241ce5056",
+      "speaker": null,
+      "start_timestamp": 492.64,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 495.04,
+      "id": "cb655095-2e4d-32d6-ba35-9eb61c294b84",
+      "speaker": null,
+      "start_timestamp": 493.64,
+      "text": "I think that I'm not going to be able to go back to that well ever."
+    },
+    {
+      "end_timestamp": 496.16,
+      "id": "dea4bbbc-5e49-3ec4-94c3-45211a8e7a02",
+      "speaker": null,
+      "start_timestamp": 495.04,
+      "text": "Eh, fuck Jim Baker."
+    },
+    {
+      "end_timestamp": 498.32,
+      "id": "b96d82b1-6ed5-336e-92c7-c736ec2c1cb5",
+      "speaker": null,
+      "start_timestamp": 496.16,
+      "text": "I just, I don't, what is he going to say?"
+    },
+    {
+      "end_timestamp": 499.32,
+      "id": "4133b06b-826c-3ed5-89ed-7fa5af6e91c9",
+      "speaker": null,
+      "start_timestamp": 498.32,
+      "text": "God does shit."
+    },
+    {
+      "end_timestamp": 500.32,
+      "id": "88e774e6-7f86-3a1e-9e2e-49581e72003c",
+      "speaker": null,
+      "start_timestamp": 499.32,
+      "text": "Well, we moved on."
+    },
+    {
+      "end_timestamp": 503.12,
+      "id": "6bc1d130-97e0-3dc5-80e7-69861e045924",
+      "speaker": null,
+      "start_timestamp": 500.32,
+      "text": "Talk about how great his big ass bucket of oatmeal is."
+    },
+    {
+      "end_timestamp": 505.92,
+      "id": "678dce79-2042-3150-bba4-b3500a80c848",
+      "speaker": null,
+      "start_timestamp": 503.12,
+      "text": "You and I have both read the Bible and eaten survival food."
+    },
+    {
+      "end_timestamp": 506.92,
+      "id": "b2e0dc27-a955-3b24-9802-bb48bfa94d0b",
+      "speaker": null,
+      "start_timestamp": 505.92,
+      "text": "We can just move on."
+    },
+    {
+      "end_timestamp": 507.92,
+      "id": "307d8686-7152-3849-a444-77caeac2171f",
+      "speaker": null,
+      "start_timestamp": 506.92,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 508.92,
+      "id": "b6a0a142-67df-39b1-994c-30ec78ac6ada",
+      "speaker": null,
+      "start_timestamp": 507.92,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 512.0,
+      "id": "77f583c6-aaf3-33c9-a81b-a6ec552776dd",
+      "speaker": null,
+      "start_timestamp": 508.92,
+      "text": "So then of course I, I was, I was kind of like in a bind."
+    },
+    {
+      "end_timestamp": 513.76,
+      "id": "513909fc-8c78-3b3f-9f88-08fa8bf3c7e0",
+      "speaker": null,
+      "start_timestamp": 512.0,
+      "text": "I was like, I don't know what I'm going to do."
+    },
+    {
+      "end_timestamp": 515.6,
+      "id": "271caf4f-92c6-327e-81dc-59986fea1741",
+      "speaker": null,
+      "start_timestamp": 513.76,
+      "text": "Got to get something together."
+    },
+    {
+      "end_timestamp": 522.12,
+      "id": "9aee593a-bf49-34d2-bb66-8cee39a667b9",
+      "speaker": null,
+      "start_timestamp": 515.6,
+      "text": "And then I remembered that when I was looking at pictures of the Capitol on the sixth, yeah,"
+    },
+    {
+      "end_timestamp": 528.24,
+      "id": "3b63280a-95f2-3d4b-967b-8786d25fb71c",
+      "speaker": null,
+      "start_timestamp": 522.12,
+      "text": "I saw somebody wearing a pass the salt shirt, which of course is the name of Dave Dobenmeyer,"
+    },
+    {
+      "end_timestamp": 529.24,
+      "id": "7ac9b4d7-a18c-3bdd-80b3-1f6631b28e51",
+      "speaker": null,
+      "start_timestamp": 528.24,
+      "text": "coach Dave."
+    },
+    {
+      "end_timestamp": 534.68,
+      "id": "1f029221-e09b-3bd5-ac7d-1756307fda77",
+      "speaker": null,
+      "start_timestamp": 529.24,
+      "text": "It's the name of his radio ministry, his YouTube broadcast ministry."
+    },
+    {
+      "end_timestamp": 535.68,
+      "id": "931c82bb-af36-3a70-b220-b7573707d202",
+      "speaker": null,
+      "start_timestamp": 534.68,
+      "text": "Pass the salt."
+    },
+    {
+      "end_timestamp": 536.68,
+      "id": "79ccf2b9-dfc0-33d5-bca4-d6704c4931f5",
+      "speaker": null,
+      "start_timestamp": 535.68,
+      "text": "I saw that."
+    },
+    {
+      "end_timestamp": 542.84,
+      "id": "32a1d1b5-a9ce-39ed-94a2-9e39479a3c80",
+      "speaker": null,
+      "start_timestamp": 536.68,
+      "text": "I was like, whoa, there's Dave Dobenmeyer shirts at the protest at the people storming"
+    },
+    {
+      "end_timestamp": 543.84,
+      "id": "994703e9-5228-36c5-8e50-9fb150727e99",
+      "speaker": null,
+      "start_timestamp": 542.84,
+      "text": "there at the Capitol."
+    },
+    {
+      "end_timestamp": 544.84,
+      "id": "1a67433d-5197-347d-a424-d47525e0cd26",
+      "speaker": null,
+      "start_timestamp": 543.84,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 545.84,
+      "id": "632846a4-3872-3d4e-a7cd-886c2fe79d9f",
+      "speaker": null,
+      "start_timestamp": 544.84,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 546.84,
+      "id": "66514def-1cad-39f8-b958-1883c4fe2431",
+      "speaker": null,
+      "start_timestamp": 545.84,
+      "text": "Was he there?"
+    },
+    {
+      "end_timestamp": 547.84,
+      "id": "614a95df-f65c-32c4-b170-7a82664c76e1",
+      "speaker": null,
+      "start_timestamp": 546.84,
+      "text": "That would be amazing."
+    },
+    {
+      "end_timestamp": 550.16,
+      "id": "ca81b0f8-787d-34ae-b40a-8a204522e993",
+      "speaker": null,
+      "start_timestamp": 547.84,
+      "text": "Who else is wearing a Dave Dobenmeyer shirt?"
+    },
+    {
+      "end_timestamp": 551.16,
+      "id": "eaaca979-92da-3f2b-9c05-74da39a3101f",
+      "speaker": null,
+      "start_timestamp": 550.16,
+      "text": "Well, it wasn't him."
+    },
+    {
+      "end_timestamp": 552.8,
+      "id": "a55b05fa-b59a-3094-ba0e-7057482e6912",
+      "speaker": null,
+      "start_timestamp": 551.16,
+      "text": "I would have recognized him in the picture."
+    },
+    {
+      "end_timestamp": 553.8,
+      "id": "4bd9a423-1799-3e06-84e0-bcc2dc8abd8d",
+      "speaker": null,
+      "start_timestamp": 552.8,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 556.72,
+      "id": "44db88d6-9eac-3052-8396-a7385bef9151",
+      "speaker": null,
+      "start_timestamp": 553.8,
+      "text": "But I was like, coach Dave had to have been there, right?"
+    },
+    {
+      "end_timestamp": 558.28,
+      "id": "25a34d75-248e-390f-98ec-3ccff38869ad",
+      "speaker": null,
+      "start_timestamp": 556.72,
+      "text": "And so I went and I checked."
+    },
+    {
+      "end_timestamp": 559.28,
+      "id": "98b6aea2-1273-36b3-be68-b2dcfd8b4a3c",
+      "speaker": null,
+      "start_timestamp": 558.28,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 560.28,
+      "id": "9a9ba57b-95a3-3d53-b09f-85176c5a9161",
+      "speaker": null,
+      "start_timestamp": 559.28,
+      "text": "Dave Dobenmeyer was at the Capitol."
+    },
+    {
+      "end_timestamp": 562.48,
+      "id": "1db561b4-fe47-32f0-b107-e1c6aa3c1a99",
+      "speaker": null,
+      "start_timestamp": 560.28,
+      "text": "He could not possibly have been there."
+    },
+    {
+      "end_timestamp": 563.48,
+      "id": "da8b2f0c-9437-312f-895d-5b2c94665d1e",
+      "speaker": null,
+      "start_timestamp": 562.48,
+      "text": "Really?"
+    },
+    {
+      "end_timestamp": 564.48,
+      "id": "3dcdda28-bbbf-316a-9b1c-e670aef7aef1",
+      "speaker": null,
+      "start_timestamp": 563.48,
+      "text": "He was at the Capitol."
+    },
+    {
+      "end_timestamp": 566.48,
+      "id": "297c5c64-9067-385f-9e2c-d3a9e66f8f89",
+      "speaker": null,
+      "start_timestamp": 564.48,
+      "text": "Dave Dobenmeyer decided to go storm the Capitol."
+    },
+    {
+      "end_timestamp": 567.48,
+      "id": "950da141-1a92-3ec2-a65a-7d8277ab5f71",
+      "speaker": null,
+      "start_timestamp": 566.48,
+      "text": "Coach Dave."
+    },
+    {
+      "end_timestamp": 568.48,
+      "id": "e245c6eb-5cf9-31b8-82b2-97eb9a2f823a",
+      "speaker": null,
+      "start_timestamp": 567.48,
+      "text": "Son of a bitch."
+    },
+    {
+      "end_timestamp": 569.48,
+      "id": "882b9d18-4a64-3986-9cfb-52daf28f211b",
+      "speaker": null,
+      "start_timestamp": 568.48,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 572.28,
+      "id": "ec70f8dd-1608-319a-9dc9-e83ece96836d",
+      "speaker": null,
+      "start_timestamp": 569.48,
+      "text": "He led the football team in through."
+    },
+    {
+      "end_timestamp": 573.84,
+      "id": "ed2693cb-b795-3598-b3a6-d13e2261f998",
+      "speaker": null,
+      "start_timestamp": 572.28,
+      "text": "I can't come up with a metaphor."
+    },
+    {
+      "end_timestamp": 578.0,
+      "id": "d3813dca-3534-35ec-92dc-0dbf64bc9f21",
+      "speaker": null,
+      "start_timestamp": 573.84,
+      "text": "Hey guys, win one for the Gipper."
+    },
+    {
+      "end_timestamp": 581.68,
+      "id": "24b226f0-581c-3f42-9750-03e13e8e1772",
+      "speaker": null,
+      "start_timestamp": 578.0,
+      "text": "So today I wanted to take a little bit of a look at that, but it's not really much of"
+    },
+    {
+      "end_timestamp": 582.68,
+      "id": "3c28b2de-82a5-37e9-89cb-7e540529a323",
+      "speaker": null,
+      "start_timestamp": 581.68,
+      "text": "an episode."
+    },
+    {
+      "end_timestamp": 590.12,
+      "id": "c0e02bdc-c5ea-3819-b5ee-ff668b079599",
+      "speaker": null,
+      "start_timestamp": 582.68,
+      "text": "I wasted a lot of time watching these streams for what will ultimately be kind of, I don't"
+    },
+    {
+      "end_timestamp": 591.88,
+      "id": "97e30745-96c2-34c9-9c7e-ef9df2e5de43",
+      "speaker": null,
+      "start_timestamp": 590.12,
+      "text": "know, a little bit deflating."
+    },
+    {
+      "end_timestamp": 597.32,
+      "id": "c9e11b1e-306c-385b-a536-292ac5803540",
+      "speaker": null,
+      "start_timestamp": 591.88,
+      "text": "It's not going to be, look, if you like our show, tune back in on Wednesday."
+    },
+    {
+      "end_timestamp": 600.6,
+      "id": "8ee0b045-e310-3f35-87c2-d3dc6e52a7f6",
+      "speaker": null,
+      "start_timestamp": 597.32,
+      "text": "We will have a full episode if you're expecting that."
+    },
+    {
+      "end_timestamp": 604.32,
+      "id": "fd3e7768-4e0c-3635-a1bf-9f2dfcbbbf94",
+      "speaker": null,
+      "start_timestamp": 600.6,
+      "text": "But we're going to listen to a little bit of Dave Dobenmeyer."
+    },
+    {
+      "end_timestamp": 608.82,
+      "id": "adf89036-fa3a-3528-8015-c889fa08222b",
+      "speaker": null,
+      "start_timestamp": 604.32,
+      "text": "What if an episode of like Battlestar Galactica was like, hey guys, this is a bottle episode."
+    },
+    {
+      "end_timestamp": 610.92,
+      "id": "c9eb4e88-a9a6-36b2-8e27-601f4bdf3d8c",
+      "speaker": null,
+      "start_timestamp": 608.82,
+      "text": "We couldn't afford to really do much here."
+    },
+    {
+      "end_timestamp": 617.92,
+      "id": "e0af6bd8-ccab-3b54-8526-443184d2b358",
+      "speaker": null,
+      "start_timestamp": 610.92,
+      "text": "Listen, if you want to see some space shit, come back next week."
+    },
+    {
+      "end_timestamp": 624.54,
+      "id": "c163bb64-f9d1-330a-95d9-bbf3ec003d34",
+      "speaker": null,
+      "start_timestamp": 617.92,
+      "text": "So one of the things that I thought was really funny is on the sixth, Dave is, uh, coach"
+    },
+    {
+      "end_timestamp": 631.4,
+      "id": "3628d618-c046-38e5-8335-7024b56be81f",
+      "speaker": null,
+      "start_timestamp": 624.54,
+      "text": "is a recording, uh, and doing a live stream from the Metro, from the train in DC."
+    },
+    {
+      "end_timestamp": 634.32,
+      "id": "cc7b181e-4487-35d3-bcad-59634ff8f422",
+      "speaker": null,
+      "start_timestamp": 631.4,
+      "text": "So it's a little bit iffy, the sound is not great."
+    },
+    {
+      "end_timestamp": 639.4,
+      "id": "0278bbf0-5aa2-3dcc-a3be-a71f3132d30a",
+      "speaker": null,
+      "start_timestamp": 634.32,
+      "text": "The connection is eh, but one of the things that he does that I think is really maybe"
+    },
+    {
+      "end_timestamp": 645.02,
+      "id": "b11a7100-d622-35a6-9592-ec0d4ef98a23",
+      "speaker": null,
+      "start_timestamp": 639.4,
+      "text": "unfortunate in hindsight is he literally doxes every single person who's on that train with"
+    },
+    {
+      "end_timestamp": 647.32,
+      "id": "f1b3123a-c508-32d0-b7eb-cee399063824",
+      "speaker": null,
+      "start_timestamp": 645.02,
+      "text": "him going to DC."
+    },
+    {
+      "end_timestamp": 653.12,
+      "id": "4511031d-52a4-380d-8e32-2a9fb463fd83",
+      "speaker": null,
+      "start_timestamp": 647.32,
+      "text": "Like if any of them went in the Capitol, his broadcast could be identifying information."
+    },
+    {
+      "end_timestamp": 656.44,
+      "id": "a0e8e46f-0b2b-3924-a6fa-356b66031229",
+      "speaker": null,
+      "start_timestamp": 653.12,
+      "text": "It will, it's look, it's obvious."
+    },
+    {
+      "end_timestamp": 661.4,
+      "id": "7a377f4a-2a4f-3a09-b175-cd14cbcd2c75",
+      "speaker": null,
+      "start_timestamp": 656.44,
+      "text": "This was always going to be the case that this would happen, but the fact that the people"
+    },
+    {
+      "end_timestamp": 668.36,
+      "id": "8b490a5f-2e9d-3241-a5b3-144f34d79bc0",
+      "speaker": null,
+      "start_timestamp": 661.4,
+      "text": "most afraid of Bill Gates tracking them all the time have docked themselves so completely."
+    },
+    {
+      "end_timestamp": 670.88,
+      "id": "62b2572c-0ced-3f57-83c2-d3003574ef2a",
+      "speaker": null,
+      "start_timestamp": 668.36,
+      "text": "It's just, it's never not going to be obvious."
+    },
+    {
+      "end_timestamp": 674.48,
+      "id": "2ef7f3cc-4c16-3c66-a79f-c646c97da244",
+      "speaker": null,
+      "start_timestamp": 670.88,
+      "text": "He's just going around like, Oh, this is Greg from Idaho."
+    },
+    {
+      "end_timestamp": 675.48,
+      "id": "2e376a85-29af-3683-987a-d0d49cd6b8e0",
+      "speaker": null,
+      "start_timestamp": 674.48,
+      "text": "Totally."
+    },
+    {
+      "end_timestamp": 676.48,
+      "id": "b8985191-2556-38e5-810f-267354ef2ab7",
+      "speaker": null,
+      "start_timestamp": 675.48,
+      "text": "Totally."
+    },
+    {
+      "end_timestamp": 677.48,
+      "id": "10ac70b6-12b2-3329-a9cb-193b69f3ed82",
+      "speaker": null,
+      "start_timestamp": 676.48,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 678.48,
+      "id": "e471de4d-70c0-3a4d-9271-494268911dac",
+      "speaker": null,
+      "start_timestamp": 677.48,
+      "text": "Don't do this."
+    },
+    {
+      "end_timestamp": 679.48,
+      "id": "ea06d17e-f2ed-31c3-aecb-81be2ae4f554",
+      "speaker": null,
+      "start_timestamp": 678.48,
+      "text": "Oh man."
+    },
+    {
+      "end_timestamp": 680.48,
+      "id": "413eb24f-1a3f-34bd-a46b-46afa9f93a1c",
+      "speaker": null,
+      "start_timestamp": 679.48,
+      "text": "I love it."
+    },
+    {
+      "end_timestamp": 681.48,
+      "id": "cb095e84-4cf2-3e2e-9f25-e97c50002aa8",
+      "speaker": null,
+      "start_timestamp": 680.48,
+      "text": "Yup."
+    },
+    {
+      "end_timestamp": 682.48,
+      "id": "f6b3f491-3e4a-3245-8fb3-0e291e661655",
+      "speaker": null,
+      "start_timestamp": 681.48,
+      "text": "Yup."
+    },
+    {
+      "end_timestamp": 684.72,
+      "id": "088f071a-f277-314f-9913-f8d104ca5b93",
+      "speaker": null,
+      "start_timestamp": 682.48,
+      "text": "So, uh, Dave gets to, gets to talking about how many people they're going to be there."
+    },
+    {
+      "end_timestamp": 689.04,
+      "id": "2c5f8310-7af6-395b-b398-085a07e7ade7",
+      "speaker": null,
+      "start_timestamp": 684.72,
+      "text": "I do like how it seems the only people who are uninterested in doxing each other are"
+    },
+    {
+      "end_timestamp": 690.26,
+      "id": "6cc31e6d-821e-37fd-b934-f5920e817b8c",
+      "speaker": null,
+      "start_timestamp": 689.04,
+      "text": "Antifa."
+    },
+    {
+      "end_timestamp": 694.3,
+      "id": "15306916-b847-30a4-b951-a8a9c885c1ac",
+      "speaker": null,
+      "start_timestamp": 690.26,
+      "text": "They're the only people who are like, Hey, if you're going to video people, don't put"
+    },
+    {
+      "end_timestamp": 696.56,
+      "id": "2916a428-d835-3930-81fa-368ea99704aa",
+      "speaker": null,
+      "start_timestamp": 694.3,
+      "text": "their face in it or say their real names."
+    },
+    {
+      "end_timestamp": 699.56,
+      "id": "a03448d8-ccff-31b7-ab6e-ed5618b290d6",
+      "speaker": null,
+      "start_timestamp": 696.56,
+      "text": "Everybody else is like, I'd love to be on TV."
+    },
+    {
+      "end_timestamp": 700.56,
+      "id": "c427365a-cfea-3447-9d35-000d9507d68f",
+      "speaker": null,
+      "start_timestamp": 699.56,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 701.88,
+      "id": "9456105c-77a6-3c72-bf38-fd29fb86c4e1",
+      "speaker": null,
+      "start_timestamp": 700.56,
+      "text": "Here's my social security number."
+    },
+    {
+      "end_timestamp": 702.88,
+      "id": "c87aa828-8462-3c7d-93db-ae776fe102f8",
+      "speaker": null,
+      "start_timestamp": 701.88,
+      "text": "Exactly."
+    },
+    {
+      "end_timestamp": 703.88,
+      "id": "4a45e303-6e70-3274-9b25-cd50fa698427",
+      "speaker": null,
+      "start_timestamp": 702.88,
+      "text": "Are you from Nigeria?"
+    },
+    {
+      "end_timestamp": 706.64,
+      "id": "2f7259db-d228-3011-a097-a9acce78cb90",
+      "speaker": null,
+      "start_timestamp": 703.88,
+      "text": "I met a guy once."
+    },
+    {
+      "end_timestamp": 711.36,
+      "id": "158598b4-7013-3288-aaa0-87f399d4e9ad",
+      "speaker": null,
+      "start_timestamp": 706.64,
+      "text": "So he gets to talking about how there's going to be so many people there."
+    },
+    {
+      "end_timestamp": 712.76,
+      "id": "61956a81-a84e-35cb-8192-a516e3652101",
+      "speaker": null,
+      "start_timestamp": 711.36,
+      "text": "And this is, this is big."
+    },
+    {
+      "end_timestamp": 719.36,
+      "id": "8f3a3cff-d551-3962-98f5-bf4fdeb3b144",
+      "speaker": null,
+      "start_timestamp": 712.76,
+      "text": "This is not just a protest from what I, what I saw Dale, 4 million, they said there's possibly"
+    },
+    {
+      "end_timestamp": 725.24,
+      "id": "4d3c39f7-1e7e-30d1-8f24-c4ac7d4a4f42",
+      "speaker": null,
+      "start_timestamp": 719.36,
+      "text": "4 million people that are going to be here in downtown Washington, DC, very, very strong,"
+    },
+    {
+      "end_timestamp": 726.24,
+      "id": "bd5cc715-fe03-36c4-92ed-3a3a76afdcd1",
+      "speaker": null,
+      "start_timestamp": 725.24,
+      "text": "powerful message."
+    },
+    {
+      "end_timestamp": 729.88,
+      "id": "28947f28-f920-34de-af1a-93b1c28d7639",
+      "speaker": null,
+      "start_timestamp": 726.24,
+      "text": "And most of the people have not come just to chant for more years."
+    },
+    {
+      "end_timestamp": 732.08,
+      "id": "ef741b76-90a1-3549-a6eb-622bb7a8b088",
+      "speaker": null,
+      "start_timestamp": 729.88,
+      "text": "No, I don't think so, coach."
+    },
+    {
+      "end_timestamp": 736.52,
+      "id": "0d4c4366-7f27-3908-96f9-6a484daf4318",
+      "speaker": null,
+      "start_timestamp": 732.08,
+      "text": "I think it's, it's far beyond that once again, Donald Trump is not going to call."
+    },
+    {
+      "end_timestamp": 738.68,
+      "id": "a5d51c1c-1a20-373d-97aa-873b2a82bab9",
+      "speaker": null,
+      "start_timestamp": 736.52,
+      "text": "He called for this rally."
+    },
+    {
+      "end_timestamp": 740.8,
+      "id": "6ed4a9ff-6372-3b1c-8cc4-5878da7d44f9",
+      "speaker": null,
+      "start_timestamp": 738.68,
+      "text": "He has a platform at nine this morning."
+    },
+    {
+      "end_timestamp": 743.28,
+      "id": "ac2762f0-42b6-30e5-a527-ca3488a4dda4",
+      "speaker": null,
+      "start_timestamp": 740.8,
+      "text": "I believe he is going to talk."
+    },
+    {
+      "end_timestamp": 745.0,
+      "id": "5119561b-f8f0-399c-b1e3-2e0358571b71",
+      "speaker": null,
+      "start_timestamp": 743.28,
+      "text": "He's not, it's not a pep rally."
+    },
+    {
+      "end_timestamp": 747.04,
+      "id": "d3ea4bd1-fafe-36ad-9b2e-00677c2c31ed",
+      "speaker": null,
+      "start_timestamp": 745.0,
+      "text": "I do not believe this is game on."
+    },
+    {
+      "end_timestamp": 751.36,
+      "id": "618ae140-7de6-399f-a288-7b69898d6b8a",
+      "speaker": null,
+      "start_timestamp": 747.04,
+      "text": "Remember we talked about, you know, we always have 11 men on offense and 11 men on defense"
+    },
+    {
+      "end_timestamp": 752.44,
+      "id": "50c84ac2-1276-3c1c-bdc4-532bb736129f",
+      "speaker": null,
+      "start_timestamp": 751.36,
+      "text": "in the field."
+    },
+    {
+      "end_timestamp": 757.84,
+      "id": "b1156cf7-d9c7-3c0d-961d-37d6140b2dc6",
+      "speaker": null,
+      "start_timestamp": 752.44,
+      "text": "This is like, this is like the, the coach turning to the stadium and saying, get on"
+    },
+    {
+      "end_timestamp": 758.84,
+      "id": "70719b91-0239-3009-aed9-afd3240bc6a1",
+      "speaker": null,
+      "start_timestamp": 757.84,
+      "text": "the field."
+    },
+    {
+      "end_timestamp": 764.84,
+      "id": "5699eacc-6796-3d65-9049-b64d9104cffb",
+      "speaker": null,
+      "start_timestamp": 758.84,
+      "text": "Now's the time I think I might be feeling inspired to write a book, your honor exhibit"
+    },
+    {
+      "end_timestamp": 765.84,
+      "id": "8c44db69-10c0-38b4-a427-3b54193375f5",
+      "speaker": null,
+      "start_timestamp": 764.84,
+      "text": "eight."
+    },
+    {
+      "end_timestamp": 770.82,
+      "id": "9c28be2b-d07e-36a0-8813-d63023f9ef56",
+      "speaker": null,
+      "start_timestamp": 765.84,
+      "text": "I feel like there'll be, there's a great book to be written about like all of the right"
+    },
+    {
+      "end_timestamp": 776.64,
+      "id": "43e22700-2cef-3df3-a5ae-516a2a334442",
+      "speaker": null,
+      "start_timestamp": 770.82,
+      "text": "wing media stuff prior to the Capitol storming called this looks bad in hindsight."
+    },
+    {
+      "end_timestamp": 778.68,
+      "id": "81b2b8c5-5abe-3643-ac52-8f221838b3c6",
+      "speaker": null,
+      "start_timestamp": 776.64,
+      "text": "Yeah, totally, totally."
+    },
+    {
+      "end_timestamp": 782.36,
+      "id": "e8c29af3-17d4-3ffa-b3bc-09e4eec73f27",
+      "speaker": null,
+      "start_timestamp": 778.68,
+      "text": "But ultimately the thing that's really interesting about it is it's not really that different"
+    },
+    {
+      "end_timestamp": 783.88,
+      "id": "5acf6cb5-2cec-32a1-85e0-a278201234d0",
+      "speaker": null,
+      "start_timestamp": 782.36,
+      "text": "than the way they talk normally."
+    },
+    {
+      "end_timestamp": 790.92,
+      "id": "a8bf87b1-e5a9-314d-b9f1-f1f82db79970",
+      "speaker": null,
+      "start_timestamp": 783.88,
+      "text": "You know, it's, it's pretty much hubris, a Nazi tale."
+    },
+    {
+      "end_timestamp": 795.56,
+      "id": "bbfc1f7d-e39c-35bd-a227-1322b0e3d507",
+      "speaker": null,
+      "start_timestamp": 790.92,
+      "text": "So there's a guy on the bus there and Dave goes around and he, he, he checks in on the"
+    },
+    {
+      "end_timestamp": 797.2,
+      "id": "c0a21815-c378-3f6f-9c7a-e8c4e4bfcdc6",
+      "speaker": null,
+      "start_timestamp": 795.56,
+      "text": "temperature of the people in the crowd."
+    },
+    {
+      "end_timestamp": 798.2,
+      "id": "554fd08e-5024-3cc3-99bd-31fe88b09dc4",
+      "speaker": null,
+      "start_timestamp": 797.2,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 799.2,
+      "id": "21960be9-79fc-3aa1-a71f-00a05cb20383",
+      "speaker": null,
+      "start_timestamp": 798.2,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "end_timestamp": 800.2,
+      "id": "c4fd2feb-0931-348a-b02f-832f8add53af",
+      "speaker": null,
+      "start_timestamp": 799.2,
+      "text": "Hey, how are you doing?"
+    },
+    {
+      "end_timestamp": 801.2,
+      "id": "99b106a8-4462-3745-9ef3-3e65459106e0",
+      "speaker": null,
+      "start_timestamp": 800.2,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 802.2,
+      "id": "4a82615b-7f8a-3484-be9d-ee8d80c1f87b",
+      "speaker": null,
+      "start_timestamp": 801.2,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 803.2,
+      "id": "093f0dd5-b9f5-3f96-a3f6-e4fdfa8500c3",
+      "speaker": null,
+      "start_timestamp": 802.2,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 804.2,
+      "id": "d559d5bf-7cda-3f43-b078-87fd15e9652c",
+      "speaker": null,
+      "start_timestamp": 803.2,
+      "text": "And this guy says it's now or never."
+    },
+    {
+      "end_timestamp": 805.2,
+      "id": "a709d80e-6851-383a-a8c2-1dfcf7527451",
+      "speaker": null,
+      "start_timestamp": 804.2,
+      "text": "Well, I'll tell you what, it's time."
+    },
+    {
+      "end_timestamp": 806.2,
+      "id": "6eebf45b-d663-3e58-9f13-17fc180c7c2a",
+      "speaker": null,
+      "start_timestamp": 805.2,
+      "text": "We stand up."
+    },
+    {
+      "end_timestamp": 807.2,
+      "id": "071dfcd2-c7c6-3248-ba0b-15a6cb02c35a",
+      "speaker": null,
+      "start_timestamp": 806.2,
+      "text": "This is it for our country."
+    },
+    {
+      "end_timestamp": 808.2,
+      "id": "5545f75c-2ac7-345a-af2c-da72c31a6228",
+      "speaker": null,
+      "start_timestamp": 807.2,
+      "text": "I'd say either now or never."
+    },
+    {
+      "end_timestamp": 815.04,
+      "id": "d628a161-34bd-31cf-89c0-c526af354aed",
+      "speaker": null,
+      "start_timestamp": 808.2,
+      "text": "I've enjoyed the blessings of the United States of America for 74 years."
+    },
+    {
+      "end_timestamp": 819.64,
+      "id": "a2e776cb-d31f-34b5-8c02-c6e1566d75dd",
+      "speaker": null,
+      "start_timestamp": 815.04,
+      "text": "And I, I just don't want to see it go basically to the communists."
+    },
+    {
+      "end_timestamp": 820.64,
+      "id": "fc6a4e6a-9097-3f6c-b11f-a1378d4868e5",
+      "speaker": null,
+      "start_timestamp": 819.64,
+      "text": "That's what we're looking at."
+    },
+    {
+      "end_timestamp": 822.08,
+      "id": "96d0569c-43c7-3d44-b46c-a92429682b40",
+      "speaker": null,
+      "start_timestamp": 820.64,
+      "text": "We've got to hand it off to our children."
+    },
+    {
+      "end_timestamp": 823.08,
+      "id": "ab7fe5b0-c77d-337f-88f5-a42d785325cc",
+      "speaker": null,
+      "start_timestamp": 822.08,
+      "text": "It's our children, grandchildren."
+    },
+    {
+      "end_timestamp": 824.08,
+      "id": "cf018dba-1765-387d-99c2-eaee3f7c0177",
+      "speaker": null,
+      "start_timestamp": 823.08,
+      "text": "That's it."
+    },
+    {
+      "end_timestamp": 825.08,
+      "id": "fd4e0cd7-b00c-3c1c-ad97-8af08a62f880",
+      "speaker": null,
+      "start_timestamp": 824.08,
+      "text": "Yeah, man."
+    },
+    {
+      "end_timestamp": 828.32,
+      "id": "eee9b9c4-dc26-33b0-8009-46af2c619fc2",
+      "speaker": null,
+      "start_timestamp": 825.08,
+      "text": "The commies, they're coming and it's now or never, you got to stand up and fight these"
+    },
+    {
+      "end_timestamp": 832.84,
+      "id": "1409f5cc-78a0-3bb2-838b-e83a740b0d8c",
+      "speaker": null,
+      "start_timestamp": 828.32,
+      "text": "commies or else your grandkids aren't going to have a capitalist country to live in and"
+    },
+    {
+      "end_timestamp": 834.0,
+      "id": "257849c7-e34c-3bf2-850b-496eb5c08b1b",
+      "speaker": null,
+      "start_timestamp": 832.84,
+      "text": "have a great time with."
+    },
+    {
+      "end_timestamp": 841.4,
+      "id": "b575d389-3d79-32d5-b5e2-b581746ade3d",
+      "speaker": null,
+      "start_timestamp": 834.0,
+      "text": "I like, I like the real low tier of these guys because I recognize how they talk and"
+    },
+    {
+      "end_timestamp": 846.0,
+      "id": "1238449a-b913-329c-bef3-3e26cb361f92",
+      "speaker": null,
+      "start_timestamp": 841.4,
+      "text": "that is exactly like comedy producers who have never put on a good show."
+    },
+    {
+      "end_timestamp": 847.0,
+      "id": "9a798a18-b5eb-36d6-a7ba-57cad8f3c279",
+      "speaker": null,
+      "start_timestamp": 846.0,
+      "text": "Hmm."
+    },
+    {
+      "end_timestamp": 848.96,
+      "id": "d78539fa-9340-3ea0-88f8-029a623ca112",
+      "speaker": null,
+      "start_timestamp": 847.0,
+      "text": "I think we're going to have about 4 million people here tonight."
+    },
+    {
+      "end_timestamp": 849.96,
+      "id": "aab141de-3a23-3284-b322-b18e6272c8aa",
+      "speaker": null,
+      "start_timestamp": 848.96,
+      "text": "Oh yes."
+    },
+    {
+      "end_timestamp": 850.96,
+      "id": "208e471f-7b7a-32a3-9185-fd6ff360d0ce",
+      "speaker": null,
+      "start_timestamp": 849.96,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 851.96,
+      "id": "1fe48346-7795-3026-8d96-e7a5353cb4e7",
+      "speaker": null,
+      "start_timestamp": 850.96,
+      "text": "That is, that is awesome."
+    },
+    {
+      "end_timestamp": 853.8,
+      "id": "741d1b56-5951-35e5-8aee-317f27008e52",
+      "speaker": null,
+      "start_timestamp": 851.96,
+      "text": "I think we're going to have so many people here tonight."
+    },
+    {
+      "end_timestamp": 857.4,
+      "id": "8a1326c4-67e5-370e-9df0-e5b6b35b2398",
+      "speaker": null,
+      "start_timestamp": 853.8,
+      "text": "I'm telling you, I've heard, I got so many Facebook messages."
+    },
+    {
+      "end_timestamp": 859.44,
+      "id": "10746427-5fcd-3226-a60e-2f6ed5921399",
+      "speaker": null,
+      "start_timestamp": 857.4,
+      "text": "People are committed to showing up."
+    },
+    {
+      "end_timestamp": 860.44,
+      "id": "8a317dec-5d45-326b-a748-0415a716fc8f",
+      "speaker": null,
+      "start_timestamp": 859.44,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 861.44,
+      "id": "06a60ff5-b26a-321c-b365-b05e77d5dc5f",
+      "speaker": null,
+      "start_timestamp": 860.44,
+      "text": "You should have been here last week."
+    },
+    {
+      "end_timestamp": 864.56,
+      "id": "5722c651-91ce-36a2-be49-2c4a9f4f341e",
+      "speaker": null,
+      "start_timestamp": 861.44,
+      "text": "Oh, well actually it was going to be 4 million, but it rained."
+    },
+    {
+      "end_timestamp": 865.56,
+      "id": "3892f59a-c722-3315-8477-f78b658e7bf7",
+      "speaker": null,
+      "start_timestamp": 864.56,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 866.56,
+      "id": "08464820-b6f0-3794-9f92-4ccbf71fe314",
+      "speaker": null,
+      "start_timestamp": 865.56,
+      "text": "Exactly."
+    },
+    {
+      "end_timestamp": 867.56,
+      "id": "634336df-5874-32f7-b769-fc19e10db014",
+      "speaker": null,
+      "start_timestamp": 866.56,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 868.56,
+      "id": "3cebb2bd-7369-3a17-bd97-5206e7ccb11d",
+      "speaker": null,
+      "start_timestamp": 867.56,
+      "text": "Oh, I forgot that there was a Bears game today."
+    },
+    {
+      "end_timestamp": 869.56,
+      "id": "3a69a7a9-d8f6-37f3-9387-eb2fbda0310b",
+      "speaker": null,
+      "start_timestamp": 868.56,
+      "text": "Yeah, exactly."
+    },
+    {
+      "end_timestamp": 870.56,
+      "id": "a31df6da-b7a5-3796-a173-68f2cbc85d3e",
+      "speaker": null,
+      "start_timestamp": 869.56,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 871.56,
+      "id": "ad2ed44f-10c1-3e75-8f81-ee3c93c3b0c6",
+      "speaker": null,
+      "start_timestamp": 870.56,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 872.56,
+      "id": "1c001cf6-cd92-3af3-8c6a-c1009d91535d",
+      "speaker": null,
+      "start_timestamp": 871.56,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 873.56,
+      "id": "dd3ffaae-b3a2-34ee-9201-90edd61acd6a",
+      "speaker": null,
+      "start_timestamp": 872.56,
+      "text": "Oh no."
+    },
+    {
+      "end_timestamp": 874.56,
+      "id": "d1779be8-2584-35af-822f-14d97f4bd280",
+      "speaker": null,
+      "start_timestamp": 873.56,
+      "text": "It's Sunday."
+    },
+    {
+      "end_timestamp": 875.56,
+      "id": "3a0f1bb4-bce7-3a43-aee0-90fdefd2de2f",
+      "speaker": null,
+      "start_timestamp": 874.56,
+      "text": "There's always a good one."
+    },
+    {
+      "end_timestamp": 876.56,
+      "id": "3e53a42b-30f9-3c1c-b33f-f7cc5cce3ed2",
+      "speaker": null,
+      "start_timestamp": 875.56,
+      "text": "Yes, exactly."
+    },
+    {
+      "end_timestamp": 878.56,
+      "id": "9aeb1fd9-eda6-353c-b38f-f3739bb96d09",
+      "speaker": null,
+      "start_timestamp": 876.56,
+      "text": "Your show is weekly on Sundays."
+    },
+    {
+      "end_timestamp": 880.76,
+      "id": "055ca634-349d-314b-9068-b73e5cf83ace",
+      "speaker": null,
+      "start_timestamp": 878.56,
+      "text": "You got to know there's football."
+    },
+    {
+      "end_timestamp": 882.96,
+      "id": "abbad74b-7ed5-3924-904f-b81e1099442b",
+      "speaker": null,
+      "start_timestamp": 880.76,
+      "text": "Got to know there's football, man."
+    },
+    {
+      "end_timestamp": 888.08,
+      "id": "7e928d3e-fbc2-3895-8092-9f2fb0e072a9",
+      "speaker": null,
+      "start_timestamp": 882.96,
+      "text": "Um, so yeah, they are a little bit, uh, there's a little bit of pride or a little bit of expectation"
+    },
+    {
+      "end_timestamp": 889.68,
+      "id": "dd61b03f-b63a-3ba3-a206-3791b590c298",
+      "speaker": null,
+      "start_timestamp": 888.08,
+      "text": "and excitement."
+    },
+    {
+      "end_timestamp": 891.04,
+      "id": "a482cdc9-c8f9-3577-9483-85e1670059e1",
+      "speaker": null,
+      "start_timestamp": 889.68,
+      "text": "It's definitely palpable."
+    },
+    {
+      "end_timestamp": 896.84,
+      "id": "3d8b5251-dba7-3230-9fc6-7eb3135753e0",
+      "speaker": null,
+      "start_timestamp": 891.04,
+      "text": "You can tell like they feel like they're getting ready to go do something more than chant for"
+    },
+    {
+      "end_timestamp": 897.84,
+      "id": "9de2518d-187e-3920-994e-d5fb01a4f126",
+      "speaker": null,
+      "start_timestamp": 896.84,
+      "text": "more years."
+    },
+    {
+      "end_timestamp": 898.84,
+      "id": "2386e267-06f4-3422-bc9a-9bc07f0924ec",
+      "speaker": null,
+      "start_timestamp": 897.84,
+      "text": "Yes."
+    },
+    {
+      "end_timestamp": 899.84,
+      "id": "ae04d437-5c88-34f7-9d09-446585d979d1",
+      "speaker": null,
+      "start_timestamp": 898.84,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 900.84,
+      "id": "3b242a90-6adc-3a60-bc1a-d4d500970548",
+      "speaker": null,
+      "start_timestamp": 899.84,
+      "text": "For sure."
+    },
+    {
+      "end_timestamp": 901.84,
+      "id": "4c3d5636-e2c6-34fc-b1a2-2341666c9d35",
+      "speaker": null,
+      "start_timestamp": 900.84,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 902.84,
+      "id": "0c0b5821-19b2-38cb-9778-1bfff462128f",
+      "speaker": null,
+      "start_timestamp": 901.84,
+      "text": "The electricity was clearly in the air."
+    },
+    {
+      "end_timestamp": 903.84,
+      "id": "173b1b8b-81e5-3f4c-8cd1-2dc594ea92d0",
+      "speaker": null,
+      "start_timestamp": 902.84,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 904.84,
+      "id": "939232c9-8ab7-3abf-9691-ca151191b85c",
+      "speaker": null,
+      "start_timestamp": 903.84,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 908.52,
+      "id": "67f75c40-661f-371e-ab00-188f26d7e019",
+      "speaker": null,
+      "start_timestamp": 904.84,
+      "text": "And, and, and, and interestingly, I mean, I think that, um, the people who are there"
+    },
+    {
+      "end_timestamp": 913.0,
+      "id": "8aba09be-1e3a-3442-9d6c-12956b43315e",
+      "speaker": null,
+      "start_timestamp": 908.52,
+      "text": "have a lot more to say than just that Biden stole the election."
+    },
+    {
+      "end_timestamp": 919.96,
+      "id": "18881ce4-d2cb-3f26-b618-44ea7fb8a7ba",
+      "speaker": null,
+      "start_timestamp": 913.0,
+      "text": "Um, there's certainly some ideas that are being trafficked on this bus that are interesting."
+    },
+    {
+      "end_timestamp": 920.96,
+      "id": "0a3e5cba-7984-367f-8faf-1286844f0cc3",
+      "speaker": null,
+      "start_timestamp": 919.96,
+      "text": "Great ideas."
+    },
+    {
+      "end_timestamp": 921.96,
+      "id": "9e03efa9-25f8-3560-ba55-0895c18bdff8",
+      "speaker": null,
+      "start_timestamp": 920.96,
+      "text": "Any highfalutin ideas?"
+    },
+    {
+      "end_timestamp": 928.64,
+      "id": "22f4d669-7dfa-3dbf-8358-f33f90b9e2c8",
+      "speaker": null,
+      "start_timestamp": 921.96,
+      "text": "Clyde's going to tell us how to become a citizen of our local state's revenue."
+    },
+    {
+      "end_timestamp": 936.16,
+      "id": "7b5dd51c-7393-34d2-b9b4-f60c0b8a6de0",
+      "speaker": null,
+      "start_timestamp": 928.64,
+      "text": "Actually what you're doing is you're moving from the admiralty and a jurisdiction of the"
+    },
+    {
+      "end_timestamp": 940.28,
+      "id": "4cf7cc5d-1f7b-3b89-b5f5-a7b83b957735",
+      "speaker": null,
+      "start_timestamp": 936.16,
+      "text": "sea to the jurisdiction of the land and the soil."
+    },
+    {
+      "end_timestamp": 941.84,
+      "id": "3cbefa0e-f8a7-3998-b265-a332e59b7b89",
+      "speaker": null,
+      "start_timestamp": 940.28,
+      "text": "And it's just very simple."
+    },
+    {
+      "end_timestamp": 944.36,
+      "id": "ac078422-403e-32cc-b47f-b32f8e30a64d",
+      "speaker": null,
+      "start_timestamp": 941.84,
+      "text": "You just remove yourself."
+    },
+    {
+      "end_timestamp": 950.34,
+      "id": "8730144a-aa00-3fbe-bbd0-77c7a8db6734",
+      "speaker": null,
+      "start_timestamp": 944.36,
+      "text": "You go through the process of the paperwork to remove yourself as a U S citizen and become"
+    },
+    {
+      "end_timestamp": 952.4,
+      "id": "ca07668a-8b8e-3aee-8a7b-a3d2c70c3a1b",
+      "speaker": null,
+      "start_timestamp": 950.34,
+      "text": "a citizen of the state you were born in."
+    },
+    {
+      "end_timestamp": 953.4,
+      "id": "6ba874bb-8534-3526-bc4a-3a39e47dbf47",
+      "speaker": null,
+      "start_timestamp": 952.4,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 955.2,
+      "id": "073b2ab6-2f5d-3f6e-b018-7193f4ca9ceb",
+      "speaker": null,
+      "start_timestamp": 953.4,
+      "text": "And join the assembly of states in your state."
+    },
+    {
+      "end_timestamp": 956.2,
+      "id": "f83b6545-4ef8-3c94-98ad-b24e81ecac08",
+      "speaker": null,
+      "start_timestamp": 955.2,
+      "text": "That sounds right."
+    },
+    {
+      "end_timestamp": 958.56,
+      "id": "58d068bb-ea63-361a-81de-09afc606246f",
+      "speaker": null,
+      "start_timestamp": 956.2,
+      "text": "And then you become a state national or a state citizen."
+    },
+    {
+      "end_timestamp": 959.56,
+      "id": "0b15a46a-1533-3a9b-a3dc-f27a4cc1934d",
+      "speaker": null,
+      "start_timestamp": 958.56,
+      "text": "Oh, of course."
+    },
+    {
+      "end_timestamp": 965.24,
+      "id": "591fec5d-863c-3c26-be73-583c781aa815",
+      "speaker": null,
+      "start_timestamp": 959.56,
+      "text": "There are rumors that Trump is a state national and has already gone through this and understands"
+    },
+    {
+      "end_timestamp": 967.0,
+      "id": "137520d9-4303-3e24-89bb-25b7a5e638f5",
+      "speaker": null,
+      "start_timestamp": 965.24,
+      "text": "all of this."
+    },
+    {
+      "end_timestamp": 970.32,
+      "id": "2a54d9f6-0b84-3a97-b441-c725bda9761b",
+      "speaker": null,
+      "start_timestamp": 967.0,
+      "text": "And what we have to do, we've talked about succeeding."
+    },
+    {
+      "end_timestamp": 971.88,
+      "id": "168a5b3d-a7f2-3ca8-8999-f3fc6e0fde68",
+      "speaker": null,
+      "start_timestamp": 970.32,
+      "text": "We don't need to succeed our states."
+    },
+    {
+      "end_timestamp": 977.68,
+      "id": "2f0c90bf-6104-3a0f-858a-70a2ccaf13c6",
+      "speaker": null,
+      "start_timestamp": 971.88,
+      "text": "We need to succeed ourselves one at a time and move over to the land jurisdiction."
+    },
+    {
+      "end_timestamp": 982.36,
+      "id": "03de58a4-c136-3011-b89b-a34af09896a3",
+      "speaker": null,
+      "start_timestamp": 977.68,
+      "text": "And what we're doing right now is thanks to judge Anna von Reitz."
+    },
+    {
+      "end_timestamp": 987.24,
+      "id": "2a2b9ca0-eab4-36cd-85d6-de06e699fddb",
+      "speaker": null,
+      "start_timestamp": 982.36,
+      "text": "She's done all the paperwork so that we're now right now are repopulating the original"
+    },
+    {
+      "end_timestamp": 989.72,
+      "id": "ccb52c3a-36d1-31b3-96ff-3b17ed0f132a",
+      "speaker": null,
+      "start_timestamp": 987.24,
+      "text": "constitution of 1787."
+    },
+    {
+      "end_timestamp": 993.6,
+      "id": "f8eb97b1-5f67-3b94-83ce-c80c786ac095",
+      "speaker": null,
+      "start_timestamp": 989.72,
+      "text": "So I think Anna von Reitz, if I recall correctly, is somebody that I've heard Carrie Cassidy"
+    },
+    {
+      "end_timestamp": 994.6,
+      "id": "892fe49f-e025-31fa-b909-c03f13e84803",
+      "speaker": null,
+      "start_timestamp": 993.6,
+      "text": "bring up quite a bit."
+    },
+    {
+      "end_timestamp": 996.56,
+      "id": "00ee8a85-9acc-3a51-8aaa-15932ecf0053",
+      "speaker": null,
+      "start_timestamp": 994.6,
+      "text": "So there's a nice little overlap."
+    },
+    {
+      "end_timestamp": 997.56,
+      "id": "09b7eed7-7d00-3cc5-bcf3-97aa50b589b2",
+      "speaker": null,
+      "start_timestamp": 996.56,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 998.56,
+      "id": "6f390142-a058-344f-9c3d-d9a6c892a8a4",
+      "speaker": null,
+      "start_timestamp": 997.56,
+      "text": "Of that."
+    },
+    {
+      "end_timestamp": 999.56,
+      "id": "ccea4823-6f4a-3e93-8d0f-92ff12099892",
+      "speaker": null,
+      "start_timestamp": 998.56,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1002.08,
+      "id": "8ca25b5f-796c-38fb-9bfd-6ffc65de89d9",
+      "speaker": null,
+      "start_timestamp": 999.56,
+      "text": "I wrote in a scream."
+    },
+    {
+      "end_timestamp": 1003.08,
+      "id": "09baf4bd-0117-30bb-82f4-8a812222d887",
+      "speaker": null,
+      "start_timestamp": 1002.08,
+      "text": "I wrote in a scream."
+    },
+    {
+      "end_timestamp": 1004.08,
+      "id": "7c6c8a09-2189-30f4-be0e-61e1222f2011",
+      "speaker": null,
+      "start_timestamp": 1003.08,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1005.08,
+      "id": "d73dd8ee-ff45-3fa7-a865-da1082b55b2e",
+      "speaker": null,
+      "start_timestamp": 1004.08,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1007.8,
+      "id": "de05a8ba-4671-3ee0-adfa-d0b039626437",
+      "speaker": null,
+      "start_timestamp": 1005.08,
+      "text": "That's why we're in the room, can't tell those are big old letters."
+    },
+    {
+      "end_timestamp": 1008.8,
+      "id": "6625437b-e04d-3726-a2d5-95e97e3a9574",
+      "speaker": null,
+      "start_timestamp": 1007.8,
+      "text": "Those are big old letters."
+    },
+    {
+      "end_timestamp": 1009.8,
+      "id": "8d4e1635-56ff-3a3b-87ef-8116bf1bb258",
+      "speaker": null,
+      "start_timestamp": 1008.8,
+      "text": "What do we got there?"
+    },
+    {
+      "end_timestamp": 1019.92,
+      "id": "a87a1663-cab9-3fb3-9c24-6330316e6a64",
+      "speaker": null,
+      "start_timestamp": 1009.8,
+      "text": "He just basically said, all right, that the president that they love most is not an American"
+    },
+    {
+      "end_timestamp": 1020.92,
+      "id": "897743b2-e46e-328c-a757-2bee3b608a35",
+      "speaker": null,
+      "start_timestamp": 1019.92,
+      "text": "citizen."
+    },
+    {
+      "end_timestamp": 1021.92,
+      "id": "199d4bea-05b0-34d2-b9a7-799b502c131b",
+      "speaker": null,
+      "start_timestamp": 1020.92,
+      "text": "Yeah, that is a problem with his theory."
+    },
+    {
+      "end_timestamp": 1022.92,
+      "id": "b0d07ecf-3ece-3bfa-946c-f881949eac28",
+      "speaker": null,
+      "start_timestamp": 1021.92,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1025.08,
+      "id": "aff53813-47ce-361b-926f-4d55521a1c85",
+      "speaker": null,
+      "start_timestamp": 1022.92,
+      "text": "But that's because sovereign citizens are higher up on the ladder."
+    },
+    {
+      "end_timestamp": 1029.96,
+      "id": "7d3760b2-e4a5-31ac-945d-06e3bca67591",
+      "speaker": null,
+      "start_timestamp": 1025.08,
+      "text": "So you're going to come at me with Obama wasn't born here and then you're going to tell me"
+    },
+    {
+      "end_timestamp": 1032.08,
+      "id": "84dcac38-529a-337b-8f0d-a9142dae6d86",
+      "speaker": null,
+      "start_timestamp": 1029.96,
+      "text": "that your president isn't even American?"
+    },
+    {
+      "end_timestamp": 1033.08,
+      "id": "ffd9ead8-ac1d-32ff-a14c-ea59e2267689",
+      "speaker": null,
+      "start_timestamp": 1032.08,
+      "text": "Well."
+    },
+    {
+      "end_timestamp": 1034.88,
+      "id": "510ed265-6498-33e3-8a02-50cd184e5570",
+      "speaker": null,
+      "start_timestamp": 1033.08,
+      "text": "Get the fuck out of here."
+    },
+    {
+      "end_timestamp": 1035.88,
+      "id": "901ef7c0-aa24-34fa-8e83-20780447d8b1",
+      "speaker": null,
+      "start_timestamp": 1034.88,
+      "text": "Paper American."
+    },
+    {
+      "end_timestamp": 1037.12,
+      "id": "ece05128-31ad-3a59-95d6-ef1805a0eff7",
+      "speaker": null,
+      "start_timestamp": 1035.88,
+      "text": "What is that even?"
+    },
+    {
+      "end_timestamp": 1038.76,
+      "id": "ca7b7999-b6f1-3397-8856-4ddaae2787fb",
+      "speaker": null,
+      "start_timestamp": 1037.12,
+      "text": "Constitution of 1870."
+    },
+    {
+      "end_timestamp": 1039.76,
+      "id": "dde4065c-4a5d-393f-99e6-3eaa937332e9",
+      "speaker": null,
+      "start_timestamp": 1038.76,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 1040.76,
+      "id": "1f462ceb-7f28-3d8c-bad9-0c57b78987d3",
+      "speaker": null,
+      "start_timestamp": 1039.76,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 1041.76,
+      "id": "35f3d894-1734-317a-9f6f-88a307486eee",
+      "speaker": null,
+      "start_timestamp": 1040.76,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 1045.42,
+      "id": "43c72a17-3cee-3a93-8473-42560123429f",
+      "speaker": null,
+      "start_timestamp": 1041.76,
+      "text": "That's all just QAnon sovereign citizen shit."
+    },
+    {
+      "end_timestamp": 1046.42,
+      "id": "ea7631d1-ed63-3b5a-ae68-07d5436d6dea",
+      "speaker": null,
+      "start_timestamp": 1045.42,
+      "text": "It's a bummer."
+    },
+    {
+      "end_timestamp": 1047.5,
+      "id": "153f8c54-d2c2-356a-a9a5-ca6b3012e1d1",
+      "speaker": null,
+      "start_timestamp": 1046.42,
+      "text": "It's a real bummer."
+    },
+    {
+      "end_timestamp": 1054.08,
+      "id": "224d4438-5a2b-3104-9e79-c72c6094d33c",
+      "speaker": null,
+      "start_timestamp": 1047.5,
+      "text": "It's amazing to me how important paperwork is to these people and how unimportant reading"
+    },
+    {
+      "end_timestamp": 1055.08,
+      "id": "07aeb97c-1396-3fd5-92f5-ba489b689d6d",
+      "speaker": null,
+      "start_timestamp": 1054.08,
+      "text": "is."
+    },
+    {
+      "end_timestamp": 1056.08,
+      "id": "ff856a0f-dc59-3f6e-a2e6-a1d5436c5a63",
+      "speaker": null,
+      "start_timestamp": 1055.08,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1057.08,
+      "id": "a8606117-e456-300b-b0e8-bccdd7343138",
+      "speaker": null,
+      "start_timestamp": 1056.08,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1061.08,
+      "id": "98657803-394c-31c0-a8fc-c81d5399d518",
+      "speaker": null,
+      "start_timestamp": 1057.08,
+      "text": "It's fun too because you know, you got Dave here, coach Dave on the bus and he's having"
+    },
+    {
+      "end_timestamp": 1064.4,
+      "id": "ebe85c4b-473e-39f0-9050-ebb147e26cb7",
+      "speaker": null,
+      "start_timestamp": 1061.08,
+      "text": "this guy explain how you become a citizen of the land."
+    },
+    {
+      "end_timestamp": 1065.4,
+      "id": "08aec645-d10a-3c5f-9c49-e9e19ab8c2df",
+      "speaker": null,
+      "start_timestamp": 1064.4,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1067.04,
+      "id": "82426603-ebae-3528-bd10-bd2ca903f283",
+      "speaker": null,
+      "start_timestamp": 1065.4,
+      "text": "You got to take your away from the admiralty."
+    },
+    {
+      "end_timestamp": 1069.72,
+      "id": "828ef6a8-48d7-3f69-9606-24d461cf5a21",
+      "speaker": null,
+      "start_timestamp": 1067.04,
+      "text": "And he's not like, I don't know about that, man."
+    },
+    {
+      "end_timestamp": 1073.96,
+      "id": "678b1ff6-daa3-3f35-8464-3cec2404f4d3",
+      "speaker": null,
+      "start_timestamp": 1069.72,
+      "text": "He's like, oh great, I can't wait to have you on the show again and talk more about"
+    },
+    {
+      "end_timestamp": 1074.96,
+      "id": "154d63cc-2b2a-3723-860f-0f6b8d3855f4",
+      "speaker": null,
+      "start_timestamp": 1073.96,
+      "text": "this."
+    },
+    {
+      "end_timestamp": 1075.96,
+      "id": "9089a54e-d500-31a2-9036-e5212f222794",
+      "speaker": null,
+      "start_timestamp": 1074.96,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1076.96,
+      "id": "42fb7efd-c093-308d-9e60-fff193da7400",
+      "speaker": null,
+      "start_timestamp": 1075.96,
+      "text": "What?"
+    },
+    {
+      "end_timestamp": 1077.96,
+      "id": "3490cafc-10f5-3e43-9c47-0fb25ce0ea80",
+      "speaker": null,
+      "start_timestamp": 1076.96,
+      "text": "So good."
+    },
+    {
+      "end_timestamp": 1079.36,
+      "id": "2db82ad6-1427-3980-8cfb-984a2d8246af",
+      "speaker": null,
+      "start_timestamp": 1077.96,
+      "text": "But look, this guy knows what he's talking about."
+    },
+    {
+      "end_timestamp": 1081.16,
+      "id": "f66d0cfc-8ae1-3dbe-8714-d014086aa863",
+      "speaker": null,
+      "start_timestamp": 1079.36,
+      "text": "I think he went to law school."
+    },
+    {
+      "end_timestamp": 1085.48,
+      "id": "5d95d82b-502d-3572-8d4f-35054b138b8c",
+      "speaker": null,
+      "start_timestamp": 1081.16,
+      "text": "So our whole movement, I believe, is going to be about teaching people how to get out"
+    },
+    {
+      "end_timestamp": 1089.64,
+      "id": "ff33355e-8a13-3db6-a468-3cffc928fd39",
+      "speaker": null,
+      "start_timestamp": 1085.48,
+      "text": "of the jurisdiction of the admiralty law and the law of the sea and the Vatican, which"
+    },
+    {
+      "end_timestamp": 1091.16,
+      "id": "13d80e2b-bc95-3fff-b6b8-2f2de7a0463c",
+      "speaker": null,
+      "start_timestamp": 1089.64,
+      "text": "is the law of the air."
+    },
+    {
+      "end_timestamp": 1095.52,
+      "id": "0076c2d3-dcd0-39e6-89c0-e965654b50cb",
+      "speaker": null,
+      "start_timestamp": 1091.16,
+      "text": "The law comes from L-A-W, land, air, water."
+    },
+    {
+      "end_timestamp": 1097.68,
+      "id": "4f7b3ff9-f0f3-39f8-9ca3-f1d47e0dd6c8",
+      "speaker": null,
+      "start_timestamp": 1095.52,
+      "text": "That's where the word law comes from."
+    },
+    {
+      "end_timestamp": 1099.48,
+      "id": "83644e6e-8716-374f-81a8-253e0f57f8f7",
+      "speaker": null,
+      "start_timestamp": 1097.68,
+      "text": "The three jurisdictions."
+    },
+    {
+      "end_timestamp": 1101.92,
+      "id": "864cc35b-3ba3-3cd8-b16d-9429c0a4e79c",
+      "speaker": null,
+      "start_timestamp": 1099.48,
+      "text": "The Pope figured this out in 1300."
+    },
+    {
+      "end_timestamp": 1103.56,
+      "id": "c778416b-588d-3a91-9e5b-a7fab1856496",
+      "speaker": null,
+      "start_timestamp": 1101.92,
+      "text": "That's who we're living under right now."
+    },
+    {
+      "end_timestamp": 1104.56,
+      "id": "ed09a379-1cfa-3350-8f7d-3f2d5dbcb935",
+      "speaker": null,
+      "start_timestamp": 1103.56,
+      "text": "The Vatican."
+    },
+    {
+      "end_timestamp": 1105.56,
+      "id": "90446ed6-1ee5-3bfe-b25f-7a92368b9cd5",
+      "speaker": null,
+      "start_timestamp": 1104.56,
+      "text": "The same pope?"
+    },
+    {
+      "end_timestamp": 1106.56,
+      "id": "f0d04a94-2b2e-3fe0-a861-b13586d85585",
+      "speaker": null,
+      "start_timestamp": 1105.56,
+      "text": "All of this is under that."
+    },
+    {
+      "end_timestamp": 1112.08,
+      "id": "52251fa9-a851-3c67-8500-77400eebf8bc",
+      "speaker": null,
+      "start_timestamp": 1106.56,
+      "text": "The only way to get out of it is to go and land in soil and get back under the constitution"
+    },
+    {
+      "end_timestamp": 1113.48,
+      "id": "4c87bd2f-c8b4-39e3-907b-9e893d39f5c3",
+      "speaker": null,
+      "start_timestamp": 1112.08,
+      "text": "of 1787."
+    },
+    {
+      "end_timestamp": 1114.48,
+      "id": "0988bb55-e17a-3aaf-b9eb-a2d895059a87",
+      "speaker": null,
+      "start_timestamp": 1113.48,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 1116.14,
+      "id": "0bd1e1bc-2097-3f2e-ac42-ed8b8bf59d1e",
+      "speaker": null,
+      "start_timestamp": 1114.48,
+      "text": "Land, air, water."
+    },
+    {
+      "end_timestamp": 1117.42,
+      "id": "2178956e-8731-338b-a093-795bdcb05152",
+      "speaker": null,
+      "start_timestamp": 1116.14,
+      "text": "That's what law means."
+    },
+    {
+      "end_timestamp": 1118.48,
+      "id": "0222f718-3726-3af0-a197-eb3fb3b3aa64",
+      "speaker": null,
+      "start_timestamp": 1117.42,
+      "text": "Are we doing this?"
+    },
+    {
+      "end_timestamp": 1119.84,
+      "id": "9bdbaea8-1b3c-3012-853d-58bb90f424d9",
+      "speaker": null,
+      "start_timestamp": 1118.48,
+      "text": "Are we doing this, Dan?"
+    },
+    {
+      "end_timestamp": 1120.84,
+      "id": "41ab2585-47c7-38be-9271-40a4b2358c93",
+      "speaker": null,
+      "start_timestamp": 1119.84,
+      "text": "We're not."
+    },
+    {
+      "end_timestamp": 1124.48,
+      "id": "c2eff9c5-4e38-3d05-b2e3-8abd0e3ccf4f",
+      "speaker": null,
+      "start_timestamp": 1120.84,
+      "text": "The Vatican is the law of the air."
+    },
+    {
+      "end_timestamp": 1125.48,
+      "id": "aff2c1aa-06f3-33cf-a0e4-31231d3f5331",
+      "speaker": null,
+      "start_timestamp": 1124.48,
+      "text": "Right."
+    },
+    {
+      "end_timestamp": 1129.6,
+      "id": "292c9fb4-c55e-3660-a7d9-2ca44b9eec07",
+      "speaker": null,
+      "start_timestamp": 1125.48,
+      "text": "And then I think the British empire is the law of the sea."
+    },
+    {
+      "end_timestamp": 1130.6,
+      "id": "4d4ce50e-c6b9-360a-8095-ec128d0ecdc1",
+      "speaker": null,
+      "start_timestamp": 1129.6,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 1133.8,
+      "id": "d9b5fa41-dd1c-3762-8cb5-8618c22142dd",
+      "speaker": null,
+      "start_timestamp": 1130.6,
+      "text": "The maritime law is under the British common admiralty law."
+    },
+    {
+      "end_timestamp": 1134.8,
+      "id": "1cd3e939-95f8-3cd0-94ff-486f8fbaf245",
+      "speaker": null,
+      "start_timestamp": 1133.8,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 1135.8,
+      "id": "f9ec49f1-a17b-3230-addc-d9d4b6d66404",
+      "speaker": null,
+      "start_timestamp": 1134.8,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 1138.08,
+      "id": "122c89a3-8265-3460-a981-52bcf456143f",
+      "speaker": null,
+      "start_timestamp": 1135.8,
+      "text": "And then I guess the land is just everybody."
+    },
+    {
+      "end_timestamp": 1139.08,
+      "id": "af75758e-f7ca-3590-95cb-544d13d3b42e",
+      "speaker": null,
+      "start_timestamp": 1138.08,
+      "text": "The land is freedom."
+    },
+    {
+      "end_timestamp": 1141.6,
+      "id": "9653c817-4a9e-3384-9c5c-b42e9e567de3",
+      "speaker": null,
+      "start_timestamp": 1139.08,
+      "text": "The land is just the constitution of the United States."
+    },
+    {
+      "end_timestamp": 1142.6,
+      "id": "b9c8e556-60ef-3b4f-8ad8-5d75257bbd54",
+      "speaker": null,
+      "start_timestamp": 1141.6,
+      "text": "Freedom."
+    },
+    {
+      "end_timestamp": 1143.6,
+      "id": "07384a24-85e8-3d6c-ac80-c4ce463ca23e",
+      "speaker": null,
+      "start_timestamp": 1142.6,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1145.76,
+      "id": "52fbb603-b25b-389d-a76b-711455c6f043",
+      "speaker": null,
+      "start_timestamp": 1143.6,
+      "text": "But not the United States, individual states."
+    },
+    {
+      "end_timestamp": 1146.76,
+      "id": "4d583d00-c4bb-328d-acfa-1b27c3c4efce",
+      "speaker": null,
+      "start_timestamp": 1145.76,
+      "text": "Right."
+    },
+    {
+      "end_timestamp": 1149.24,
+      "id": "8a29769f-1c62-3402-b2d8-d3b9c4e38d13",
+      "speaker": null,
+      "start_timestamp": 1146.76,
+      "text": "Because we're also the articles of people?"
+    },
+    {
+      "end_timestamp": 1152.22,
+      "id": "b378575b-0be5-357e-8cf7-d1237d5812dd",
+      "speaker": null,
+      "start_timestamp": 1149.24,
+      "text": "Does this apply to people in other countries?"
+    },
+    {
+      "end_timestamp": 1154.44,
+      "id": "401f49c8-2cf3-35ac-82ef-2fa8659c2c6a",
+      "speaker": null,
+      "start_timestamp": 1152.22,
+      "text": "Like the law of the ground?"
+    },
+    {
+      "end_timestamp": 1157.68,
+      "id": "1642fbc8-138d-3de0-8f68-4069ec1f8ecb",
+      "speaker": null,
+      "start_timestamp": 1154.44,
+      "text": "The Vatican owns their air, so they don't have any choice."
+    },
+    {
+      "end_timestamp": 1161.4,
+      "id": "9c3773dc-e7c1-3a75-88a4-82904f0901a1",
+      "speaker": null,
+      "start_timestamp": 1157.68,
+      "text": "See, the pope figured this out in 1300."
+    },
+    {
+      "end_timestamp": 1162.4,
+      "id": "60f6c5cb-2b1f-3624-978e-491b93451994",
+      "speaker": null,
+      "start_timestamp": 1161.4,
+      "text": "Figured what out?"
+    },
+    {
+      "end_timestamp": 1164.68,
+      "id": "a1308dda-e3c6-39e3-9f40-99cc8a00bb54",
+      "speaker": null,
+      "start_timestamp": 1162.4,
+      "text": "That law means land, air, and water."
+    },
+    {
+      "end_timestamp": 1170.24,
+      "id": "5a07663c-1b3e-3abc-9b46-61f9f89dfd55",
+      "speaker": null,
+      "start_timestamp": 1164.68,
+      "text": "In what language?"
+    },
+    {
+      "end_timestamp": 1171.24,
+      "id": "33be3f38-d64c-3bcc-a65a-e1ca1eb1109e",
+      "speaker": null,
+      "start_timestamp": 1170.24,
+      "text": "It's not spelled that way."
+    },
+    {
+      "end_timestamp": 1172.24,
+      "id": "ab761da8-ac72-390e-8e76-9f54f3910f3d",
+      "speaker": null,
+      "start_timestamp": 1171.24,
+      "text": "Oh man."
+    },
+    {
+      "end_timestamp": 1173.24,
+      "id": "05e75188-e925-3b3c-aaf7-a9606d280aac",
+      "speaker": null,
+      "start_timestamp": 1172.24,
+      "text": "All right."
+    },
+    {
+      "end_timestamp": 1178.12,
+      "id": "9b74662d-fe1c-33c9-aa16-0f806a5e395e",
+      "speaker": null,
+      "start_timestamp": 1173.24,
+      "text": "Earth, fire, water, air, long ago."
+    },
+    {
+      "end_timestamp": 1179.12,
+      "id": "235424e7-5774-31ee-9368-133a57896673",
+      "speaker": null,
+      "start_timestamp": 1178.12,
+      "text": "My father."
+    },
+    {
+      "end_timestamp": 1180.12,
+      "id": "1831991c-a572-30e7-89e4-4f9b3eef9de8",
+      "speaker": null,
+      "start_timestamp": 1179.12,
+      "text": "Was the avatar."
+    },
+    {
+      "end_timestamp": 1181.12,
+      "id": "02673055-fc8a-3099-972d-f3cf9e9051f9",
+      "speaker": null,
+      "start_timestamp": 1180.12,
+      "text": "Talk about elements."
+    },
+    {
+      "end_timestamp": 1182.12,
+      "id": "02fd1f9c-bce2-3f55-9af5-7709d5539dca",
+      "speaker": null,
+      "start_timestamp": 1181.12,
+      "text": "Oh man."
+    },
+    {
+      "end_timestamp": 1183.12,
+      "id": "6ff08cf4-ec12-3792-8938-17ebab268ed2",
+      "speaker": null,
+      "start_timestamp": 1182.12,
+      "text": "J.K. Simmons."
+    },
+    {
+      "end_timestamp": 1184.12,
+      "id": "6a295b47-1618-3ea5-aea2-46483a1ca7d6",
+      "speaker": null,
+      "start_timestamp": 1183.12,
+      "text": "Fantastic!"
+    },
+    {
+      "end_timestamp": 1187.36,
+      "id": "0f64da61-756c-3091-9242-bf1c409123f1",
+      "speaker": null,
+      "start_timestamp": 1184.12,
+      "text": "Elements equal jurisdictions."
+    },
+    {
+      "end_timestamp": 1189.12,
+      "id": "1ebf70ea-4993-32a0-ae02-c3ab4ba6aaa0",
+      "speaker": null,
+      "start_timestamp": 1187.36,
+      "text": "You ever fuck with Avatar, Dan?"
+    },
+    {
+      "end_timestamp": 1190.12,
+      "id": "d13f19dc-ca16-3df7-820f-a22c9883152b",
+      "speaker": null,
+      "start_timestamp": 1189.12,
+      "text": "No."
+    },
+    {
+      "end_timestamp": 1191.44,
+      "id": "54657d68-bc11-3547-b58f-5395972177c6",
+      "speaker": null,
+      "start_timestamp": 1190.12,
+      "text": "Not the Cameron bullshit."
+    },
+    {
+      "end_timestamp": 1196.2,
+      "id": "cb414125-0645-3500-ba41-f4a5714fc861",
+      "speaker": null,
+      "start_timestamp": 1191.44,
+      "text": "I'm talking about young boy with air powers."
+    },
+    {
+      "end_timestamp": 1201.28,
+      "id": "d4afe0ea-5db2-326d-93eb-16e196d9f4c3",
+      "speaker": null,
+      "start_timestamp": 1196.2,
+      "text": "I watched the James Cameron movie because I was brought along to it by friends who insisted"
+    },
+    {
+      "end_timestamp": 1202.28,
+      "id": "70c7d863-f40e-3dd1-84d3-334b9fa42f78",
+      "speaker": null,
+      "start_timestamp": 1201.28,
+      "text": "I go see it."
+    },
+    {
+      "end_timestamp": 1203.28,
+      "id": "0ca07245-3f2c-3927-a219-2b8a84eadc37",
+      "speaker": null,
+      "start_timestamp": 1202.28,
+      "text": "That was a terrible idea."
+    },
+    {
+      "end_timestamp": 1204.28,
+      "id": "1b466b01-3403-3260-b3d7-c0a7d63a53c7",
+      "speaker": null,
+      "start_timestamp": 1203.28,
+      "text": "No, wait."
+    },
+    {
+      "end_timestamp": 1205.28,
+      "id": "aed522a0-f416-3e60-87de-a55fea1ceee0",
+      "speaker": null,
+      "start_timestamp": 1204.28,
+      "text": "That's Serenity."
+    },
+    {
+      "end_timestamp": 1206.28,
+      "id": "88a5e619-012d-32a7-bc5a-b5edee470e29",
+      "speaker": null,
+      "start_timestamp": 1205.28,
+      "text": "Serenity's great."
+    },
+    {
+      "end_timestamp": 1208.24,
+      "id": "56846612-38e8-35f0-a240-67abe30c7925",
+      "speaker": null,
+      "start_timestamp": 1206.28,
+      "text": "But I also saw Avatar because it was too big to not see."
+    },
+    {
+      "end_timestamp": 1209.24,
+      "id": "614f32f5-8a71-3b82-87bb-9becfa33094f",
+      "speaker": null,
+      "start_timestamp": 1208.24,
+      "text": "Well."
+    },
+    {
+      "end_timestamp": 1210.56,
+      "id": "6eced3a7-3f6f-3b63-a68d-65b99e2440de",
+      "speaker": null,
+      "start_timestamp": 1209.24,
+      "text": "You know, it was one of those things that like, you gotta-"
+    },
+    {
+      "end_timestamp": 1214.16,
+      "id": "d4242ae0-62f9-3ca4-933f-3716b6351036",
+      "speaker": null,
+      "start_timestamp": 1210.56,
+      "text": "You didn't see the last, the Rise of Skywalker."
+    },
+    {
+      "end_timestamp": 1216.16,
+      "id": "d2692705-5c49-3c3d-885a-228dde60a2ab",
+      "speaker": null,
+      "start_timestamp": 1214.16,
+      "text": "I'm an adult."
+    },
+    {
+      "end_timestamp": 1218.52,
+      "id": "8db6dc43-2af5-3929-9775-f8ddd53a9bcd",
+      "speaker": null,
+      "start_timestamp": 1216.16,
+      "text": "It's a joke."
+    },
+    {
+      "end_timestamp": 1221.8,
+      "id": "e83f8183-8b55-39a3-bc7d-f9970efa9897",
+      "speaker": null,
+      "start_timestamp": 1218.52,
+      "text": "There was a time when that came out, I was of the age where it's like, yeah, you gotta"
+    },
+    {
+      "end_timestamp": 1222.8,
+      "id": "dba5476d-00d5-3c15-b648-1146332fa1f7",
+      "speaker": null,
+      "start_timestamp": 1221.8,
+      "text": "see this."
+    },
+    {
+      "end_timestamp": 1223.8,
+      "id": "68ad5f5e-2688-3d99-88e9-ac92091256e5",
+      "speaker": null,
+      "start_timestamp": 1222.8,
+      "text": "Well, sure."
+    },
+    {
+      "end_timestamp": 1224.8,
+      "id": "a30482d1-d9e1-3933-b3d4-6481f85cb50b",
+      "speaker": null,
+      "start_timestamp": 1223.8,
+      "text": "People are going to be talking about it."
+    },
+    {
+      "end_timestamp": 1225.8,
+      "id": "9d5258f8-c158-3aa7-b1db-661ca6a6776b",
+      "speaker": null,
+      "start_timestamp": 1224.8,
+      "text": "Yes."
+    },
+    {
+      "end_timestamp": 1226.8,
+      "id": "91859a51-2462-3ddf-8e89-7572e790c1e2",
+      "speaker": null,
+      "start_timestamp": 1225.8,
+      "text": "And I don't care about that now."
+    },
+    {
+      "end_timestamp": 1227.8,
+      "id": "d59f86c2-a9d6-3c41-8fed-299d87096e66",
+      "speaker": null,
+      "start_timestamp": 1226.8,
+      "text": "No."
+    },
+    {
+      "end_timestamp": 1229.52,
+      "id": "14316ee8-fe53-36b4-9366-995f8e0c1afc",
+      "speaker": null,
+      "start_timestamp": 1227.8,
+      "text": "So, I think I did see the last Skywalker."
+    },
+    {
+      "end_timestamp": 1230.52,
+      "id": "c8f20cc6-f801-363c-a642-6c93968e772d",
+      "speaker": null,
+      "start_timestamp": 1229.52,
+      "text": "You did not."
+    },
+    {
+      "end_timestamp": 1231.52,
+      "id": "efed8905-6726-356d-89cd-ec9abbe449ed",
+      "speaker": null,
+      "start_timestamp": 1230.52,
+      "text": "I think I did."
+    },
+    {
+      "end_timestamp": 1232.52,
+      "id": "2abb3f9f-1153-3f5f-845d-f1b6ec7c1003",
+      "speaker": null,
+      "start_timestamp": 1231.52,
+      "text": "When?"
+    },
+    {
+      "end_timestamp": 1233.52,
+      "id": "0b8082fd-a955-31e6-9e41-a55b6a8b5e0e",
+      "speaker": null,
+      "start_timestamp": 1232.52,
+      "text": "When?"
+    },
+    {
+      "end_timestamp": 1234.52,
+      "id": "ba5d2912-1332-3312-b957-a19c90559649",
+      "speaker": null,
+      "start_timestamp": 1233.52,
+      "text": "Tell me when."
+    },
+    {
+      "end_timestamp": 1236.72,
+      "id": "d203ff99-a400-39fb-93f6-7148a58d9041",
+      "speaker": null,
+      "start_timestamp": 1234.52,
+      "text": "When did you get it on DVD, Dan?"
+    },
+    {
+      "end_timestamp": 1237.72,
+      "id": "e127a8f7-6e0a-3fe8-b550-6309769bca9b",
+      "speaker": null,
+      "start_timestamp": 1236.72,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1238.72,
+      "id": "ea393bb2-25b0-3e3a-96d2-76d9eabb7fe6",
+      "speaker": null,
+      "start_timestamp": 1237.72,
+      "text": "It's under the red box."
+    },
+    {
+      "end_timestamp": 1241.92,
+      "id": "dcbbca42-a3e9-3d1d-87e6-f095e9869268",
+      "speaker": null,
+      "start_timestamp": 1238.72,
+      "text": "No, I think I did see it though."
+    },
+    {
+      "end_timestamp": 1242.92,
+      "id": "1987a698-535a-3c1d-bf4e-2b64098041c7",
+      "speaker": null,
+      "start_timestamp": 1241.92,
+      "text": "We'll deal with this later."
+    },
+    {
+      "end_timestamp": 1243.92,
+      "id": "ac77f380-7665-35fd-8405-83f5ffa32348",
+      "speaker": null,
+      "start_timestamp": 1242.92,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 1244.92,
+      "id": "6f9cd4c9-d903-3d22-928b-9341effa5920",
+      "speaker": null,
+      "start_timestamp": 1243.92,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 1245.92,
+      "id": "44288136-ba7c-33f1-a1e7-cd0ab6e241af",
+      "speaker": null,
+      "start_timestamp": 1244.92,
+      "text": "Anyway, there's three jurisdictions."
+    },
+    {
+      "end_timestamp": 1246.92,
+      "id": "c5acbe7e-9cd1-3339-a778-28b3884ab642",
+      "speaker": null,
+      "start_timestamp": 1245.92,
+      "text": "Sure, sure."
+    },
+    {
+      "end_timestamp": 1247.92,
+      "id": "a3709306-ff7c-3fa3-b0ba-8ce2645d1e47",
+      "speaker": null,
+      "start_timestamp": 1246.92,
+      "text": "Law."
+    },
+    {
+      "end_timestamp": 1248.92,
+      "id": "469f623d-fcbb-39e9-8487-8957cacf3fea",
+      "speaker": null,
+      "start_timestamp": 1247.92,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 1252.28,
+      "id": "757bcfa1-af08-3d7a-b187-e1bbda8fe25b",
+      "speaker": null,
+      "start_timestamp": 1248.92,
+      "text": "We're all under, wait, he's saying that we're under maritime law, but apparently the Vatican,"
+    },
+    {
+      "end_timestamp": 1253.28,
+      "id": "acc9df99-a9a7-3d8d-a5c5-020646759d3e",
+      "speaker": null,
+      "start_timestamp": 1252.28,
+      "text": "that's air law."
+    },
+    {
+      "end_timestamp": 1256.2,
+      "id": "3a169a55-a0b6-3671-9ad0-9d06bd904faa",
+      "speaker": null,
+      "start_timestamp": 1253.28,
+      "text": "Yeah, I would like to- That's avian law."
+    },
+    {
+      "end_timestamp": 1262.56,
+      "id": "17a829f1-8028-3204-9046-19fb39d48521",
+      "speaker": null,
+      "start_timestamp": 1256.2,
+      "text": "Before we go any further, in any conversation with this guy, I want to know exactly the"
+    },
+    {
+      "end_timestamp": 1263.56,
+      "id": "0fc9f659-629f-36ba-8b9e-e6184fba10e9",
+      "speaker": null,
+      "start_timestamp": 1262.56,
+      "text": "laws of air."
+    },
+    {
+      "end_timestamp": 1264.56,
+      "id": "78d8ac36-c43c-3b60-bb16-86a50295aa1c",
+      "speaker": null,
+      "start_timestamp": 1263.56,
+      "text": "Mm-hmm."
+    },
+    {
+      "end_timestamp": 1268.2,
+      "id": "7de2839f-8eae-3da4-846a-8fc541761aef",
+      "speaker": null,
+      "start_timestamp": 1264.56,
+      "text": "I want to know what air law is that the pope has control over."
+    },
+    {
+      "end_timestamp": 1269.2,
+      "id": "12277b8b-75a2-3b93-ab35-0754e5499099",
+      "speaker": null,
+      "start_timestamp": 1268.2,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1273.68,
+      "id": "a1079437-7b02-3b72-8eb0-8a2d471b27a4",
+      "speaker": null,
+      "start_timestamp": 1269.2,
+      "text": "If I were to go any further in this conversation with this guy, which I wouldn't, here's how"
+    },
+    {
+      "end_timestamp": 1274.68,
+      "id": "f56c740b-1c6a-33e4-9993-2151b71f05a6",
+      "speaker": null,
+      "start_timestamp": 1273.68,
+      "text": "I would go."
+    },
+    {
+      "end_timestamp": 1275.68,
+      "id": "035b648a-adbb-348c-974a-557bdcbaf199",
+      "speaker": null,
+      "start_timestamp": 1274.68,
+      "text": "What's over there?"
+    },
+    {
+      "end_timestamp": 1276.68,
+      "id": "0bfe5c34-737d-3bda-a2ef-633306514b6e",
+      "speaker": null,
+      "start_timestamp": 1275.68,
+      "text": "And I just walk."
+    },
+    {
+      "end_timestamp": 1277.68,
+      "id": "71871a21-5a80-3da7-a082-d37025f8b3f8",
+      "speaker": null,
+      "start_timestamp": 1276.68,
+      "text": "Smoke bomb."
+    },
+    {
+      "end_timestamp": 1281.8,
+      "id": "5978e415-8ddd-3945-885a-2932cd09e456",
+      "speaker": null,
+      "start_timestamp": 1277.68,
+      "text": "I had a friend who really perfected that move, like pretending that he saw something somewhere"
+    },
+    {
+      "end_timestamp": 1282.8,
+      "id": "9e742ec5-6d88-39c8-8799-4870b2ec5e09",
+      "speaker": null,
+      "start_timestamp": 1281.8,
+      "text": "else- Oh, really?"
+    },
+    {
+      "end_timestamp": 1283.8,
+      "id": "b00dbe29-2834-31da-ac39-22523645f644",
+      "speaker": null,
+      "start_timestamp": 1282.8,
+      "text": "And just would walk off."
+    },
+    {
+      "end_timestamp": 1287.16,
+      "id": "e1d11459-d66a-38b2-8a4e-340c58e17169",
+      "speaker": null,
+      "start_timestamp": 1283.8,
+      "text": "I really admired the hell out of his ability to get away from things."
+    },
+    {
+      "end_timestamp": 1289.32,
+      "id": "eaa85ba2-f904-364a-8071-5f80dbda6d9c",
+      "speaker": null,
+      "start_timestamp": 1287.16,
+      "text": "You know, I've done that many times."
+    },
+    {
+      "end_timestamp": 1293.76,
+      "id": "5cecfdfb-2315-3ab9-9a2f-b98a5219fb43",
+      "speaker": null,
+      "start_timestamp": 1289.32,
+      "text": "You know you get into those party conversations where it's four people and the three of them"
+    },
+    {
+      "end_timestamp": 1298.16,
+      "id": "3d2ba1cf-5625-3291-8d0b-a6fb2027df10",
+      "speaker": null,
+      "start_timestamp": 1293.76,
+      "text": "start having a conversation and you're like, I want to jump in, but it's just not going"
+    },
+    {
+      "end_timestamp": 1299.4,
+      "id": "9bba24e6-c9fe-3307-a730-ca441177fa6f",
+      "speaker": null,
+      "start_timestamp": 1298.16,
+      "text": "to happen."
+    },
+    {
+      "end_timestamp": 1301.12,
+      "id": "a5784c0b-c3cc-3113-96f0-f79f07934b28",
+      "speaker": null,
+      "start_timestamp": 1299.4,
+      "text": "You look over and you're like, oh my God."
+    },
+    {
+      "end_timestamp": 1302.24,
+      "id": "2cdecf13-28ee-3921-94a5-34ac10ce5430",
+      "speaker": null,
+      "start_timestamp": 1301.12,
+      "text": "And then you just walk away."
+    },
+    {
+      "end_timestamp": 1303.24,
+      "id": "4b64534c-b4b9-304a-92cc-c5873196c3c9",
+      "speaker": null,
+      "start_timestamp": 1302.24,
+      "text": "You saw a friend."
+    },
+    {
+      "end_timestamp": 1304.24,
+      "id": "420d9148-6b67-38e6-92d5-df4032eb5e66",
+      "speaker": null,
+      "start_timestamp": 1303.24,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1305.24,
+      "id": "673a418e-704e-3a37-87cb-b8c65bac0b3c",
+      "speaker": null,
+      "start_timestamp": 1304.24,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1309.08,
+      "id": "42cc2b80-7ddd-3e2c-bf22-65432d4da5c6",
+      "speaker": null,
+      "start_timestamp": 1305.24,
+      "text": "I think the key to pulling that off perfectly is that you have to end up somewhere that's"
+    },
+    {
+      "end_timestamp": 1311.96,
+      "id": "b9f4a8ab-e8dc-3efa-9e6d-b83349a3e669",
+      "speaker": null,
+      "start_timestamp": 1309.08,
+      "text": "not in direct eye shot of the people you just left."
+    },
+    {
+      "end_timestamp": 1312.96,
+      "id": "d527cfe0-7a20-3549-9cdf-bbef4fbbd6a4",
+      "speaker": null,
+      "start_timestamp": 1311.96,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 1313.96,
+      "id": "c2d6c9fc-4a4b-3e92-abf4-33f54df3ba9f",
+      "speaker": null,
+      "start_timestamp": 1312.96,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "end_timestamp": 1314.96,
+      "id": "4cbb61de-f7fa-38a9-86e2-822c0d8d1245",
+      "speaker": null,
+      "start_timestamp": 1313.96,
+      "text": "Because otherwise you're just going to be milling around over there."
+    },
+    {
+      "end_timestamp": 1315.96,
+      "id": "039cf225-0a0e-37df-9d0c-be3212311952",
+      "speaker": null,
+      "start_timestamp": 1314.96,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "end_timestamp": 1316.96,
+      "id": "c46e7904-9eb5-31fd-8dee-ad4429ede7c7",
+      "speaker": null,
+      "start_timestamp": 1315.96,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1319.48,
+      "id": "9b0901c0-deab-3806-ae58-5a68ab4042f2",
+      "speaker": null,
+      "start_timestamp": 1316.96,
+      "text": "Anyway, Dave has heard that there's a lot to be worried about."
+    },
+    {
+      "end_timestamp": 1321.28,
+      "id": "2af9e25e-91c0-3807-8f8b-6d16eb821c25",
+      "speaker": null,
+      "start_timestamp": 1319.48,
+      "text": "There's a lot of threats- Sure."
+    },
+    {
+      "end_timestamp": 1322.28,
+      "id": "7f2f774a-b88e-38cf-b0b7-791456adf84a",
+      "speaker": null,
+      "start_timestamp": 1321.28,
+      "text": "On the ground."
+    },
+    {
+      "end_timestamp": 1323.28,
+      "id": "310ad6e7-76ac-356b-b43a-90079f05819c",
+      "speaker": null,
+      "start_timestamp": 1322.28,
+      "text": "There's like Antifa and what have you."
+    },
+    {
+      "end_timestamp": 1324.28,
+      "id": "fa378419-bfd1-327e-9c5b-806e8419e9d9",
+      "speaker": null,
+      "start_timestamp": 1323.28,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1325.28,
+      "id": "935923b8-cfa1-325c-982a-af5fa2a82bf6",
+      "speaker": null,
+      "start_timestamp": 1324.28,
+      "text": "All right."
+    },
+    {
+      "end_timestamp": 1326.28,
+      "id": "dd39a868-6505-3d5f-9b1b-ac2dd63d1df1",
+      "speaker": null,
+      "start_timestamp": 1325.28,
+      "text": "He's not worried about any of that shit."
+    },
+    {
+      "end_timestamp": 1328.48,
+      "id": "68a3cf50-e9ae-360b-8ed9-33a9e27e293a",
+      "speaker": null,
+      "start_timestamp": 1326.28,
+      "text": "I'm not worried that they may have bricks down there that they're going to throw at"
+    },
+    {
+      "end_timestamp": 1329.48,
+      "id": "a5443fcc-0d56-3b9b-ac62-567e46bc6730",
+      "speaker": null,
+      "start_timestamp": 1328.48,
+      "text": "us."
+    },
+    {
+      "end_timestamp": 1332.2,
+      "id": "506de166-fdba-3f9b-88d2-3f667d6e9858",
+      "speaker": null,
+      "start_timestamp": 1329.48,
+      "text": "I'm not worried that they're going to shoot pepper spray at us."
+    },
+    {
+      "end_timestamp": 1335.16,
+      "id": "a00926ee-4b28-3b3e-bda0-4610603043e6",
+      "speaker": null,
+      "start_timestamp": 1332.2,
+      "text": "I'm not worried that the governor is going to call in this person and the mayor is going"
+    },
+    {
+      "end_timestamp": 1336.16,
+      "id": "b704e077-415f-36a8-b9ff-9611b790d0e3",
+      "speaker": null,
+      "start_timestamp": 1335.16,
+      "text": "to call in this."
+    },
+    {
+      "end_timestamp": 1337.16,
+      "id": "ffb4c757-a107-3822-80db-bb55db0adb08",
+      "speaker": null,
+      "start_timestamp": 1336.16,
+      "text": "I'm not worried about any of that stuff."
+    },
+    {
+      "end_timestamp": 1338.16,
+      "id": "367c239d-3091-3dc1-ae7e-7673cf0c5dd2",
+      "speaker": null,
+      "start_timestamp": 1337.16,
+      "text": "Huh?"
+    },
+    {
+      "end_timestamp": 1339.16,
+      "id": "cc5a7f39-c028-32ad-8c59-abda5f363821",
+      "speaker": null,
+      "start_timestamp": 1338.16,
+      "text": "We're at war."
+    },
+    {
+      "end_timestamp": 1340.16,
+      "id": "492f6a50-019a-3f63-9ce1-de8827f03d04",
+      "speaker": null,
+      "start_timestamp": 1339.16,
+      "text": "We're going to war."
+    },
+    {
+      "end_timestamp": 1341.52,
+      "id": "e1448801-e08e-37ac-b9be-5ac4ddd17b8e",
+      "speaker": null,
+      "start_timestamp": 1340.16,
+      "text": "We're prepared for war, spiritual war."
+    },
+    {
+      "end_timestamp": 1344.36,
+      "id": "72a5ac29-ed8b-3d0f-a6d4-efe3e5ffad8d",
+      "speaker": null,
+      "start_timestamp": 1341.52,
+      "text": "But if the physical war breaks out, there's going to be 4 million of us."
+    },
+    {
+      "end_timestamp": 1345.36,
+      "id": "57757364-fdac-3c78-9bc6-0a64972bda9b",
+      "speaker": null,
+      "start_timestamp": 1344.36,
+      "text": "They better have a bunch."
+    },
+    {
+      "end_timestamp": 1350.36,
+      "id": "27f01261-00cf-3121-89b2-ccd3d1c929c8",
+      "speaker": null,
+      "start_timestamp": 1345.36,
+      "text": "They better have a bunch of people because this is a boiling-"
+    },
+    {
+      "end_timestamp": 1356.36,
+      "id": "a186a2a3-4280-3873-b3a9-566ae9a2b9e5",
+      "speaker": null,
+      "start_timestamp": 1350.36,
+      "text": "Well, here's a true work of authority."
+    },
+    {
+      "end_timestamp": 1360.8,
+      "id": "ce879202-7eb9-3329-b37a-64dffc44466f",
+      "speaker": null,
+      "start_timestamp": 1356.36,
+      "text": "The mayor of D.C. has no military authority, not over the National Guard or anything."
+    },
+    {
+      "end_timestamp": 1367.56,
+      "id": "8a71d05b-a3ba-3d5c-8c94-df9390100d9d",
+      "speaker": null,
+      "start_timestamp": 1360.8,
+      "text": "All she has is D.C. police and guess what, D.C. police will step, they will step aside."
+    },
+    {
+      "end_timestamp": 1369.04,
+      "id": "56ba8e22-b501-3e44-bce3-44550cc59772",
+      "speaker": null,
+      "start_timestamp": 1367.56,
+      "text": "There's too many of them."
+    },
+    {
+      "end_timestamp": 1371.76,
+      "id": "fc4b07b7-3d84-3370-b6df-67279d020648",
+      "speaker": null,
+      "start_timestamp": 1369.04,
+      "text": "So this doesn't look good in hindsight."
+    },
+    {
+      "end_timestamp": 1375.68,
+      "id": "5b6826c8-5022-30fb-855c-a43f54751360",
+      "speaker": null,
+      "start_timestamp": 1371.76,
+      "text": "Well, well, well, well."
+    },
+    {
+      "end_timestamp": 1382.56,
+      "id": "a0421211-ff4d-3ddd-8550-e2cf8f0e6398",
+      "speaker": null,
+      "start_timestamp": 1375.68,
+      "text": "These sort of conversations certainly seem to be pre-, pre-, pre-, what would you call"
+    },
+    {
+      "end_timestamp": 1383.56,
+      "id": "01a72ea0-2276-3b7d-b206-40e466dbb813",
+      "speaker": null,
+      "start_timestamp": 1382.56,
+      "text": "that?"
+    },
+    {
+      "end_timestamp": 1384.56,
+      "id": "2b9e519f-d2eb-39ce-8370-f50cc52f4af1",
+      "speaker": null,
+      "start_timestamp": 1383.56,
+      "text": "What's the right word I'm looking for?"
+    },
+    {
+      "end_timestamp": 1385.84,
+      "id": "6142bcbf-1682-3763-bf3d-43913b61569b",
+      "speaker": null,
+      "start_timestamp": 1384.56,
+      "text": "Uh, premeditated?"
+    },
+    {
+      "end_timestamp": 1386.84,
+      "id": "89c3ed15-c5d8-332d-a669-32d1a8231491",
+      "speaker": null,
+      "start_timestamp": 1385.84,
+      "text": "Is that a way to go?"
+    },
+    {
+      "end_timestamp": 1394.24,
+      "id": "cdde6c7b-9ec0-3722-a70b-805c9a0263f3",
+      "speaker": null,
+      "start_timestamp": 1386.84,
+      "text": "I mean, it's very much like, oh, you know, like, if you accept the idea that like, oh,"
+    },
+    {
+      "end_timestamp": 1398.8,
+      "id": "bd573032-063b-3f8c-b8dc-e849b20f1984",
+      "speaker": null,
+      "start_timestamp": 1394.24,
+      "text": "they kind of are planning on fucking storming the Capitol, you'd kind of be like, oh yeah,"
+    },
+    {
+      "end_timestamp": 1401.2,
+      "id": "fa0aaca5-0338-3a3d-b088-8b4744fd2c33",
+      "speaker": null,
+      "start_timestamp": 1398.8,
+      "text": "this is the kind of conversation you'd expect to hear before that."
+    },
+    {
+      "end_timestamp": 1402.2,
+      "id": "7690427f-b606-327e-85f4-6090da875b98",
+      "speaker": null,
+      "start_timestamp": 1401.2,
+      "text": "Before you storm the Capitol."
+    },
+    {
+      "end_timestamp": 1403.2,
+      "id": "5e2cac78-1351-3b85-8c5c-444156a2f087",
+      "speaker": null,
+      "start_timestamp": 1402.2,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "end_timestamp": 1406.52,
+      "id": "c7d73421-7627-37f3-ac48-40a4d1a91de4",
+      "speaker": null,
+      "start_timestamp": 1403.2,
+      "text": "Hey, look, hey, we don't want any trouble, but if there's trouble, there's four million"
+    },
+    {
+      "end_timestamp": 1409.76,
+      "id": "468bd8d2-ca65-3344-a768-9fc26f57656f",
+      "speaker": null,
+      "start_timestamp": 1406.52,
+      "text": "of us and the cops are on our side, so what the fuck?"
+    },
+    {
+      "end_timestamp": 1413.6,
+      "id": "7b79668e-1acd-3ef5-9263-a5cc6dc121c9",
+      "speaker": null,
+      "start_timestamp": 1409.76,
+      "text": "If the Capitol was the Constitution, these assholes are the preamble."
+    },
+    {
+      "end_timestamp": 1417.74,
+      "id": "ba3598a3-557c-331e-b867-16944422308c",
+      "speaker": null,
+      "start_timestamp": 1413.6,
+      "text": "Yeah, preamble was probably one of the words I was trying to look for, and I just couldn't"
+    },
+    {
+      "end_timestamp": 1421.22,
+      "id": "34bf85cd-ed16-3278-b6c9-28232f416a0a",
+      "speaker": null,
+      "start_timestamp": 1417.74,
+      "text": "figure out a way to make it work grammatically."
+    },
+    {
+      "end_timestamp": 1427.48,
+      "id": "971704f5-8b05-3745-b6ea-c48ddda1996c",
+      "speaker": null,
+      "start_timestamp": 1421.22,
+      "text": "So there's, there's these Capitol police, sure, and there's not enough of them, man."
+    },
+    {
+      "end_timestamp": 1428.8,
+      "id": "a826dfb7-34f1-31ac-95b0-af613bd5cee3",
+      "speaker": null,
+      "start_timestamp": 1427.48,
+      "text": "There's just not enough."
+    },
+    {
+      "end_timestamp": 1430.64,
+      "id": "420900e7-aaa7-3276-a362-5ab4e5041876",
+      "speaker": null,
+      "start_timestamp": 1428.8,
+      "text": "There's not enough to stop Dave."
+    },
+    {
+      "end_timestamp": 1436.24,
+      "id": "a8e0309b-5c04-36da-9905-37d022e5082f",
+      "speaker": null,
+      "start_timestamp": 1430.64,
+      "text": "Hey Dale, how many policemen would you say there are in, in, uh, DC?"
+    },
+    {
+      "end_timestamp": 1438.76,
+      "id": "d2737788-ca96-364f-924a-a2463b5488fa",
+      "speaker": null,
+      "start_timestamp": 1436.24,
+      "text": "I'm just going to throw out another thousand."
+    },
+    {
+      "end_timestamp": 1439.76,
+      "id": "a2627be5-2a92-3080-bf0f-cb1a60eb6492",
+      "speaker": null,
+      "start_timestamp": 1438.76,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1446.16,
+      "id": "50a1449a-c698-31c6-91a5-ebe6061ec479",
+      "speaker": null,
+      "start_timestamp": 1439.76,
+      "text": "You know, listen, Jefferson parish, Jefferson parish, we have, we have 1500 officers that"
+    },
+    {
+      "end_timestamp": 1450.72,
+      "id": "96204b27-2ef7-3254-beac-21bb6e681439",
+      "speaker": null,
+      "start_timestamp": 1446.16,
+      "text": "not just officers, people who work in the desk and detectives and everything."
+    },
+    {
+      "end_timestamp": 1453.68,
+      "id": "2642d986-e0a5-34f9-a341-f6916eb505c9",
+      "speaker": null,
+      "start_timestamp": 1450.72,
+      "text": "And that's for a population of a half a million people."
+    },
+    {
+      "end_timestamp": 1457.44,
+      "id": "06a3efdd-8db2-3974-a367-8157c234f5e4",
+      "speaker": null,
+      "start_timestamp": 1453.68,
+      "text": "I don't necessarily know if they can have a thousand in DC."
+    },
+    {
+      "end_timestamp": 1458.44,
+      "id": "a067e2a1-fc67-3a33-9eae-f0d49dc2dafc",
+      "speaker": null,
+      "start_timestamp": 1457.44,
+      "text": "Here's my point."
+    },
+    {
+      "end_timestamp": 1460.56,
+      "id": "6697faa1-25c1-32f5-972e-3c37c9acd1ad",
+      "speaker": null,
+      "start_timestamp": 1458.44,
+      "text": "Do they have enough to push back?"
+    },
+    {
+      "end_timestamp": 1465.72,
+      "id": "543dd4b6-aa72-37e7-9729-8f92a146b140",
+      "speaker": null,
+      "start_timestamp": 1460.56,
+      "text": "What if, uh, 500,000 people said they'd had enough of what if just, what if just 10%,"
+    },
+    {
+      "end_timestamp": 1470.04,
+      "id": "11487794-8855-3a35-8467-989c0f016baa",
+      "speaker": null,
+      "start_timestamp": 1465.72,
+      "text": "what if 200,000 people said they had enough and decided they were going to storm the Capitol?"
+    },
+    {
+      "end_timestamp": 1473.12,
+      "id": "da2891d9-2369-3e5c-a6fb-2622b70b1a33",
+      "speaker": null,
+      "start_timestamp": 1470.04,
+      "text": "I don't know if they're going to, I don't know if they're going to, what, what if that"
+    },
+    {
+      "end_timestamp": 1474.12,
+      "id": "b0fa2213-b600-39b6-b8ba-46bb8992477e",
+      "speaker": null,
+      "start_timestamp": 1473.12,
+      "text": "were to happen, folks?"
+    },
+    {
+      "end_timestamp": 1477.0,
+      "id": "eb2d1075-c7b3-39be-bad4-ff22ecda3dd7",
+      "speaker": null,
+      "start_timestamp": 1474.12,
+      "text": "We don't have any idea what might break loose here."
+    },
+    {
+      "end_timestamp": 1478.56,
+      "id": "004e0697-fe80-3ec8-a8c7-fa9d0df33a52",
+      "speaker": null,
+      "start_timestamp": 1477.0,
+      "text": "Now we, none of us want violence."
+    },
+    {
+      "end_timestamp": 1484.08,
+      "id": "f6098a1e-d92b-3cb8-b5ac-40bc22a885f2",
+      "speaker": null,
+      "start_timestamp": 1478.56,
+      "text": "None of us are advocating violence, but the truth of the matter is there's violence all"
+    },
+    {
+      "end_timestamp": 1485.08,
+      "id": "64a09455-6d61-3ad5-99b9-637fbf9d7045",
+      "speaker": null,
+      "start_timestamp": 1484.08,
+      "text": "around it."
+    },
+    {
+      "end_timestamp": 1488.8,
+      "id": "c833234d-f49c-311f-92f2-2d2a3297b5c5",
+      "speaker": null,
+      "start_timestamp": 1485.08,
+      "text": "The Bible says that the kingdom of God suffers violence in the days of John the Baptist until"
+    },
+    {
+      "end_timestamp": 1492.96,
+      "id": "87a7ad72-7680-3eae-9a2d-dd1eeab6181f",
+      "speaker": null,
+      "start_timestamp": 1488.8,
+      "text": "now, the kingdom of God has suffered violence and violent men have taken up by force."
+    },
+    {
+      "end_timestamp": 1495.52,
+      "id": "35307dfc-c3e3-3380-9df6-42f0e619d2a1",
+      "speaker": null,
+      "start_timestamp": 1492.96,
+      "text": "See, listen, it's not the violence, it's the force."
+    },
+    {
+      "end_timestamp": 1498.68,
+      "id": "19066288-0ad0-38bd-9277-9819b1ffbf80",
+      "speaker": null,
+      "start_timestamp": 1495.52,
+      "text": "They're forcing us to take vaccinations."
+    },
+    {
+      "end_timestamp": 1501.18,
+      "id": "3ce91f08-50fa-33c4-9a21-513aa280ba78",
+      "speaker": null,
+      "start_timestamp": 1498.68,
+      "text": "They're forcing us to close our shops."
+    },
+    {
+      "end_timestamp": 1503.04,
+      "id": "33eb20c3-01c2-324b-8f38-354216f346d4",
+      "speaker": null,
+      "start_timestamp": 1501.18,
+      "text": "They're forcing us to not travel."
+    },
+    {
+      "end_timestamp": 1506.32,
+      "id": "d1adbb01-b55c-397e-bc23-73ecec986b56",
+      "speaker": null,
+      "start_timestamp": 1503.04,
+      "text": "They're forcing us to not go visit our parents in nursing homes."
+    },
+    {
+      "end_timestamp": 1507.32,
+      "id": "4c042342-1a4a-37c6-ac6b-fa68ae8e1243",
+      "speaker": null,
+      "start_timestamp": 1506.32,
+      "text": "They're forced."
+    },
+    {
+      "end_timestamp": 1508.32,
+      "id": "91410ebe-670c-388b-856c-04b3ac925449",
+      "speaker": null,
+      "start_timestamp": 1507.32,
+      "text": "You understand?"
+    },
+    {
+      "end_timestamp": 1509.32,
+      "id": "629e552e-eab6-307e-b4ae-f6841c8c59ed",
+      "speaker": null,
+      "start_timestamp": 1508.32,
+      "text": "Do you understand this?"
+    },
+    {
+      "end_timestamp": 1512.24,
+      "id": "cb51b591-7892-3220-b627-ce9cadbc7e2c",
+      "speaker": null,
+      "start_timestamp": 1509.32,
+      "text": "It's the same argumentation style that you hear from folks."
+    },
+    {
+      "end_timestamp": 1513.24,
+      "id": "30772470-6125-3668-acb4-006628774f92",
+      "speaker": null,
+      "start_timestamp": 1512.24,
+      "text": "Like we don't want trouble."
+    },
+    {
+      "end_timestamp": 1518.02,
+      "id": "a8482358-2449-302c-8795-9e8564c4df01",
+      "speaker": null,
+      "start_timestamp": 1513.24,
+      "text": "We don't want any kind of violence, but all violence that could be seen as offensive is"
+    },
+    {
+      "end_timestamp": 1522.5,
+      "id": "6e20f2e5-24c4-3b7f-89f8-a4b242e48de0",
+      "speaker": null,
+      "start_timestamp": 1518.02,
+      "text": "secretly defensive because they want to give me a vaccine."
+    },
+    {
+      "end_timestamp": 1528.0,
+      "id": "10087803-36b0-3c3a-81aa-5f8746415845",
+      "speaker": null,
+      "start_timestamp": 1522.5,
+      "text": "It's not great to hear this from someone who's presumably a religious leader."
+    },
+    {
+      "end_timestamp": 1532.72,
+      "id": "c8ba1cd7-c672-35d7-bd2f-eb4f1db8dc2f",
+      "speaker": null,
+      "start_timestamp": 1528.0,
+      "text": "I would argue that spreading a disease is violence, Dan."
+    },
+    {
+      "end_timestamp": 1534.82,
+      "id": "481c9333-b19e-389f-be51-d12061073af2",
+      "speaker": null,
+      "start_timestamp": 1532.72,
+      "text": "Offensive violence."
+    },
+    {
+      "end_timestamp": 1538.92,
+      "id": "216d31d5-e65c-3099-9a04-ce7b21c4eed7",
+      "speaker": null,
+      "start_timestamp": 1534.82,
+      "text": "There's an interesting argument that you could make with that."
+    },
+    {
+      "end_timestamp": 1540.24,
+      "id": "72699ed2-5f29-32c8-84bc-42cffbacddd5",
+      "speaker": null,
+      "start_timestamp": 1538.92,
+      "text": "And it seems like they are doing it."
+    },
+    {
+      "end_timestamp": 1545.92,
+      "id": "4d7f3ae6-b860-343c-94fd-3d3a4411d915",
+      "speaker": null,
+      "start_timestamp": 1540.24,
+      "text": "I would actually maybe, yeah, you'd want to probably have some qualification for like"
+    },
+    {
+      "end_timestamp": 1546.92,
+      "id": "86d5ce2c-4a86-3dc4-9575-01dc093592d7",
+      "speaker": null,
+      "start_timestamp": 1545.92,
+      "text": "negligence."
+    },
+    {
+      "end_timestamp": 1547.92,
+      "id": "cc524cec-2285-3050-8801-9d015c03170b",
+      "speaker": null,
+      "start_timestamp": 1546.92,
+      "text": "Sure."
+    },
+    {
+      "end_timestamp": 1548.92,
+      "id": "1fd1a270-822f-36e7-9565-ec2cb4ccc09e",
+      "speaker": null,
+      "start_timestamp": 1547.92,
+      "text": "Or something."
+    },
+    {
+      "end_timestamp": 1549.92,
+      "id": "452b74b4-84a3-3f7d-9fa7-318418b37fdb",
+      "speaker": null,
+      "start_timestamp": 1548.92,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "end_timestamp": 1551.12,
+      "id": "ceead060-d818-3fbf-bdc9-2863dc13d25b",
+      "speaker": null,
+      "start_timestamp": 1549.92,
+      "text": "Unless you're spitting on people."
+    },
+    {
+      "end_timestamp": 1552.12,
+      "id": "e87ad666-eba8-3c81-8473-f54ac1728e75",
+      "speaker": null,
+      "start_timestamp": 1551.12,
+      "text": "And then it's..."
+    },
+    {
+      "end_timestamp": 1553.12,
+      "id": "5a6a5864-da75-3d2d-a433-f77f39fe00a7",
+      "speaker": null,
+      "start_timestamp": 1552.12,
+      "text": "Well, there's that."
+    },
+    {
+      "end_timestamp": 1554.12,
+      "id": "4b3e0904-e639-3386-b785-97d62278ff1d",
+      "speaker": null,
+      "start_timestamp": 1553.12,
+      "text": "Then you're out of line."
+    },
+    {
+      "end_timestamp": 1555.12,
+      "id": "91a8db9d-13b8-3141-ba3d-01882533792b",
+      "speaker": null,
+      "start_timestamp": 1554.12,
+      "text": "Eh, I don't know."
+    },
+    {
+      "end_timestamp": 1559.76,
+      "id": "3d3c978b-b2ae-314e-af64-4699f3c9ecbd",
+      "speaker": null,
+      "start_timestamp": 1555.12,
+      "text": "If you're aware that wearing a mask can save somebody else's life, and you're like, I'm"
+    },
+    {
+      "end_timestamp": 1563.04,
+      "id": "20d85266-b67b-303f-9e7c-8832ed086cca",
+      "speaker": null,
+      "start_timestamp": 1559.76,
+      "text": "never wearing a mask, you have now committed violence."
+    },
+    {
+      "end_timestamp": 1565.24,
+      "id": "cad039ed-c839-327c-b61a-525bdb029c17",
+      "speaker": null,
+      "start_timestamp": 1563.04,
+      "text": "Yes, but how do you prove that the person actually believes..."
+    },
+    {
+      "end_timestamp": 1569.92,
+      "id": "ccf21e4f-e4b0-3322-b967-723cfbcfa208",
+      "speaker": null,
+      "start_timestamp": 1565.24,
+      "text": "Even under your own libertarian nonsense, no, yeah, fuck off."
+    },
+    {
+      "end_timestamp": 1575.12,
+      "id": "049f25eb-d981-3998-a8fe-fa47a8eb435c",
+      "speaker": null,
+      "start_timestamp": 1569.92,
+      "text": "But you would have to then prove that the person is aware that the masks help."
+    },
+    {
+      "end_timestamp": 1578.32,
+      "id": "f810183a-70de-3948-b840-2668166167dd",
+      "speaker": null,
+      "start_timestamp": 1575.12,
+      "text": "They believe that, and are choosing to not do it."
+    },
+    {
+      "end_timestamp": 1581.56,
+      "id": "66b27f2e-1a59-3fb3-8f60-08fb665b81e8",
+      "speaker": null,
+      "start_timestamp": 1578.32,
+      "text": "Because the denial could be strong."
+    },
+    {
+      "end_timestamp": 1583.14,
+      "id": "405f4812-6c4d-33ab-996e-10a43bdff4d4",
+      "speaker": null,
+      "start_timestamp": 1581.56,
+      "text": "Sure, sure."
+    },
+    {
+      "end_timestamp": 1586.12,
+      "id": "b54aebe5-8318-3e8b-bda1-6a4c8a1129e2",
+      "speaker": null,
+      "start_timestamp": 1583.14,
+      "text": "I don't know if I care about denial."
+    },
+    {
+      "end_timestamp": 1587.12,
+      "id": "ba16f29b-abfc-3441-ad1a-91768b232ba9",
+      "speaker": null,
+      "start_timestamp": 1586.12,
+      "text": "You may not."
+    },
+    {
+      "end_timestamp": 1588.12,
+      "id": "7c847171-4dd6-3415-8b96-92448404201a",
+      "speaker": null,
+      "start_timestamp": 1587.12,
+      "text": "The court might, though."
+    },
+    {
+      "end_timestamp": 1591.52,
+      "id": "e0cc1da0-ca16-325f-bbfe-b646e6879f3b",
+      "speaker": null,
+      "start_timestamp": 1588.12,
+      "text": "The court might, but it's kind of like a math problem."
+    },
+    {
+      "end_timestamp": 1596.2,
+      "id": "3b5d8550-5713-3766-bfaa-9f5d5893689f",
+      "speaker": null,
+      "start_timestamp": 1591.52,
+      "text": "Like I don't care if you think that math doesn't work."
+    },
+    {
+      "end_timestamp": 1597.44,
+      "id": "a92bf727-4d4b-3b08-975e-71e6869d5411",
+      "speaker": null,
+      "start_timestamp": 1596.2,
+      "text": "It still does."
+    },
+    {
+      "end_timestamp": 1600.16,
+      "id": "20eb8dd6-ce42-3e7f-b301-3a0c01dba7dc",
+      "speaker": null,
+      "start_timestamp": 1597.44,
+      "text": "So you have to live by math."
+    },
+    {
+      "end_timestamp": 1601.16,
+      "id": "9c9d83c0-fcaa-3968-8011-a938db7aae60",
+      "speaker": null,
+      "start_timestamp": 1600.16,
+      "text": "Right."
+    },
+    {
+      "end_timestamp": 1602.16,
+      "id": "5cb9332a-1e22-3bf4-ae3d-4099fbeaf1a1",
+      "speaker": null,
+      "start_timestamp": 1601.16,
+      "text": "Fair enough."
+    },
+    {
+      "end_timestamp": 1608.0,
+      "id": "42e1ad66-273b-3df9-8048-89d530d7a1b5",
+      "speaker": null,
+      "start_timestamp": 1602.16,
+      "text": "So they spend some more time on this bus, the reception gets bad, and then it goes to"
+    },
+    {
+      "end_timestamp": 1614.72,
+      "id": "ecc5736e-3804-3abc-8dbe-3a2a07ceb4d6",
+      "speaker": null,
+      "start_timestamp": 1608.0,
+      "text": "the guy in the studio, and when I say studio, I mean his office, and he's another preacher,"
+    },
+    {
+      "end_timestamp": 1619.64,
+      "id": "1da6c49d-9598-33e8-9828-4ef21c1ec588",
+      "speaker": null,
+      "start_timestamp": 1614.72,
+      "text": "and he just has some people pray and stuff, and I don't care."
+    },
+    {
+      "end_timestamp": 1622.96,
+      "id": "6580f393-b68a-37aa-9e3b-c87bae17c146",
+      "speaker": null,
+      "start_timestamp": 1619.64,
+      "text": "Then later, they arrive at the Capitol."
+    },
+    {
+      "end_timestamp": 1628.28,
+      "id": "53e2ffde-b3df-3e4c-b2a3-3c71fdf65283",
+      "speaker": null,
+      "start_timestamp": 1622.96,
+      "text": "There's at least one picture I saw that was of someone in a Pass the Salt shirt, so they"
+    },
+    {
+      "end_timestamp": 1629.28,
+      "id": "7b7fdfa7-82c0-3b83-beb8-d59a569298b0",
+      "speaker": null,
+      "start_timestamp": 1628.28,
+      "text": "were around."
+    },
+    {
+      "end_timestamp": 1630.28,
+      "id": "0ca06dd0-5046-3543-b00d-95e2f9ebc43e",
+      "speaker": null,
+      "start_timestamp": 1629.28,
+      "text": "All right."
+    },
+    {
+      "end_timestamp": 1635.76,
+      "id": "3166bfb2-97a9-3797-8cd3-be85cac59146",
+      "speaker": null,
+      "start_timestamp": 1630.28,
+      "text": "And the D-heads is what I'm calling somebody who wears a Pass the Salt shirt."
+    },
+    {
+      "end_timestamp": 1637.24,
+      "id": "94315999-2ee5-3ed2-bc97-05849021fa13",
+      "speaker": null,
+      "start_timestamp": 1635.76,
+      "text": "Hey, would you pass the salt?"
+    },
+    {
+      "end_timestamp": 1643.24,
+      "id": "6a6b5939-d933-311d-909c-08b824887c3c",
+      "speaker": null,
+      "start_timestamp": 1637.24,
+      "text": "So we get to the next day now, the 7th, and Dave comes on his show, and there's a little"
+    },
+    {
+      "end_timestamp": 1645.72,
+      "id": "8cfaa764-1071-364d-893c-c7ad2b1cecc4",
+      "speaker": null,
+      "start_timestamp": 1643.24,
+      "text": "bit of reflection going on."
+    },
+    {
+      "end_timestamp": 1651.16,
+      "id": "67c934a5-b57d-3ef8-a11d-6b3e00dd83a5",
+      "speaker": null,
+      "start_timestamp": 1645.72,
+      "text": "We are over the target, and as Alex Jones said about 25 years ago, it's an info war."
+    },
+    {
+      "end_timestamp": 1657.12,
+      "id": "9160e165-c36a-3c2e-a2f0-de1d2f437274",
+      "speaker": null,
+      "start_timestamp": 1651.16,
+      "text": "It's an information war, and boys and girls, we are a dead center target in this information"
+    },
+    {
+      "end_timestamp": 1658.12,
+      "id": "d36a37c6-7bb7-362c-b7a8-1afd16c4d4a0",
+      "speaker": null,
+      "start_timestamp": 1657.12,
+      "text": "war."
+    },
+    {
+      "end_timestamp": 1662.84,
+      "id": "908d8796-4b18-3324-95d3-4a87efd059a9",
+      "speaker": null,
+      "start_timestamp": 1658.12,
+      "text": "I'm not trying to... I'm just a fly on the butt of an elephant."
+    },
+    {
+      "end_timestamp": 1666.28,
+      "id": "0d2b46a7-08c8-375f-ad8f-50a5efd3b5a6",
+      "speaker": null,
+      "start_timestamp": 1662.84,
+      "text": "I understand that, but I'm going to tell you something."
+    },
+    {
+      "end_timestamp": 1670.76,
+      "id": "a47cb358-df92-3668-8f06-3f63d0e4a0b9",
+      "speaker": null,
+      "start_timestamp": 1666.28,
+      "text": "We are over the target like we've never been."
+    },
+    {
+      "end_timestamp": 1674.84,
+      "id": "c3d22a21-9f23-3255-b4dc-70bda36364f1",
+      "speaker": null,
+      "start_timestamp": 1670.76,
+      "text": "So he's just using Alex's language, he's directly referencing Alex."
+    },
+    {
+      "end_timestamp": 1676.92,
+      "id": "83201a3e-0254-32ff-95a5-598619d88266",
+      "speaker": null,
+      "start_timestamp": 1674.84,
+      "text": "This dude's just a fucking info warrior."
+    },
+    {
+      "end_timestamp": 1680.36,
+      "id": "0ea4a107-6821-30d3-8fde-1f9f3a3751d4",
+      "speaker": null,
+      "start_timestamp": 1676.92,
+      "text": "Man, I don't want to be killed by a bunch of cowards like this."
+    },
+    {
+      "end_timestamp": 1690.0,
+      "id": "3a9f7aae-8ccd-37aa-a83c-4afdcd877a8b",
+      "speaker": null,
+      "start_timestamp": 1680.36,
+      "text": "I don't like the idea that this extremist political anti-communist ideology is being"
+    },
+    {
+      "end_timestamp": 1694.84,
+      "id": "ffc7b203-514b-3b3d-9542-234ed437a348",
+      "speaker": null,
+      "start_timestamp": 1690.0,
+      "text": "so successfully marketed under the veil of religion."
+    },
+    {
+      "end_timestamp": 1698.32,
+      "id": "9895e16f-9298-3a43-840e-be813e1d2edd",
+      "speaker": null,
+      "start_timestamp": 1694.84,
+      "text": "I really, really think that that's terrifying."
+    },
+    {
+      "end_timestamp": 1704.6,
+      "id": "7e1e579b-0f3c-3b98-81ef-77c08d8424b8",
+      "speaker": null,
+      "start_timestamp": 1698.32,
+      "text": "I would rather be killed in a fight with ISIS, because ISIS is at least like, I want to kill"
+    },
+    {
+      "end_timestamp": 1706.0,
+      "id": "0531b2d8-b14a-3cef-8351-f76577a7a45f",
+      "speaker": null,
+      "start_timestamp": 1704.6,
+      "text": "you."
+    },
+    {
+      "end_timestamp": 1711.36,
+      "id": "a7a9e4c5-de98-3548-a5aa-ed06df690220",
+      "speaker": null,
+      "start_timestamp": 1706.0,
+      "text": "One of this wishy-washy cowardice from the conservatives just like, I don't want any"
+    },
+    {
+      "end_timestamp": 1714.76,
+      "id": "c0d0aeb1-e49e-3623-a0c3-a930d708449b",
+      "speaker": null,
+      "start_timestamp": 1711.36,
+      "text": "violence, but I'm going to have to kill you guys."
+    },
+    {
+      "end_timestamp": 1718.56,
+      "id": "196e07ac-0c9b-33fc-8de1-0c590a14a3f6",
+      "speaker": null,
+      "start_timestamp": 1714.76,
+      "text": "And then when violence does happen, whoa, whoa, whoa guys, we didn't ever want... At"
+    },
+    {
+      "end_timestamp": 1721.52,
+      "id": "2a0b0a6f-b731-3acf-9c82-2984033a5bf3",
+      "speaker": null,
+      "start_timestamp": 1718.56,
+      "text": "least ISIS is like, I'm going to kill you."
+    },
+    {
+      "end_timestamp": 1726.64,
+      "id": "e731c6ab-f008-3212-b7af-1432b26628d6",
+      "speaker": null,
+      "start_timestamp": 1721.52,
+      "text": "There is a... terrorist groups generally do take responsibility for their actions."
+    },
+    {
+      "end_timestamp": 1729.72,
+      "id": "9c7500a7-20f5-3a13-85c7-0d0ad4ef197e",
+      "speaker": null,
+      "start_timestamp": 1726.64,
+      "text": "Yeah, for shit they didn't even do sometimes."
+    },
+    {
+      "end_timestamp": 1735.72,
+      "id": "86fa24c8-b5b8-3fa8-8eb7-5685c3358846",
+      "speaker": null,
+      "start_timestamp": 1729.72,
+      "text": "Well interestingly, Dave has a very similar take on things after the fact that his hero"
+    },
+    {
+      "end_timestamp": 1736.72,
+      "id": "ab2cc07a-a729-313d-b408-5ea7cb0cba13",
+      "speaker": null,
+      "start_timestamp": 1735.72,
+      "text": "Alex Jones does."
+    },
+    {
+      "end_timestamp": 1737.72,
+      "id": "a31f80f5-43cd-3be7-a434-62860d2262d6",
+      "speaker": null,
+      "start_timestamp": 1736.72,
+      "text": "Strange."
+    },
+    {
+      "end_timestamp": 1740.84,
+      "id": "e57e0c5e-85cc-3d07-890b-53a048f52389",
+      "speaker": null,
+      "start_timestamp": 1737.72,
+      "text": "Part of the information war that's going on, and here's going to be your greatest battle"
+    },
+    {
+      "end_timestamp": 1745.4,
+      "id": "531a5312-940d-3d88-a19d-9b97784e55a0",
+      "speaker": null,
+      "start_timestamp": 1740.84,
+      "text": "and my greatest battle, is you're going to have to convince the people that you come"
+    },
+    {
+      "end_timestamp": 1752.4,
+      "id": "5ebe3ab5-b0a1-33a9-867a-49c1e6596523",
+      "speaker": null,
+      "start_timestamp": 1745.4,
+      "text": "in contact with that what happened yesterday in Washington DC wasn't this."
+    },
+    {
+      "end_timestamp": 1754.08,
+      "id": "6faedb53-6b13-319c-aa0a-1d430e43ac3e",
+      "speaker": null,
+      "start_timestamp": 1752.4,
+      "text": "This wasn't what happened."
+    },
+    {
+      "end_timestamp": 1761.76,
+      "id": "d04976c4-8c4e-3ddf-99a3-9b7a7fa9240d",
+      "speaker": null,
+      "start_timestamp": 1754.08,
+      "text": "The storming of the Capitol building, the infiltration of Antifa, BLM, as part of that"
+    },
+    {
+      "end_timestamp": 1762.76,
+      "id": "e2f0b27a-84c2-3fe7-82a4-d67f155d4368",
+      "speaker": null,
+      "start_timestamp": 1761.76,
+      "text": "infiltration."
+    },
+    {
+      "end_timestamp": 1765.0,
+      "id": "70711d95-bf5e-3860-a12f-82e8f4ffb13e",
+      "speaker": null,
+      "start_timestamp": 1762.76,
+      "text": "Yes, patriots did break through."
+    },
+    {
+      "end_timestamp": 1767.28,
+      "id": "3bdb2e36-b3e8-3be1-b1bc-65464cde4dd5",
+      "speaker": null,
+      "start_timestamp": 1765.0,
+      "text": "They did break through and get into the Capitol building."
+    },
+    {
+      "end_timestamp": 1768.88,
+      "id": "4518e527-3dce-3e46-ab95-b3f086003855",
+      "speaker": null,
+      "start_timestamp": 1767.28,
+      "text": "Yes, but can I tell you something?"
+    },
+    {
+      "end_timestamp": 1770.8,
+      "id": "ed4c120d-651e-38e6-8103-aa1bdf2203bd",
+      "speaker": null,
+      "start_timestamp": 1768.88,
+      "text": "Are you listening to me?"
+    },
+    {
+      "end_timestamp": 1771.8,
+      "id": "1af647ce-69ff-3ccc-989f-06879b4602ea",
+      "speaker": null,
+      "start_timestamp": 1770.8,
+      "text": "They let us."
+    },
+    {
+      "end_timestamp": 1774.24,
+      "id": "67c9fc6f-f956-38e3-bd57-7a5ed772a48f",
+      "speaker": null,
+      "start_timestamp": 1771.8,
+      "text": "Folks, listen to me."
+    },
+    {
+      "end_timestamp": 1777.8,
+      "id": "9d11ec0e-67fb-3b8b-82b1-b3510de3d787",
+      "speaker": null,
+      "start_timestamp": 1774.24,
+      "text": "They let us break through."
+    },
+    {
+      "end_timestamp": 1785.88,
+      "id": "e75b0ae6-b5d0-3ee4-8240-841814ae360d",
+      "speaker": null,
+      "start_timestamp": 1777.8,
+      "text": "They let the patriots break through and then embedded BLM in the group."
+    },
+    {
+      "end_timestamp": 1790.46,
+      "id": "067c1510-b5af-3469-a504-4cb3dc32ae9d",
+      "speaker": null,
+      "start_timestamp": 1785.88,
+      "text": "And all the wicked, crazy stuff that happened inside that Capitol building, that was not"
+    },
+    {
+      "end_timestamp": 1792.08,
+      "id": "a59c63e9-f3bb-3d05-b5c5-b1c50bb8ed4a",
+      "speaker": null,
+      "start_timestamp": 1790.46,
+      "text": "done by patriots, folks."
+    },
+    {
+      "end_timestamp": 1793.28,
+      "id": "6092de58-9a58-33c0-b35d-3bf42b69d83a",
+      "speaker": null,
+      "start_timestamp": 1792.08,
+      "text": "That was not done."
+    },
+    {
+      "end_timestamp": 1799.48,
+      "id": "d2d8f70b-383b-3ea2-bf40-7d079483cdeb",
+      "speaker": null,
+      "start_timestamp": 1793.28,
+      "text": "I love the idea that he's saying on the 7th, it gets suspicious that the cops let them"
+    },
+    {
+      "end_timestamp": 1802.64,
+      "id": "4f4358e9-250e-393f-9913-caa9843c20f0",
+      "speaker": null,
+      "start_timestamp": 1799.48,
+      "text": "through when the morning of- On the 6th."
+    },
+    {
+      "end_timestamp": 1804.72,
+      "id": "d215513d-8a57-3eff-b99b-6654bdc7dc97",
+      "speaker": null,
+      "start_timestamp": 1802.64,
+      "text": "The cops are going to let us through."
+    },
+    {
+      "end_timestamp": 1805.72,
+      "id": "0cccf7b6-19a4-37d2-b67b-b5db8d7b9aaf",
+      "speaker": null,
+      "start_timestamp": 1804.72,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1807.0,
+      "id": "032e8f5b-18ad-3788-896e-4d84704d7ac8",
+      "speaker": null,
+      "start_timestamp": 1805.72,
+      "text": "It's very strange."
+    },
+    {
+      "end_timestamp": 1811.56,
+      "id": "03c5c8cb-adec-3785-8773-9893b6662292",
+      "speaker": null,
+      "start_timestamp": 1807.0,
+      "text": "It implies a real change of perspective about like, oh, this actually happened."
+    },
+    {
+      "end_timestamp": 1812.56,
+      "id": "c8386a73-120a-3c74-a4e7-21dfe414dc5f",
+      "speaker": null,
+      "start_timestamp": 1811.56,
+      "text": "Oh shit."
+    },
+    {
+      "end_timestamp": 1813.56,
+      "id": "35bf8b96-4627-34a5-bca6-7ae432a2192a",
+      "speaker": null,
+      "start_timestamp": 1812.56,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "end_timestamp": 1819.08,
+      "id": "06feb825-eb73-308f-8198-ee8b6cbd2b7c",
+      "speaker": null,
+      "start_timestamp": 1813.56,
+      "text": "I just see that so universally with these folks that you look in on."
+    },
+    {
+      "end_timestamp": 1822.64,
+      "id": "a6722fa3-9869-311b-abd8-3879ee836318",
+      "speaker": null,
+      "start_timestamp": 1819.08,
+      "text": "We got to find a way to not take responsibility for whoever shit on that desk."
+    },
+    {
+      "end_timestamp": 1831.12,
+      "id": "04a535ad-dfb7-3c06-bac4-869babf74b7a",
+      "speaker": null,
+      "start_timestamp": 1822.64,
+      "text": "If anybody comes at me with like, listen to any conservative in the media now, it's just"
+    },
+    {
+      "end_timestamp": 1832.12,
+      "id": "543d19ff-6065-3840-ba76-cfe0db8dd8f9",
+      "speaker": null,
+      "start_timestamp": 1831.12,
+      "text": "no."
+    },
+    {
+      "end_timestamp": 1835.0,
+      "id": "14e87400-f836-3e70-b302-5eea52e0b6b2",
+      "speaker": null,
+      "start_timestamp": 1832.12,
+      "text": "What are you talking about?"
+    },
+    {
+      "end_timestamp": 1836.0,
+      "id": "11dec73d-704e-3460-8449-e4bad7f04d39",
+      "speaker": null,
+      "start_timestamp": 1835.0,
+      "text": "Don't even."
+    },
+    {
+      "end_timestamp": 1837.68,
+      "id": "f057df7b-8dd5-3127-b4ba-ae367b596fc1",
+      "speaker": null,
+      "start_timestamp": 1836.0,
+      "text": "I can't engage with it."
+    },
+    {
+      "end_timestamp": 1843.4,
+      "id": "c9a759a0-6fd7-3c55-b053-43476a000a0f",
+      "speaker": null,
+      "start_timestamp": 1837.68,
+      "text": "This was the moment where it's like, no matter what you do, you caused this and then you"
+    },
+    {
+      "end_timestamp": 1845.6,
+      "id": "eace610e-2088-363e-b2b3-e6b351fd25a3",
+      "speaker": null,
+      "start_timestamp": 1843.4,
+      "text": "disavowed it, so go fuck yourself."
+    },
+    {
+      "end_timestamp": 1846.6,
+      "id": "4bed26ef-b29e-399b-b72a-6f3d74ab57f3",
+      "speaker": null,
+      "start_timestamp": 1845.6,
+      "text": "You're a coward."
+    },
+    {
+      "end_timestamp": 1847.6,
+      "id": "bf99cb58-5eff-38af-8446-22b2fe641f2b",
+      "speaker": null,
+      "start_timestamp": 1846.6,
+      "text": "Uh-huh."
+    },
+    {
+      "end_timestamp": 1848.6,
+      "id": "cbd3b947-54a3-3d8d-b167-1cb6e686f776",
+      "speaker": null,
+      "start_timestamp": 1847.6,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1849.6,
+      "id": "31c6cd5f-b912-3aaa-ad2a-a41db508fa68",
+      "speaker": null,
+      "start_timestamp": 1848.6,
+      "text": "A complete coward."
+    },
+    {
+      "end_timestamp": 1852.88,
+      "id": "56600026-966a-3f02-92b7-9216666da987",
+      "speaker": null,
+      "start_timestamp": 1849.6,
+      "text": "You're worse than ISIS."
+    },
+    {
+      "end_timestamp": 1854.84,
+      "id": "1f238f26-f7fd-37af-ae7e-00e52b967203",
+      "speaker": null,
+      "start_timestamp": 1852.88,
+      "text": "Quite a ride for you in comparing things to ISIS."
+    },
+    {
+      "end_timestamp": 1855.88,
+      "id": "3269740b-ddb8-3329-881c-fe31753c286d",
+      "speaker": null,
+      "start_timestamp": 1854.84,
+      "text": "I'm enjoying it."
+    },
+    {
+      "end_timestamp": 1858.72,
+      "id": "dad52632-4347-3e3e-afe4-53e90a438890",
+      "speaker": null,
+      "start_timestamp": 1855.88,
+      "text": "They were good as, they were as evil as ISIS for a while."
+    },
+    {
+      "end_timestamp": 1859.72,
+      "id": "e5fb51d0-53fb-30f1-be73-44c945734528",
+      "speaker": null,
+      "start_timestamp": 1858.72,
+      "text": "It was equivalent."
+    },
+    {
+      "end_timestamp": 1860.72,
+      "id": "c3445e2a-bcd6-3a51-9af1-232447b32995",
+      "speaker": null,
+      "start_timestamp": 1859.72,
+      "text": "Now they're worse."
+    },
+    {
+      "end_timestamp": 1861.72,
+      "id": "39966565-eed4-36c6-a261-6d1b8f2d989b",
+      "speaker": null,
+      "start_timestamp": 1860.72,
+      "text": "Wow."
+    },
+    {
+      "end_timestamp": 1862.72,
+      "id": "6d0d5f0d-eb54-3ef2-a1e8-c1ff305c80f3",
+      "speaker": null,
+      "start_timestamp": 1861.72,
+      "text": "Yeah, it's bad."
+    },
+    {
+      "end_timestamp": 1866.72,
+      "id": "54d240e2-42d6-348b-b170-c8098a2ed16b",
+      "speaker": null,
+      "start_timestamp": 1862.72,
+      "text": "I think that one of the things that I found when I was looking at this was, first of all,"
+    },
+    {
+      "end_timestamp": 1868.6,
+      "id": "472f0071-f60d-3f4e-8d67-876cb5926a59",
+      "speaker": null,
+      "start_timestamp": 1866.72,
+      "text": "I find Dave Dobenmeyer incredibly boring."
+    },
+    {
+      "end_timestamp": 1869.6,
+      "id": "15e72601-ebb6-39bc-8d0f-a482de694ed3",
+      "speaker": null,
+      "start_timestamp": 1868.6,
+      "text": "Oh, he's bad."
+    },
+    {
+      "end_timestamp": 1870.6,
+      "id": "21a4f7f4-9907-380b-aa49-f6994ce4cb7d",
+      "speaker": null,
+      "start_timestamp": 1869.6,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1875.12,
+      "id": "0b25afa3-ab4b-3a11-8ceb-e87b714e6d9e",
+      "speaker": null,
+      "start_timestamp": 1870.6,
+      "text": "And I don't know, maybe it's been a long time since I've looked at any of his actual shows"
+    },
+    {
+      "end_timestamp": 1876.32,
+      "id": "2fcf46fe-44e3-3236-9f77-fcf2bfff3f82",
+      "speaker": null,
+      "start_timestamp": 1875.12,
+      "text": "or anything."
+    },
+    {
+      "end_timestamp": 1881.6,
+      "id": "aec887bf-db93-37b4-a8e5-7521bee603d9",
+      "speaker": null,
+      "start_timestamp": 1876.32,
+      "text": "It just struck me as like, you're just taking notes from Infowars shows and preaching with"
+    },
+    {
+      "end_timestamp": 1882.6,
+      "id": "2ba7dedf-a39e-3c82-986f-3cd37086e508",
+      "speaker": null,
+      "start_timestamp": 1881.6,
+      "text": "it."
+    },
+    {
+      "end_timestamp": 1883.76,
+      "id": "dfb57ba2-c96f-3398-ab7f-102423e46508",
+      "speaker": null,
+      "start_timestamp": 1882.6,
+      "text": "You're just doing that."
+    },
+    {
+      "end_timestamp": 1885.7,
+      "id": "2f2e32a9-b74f-3406-99fd-ac1ccb5f993f",
+      "speaker": null,
+      "start_timestamp": 1883.76,
+      "text": "It's stupid."
+    },
+    {
+      "end_timestamp": 1891.76,
+      "id": "c67323d4-79fc-307a-9895-1dc426cfb80a",
+      "speaker": null,
+      "start_timestamp": 1885.7,
+      "text": "It's almost like the idea of covering his show actually feels kind of like drinking"
+    },
+    {
+      "end_timestamp": 1892.76,
+      "id": "e77a1982-7445-32be-8dc5-88079bbf62ed",
+      "speaker": null,
+      "start_timestamp": 1891.76,
+      "text": "backwash."
+    },
+    {
+      "end_timestamp": 1893.76,
+      "id": "b411644e-f8f4-3473-a653-3a4ad4926870",
+      "speaker": null,
+      "start_timestamp": 1892.76,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1894.76,
+      "id": "e99e7713-e0f2-3e79-8e85-49b8246d15ff",
+      "speaker": null,
+      "start_timestamp": 1893.76,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1895.76,
+      "id": "dc091435-0a25-3f98-a895-e75796ca5247",
+      "speaker": null,
+      "start_timestamp": 1894.76,
+      "text": "I'm not interested."
+    },
+    {
+      "end_timestamp": 1896.76,
+      "id": "9c5f5b50-f5e9-3481-8a7a-a9dfd09800b1",
+      "speaker": null,
+      "start_timestamp": 1895.76,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1904.08,
+      "id": "f91ff15d-c906-31c4-abe3-604442ce5ea3",
+      "speaker": null,
+      "start_timestamp": 1896.76,
+      "text": "But he was there and this is an interesting set of circumstances, an interesting set of"
+    },
+    {
+      "end_timestamp": 1905.08,
+      "id": "d9b318ce-11d7-36a9-84c5-0f9bfcbef58c",
+      "speaker": null,
+      "start_timestamp": 1904.08,
+      "text": "behaviors."
+    },
+    {
+      "end_timestamp": 1909.4,
+      "id": "8af7917c-9eac-30de-9f52-9eaf7efb631b",
+      "speaker": null,
+      "start_timestamp": 1905.08,
+      "text": "He would be like, hey, Trump is telling us all to get on the field."
+    },
+    {
+      "end_timestamp": 1914.58,
+      "id": "36569c11-6f18-3120-9ccf-28da0198b003",
+      "speaker": null,
+      "start_timestamp": 1909.4,
+      "text": "You know, like, well, I mean the three jurisdictions thing, that's just good, clean fun."
+    },
+    {
+      "end_timestamp": 1915.58,
+      "id": "59a18a38-bb52-30eb-9967-00a46d15bf2a",
+      "speaker": null,
+      "start_timestamp": 1914.58,
+      "text": "That's fantastic."
+    },
+    {
+      "end_timestamp": 1916.58,
+      "id": "ca20687e-ff86-34a1-b249-bc11aab3b49c",
+      "speaker": null,
+      "start_timestamp": 1915.58,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1917.58,
+      "id": "90389c7b-82b6-324c-8cda-d77e21c90d68",
+      "speaker": null,
+      "start_timestamp": 1916.58,
+      "text": "That's fantastic."
+    },
+    {
+      "end_timestamp": 1919.8,
+      "id": "5851ff4a-e11a-389a-b5d4-265768ff1cdf",
+      "speaker": null,
+      "start_timestamp": 1917.58,
+      "text": "They're literally talking about the possibility of storming the Capitol and how the police"
+    },
+    {
+      "end_timestamp": 1920.8,
+      "id": "7f4221ae-f868-3f6c-a7aa-dfa8193eefcc",
+      "speaker": null,
+      "start_timestamp": 1919.8,
+      "text": "will stand down."
+    },
+    {
+      "end_timestamp": 1921.8,
+      "id": "46f7ec98-1bc9-30da-bb3d-c342335ee14a",
+      "speaker": null,
+      "start_timestamp": 1920.8,
+      "text": "There's not enough of them."
+    },
+    {
+      "end_timestamp": 1922.8,
+      "id": "ba573f72-dbb4-32a4-8560-10ae5fb74d9c",
+      "speaker": null,
+      "start_timestamp": 1921.8,
+      "text": "Yep."
+    },
+    {
+      "end_timestamp": 1924.8,
+      "id": "fc0f7f4b-870b-3e56-97c8-2b0587e51a77",
+      "speaker": null,
+      "start_timestamp": 1922.8,
+      "text": "And then the next day there's a conspiracy afoot."
+    },
+    {
+      "end_timestamp": 1925.8,
+      "id": "e336bde9-64b8-3ecb-b38b-31ac10c929d4",
+      "speaker": null,
+      "start_timestamp": 1924.8,
+      "text": "It's somebody else's fault."
+    },
+    {
+      "end_timestamp": 1926.8,
+      "id": "a789eeb8-faa6-337b-b43b-004ff2429f00",
+      "speaker": null,
+      "start_timestamp": 1925.8,
+      "text": "It's somebody else's fault."
+    },
+    {
+      "end_timestamp": 1927.8,
+      "id": "c3d82ef0-0285-3166-ba33-ba11cb7d3ded",
+      "speaker": null,
+      "start_timestamp": 1926.8,
+      "text": "They're trying to set us up."
+    },
+    {
+      "end_timestamp": 1928.8,
+      "id": "61155d5d-472d-3a81-b14d-66f677ca38ba",
+      "speaker": null,
+      "start_timestamp": 1927.8,
+      "text": "No, we didn't do anything."
+    },
+    {
+      "end_timestamp": 1933.46,
+      "id": "6378b631-484e-383f-ae10-335c36cdfa06",
+      "speaker": null,
+      "start_timestamp": 1928.8,
+      "text": "The police let us in and when they let us in, they embedded Antifa and Black Lives Matter"
+    },
+    {
+      "end_timestamp": 1934.46,
+      "id": "65a44e76-3c91-3f24-bc82-4313ef5b3ecc",
+      "speaker": null,
+      "start_timestamp": 1933.46,
+      "text": "in there."
+    },
+    {
+      "end_timestamp": 1935.46,
+      "id": "819308e2-233d-343f-8cb0-80b16cf828d2",
+      "speaker": null,
+      "start_timestamp": 1934.46,
+      "text": "We're doing this."
+    },
+    {
+      "end_timestamp": 1938.64,
+      "id": "6ae931c2-82bd-3375-a979-f0fa075704ef",
+      "speaker": null,
+      "start_timestamp": 1935.46,
+      "text": "We're so strong, but we're the victim."
+    },
+    {
+      "end_timestamp": 1940.0,
+      "id": "46c29452-82e9-3129-acb6-6b6a9dd9add6",
+      "speaker": null,
+      "start_timestamp": 1938.64,
+      "text": "It's really dumb."
+    },
+    {
+      "end_timestamp": 1941.48,
+      "id": "becb26ba-ba94-3255-99c0-9997a89aa415",
+      "speaker": null,
+      "start_timestamp": 1940.0,
+      "text": "Bunch of fucking cowards."
+    },
+    {
+      "end_timestamp": 1943.22,
+      "id": "d7381753-92a0-3bb3-ba6d-df50d45c06d2",
+      "speaker": null,
+      "start_timestamp": 1941.48,
+      "text": "It's very dumb."
+    },
+    {
+      "end_timestamp": 1945.2,
+      "id": "690e5d06-f2e5-38e7-9a98-e4acddc4c515",
+      "speaker": null,
+      "start_timestamp": 1943.22,
+      "text": "And perhaps so was this."
+    },
+    {
+      "end_timestamp": 1946.2,
+      "id": "a7936ba0-9a3f-3f39-8bcb-5e4501440c64",
+      "speaker": null,
+      "start_timestamp": 1945.2,
+      "text": "Who knows?"
+    },
+    {
+      "end_timestamp": 1947.2,
+      "id": "487c0024-f021-37c4-9adc-9fbf954c4dbf",
+      "speaker": null,
+      "start_timestamp": 1946.2,
+      "text": "That's what I'm saying."
+    },
+    {
+      "end_timestamp": 1948.2,
+      "id": "f7e076bc-e41c-3a5b-b717-3d88522399a4",
+      "speaker": null,
+      "start_timestamp": 1947.2,
+      "text": "I want a higher quality of criminal."
+    },
+    {
+      "end_timestamp": 1949.44,
+      "id": "0d7a5188-fdfb-3ca7-ba8c-52f8bcfcd386",
+      "speaker": null,
+      "start_timestamp": 1948.2,
+      "text": "I think I've said that before."
+    },
+    {
+      "end_timestamp": 1950.44,
+      "id": "ff2a9b1f-5001-3d51-a8f2-f87fcc1ed292",
+      "speaker": null,
+      "start_timestamp": 1949.44,
+      "text": "Yeah, exactly."
+    },
+    {
+      "end_timestamp": 1952.9,
+      "id": "9a560ba6-b689-3e96-9442-82a23de9ce37",
+      "speaker": null,
+      "start_timestamp": 1950.44,
+      "text": "It's just that whole thing of just like, really?"
+    },
+    {
+      "end_timestamp": 1955.3,
+      "id": "6772dd64-62ba-3914-a56d-4bcb793f5903",
+      "speaker": null,
+      "start_timestamp": 1952.9,
+      "text": "This is who we're up against?"
+    },
+    {
+      "end_timestamp": 1957.54,
+      "id": "bbc72e0e-69d4-3e06-bb68-4f4264326439",
+      "speaker": null,
+      "start_timestamp": 1955.3,
+      "text": "Come on, man."
+    },
+    {
+      "end_timestamp": 1958.54,
+      "id": "f584dc28-c211-354b-9a1a-5e18d793fd88",
+      "speaker": null,
+      "start_timestamp": 1957.54,
+      "text": "It is."
+    },
+    {
+      "end_timestamp": 1961.04,
+      "id": "fd59d533-ff45-373c-8aad-be122c0c061e",
+      "speaker": null,
+      "start_timestamp": 1958.54,
+      "text": "This is the shittiest fascism I've ever seen."
+    },
+    {
+      "end_timestamp": 1965.24,
+      "id": "bc7f66d7-0255-30c5-a742-448d288684e0",
+      "speaker": null,
+      "start_timestamp": 1961.04,
+      "text": "Yeah, I bet all of them have been disappointing in the moment."
+    },
+    {
+      "end_timestamp": 1967.44,
+      "id": "f6bda1f0-a98b-3e18-9b74-a5de8221257d",
+      "speaker": null,
+      "start_timestamp": 1965.24,
+      "text": "Yeah, well that's probably true."
+    },
+    {
+      "end_timestamp": 1973.0,
+      "id": "cd7be8b9-49fd-3843-bc01-fa166c0ddc3d",
+      "speaker": null,
+      "start_timestamp": 1967.44,
+      "text": "I bet over time they take on more of a serious character."
+    },
+    {
+      "end_timestamp": 1979.48,
+      "id": "ba4acfa3-a5ce-37a2-af14-2ee447ede465",
+      "speaker": null,
+      "start_timestamp": 1973.0,
+      "text": "Yeah, I imagine if I went and went back and watched a serious documentary about Mussolini,"
+    },
+    {
+      "end_timestamp": 1981.24,
+      "id": "320be8ca-7242-3fdf-a02a-a8809eb7ae17",
+      "speaker": null,
+      "start_timestamp": 1979.48,
+      "text": "they'd be like, look at this fucking idiot."
+    },
+    {
+      "end_timestamp": 1983.08,
+      "id": "35ff6823-ff67-38ba-ae95-3726a9de7955",
+      "speaker": null,
+      "start_timestamp": 1981.24,
+      "text": "What are we talking about with this guy?"
+    },
+    {
+      "end_timestamp": 1984.08,
+      "id": "375589f2-6d2a-33eb-80db-e4224f13f895",
+      "speaker": null,
+      "start_timestamp": 1983.08,
+      "text": "How did he take over?"
+    },
+    {
+      "end_timestamp": 1985.08,
+      "id": "6cad5a93-4989-33a7-8f49-2b321284cc98",
+      "speaker": null,
+      "start_timestamp": 1984.08,
+      "text": "Yeah, probably."
+    },
+    {
+      "end_timestamp": 1986.08,
+      "id": "c9963411-a3b4-3404-8b5b-31ef88efe447",
+      "speaker": null,
+      "start_timestamp": 1985.08,
+      "text": "Yeah, probably."
+    },
+    {
+      "end_timestamp": 1991.24,
+      "id": "8158f680-09bf-31dc-88a6-c7553e210486",
+      "speaker": null,
+      "start_timestamp": 1986.08,
+      "text": "Anyway, Jordan, I apologize that we don't have a full episode for today, but..."
+    },
+    {
+      "end_timestamp": 1993.52,
+      "id": "c6f1de12-7524-3940-bc0c-541556092ffb",
+      "speaker": null,
+      "start_timestamp": 1991.24,
+      "text": "Absolutely, this is a bottle episode."
+    },
+    {
+      "end_timestamp": 1995.56,
+      "id": "b9a63ae5-00cd-3877-9f2f-ad45f1430fbd",
+      "speaker": null,
+      "start_timestamp": 1993.52,
+      "text": "Battlestar Galactica is over."
+    },
+    {
+      "end_timestamp": 1998.72,
+      "id": "fbbb1c16-d01c-3759-984b-fa0cc400b64d",
+      "speaker": null,
+      "start_timestamp": 1995.56,
+      "text": "It's like that Breaking Bad episode with the fly."
+    },
+    {
+      "end_timestamp": 1999.72,
+      "id": "40d1e792-6e94-34a0-bbfa-e478c4a61014",
+      "speaker": null,
+      "start_timestamp": 1998.72,
+      "text": "Yeah, exactly."
+    },
+    {
+      "end_timestamp": 2004.28,
+      "id": "047b9f36-716b-3c0b-95ce-f0c0d18ad77b",
+      "speaker": null,
+      "start_timestamp": 1999.72,
+      "text": "But the fly is a coach."
+    },
+    {
+      "end_timestamp": 2008.04,
+      "id": "b472b29e-de69-3e6f-845a-fe546eef8106",
+      "speaker": null,
+      "start_timestamp": 2004.28,
+      "text": "The fly is just Dave D'Aubenbier whispering like, hey man, it's gonna happen."
+    },
+    {
+      "end_timestamp": 2009.04,
+      "id": "93470918-2cf0-3f02-ac49-dd2122d0246e",
+      "speaker": null,
+      "start_timestamp": 2008.04,
+      "text": "Would you pass the salt?"
+    },
+    {
+      "end_timestamp": 2010.04,
+      "id": "8931c5f8-6fb9-3607-be4f-ea3aa8b24670",
+      "speaker": null,
+      "start_timestamp": 2009.04,
+      "text": "It's gonna happen."
+    },
+    {
+      "end_timestamp": 2013.12,
+      "id": "30b7d499-4ae1-36fc-bccb-e084c949f4e9",
+      "speaker": null,
+      "start_timestamp": 2010.04,
+      "text": "It's just a fly asking for salt."
+    },
+    {
+      "end_timestamp": 2020.12,
+      "id": "a35fad2f-37aa-3742-90c5-92911efddc73",
+      "speaker": null,
+      "start_timestamp": 2013.12,
+      "text": "Alright, well, we'll be back on Wednesday with a full-on Alex Jones episode, but until"
+    },
+    {
+      "end_timestamp": 2021.12,
+      "id": "9666dfc4-0de0-3e2a-9dba-fda1d28caa80",
+      "speaker": null,
+      "start_timestamp": 2020.12,
+      "text": "then Jordan, we have a website."
+    },
+    {
+      "end_timestamp": 2022.12,
+      "id": "1b474bef-78e3-331e-8145-0476bbfc840b",
+      "speaker": null,
+      "start_timestamp": 2021.12,
+      "text": "We do have a website."
+    },
+    {
+      "end_timestamp": 2023.12,
+      "id": "c1ca6bab-e7b7-3971-9cdd-70226370a144",
+      "speaker": null,
+      "start_timestamp": 2022.12,
+      "text": "It's knowledgefight.com."
+    },
+    {
+      "end_timestamp": 2024.12,
+      "id": "f89b8300-770f-3d4c-a68c-fe6fa939c00f",
+      "speaker": null,
+      "start_timestamp": 2023.12,
+      "text": "Yep, we're also on Twitter."
+    },
+    {
+      "end_timestamp": 2025.12,
+      "id": "cd1402fe-d00c-34ee-a33f-e0c2db97ab65",
+      "speaker": null,
+      "start_timestamp": 2024.12,
+      "text": "We are on Twitter."
+    },
+    {
+      "end_timestamp": 2026.12,
+      "id": "dcb31e7d-24fe-3d39-bdcb-072b2a4f8559",
+      "speaker": null,
+      "start_timestamp": 2025.12,
+      "text": "It's at knowledgejones.com."
+    },
+    {
+      "end_timestamp": 2027.12,
+      "id": "664d92fa-986a-3917-8b93-957476295817",
+      "speaker": null,
+      "start_timestamp": 2026.12,
+      "text": "Now go to Matt Jordan."
+    },
+    {
+      "end_timestamp": 2028.12,
+      "id": "52609c94-4333-3659-9b65-f4708da7a510",
+      "speaker": null,
+      "start_timestamp": 2027.12,
+      "text": "We're also on Facebook."
+    },
+    {
+      "end_timestamp": 2029.12,
+      "id": "4c1a91bd-4f6d-37fa-8454-f2f5891d18b2",
+      "speaker": null,
+      "start_timestamp": 2028.12,
+      "text": "We are on Facebook."
+    },
+    {
+      "end_timestamp": 2033.08,
+      "id": "6f7272ec-1e17-358c-afca-0f2962ec5292",
+      "speaker": null,
+      "start_timestamp": 2029.12,
+      "text": "If you could, please find a local charity or bail fund in your area to help out people"
+    },
+    {
+      "end_timestamp": 2034.08,
+      "id": "ebb3e177-9f91-3de7-b331-45fd181e2b38",
+      "speaker": null,
+      "start_timestamp": 2033.08,
+      "text": "doing God's work."
+    },
+    {
+      "end_timestamp": 2038.64,
+      "id": "6394b528-5d8f-3c68-afc1-147f056bc87d",
+      "speaker": null,
+      "start_timestamp": 2034.08,
+      "text": "Yeah, we'll be back, but until then, I'm Neo, I'm Leo, I'm DZXClark, I'm Daryl Rundis,"
+    },
+    {
+      "end_timestamp": 2041.0,
+      "id": "c14531cd-c34a-3c98-a97b-a24df8939a26",
+      "speaker": null,
+      "start_timestamp": 2038.64,
+      "text": "I'm the Juiciest Ice Cube."
+    },
+    {
+      "end_timestamp": 2042.36,
+      "id": "d0dd5442-91f1-3e56-abe8-dacc881567b1",
+      "speaker": null,
+      "start_timestamp": 2041.0,
+      "text": "Andy in Kansas, you're on the air."
+    },
+    {
+      "end_timestamp": 2043.36,
+      "id": "cc5f36fa-8eea-3f80-bcac-5af4c5f616b3",
+      "speaker": null,
+      "start_timestamp": 2042.36,
+      "text": "Thanks for holding."
+    },
+    {
+      "end_timestamp": 2044.36,
+      "id": "d12fa7be-6273-31dd-a57f-bb898f3dcea1",
+      "speaker": null,
+      "start_timestamp": 2043.36,
+      "text": "Hello, Alex."
+    },
+    {
+      "end_timestamp": 2045.36,
+      "id": "815b8417-ef07-3525-8fae-40cbd6065066",
+      "speaker": null,
+      "start_timestamp": 2044.36,
+      "text": "I'm a first time caller."
+    },
+    {
+      "end_timestamp": 2046.36,
+      "id": "8efe8577-404c-36b7-b388-bef1ddfa106a",
+      "speaker": null,
+      "start_timestamp": 2045.36,
+      "text": "I'm a huge fan."
+    },
+    {
+      "end_timestamp": 2047.36,
+      "id": "f5cb9205-2af0-3d03-8dc7-cc3db043b722",
+      "speaker": null,
+      "start_timestamp": 2046.36,
+      "text": "I love your work."
+    },
+    {
+      "end_timestamp": 2077.32,
+      "id": "90df6df5-7dd2-3c39-bd0c-72061087c569",
+      "speaker": null,
+      "start_timestamp": 2047.36,
+      "text": "I love you."
+    }
+  ],
+  "history": {
+    "original_format": "vtt",
+    "type": "whisper"
+  }
+}

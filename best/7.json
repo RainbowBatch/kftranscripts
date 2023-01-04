@@ -1,0 +1,2873 @@
+{
+  "audio_identifier": "KF_7",
+  "audio_url": "https://traffic.libsyn.com/secure/knowledgefight/1-23.mp3",
+  "blocks": [
+    {
+      "end_timestamp": 20.0,
+      "id": "e256ed14-ef20-3384-a34e-df89a857625f",
+      "speaker": "Jordan",
+      "start_timestamp": 0.0,
+      "text": "Hi guys, this is Jordan. Glad Dan is holding down the fort while I'm not there. Just so you know, over here in London, they do not know who Alex Jones is. And so we are all living a better life."
+    },
+    {
+      "end_timestamp": 24.0,
+      "id": "45081c42-246a-32a8-b2e2-f6b6915b7396",
+      "speaker": "Alex Jones",
+      "start_timestamp": 20.0,
+      "text": "Andy in Kansas, you're on the air. Thanks for holding."
+    },
+    {
+      "end_timestamp": 53.0,
+      "id": "32bf3b9e-4e6a-3049-9c5d-a2d09b84ac82",
+      "speaker": "Dan",
+      "start_timestamp": 24.0,
+      "text": "Well, Alex, I'm a first time caller. I'm a huge fan. I love your work. Hey, everybody, welcome back to knowledge fight. I have them. As you heard they're up top Jordan, my partner in crime here is in London. He's on a work occasion, as Alex Jones would call it so sitting in in his stead. It's a very funny man. Very smart, man. I think I called you an informed cat over Uber. For text messages earlier today. Tyler Snodgrass."
+    },
+    {
+      "end_timestamp": 54.0,
+      "id": "e83790a5-8c34-307a-ac35-1bb87cd69aad",
+      "speaker": "Tyler Snodgrass",
+      "start_timestamp": 53.0,
+      "text": "Hello. Thank you for having me."
+    },
+    {
+      "end_timestamp": 74.0,
+      "id": "409486b2-7c46-34cd-baa6-0e577245a301",
+      "speaker": "Dan",
+      "start_timestamp": 54.0,
+      "text": "Comedian extraordinaire, storyteller. fun guy. I want to I want to welcome you into occupied Illinois, the studio here behind enemy lines. So we talked about this a tiny bit before we started you, much like Jordan know almost nothing about Alex Jones shoe."
+    },
+    {
+      "end_timestamp": 81.0,
+      "id": "eeecafe5-59a1-341e-83a9-9edb627fb9d2",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 74.0,
+      "text": "I'm aware of his existence. And that there is now a podcast about run by one of my friends. That's what I know."
+    },
+    {
+      "end_timestamp": 88.0,
+      "id": "881f3795-8563-35b6-99ae-e419d98eda8b",
+      "speaker": "Dan",
+      "start_timestamp": 81.0,
+      "text": "There might be more than one podcast about him, but only one by one of your friends. That's true. Do you know that he's kind of a wacky? dickhole right."
+    },
+    {
+      "end_timestamp": 100.0,
+      "id": "e1180ded-a000-3e6d-a028-eee0362b8967",
+      "speaker": "Tyler Snodgrass",
+      "start_timestamp": 88.0,
+      "text": "He's a wacky dickhole Yeah, I'd say to put it lightly. That's what I understand though. I'm coming from you know what other people in Chicago have said so he's he's a real he's a real wackadoo a loony? Kazumi."
+    },
+    {
+      "end_timestamp": 131.0,
+      "id": "83d6486d-e5a0-3341-8f84-e0c867b7151e",
+      "speaker": "Dan",
+      "start_timestamp": 100.0,
+      "text": "He definitely is. Over the course of the last two weeks or so we've been doing this show. We've experienced him do a lot of special reports we've, we've explored when he did stand up, he did stand up one time. Okay, we did that. For one episode. We covered his y2k episode, the inauguration just happened. And now finally, he's back in studio and everything is back to perfectly normal, crazy, awesome shit."
+    },
+    {
+      "end_timestamp": 141.0,
+      "id": "cc37181b-3e6a-32ed-8bc8-e6ff4a6a138c",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 131.0,
+      "text": "I'm sure he has a lot to talk about. Because even the normal news is now reporting some insane shit through I bet his reaction to that is just to the moon, he's got"
+    },
+    {
+      "end_timestamp": 175.0,
+      "id": "82b8ec68-1439-36f7-a772-2377fcca48c0",
+      "speaker": "Dan",
+      "start_timestamp": 141.0,
+      "text": "to go one step further than everybody else. So once of course, once the baseline becomes nuts, he's got to go super nuts. It's kind of delightful. But today's episode, what we're going to be covering we generally do is one day in the life of Alex, but because you know, days kind of bleed into each other at this point. This is January 23. And 24th. These clips will come from those two episodes. Right? You know, this is after the inauguration. This is after the Women's March, right? We at this point have not heard what Alex thinks about the Women's March."
+    },
+    {
+      "end_timestamp": 186.0,
+      "id": "bc2e39f1-4c9c-32da-ac9f-c782517c09e8",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 175.0,
+      "text": "Oh, God. Do you have any predictions? Madam says, Well, I just don't know what to expect. But I guarantee I won't like"
+    },
+    {
+      "end_timestamp": 187.0,
+      "id": "7089be71-5e2c-3550-bb7d-0d48d25ecb57",
+      "speaker": "Dan",
+      "start_timestamp": 186.0,
+      "text": "actually, you know what"
+    },
+    {
+      "end_timestamp": 190.0,
+      "id": "ed5f4e64-372b-3f68-869e-7d143fac5c91",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 187.0,
+      "text": "this is I don't want to guarantee anything I want to come in with an open mind."
+    },
+    {
+      "end_timestamp": 227.0,
+      "id": "d51c01d4-21e1-34e0-8649-d6939fcfc6d9",
+      "speaker": "Dan",
+      "start_timestamp": 190.0,
+      "text": "I appreciate that. That's more than Alex gives the globalist that's for damn sure. What's a globalist? We'll explore that throughout the course of this entire show. arch enemies. It's this. It's this idea that there's a bunch of really rich people behind the scenes who are trying to turn the world into a one world government. It's New World Order shit, Illuminati shit. It's all bundled up within that, but it has to do with turning the the, you know, using un to make a world government and then everybody is slaves to them across the entire prison planet. That's Alex Jones's sort of philosophy."
+    },
+    {
+      "end_timestamp": 237.0,
+      "id": "b885673c-773d-3a29-b938-c55f08a50353",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 227.0,
+      "text": "Wow, he should go into YA lit right. Sure. It's hot, because man that would sell I could be the new Hunger Games if he did you know? Right. It kind of pretty."
+    },
+    {
+      "end_timestamp": 251.0,
+      "id": "b486dbd5-be1a-37e3-8d96-20315431dfb0",
+      "speaker": "Dan",
+      "start_timestamp": 237.0,
+      "text": "He can't though. Yeah. As you'll see by his use of diction. He could not sit down and write a coherent sentence. Okay. But yeah, Alex has some thoughts about what he experienced through the Women's March. Experience. That's what's most important."
+    },
+    {
+      "end_timestamp": 254.0,
+      "id": "40dadb32-b1da-3dbc-a0eb-96f8cf815d92",
+      "speaker": "Tyler Snodgrass",
+      "start_timestamp": 251.0,
+      "text": "I'm sure he did a lot of experiencing."
+    },
+    {
+      "end_timestamp": 261.0,
+      "id": "e6871bff-eec9-337a-95d1-117e2baa9661",
+      "speaker": "Dan",
+      "start_timestamp": 254.0,
+      "text": "He went in with an open heart open mind. Much like you with this buck. Yep. Yep. So here is his first thoughts on it."
+    },
+    {
+      "end_timestamp": 270.0,
+      "id": "ce5f70ed-af87-36cc-95fb-6930e38e861f",
+      "speaker": "Alex Jones",
+      "start_timestamp": 261.0,
+      "text": "Ladies and gentlemen, I want to roll through the nose here, obviously. And"
+    },
+    {
+      "end_timestamp": 272.0,
+      "id": "07f74bf7-bb71-3d8d-9321-080754a2b395",
+      "speaker": "Dan",
+      "start_timestamp": 270.0,
+      "text": "also, he has bizarre interviews."
+    },
+    {
+      "end_timestamp": 275.0,
+      "id": "3fe689dd-e10d-30ee-ab27-e6abe4ac5cef",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 272.0,
+      "text": "Yeah, that was a bold choice of his when he's coming"
+    },
+    {
+      "end_timestamp": 282.0,
+      "id": "c70fd633-0cf7-392e-a988-17ba789e2874",
+      "speaker": "Dan",
+      "start_timestamp": 275.0,
+      "text": "in and out of commercials. It's insanity. So that's, that's what you hear there with the James Bond style."
+    },
+    {
+      "end_timestamp": 355.0,
+      "id": "a1f51bee-8b73-343a-ab6b-b677fd080fd6",
+      "speaker": "Alex Jones",
+      "start_timestamp": 282.0,
+      "text": "Break down the big picture because we've got a truly demoralized, brainwashed, servile group of state worshipers who just live such bizarre masticated weak lives that they see those of us that aren't domesticated, and those of us that are alive as the enemies, they want to get rid of us. There could be one of us left on the earth that zombies hadn't pulled down and basically turned into one of them, that they would allow us to survive. They wouldn't let one of us be left. I mean, it's totally spiritual. And I've always known this, but when I saw it in DC, I was hurt. I didn't think, wow, our opposition looks like hell. I was looking all over the place, and I couldn't find any of them that didn't look like they were half dead, young, old, you name it now. During the Trump event, right before the inauguration, I did see some attractive women and people but they're always really weird, wimpy guys. were giggling and laughing and I'd say come on over to the camera. Just tell me what you think that you don't know. And just start laughing and we're like mentally ill."
+    },
+    {
+      "end_timestamp": 370.0,
+      "id": "86f88d84-29cd-306c-a6c1-ed97b885649d",
+      "speaker": "Dan",
+      "start_timestamp": 355.0,
+      "text": "So now we know exactly what's going on here. Right? He's misinterpreting that. People don't want to talk to him. Right? What's going on? Is these dudes at the bar? Like, I'm not gonna go fucking talk to Infowars they're gonna twist whatever I say. Yeah, there's no fucking way I'm talking about asshole."
+    },
+    {
+      "end_timestamp": 379.0,
+      "id": "f25809fd-503e-3cb3-857c-df1320a88eaa",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 370.0,
+      "text": "right people. They're giggling in the vicinity of him. They're probably like, oh, we know what this guy's up to? Yeah. Can you believe he's here? Can you believe he left his apartment?"
+    },
+    {
+      "end_timestamp": 383.0,
+      "id": "3af30c31-f537-3128-9560-bcc83a6d1454",
+      "speaker": "Dan",
+      "start_timestamp": 379.0,
+      "text": "It's like, what do you see the campus preachers in college? Right? Yeah,"
+    },
+    {
+      "end_timestamp": 390.0,
+      "id": "369cd892-55fb-3783-bff1-d9fe03c1aa3d",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 383.0,
+      "text": "the college proselytizers. That's Pastor Bob. Those are we have brother Jed. Brother jet. That's better. It is"
+    },
+    {
+      "end_timestamp": 406.0,
+      "id": "661936c1-2bb5-33c2-a606-d9be188b6196",
+      "speaker": "Dan",
+      "start_timestamp": 390.0,
+      "text": "he was he was a he's a crazy dude. Yeah, you'll just be like, it's not like you're attacking them. It's just no good is gonna come of getting involved here. Right. And that's what he experienced. But he experienced something else. That is also a huge lie."
+    },
+    {
+      "end_timestamp": 457.0,
+      "id": "8d4c1cd4-65ae-3e3c-b59a-53b3cd0106a7",
+      "speaker": "Alex Jones",
+      "start_timestamp": 406.0,
+      "text": "And I can tell the women and I'm not saying this to brag, were attracted to me. But they'd be looking at what they're attracted me but then just looking like I was evil and then shake their head and just it was really, really bizarre. I mean, to see and then to see the Trump supporters. I mean, the black Trump supporters were like the best dressed most articulate people that elder black are saying articulate No, I'm saying more articulate than me. Racism when I say some black guy was really great speaker, because he's a really great speaker. All right, what His voice sounded the way he looked, what he said was better than what I said. I want to patent a black guy on the head. I was saying what I said to everything they've got geared where we can ever come together there. They're even teaching in some white person tells a black person, they think they're really cool. That's because they're racist."
+    },
+    {
+      "end_timestamp": 465.0,
+      "id": "0021103c-efc5-3f28-b018-0b9f61f3daef",
+      "speaker": "Dan",
+      "start_timestamp": 457.0,
+      "text": "So, one thing a trend that we're gonna see in today's clips, as Alex is really worked up about race. For some reason,"
+    },
+    {
+      "end_timestamp": 469.0,
+      "id": "f971c9c8-1b19-3e55-bb19-2a929b9d1542",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 465.0,
+      "text": "you don't say, I knew that before I knew about this podcast."
+    },
+    {
+      "end_timestamp": 474.0,
+      "id": "97f70c5c-ba77-3704-aa4c-b73e022f1625",
+      "speaker": "Dan",
+      "start_timestamp": 469.0,
+      "text": "So what are your some of your takeaways from from our first clip here?"
+    },
+    {
+      "end_timestamp": 496.0,
+      "id": "7ae1028c-658f-30cb-ae00-d721e47adcb0",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 474.0,
+      "text": "So? Well, it's been wonderful. Yeah, he's so he's so attractive that maybe women are intimidated or they don't want to. They don't want to abandon their their wimpy Trump supporting boyfriend's like, this is the this is the Democrats. But he said they were at the inauguration. Yeah, but"
+    },
+    {
+      "end_timestamp": 504.0,
+      "id": "2ca8ef93-cf6a-3135-9bcd-1d7c30fe0c0b",
+      "speaker": "Dan",
+      "start_timestamp": 496.0,
+      "text": "there's like protesters and stuff like that. Oh, okay. He's talking about wimpy dudes. He's not talking about Trump people. Gotcha. That's way outside his narrative."
+    },
+    {
+      "end_timestamp": 508.0,
+      "id": "0e8d3c5a-c62d-3b23-ba91-971607b0fed2",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 504.0,
+      "text": "I thought this was he was just You just identifying people in general."
+    },
+    {
+      "end_timestamp": 513.0,
+      "id": "db75e880-053c-3f8e-8b23-c93908efff10",
+      "speaker": "Dan",
+      "start_timestamp": 508.0,
+      "text": "That's another that you're gonna have to get used to is him not making linear sense?"
+    },
+    {
+      "end_timestamp": 516.0,
+      "id": "fb501686-bab2-3136-9615-7b2b9fe81151",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 513.0,
+      "text": "At all, I'm adapting."
+    },
+    {
+      "end_timestamp": 532.0,
+      "id": "ca761404-95ed-35c3-b857-9104bbbcc2b1",
+      "speaker": "Dan",
+      "start_timestamp": 516.0,
+      "text": "So these dudes are close to us. And they're cackling at him. And women are scared of Alex, but you're scared of how sexy he is. It's like leader of the pack. Right? It's like some weird 50s movie bad boy. Yeah. I want to fuck him. But who is too dangerous?"
+    },
+    {
+      "end_timestamp": 541.0,
+      "id": "1579686f-d84a-383a-8e92-d009821c31f1",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 532.0,
+      "text": "Yeah. It's also interesting that there were only attractive women at the inauguration protest or otherwise shirts or whatever. But there were none at the marches."
+    },
+    {
+      "end_timestamp": 545.0,
+      "id": "52c95fc2-aa97-353d-b421-389672d26b59",
+      "speaker": "Dan",
+      "start_timestamp": 541.0,
+      "text": "Oh, no, they're all fat, ugly."
+    },
+    {
+      "end_timestamp": 548.0,
+      "id": "af9e9ac6-23ad-351f-887e-e1e31d0fa2c8",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 545.0,
+      "text": "And they look and they look half dead."
+    },
+    {
+      "end_timestamp": 558.0,
+      "id": "a13e147b-e57b-3ddf-879a-f15363caffef",
+      "speaker": "Dan",
+      "start_timestamp": 548.0,
+      "text": "I don't know. I saw a lot of pictures of the marches. I wasn't able to make it out to the one in Chicago over the weekend. But I saw tons of pictures of a really vibrant happy people."
+    },
+    {
+      "end_timestamp": 563.0,
+      "id": "3bbc11ba-e49f-3c26-99eb-bf8bf59d2a10",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 558.0,
+      "text": "Yes, very energetic. People. They looked like they gotten sun. Some of them."
+    },
+    {
+      "end_timestamp": 578.0,
+      "id": "fbf9a843-49eb-3590-a3f5-d8711bd69e2c",
+      "speaker": "Dan",
+      "start_timestamp": 563.0,
+      "text": "They all looked like George Soros actually was paying them. They were that happy? Yeah, it was crazy. Did tend to take away from that, that like people are have that. And then that racial part at the end is gorgeous"
+    },
+    {
+      "end_timestamp": 589.0,
+      "id": "6367d9b1-dd3a-37ca-bb8c-e38f02ba639d",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 578.0,
+      "text": "little bit of compensation. would say just a little bit like he catches himself. Yeah, you know, and then he's like, I better just swing for the fences on this one."
+    },
+    {
+      "end_timestamp": 607.0,
+      "id": "d44bce60-c5ca-3f6d-b732-5372b5c79563",
+      "speaker": "Dan",
+      "start_timestamp": 589.0,
+      "text": "I better doubled. It's that it's kind of a rhetorical strategy and a lot of people do it. In standup is like if you kind of accidentally say something funny. up, you better go harder at it, or else the audience is gonna think you're an asshole. Right? They're gonna sense weakness. And I think Alex does"
+    },
+    {
+      "end_timestamp": 617.0,
+      "id": "5a2b9ae8-42ef-3ad2-9ade-ac06a9ad5a96",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 607.0,
+      "text": "that too. He did another stand up thing he became self deprecating in the process room as if to get Did you notice that argument more credit? Because he said he was more articulate than I am."
+    },
+    {
+      "end_timestamp": 658.0,
+      "id": "47ec1b53-3134-3652-b161-2ab6b44cda16",
+      "speaker": "Dan",
+      "start_timestamp": 617.0,
+      "text": "Oh, yeah, yeah. Better dressed than me. Why would I say that about him? Yeah, in the negative about me if I didn't mean it, right. Yeah. But then the opposite of that is when he's like, I'm not saying this thing about women wanted to fuck me to brag. So here's what you should know. Okay. On the last episode, when we were covering his response to the inauguration, he posted one clip where he interviewed an incredibly well dressed black guy. And I'm sure that's who he's talking about. And there are one guy and the reason I think that is because of how he starts this next clip. He references the other person who he talked to in that clip. Okay, so I'm certain he really only talked to those two people."
+    },
+    {
+      "end_timestamp": 703.0,
+      "id": "29fb24af-838d-3fc2-b975-e7cfb0ccb561",
+      "speaker": "Alex Jones",
+      "start_timestamp": 658.0,
+      "text": "The Indians that we spoke to oh boy, were the most eloquent smart, fiery focus people I've ever seen. The black Trump supporters just had power in their eyes. The Hillary supporters look completely freaked out. And like, they were lost puppies just totally freaked out. And going, I used to really like you. I was now your razors, and I just hate you. And that's one of the times when I'm like, I'm like, oh, but no, but you're good. Oh, but you're, I mean, it's like, they're like mind controlled, folks. This is crazy. And I'm just saying the black people I ran into were mainly confused. But not the white people, man, they were whacked out of their minds."
+    },
+    {
+      "end_timestamp": 725.0,
+      "id": "40a9afbf-79e9-3787-b72f-6c5a8c57c988",
+      "speaker": "Dan",
+      "start_timestamp": 703.0,
+      "text": "So if we could take from that is the Indian dude that he talked to in that other clip. He references the same people. It's insane. Like his references. Are these specific only people he talked to. And he's trying to generalize it as a big crowd, right of like, all the diverse Indians that were there. Yeah, I don't know."
+    },
+    {
+      "end_timestamp": 738.0,
+      "id": "e6d014b8-be63-33d1-a8cc-d690deb9d29d",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 725.0,
+      "text": "I really don't know about that. Wait, so so he said, at one point, he talked to Hillary supporters who looked like last puppies. Sad. Who used to be fans of his former fan that's"
+    },
+    {
+      "end_timestamp": 774.0,
+      "id": "6038e642-2c04-358b-a5ca-efb81c4852da",
+      "speaker": "Dan",
+      "start_timestamp": 738.0,
+      "text": "the point I was shaking my head. Yeah, absolutely not. It's it's the same thing with the woman wanting to fuck him thing. Yeah, it's like this didn't happen. You don't there was nobody who was like I want to like you but you're racist. Now. I used to love you. That didn't fucking happen right? salutely not so again, these deranged white people are leading dumb black people into dangerous territory. Yeah, it's this it's that same like real horrible, racist narrative. But he's playing it out. And I he thinks it's okay, because he's pointing the finger harder at White people. Right? So he doesn't realize really what he's saying."
+    },
+    {
+      "end_timestamp": 782.0,
+      "id": "b994ed45-084a-38f4-9926-f272236620f8",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 774.0,
+      "text": "Yeah, I'm sorry. I'm gonna write down some language. I took a note it says whacked out does not equal confused."
+    },
+    {
+      "end_timestamp": 787.0,
+      "id": "e2e0434f-331c-3234-949d-3fde87e31f43",
+      "speaker": "Dan",
+      "start_timestamp": 782.0,
+      "text": "Well, yeah, he's trying to imply that they're on drugs probably to that which whacked out white people"
+    },
+    {
+      "end_timestamp": 794.0,
+      "id": "9bab8b7c-d203-3fc2-9443-5f0da8cdb07d",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 787.0,
+      "text": "Oh, that okay. They're they're liberal drug user and micro dosing."
+    },
+    {
+      "end_timestamp": 807.0,
+      "id": "fffe6b27-aa32-34c7-addd-dd1001dd11fa",
+      "speaker": "Dan",
+      "start_timestamp": 794.0,
+      "text": "The using LSD like coffee. Yeah, well, they're degenerate in whatever way you know, that can be like an umbrella where your brain just fills in the gaps. You know, whatever kind of fucked up you want them to be just imagine that."
+    },
+    {
+      "end_timestamp": 819.0,
+      "id": "bde603c2-a465-39e9-803e-997be563ae6b",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 807.0,
+      "text": "That's a good use of language whacked out is so vague and so subjective. As also injuries so we go from black people being there's power in their eyes to the white people were confused by these white folks are whacked out."
+    },
+    {
+      "end_timestamp": 839.0,
+      "id": "48e150ed-4c60-3a07-a037-17ff67181b06",
+      "speaker": "Dan",
+      "start_timestamp": 819.0,
+      "text": "Again. That's the Hillary people. The black Hillary people are confused white people whacked out Oh, okay. Black Trump supporters how're in their eyes, a well dressed God I have so much to learn and more articulate than Alex Jones Which to me I think is impossible. I'm here he has some more thoughts about the Trump crowd though you don't say"
+    },
+    {
+      "end_timestamp": 858.0,
+      "id": "69df4f97-a8e7-34c2-89d4-64eefc250868",
+      "speaker": "Alex Jones",
+      "start_timestamp": 839.0,
+      "text": "and then I was around the Trump supporters and I was almost embarrassed I was like, these people are also good looking. I mean, I was like the 50th percentile in there I'm not bad looking. They were just super handsome super good looking the Hispanics the Asians the everybody you could feel it. I saw Chinese and Japanese people in the crowd all super nice dress."
+    },
+    {
+      "end_timestamp": 871.0,
+      "id": "6e72649c-fdb1-36ac-9bad-7177a199848f",
+      "speaker": "Dan",
+      "start_timestamp": 858.0,
+      "text": "You know when he said Chinese and Japanese he had to resist saying dirty knees I guarantee there was a part of the back of his mind was like Don't say look at these don't say look at these."
+    },
+    {
+      "end_timestamp": 931.0,
+      "id": "757cd493-5d72-31de-8d9f-bad132a24ff1",
+      "speaker": "Alex Jones",
+      "start_timestamp": 871.0,
+      "text": "Super, like crying when Trump was up there. They could they could feel it. The term they have in Japanese for the spirit. Or you know somebody's Mojo, but they can really pick it up. They're just like, whoa. Chi Minh is beyond that. It's called a it's another term the Japanese believe you get around someone who's powerful. You can by being around them. You actually picked up there. I forget what it's called. But you could really feel it and and and it was amazing. It was that crowd of people and Trump's up there he's feeling and he's receiving it as like a big Dynamo generator to give us the confidence to break the spirit of evil and weakness that is broken this country's back and we can see our back being healed in the in the shin you in the bone coming back together. And the enemy is just No, I poisoned your water. I pledged your food. I poison your culture. It's all declassified. We put poison art out there and we've tried to destroy your families. And now this"
+    },
+    {
+      "end_timestamp": 932.0,
+      "id": "6540aa84-93bc-391f-8df2-a00bb7663f70",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 931.0,
+      "text": "wow, we did"
+    },
+    {
+      "end_timestamp": 978.0,
+      "id": "30c90ca4-37e5-3700-8820-b7e404369a73",
+      "speaker": "Dan",
+      "start_timestamp": 932.0,
+      "text": "all that now. The idea that there's some sort of like global cabal first of all, is an incredibly anti semitic idea. It has its roots in the the the very false document the protocols of the learned Elders of Zion, the debunked book, that's basically where all of the ideas about like a huge global cabal comes from. And so you know, like, that's, that's one thing. But then if you do believe they exist, and for centuries, they've been poisoning the water, and doing all these these crazy things to us, like, Trump becoming president ain't shit to them. Yeah. If there's this big evil organization, they don't give a shit. Yeah. So what do you what do you feel about this? What do you feel? What are you feeling right now?"
+    },
+    {
+      "end_timestamp": 1019.0,
+      "id": "a7fa2e32-7f11-3c0a-aa5a-be700eed519e",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 978.0,
+      "text": "So many things. Um, I appreciate I suppose his attempt at being woke. And one that He's really He's going above and beyond. It's like, he's, he's deliberately mentioning the there was a diversity in the audience as three. Yeah, name three things. Though, I thought for a second. You know, there's me being as sumptuous or presumptuous, I guess that he was just going to stop at Chinese, like all Asian people. Is what I assumed he thought, but so he named names these races, it's almost like he knows his listeners are gonna need an argument on Facebook in the future. Dude,"
+    },
+    {
+      "end_timestamp": 1032.0,
+      "id": "52b35eef-9b61-3ddd-a075-88bb44141ac3",
+      "speaker": "Dan",
+      "start_timestamp": 1019.0,
+      "text": "that is exactly what my thesis has been coming to about the existence of Infowars. Yeah, it's not so much news. It's not so much entertainment. It's to teach you how to argue poorly for indefensible positions. Yes,"
+    },
+    {
+      "end_timestamp": 1038.0,
+      "id": "573521c3-be4a-3654-8372-6dea7a3e83ec",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1032.0,
+      "text": "that's already kind of where I've been smelliness smelling is going"
+    },
+    {
+      "end_timestamp": 1071.0,
+      "id": "2da28253-d551-3dd1-86dc-423fae39acc4",
+      "speaker": "Dan",
+      "start_timestamp": 1038.0,
+      "text": "a big part of that is because it's or at least what tipped it should tip you off to this is how fucking repetitive it is. We aren't going to hear every single time he says these things. Yeah, but almost everything except for the crazy yelling stuff. He repeats like 10 times in a show. How long are the shows they are four hours with commercials every day. That's a lot of time to fill so much time. Wow. Thankfully, most of the time is spent selling weird supplements. He sells like colloidal silver and iodine and Super Male Vitality pills."
+    },
+    {
+      "end_timestamp": 1075.0,
+      "id": "3078a8f1-b7ef-3596-822a-314a40d44462",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1071.0,
+      "text": "Iodine like this stuff that call to give to people to poison them. Like,"
+    },
+    {
+      "end_timestamp": 1079.0,
+      "id": "9e5fe14d-9d8d-3248-8109-477ac68898f0",
+      "speaker": "Dan",
+      "start_timestamp": 1075.0,
+      "text": "I don't know, I don't know about these cults. But yeah. It's iodine"
+    },
+    {
+      "end_timestamp": 1082.0,
+      "id": "d236c19a-ee07-3708-a42a-8b0a13fa649f",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1079.0,
+      "text": "to be getting getting poisoned, poisoned the food and the water. And"
+    },
+    {
+      "end_timestamp": 1104.0,
+      "id": "8e36f308-482f-3a7d-be1d-9258e877fb09",
+      "speaker": "Dan",
+      "start_timestamp": 1082.0,
+      "text": "yeah, that's another thing. I think it's hilarious. It's like, oh, yeah, the Illuminati wants to poison you here. Take these pills. The FDA hasn't looked at. All right. So actually, I was thinking about this. And I was like, why? You know, why would these elites be afraid of Trump? And I realized now actually, I have an answer. And it's in this next clip."
+    },
+    {
+      "end_timestamp": 1116.0,
+      "id": "5225fc77-264b-3de8-bf4b-4b67e99b07dd",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1104.0,
+      "text": "You know, Trump got the big briefing and the nuke codes before he walked out because they said the president of the United States, he's the president, then he takes the oath. There's that transformational Twilight or gone moment, that that"
+    },
+    {
+      "end_timestamp": 1119.0,
+      "id": "5d7f6e6b-8129-30cc-9e94-870fb1a2fc1e",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1116.0,
+      "text": "one of the other,"
+    },
+    {
+      "end_timestamp": 1171.0,
+      "id": "c79dac54-14f9-3a57-84f0-cfed917dd422",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1119.0,
+      "text": "Twilight, or dawn between the old administration, the new and Trump walks out, Trump goes in like this for the briefing comes out and is like, the people like whoa, he looks shaken. Yeah, sir. There's a long term eugenics program. You've already been briefed on that, I'm sure but some of the generals but they've only got part of it. There's a species wide program going on and and he's going to get all the briefings now. And then Donald Trump is going to know what I've reverse engineered, and more. You can look at his face when he talks about we're going to unlock the secrets of the universe. We're going to unlock the secrets to disease and illness and we're going to eradicate it. And you can see, he looks like he's about to break down. He's a guy right at that moment, because now he knows"
+    },
+    {
+      "end_timestamp": 1180.0,
+      "id": "b89eb6d3-b63f-3dd1-a962-0d7948cee226",
+      "speaker": "Dan",
+      "start_timestamp": 1171.0,
+      "text": "that's one theory. Another theory is he looks like he's about to break down because he's fucking out of shape as hell and 70 plus years old."
+    },
+    {
+      "end_timestamp": 1190.0,
+      "id": "9c21daca-84f4-3f5d-b544-626fda94acba",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1180.0,
+      "text": "Yeah, he's the oldest like third fattest. Taft, and like Grover Cleveland was also hideously eyeshade"
+    },
+    {
+      "end_timestamp": 1203.0,
+      "id": "a0c3f33a-2960-34d5-bd0f-1f6f7c63ed3c",
+      "speaker": "Dan",
+      "start_timestamp": 1190.0,
+      "text": "those dudes were rotund. So there's a global eugenics program that's been going on now Trump knows about it. Okay, and Alex has reversed Just engineered all this stuff from sources."
+    },
+    {
+      "end_timestamp": 1209.0,
+      "id": "a215c3ab-33bd-3335-8614-1036ca68d651",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1203.0,
+      "text": "So you can see he can see the horror and Trump's eyes because Trump is now getting the truth. Yes,"
+    },
+    {
+      "end_timestamp": 1235.0,
+      "id": "866e6531-0777-3c94-aeef-55e31ccdccd8",
+      "speaker": "Dan",
+      "start_timestamp": 1209.0,
+      "text": "it's a Lovecraftian moment, in many ways, is that moment when you see Cthulhu and you realize that reality up till now has all been a big joke. existence, it hasn't mattered now it does. Now you can fight. It's nonsense. It's it's great. But yes. Do you believe there is a global eugenics program going on? Run by the US government in concert with the Illuminati?"
+    },
+    {
+      "end_timestamp": 1242.0,
+      "id": "3f49f1ad-8e81-3c7e-99f7-ca42069b526d",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1235.0,
+      "text": "You know, I'm gonna be honest. I haven't given it much thought until this very second. But based on what Alex just said, I'm going to say yeah,"
+    },
+    {
+      "end_timestamp": 1244.0,
+      "id": "29e43b04-3eff-394e-89ee-1d2974b46df1",
+      "speaker": "Dan",
+      "start_timestamp": 1242.0,
+      "text": "you're getting turned on to some important things here,"
+    },
+    {
+      "end_timestamp": 1248.0,
+      "id": "cadd498d-6223-3241-9d74-6855a291511b",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1244.0,
+      "text": "man. I'm getting some info man. There's a war going on. But I'm getting the info"
+    },
+    {
+      "end_timestamp": 1270.0,
+      "id": "c89fbb63-2b93-3807-9718-5154b1b2a270",
+      "speaker": "Dan",
+      "start_timestamp": 1248.0,
+      "text": "war going on for your brain. This next clip that we play is offensive. But it's also delightful because one of Alex Jones is like sort of stock moves is to fake crying. He fakes crying a lot. And he does that in this clip. And it is great."
+    },
+    {
+      "end_timestamp": 1277.0,
+      "id": "6bcacfdc-72ce-3d56-b3c7-27837a19f1a7",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1270.0,
+      "text": "God Almighty man. It was horrible. Horrifying. My soul cried out for them and I"
+    },
+    {
+      "end_timestamp": 1279.0,
+      "id": "29b3f8aa-a85d-3313-b0e9-a9f29703b85a",
+      "speaker": "Dan",
+      "start_timestamp": 1277.0,
+      "text": "he's talking about the"
+    },
+    {
+      "end_timestamp": 1286.0,
+      "id": "543df405-cdff-30b4-b3e7-d15763e57e8e",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1279.0,
+      "text": "protesters again. Okay, so he's feeling bad for the protesters? Yes. Yeah. This isn't an ironic making fun of them."
+    },
+    {
+      "end_timestamp": 1297.0,
+      "id": "3ec026ef-4db6-397b-8cbd-2a376a10c7e2",
+      "speaker": "Dan",
+      "start_timestamp": 1286.0,
+      "text": "No, no, no, no. Okay. If you watch the video, he's doing like hands over his face. And like, yeah, really trying to ham up the fake crying. It's like he's never taken a drama class, but still is trying."
+    },
+    {
+      "end_timestamp": 1299.0,
+      "id": "77ab16af-fe9e-329a-95f4-a93a75344939",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1297.0,
+      "text": "I'm sure he's not taking a drama class."
+    },
+    {
+      "end_timestamp": 1303.0,
+      "id": "86538674-79af-331a-a4c3-1ba14e4582d9",
+      "speaker": "Dan",
+      "start_timestamp": 1299.0,
+      "text": "I think you might want to it's Hammy. At best,"
+    },
+    {
+      "end_timestamp": 1306.0,
+      "id": "0462adc0-a789-349c-aaee-914d7d28334a",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1303.0,
+      "text": "at least level A at Second City. Yeah,"
+    },
+    {
+      "end_timestamp": 1358.0,
+      "id": "aeabb0f3-7611-34b7-89b9-eae13018e7c1",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1306.0,
+      "text": "I caught myself, you know, saying not even aggressive things. Just just just just just loud things back to them about I'm here to help you look at how you're with the Geheimnis look how they're directing you. There'll be guys there little Islamic Jihad outfits, you're gonna get a jump pop right up my face? And I'd say just you know, is your brand of Islam leading this and enslaving women, you know, is it happening? And they would just like, look at me, because they knew that I was right and look embarrassed. Only the controllers looked embarrassed. Because they know what they're doing is gonna dam their soul to hell. You got to have a certain IQ to be a controller, and then you realize that you're going to be destroyed as well. And that you've been bullied from birth into this radical Islam and that you're part of something that's so anti human."
+    },
+    {
+      "end_timestamp": 1374.0,
+      "id": "3e7685de-bccf-3956-b0f1-621057091ef7",
+      "speaker": "Dan",
+      "start_timestamp": 1358.0,
+      "text": "So I, I want to be clear, I didn't take that out of context. No, I believe you. And as someone who's listened to tons of Alex Jones, I would assume you'd be asking me what is he talking about? And I can't answer. I don't really know. We"
+    },
+    {
+      "end_timestamp": 1407.0,
+      "id": "1014e389-83ae-3379-81b5-b6fec77477a1",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1374.0,
+      "text": "don't we don't have previous context for this group of high IQ country. Half zombie half dead eyed jihadist protesters who understand that Christian heaven and Christian God are real, but they have defied against that in their, in their great intelligence and instead of worshipping a false religion, to lead everyone else and they know that Jones knows and they are ashamed."
+    },
+    {
+      "end_timestamp": 1427.0,
+      "id": "885b60a1-72a6-3379-9acf-a924b5ff91d1",
+      "speaker": "Dan",
+      "start_timestamp": 1407.0,
+      "text": "I'm really glad that you're here. To like, really parse that out? Because I couldn't I could not have expressed that better. That's perfect. Yes. That's exactly what I'm saying. To me. All I took away from it was, there's no way anyone jumped out at you. There's no, yeah, just like, what happened? Even that didn't happen."
+    },
+    {
+      "end_timestamp": 1435.0,
+      "id": "c4db6370-ae5b-39a9-aaeb-5f8bd9ec003c",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1427.0,
+      "text": "I'm sure some people say wait, is he saying he was at the Women's March? Like he showed up? I"
+    },
+    {
+      "end_timestamp": 1447.0,
+      "id": "d18eff04-97e9-35b0-a5bf-d968bc270917",
+      "speaker": "Dan",
+      "start_timestamp": 1435.0,
+      "text": "mean, he was there for I guess, a short period of time, but he had to fly back to Austin. So like he left on Saturday morning, where his show is based? Yeah. Occupied Texas. So he calls it"
+    },
+    {
+      "end_timestamp": 1453.0,
+      "id": "cf9d6dc5-c1d5-33a2-9ccd-99d3c3c2d6d2",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1447.0,
+      "text": "Whoa, yeah. That's a crazy. That's a Blue City. Yeah, it is too wild place for him to be"
+    },
+    {
+      "end_timestamp": 1468.0,
+      "id": "143523c4-292b-3b9b-b5c8-4a5885de5b1f",
+      "speaker": "Dan",
+      "start_timestamp": 1453.0,
+      "text": "is because there's a part of me that doesn't think that he's really sincere. You know what I mean? And Austin is a really kick ass place to live. There's a lot of good stuff to do there. There's a cool vibe. Right? So if you're if you're full of shit,"
+    },
+    {
+      "end_timestamp": 1478.0,
+      "id": "bee2d6cb-4165-3835-8271-6a0f975fa82a",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1468.0,
+      "text": "it's good place to live. Yeah, I guess so. Also, you can maybe he just there for the case, though. Could be could be great. He seems like a guy that might just like some case. Oh,"
+    },
+    {
+      "end_timestamp": 1488.0,
+      "id": "ea1d84aa-474d-3c7d-a2f0-b8e45e17d58e",
+      "speaker": "Dan",
+      "start_timestamp": 1478.0,
+      "text": "you know what? He's lost a lot of weight taking his supplements. Oh, really like you to know that when he says yeah, taking the Super Male Vitality taking the DNA force taking the"
+    },
+    {
+      "end_timestamp": 1491.0,
+      "id": "e663c96a-1007-3d4f-9ac3-c41cb4ae169f",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1488.0,
+      "text": "force. Of course I do not. We'll see your DNA"
+    },
+    {
+      "end_timestamp": 1495.0,
+      "id": "f7703b07-0343-31af-a9fb-586b28110728",
+      "speaker": "Dan",
+      "start_timestamp": 1491.0,
+      "text": "as you get older starts to come apart. You understand"
+    },
+    {
+      "end_timestamp": 1499.0,
+      "id": "8bd3c029-793b-3b9e-80eb-bc575abd7de8",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1495.0,
+      "text": "what I'm saying? The double helix starts to crumble a bit. The Ptolemy"
+    },
+    {
+      "end_timestamp": 1528.0,
+      "id": "5744e6a0-5b91-3e55-86c5-df2c3201089a",
+      "speaker": "Dan",
+      "start_timestamp": 1499.0,
+      "text": "or something like that start to the way that they've explained it is you know how your shoe lace has a little cap on it? Yeah, the aglet Yeah, the aglet of your DNA starts to come off, it starts to slide off. And then much like your shoelace coming apart, your DNA starts to fall apart. So you have to take their pills in order to keep the aglet strong. Gotcha. Who knows how much longer you could live? Probably way longer than you would have before. Yeah, it's make sense. Make sense? Now. All right, we're gonna put you down for"
+    },
+    {
+      "end_timestamp": 1534.0,
+      "id": "65d22991-83cc-35d8-84ad-81256fe77302",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1528.0,
+      "text": "put me down for three bottles of the special pills that keep the wax, my DNA held together,"
+    },
+    {
+      "end_timestamp": 1538.0,
+      "id": "48d27113-0490-3dd0-a9ef-416d7eda0933",
+      "speaker": "Dan",
+      "start_timestamp": 1534.0,
+      "text": "you save 25% If you get autoships so the pills just keep coming to you."
+    },
+    {
+      "end_timestamp": 1544.0,
+      "id": "2fefb554-d62f-3859-9478-1eeb43814e6c",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1538.0,
+      "text": "Oh, this is a subscription service, the Netflix of fake pills."
+    },
+    {
+      "end_timestamp": 1548.0,
+      "id": "549c9eec-2f58-38fc-8c4f-0ecbd81609ec",
+      "speaker": "Dan",
+      "start_timestamp": 1544.0,
+      "text": "They're called nootropics to be fair, nootropics Yeah, that's the code for fake pill."
+    },
+    {
+      "end_timestamp": 1552.0,
+      "id": "189dd4cb-de22-3e31-b213-7135546bd541",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1548.0,
+      "text": "nootropics. That sounds like the name of an Aldous Huxley novel is nootropics"
+    },
+    {
+      "end_timestamp": 1579.0,
+      "id": "277f037f-5198-3eaa-91d5-6e06db429817",
+      "speaker": "Dan",
+      "start_timestamp": 1552.0,
+      "text": "or like a 311 album. So on the last episode, we did a lot of research didn't do a ton of research. Okay, but we figured out a pretty good theory that Alex was drunk over inauguration weekend. There were a bunch can't blame him. There were a bunch of times that he was wasted. Like you and I, we hang out with some drunk people. Yes. You know,"
+    },
+    {
+      "end_timestamp": 1582.0,
+      "id": "324cf80f-b24f-393a-98a1-ac1b64c26048",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1579.0,
+      "text": "we've been some drunk people. No doubt around each other. Yeah."
+    },
+    {
+      "end_timestamp": 1612.0,
+      "id": "a440707a-775a-379c-876d-aa3f0b65ce7f",
+      "speaker": "Dan",
+      "start_timestamp": 1582.0,
+      "text": "Do you know how to spot a drunk person? There's there's cues that they give off. Yeah. And he was given off all these cues. Okay, there's no doubt in my mind if you go back and listen to the last episode, if you everyone listening if you haven't yet, it's at the end of the episode, we play his drunk clips, dead to rights. We also talked about how he got thrown out of the inauguration. Because I watched a video of people escorting him out of the crowd of boy now he has a little bit of a different take on it."
+    },
+    {
+      "end_timestamp": 1634.0,
+      "id": "21f9efba-0342-370f-bdc5-cf11657915c1",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1612.0,
+      "text": "DC police war. pussy hats. That's what it's called. In support of Soros linked protests, yeah, they don't even change the name from Pussy Riot. It's the same thing paint your women the men are against you. And the ended and the DC police who were appointed by Obama, their police chief Why did not defend women I saw being bloody so I that's another"
+    },
+    {
+      "end_timestamp": 1672.0,
+      "id": "5c1ea41d-880d-3a44-bf5e-99af3815e642",
+      "speaker": "Dan",
+      "start_timestamp": 1634.0,
+      "text": "thing. I forgot that this is how this clip starts. One of his narratives about the inauguration is that these socialists, jihadist controlled whatever the all these people were beating up old women, old women specifically Well, everyone but all women got it too. Okay. And there's a there's like a picture up on infowars.com that illustrates this. And it's a lady who has a cut on her thumb right here. She's a little tiny kind of way. Yeah, that's there. You know, like people are being bloodied. You expect like bashed in head right? It is not that. Anyway, it's a thumb scratch the thumbs, like, like my cat gives me okay."
+    },
+    {
+      "end_timestamp": 1735.0,
+      "id": "f3b7be68-3e18-34de-b88f-22d0ddae04c6",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1672.0,
+      "text": "went over there and tried to do something and the police drugged me out. And I had a bunch of news articles put out showing images of me being taken out of the communist group that attacked me for my protection in Cleveland and multiple newspapers, including TV, MSNBC, one podcast, ran the image of where I'm being escorted out months ago in July last year, and then added I was drunk. And the police were escorting me out. I mean, they've gone to levels of I mean, lines one thing and bad if you lie about some fact, in a story, that's classical line. This is like whole cloth. No, no, no, I wasn't just drunk when I did this, you know, 11 o'clock in the morning or whatever. And then they combined it with some nighttime thing. I actually came down off a beanstalk there in DC. That's how I got there from Austin. There was a beanstalk from Austin, all the way over there. And I came down off a magic Beanstalk. Well, I mean, that's how I mean, I mean, I read these articles now. And they don't even make sense. It's like a crazy person wrote it."
+    },
+    {
+      "end_timestamp": 1787.0,
+      "id": "540a6332-5f68-3caa-a62f-2c9444598246",
+      "speaker": "Dan",
+      "start_timestamp": 1735.0,
+      "text": "So do you get what he did there? No. He tried to defend how silly the news that he was drunk was by comparing it to a story that no one wrote that he had traveled by beanstalk to Washington DC. That he was like, he's like, God, it's so crazy. It's you know, but the truth is, I came on a beanstalk. So I found another clip of Alex drunk in in DC over inauguration weekend. Okay, and this comes from a five minute video of Alex walking around the streets, just with a microphone. Oh, no, the last like three minutes of it as him giving limp handshakes and like, Hi, how are you doing to like supporters and fans? Just like dudes coming up and be like, Can I get a picture? And he's just like, yeah, man, it just stands there. It's it's wobbly. Yeah, it's fucked up."
+    },
+    {
+      "end_timestamp": 1789.0,
+      "id": "6f3642d6-189e-3643-908a-415c78489449",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1787.0,
+      "text": "Who's doing the camera? Probably"
+    },
+    {
+      "end_timestamp": 1806.0,
+      "id": "5ed07e31-9af6-3a78-8917-e9f462256f85",
+      "speaker": "Dan",
+      "start_timestamp": 1789.0,
+      "text": "Rob do one of the employees of infowars.com. Okay. He has a crew with him when he goes down to these places to shoot now. Gotcha. They have iPhones just shoot him but that this is some drunk rambling, I think you'll enjoy this, I"
+    },
+    {
+      "end_timestamp": 1808.0,
+      "id": "f3df5db5-cb8c-317f-b16c-661c8cdc61c0",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1806.0,
+      "text": "think I will too."
+    },
+    {
+      "end_timestamp": 1883.0,
+      "id": "f7326e80-ceb2-3e26-8bbe-b2230e06ea3f",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1808.0,
+      "text": "That's the big difference. New Atlantis will be created in a watch Space Program that says space. It'll also program puts humanity on the map forever in the galaxy. It'll launch the program. But our ancestors 1000 years from now, on hundreds and hundreds of star systems and galaxies. They'll look back and say, These are the people that had the vision that they did all. It won't be Japan won't be China will be Russia will be Latin America, America, America will be seen as a launch base for the whole program. America, not transmission. America got to America got. America got the codes. And a bunch of assholes saw the codes coming in and thought they were God. Because they'd seen a transmission from God. No. People that see a transmission aren't like having a photo of a lion or a tiger or a bear doesn't make you a lion, a tiger or a bear. You saw a photo of a lion. A gyro bear. You weren't here. You imagined. Here's the illusion."
+    },
+    {
+      "end_timestamp": 1886.0,
+      "id": "28e04dcc-064c-3b25-aa05-73985c9bb1d7",
+      "speaker": "Dan",
+      "start_timestamp": 1883.0,
+      "text": "That's a drunk dude, right?"
+    },
+    {
+      "end_timestamp": 1893.0,
+      "id": "c478158f-4fbc-31ab-bcff-11eeca4547ab",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1886.0,
+      "text": "Oh, yeah, that's for sure. A drunk guy. In my experience with drunk guys. He's real drunk."
+    },
+    {
+      "end_timestamp": 1895.0,
+      "id": "6bb31400-7d3c-3352-a4f3-fd9d43eeaab9",
+      "speaker": "Dan",
+      "start_timestamp": 1893.0,
+      "text": "New Atlantis,"
+    },
+    {
+      "end_timestamp": 1899.0,
+      "id": "bc2a3adf-5f85-32ff-a705-0d47ff4d7d6e",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1895.0,
+      "text": "the new Atlantis. That's a space program thing though."
+    },
+    {
+      "end_timestamp": 1925.0,
+      "id": "3a83940e-9ec7-339f-b752-5508eba3f423",
+      "speaker": "Dan",
+      "start_timestamp": 1899.0,
+      "text": "Either that or it's like, was that? Isn't that a Francis Bacon book? There's no There's, there's a philosopher who wrote about how America like way back in the like, early days, it was, like conceived that America was the new Atlantis. Because everything was gonna be like technological and advanced and all this stuff. So it might be that's a decent reference. But like, Come on, man. The way he slurring his words the way he is."
+    },
+    {
+      "end_timestamp": 1930.0,
+      "id": "c9fb69a4-b705-3b6d-975a-b09080b8bee8",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1925.0,
+      "text": "He kind of went Scientologists for a second and talking about our ancestors living in star systems"
+    },
+    {
+      "end_timestamp": 1955.0,
+      "id": "bde97625-9954-3a53-ae99-151df726d8ac",
+      "speaker": "Dan",
+      "start_timestamp": 1930.0,
+      "text": "and stuff like that. Sure, sure. And getting transmissions from God. Yeah. Like, you're an asshole. Do you think your God got a message from God? You're not a lion. In the last episode, the drunk clip that we had of him was he was interviewing a lady on the street, and it was about free speech issues. And she's like, You have liquor on your breath. Oh, he"
+    },
+    {
+      "end_timestamp": 1957.0,
+      "id": "c103fb78-7d2f-34c0-bdeb-8ba0786c884c",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1955.0,
+      "text": "says that. Yeah. That he just starts yelling"
+    },
+    {
+      "end_timestamp": 1973.0,
+      "id": "dec6f7de-d684-3d30-887f-90b1b5b48a81",
+      "speaker": "Dan",
+      "start_timestamp": 1957.0,
+      "text": "at her. He ends up calling her sweet cakes. Cakes. Yeah, it's pretty amazing. So let that put that to rest. He was drunk."
+    },
+    {
+      "end_timestamp": 1978.0,
+      "id": "76e77b4d-e4ff-36f8-b73e-f6d816073dc8",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 1973.0,
+      "text": "Yeah, I think he was. The jury is decided on that one. Now, I will say that"
+    },
+    {
+      "end_timestamp": 2039.0,
+      "id": "87d04ca0-ab06-37a6-99b8-64757f3fc102",
+      "speaker": "Dan",
+      "start_timestamp": 1978.0,
+      "text": "I'm not entirely sure if he got kicked out of what or maybe he was being escorted out of somewhere for his safety. I'll give him the benefit of the doubt on that. Okay. But it really looked like he wasn't going along willingly. Yeah, from the clip I saw and it wasn't from Cleveland. He brings this up. He says, Yeah, he said Cleveland that was from the RNC convention. Apparently he got taken out of somewhere, like some area because the Communists were attacking him. Okay, during the RNC convention. Gotcha. But the clip I saw was 100% from the inauguration. And it didn't look like it was very safe. Yeah, I'll say that. So Alex is back in the studio. Like I said, he is written, He is now at this point. He's introduced his thesis that he comes back to over and over again, the idea that these protesters were weirdos, and the Trump people are great. Yep. But along the way with his his verbal jazz style, he's got to throw in some other weird shit. So here are his thoughts about gender roles. Oh, boy,"
+    },
+    {
+      "end_timestamp": 2134.0,
+      "id": "9cf5c49c-093d-399e-b9be-6e3219a4df29",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2039.0,
+      "text": "at the news here. And again, the arrogance of these people. And you mentioned David Brock, it begins David Brock far left Donner's plan Trump impeachment. Brock SuperPAC. Creates Trump war room to target administration. Well, I'm announcing a DC war room, that I'm going to shut up with reporters and people I'm all in. I'm expanding in the face of this and I just believe the revenue will come in to do it. I'm going to the next level to fight these people shame what they're doing. We don't have Soros funding us. We have listeners get the great products, the old fashioned free market way, but just look at Trump on this front. There have been a lot of people on the so called left that were against wars that were wrong. And who were against TPP because it was an electric corporate world government. Well now Trump to sign orders to renegotiate NAFTA and pull out of TPP. Reuters. Wow, hip hip, hooray. But you bring this up to them. I brought up this weekend that hey, he's going to repeal it. He's doing it right now. Like shout up essayer effort. And it's just like, well just be rational. No white you You're a white male. I'm like, let's your white male husband like walks behind like a baby elephant holding your tail. I mean, that was just the shuffling man is grovel the women like that's how you're good man. As if men and women relationships act like that to begin with old men I know just lavish their wives and girlfriends, there's no the guys in charge but she knows the guy from the parking lot wants to fight or mugged somebody. She's like, get in there. And if somebody's gonna have a baby, it's mama does it. Men go out hunting and killing the women run the show back at the height. But the issue is they're ending all that."
+    },
+    {
+      "end_timestamp": 2144.0,
+      "id": "361491c1-feb6-3a7d-9195-347b591e078e",
+      "speaker": "Dan",
+      "start_timestamp": 2134.0,
+      "text": "That's right. The globalists want to end all that was able to baby mama doesn't"
+    },
+    {
+      "end_timestamp": 2149.0,
+      "id": "dafff9ba-21da-3c6f-b3cc-8264506b9978",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2144.0,
+      "text": "you know, I gotta agree with them on this point. men or men are not having babies."
+    },
+    {
+      "end_timestamp": 2153.0,
+      "id": "990f729c-7682-38b3-82cd-4cc251799c96",
+      "speaker": "Dan",
+      "start_timestamp": 2149.0,
+      "text": "There was that one guy but though you know, that was all kind of, you know, men are"
+    },
+    {
+      "end_timestamp": 2162.0,
+      "id": "38f54c1c-2e9a-32ee-8c32-6ec7572b14f1",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2153.0,
+      "text": "that soars into your movie. Junior? Yeah, junior or the seahorses. So that's true. Yeah, and seahorse culture."
+    },
+    {
+      "end_timestamp": 2166.0,
+      "id": "5aa65948-339d-329f-9013-a33e479e78ac",
+      "speaker": "Dan",
+      "start_timestamp": 2162.0,
+      "text": "Well, it's huge. Seahorses are deep in the pockets of the globalists."
+    },
+    {
+      "end_timestamp": 2171.0,
+      "id": "9f28987b-4805-3128-92eb-433a9d9a6130",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2166.0,
+      "text": "In the new Atlantis their neighborhood is new Atlantis."
+    },
+    {
+      "end_timestamp": 2205.0,
+      "id": "bd40a0dc-9208-39c8-8b73-2ee867f413d9",
+      "speaker": "Dan",
+      "start_timestamp": 2171.0,
+      "text": "So one of the other things that I think is interesting about this clip, that's important to point out is you can tell who listens to Infowars by words that are being used incorrectly. So like, I like this, Betsy DeVos put out a tweet that called the inauguration historical instead of historic, right. And that is something that Alex Jones does at least five times a show. He says this is historical, which is the incorrect use of the word. Yeah, you got to its historic you. I don't remember the exact forms. It's an adjective."
+    },
+    {
+      "end_timestamp": 2209.0,
+      "id": "9f4aa93a-bf3a-3094-944e-2e2af169eb24",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2205.0,
+      "text": "It's I believe historical is the adverb. Yeah, so"
+    },
+    {
+      "end_timestamp": 2220.0,
+      "id": "b1ef8acf-2264-3054-a239-1affa6a27b2d",
+      "speaker": "Dan",
+      "start_timestamp": 2209.0,
+      "text": "it sounds right. But yeah, it doesn't work in that context. So we know that Betsy DeVos Davos listens to Alex Jones, it's clear. You would not misuse that word like that. It's a very weird"
+    },
+    {
+      "end_timestamp": 2223.0,
+      "id": "b408aaaa-e2d1-3bee-9ecc-349f994e646a",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2220.0,
+      "text": "word to misuse. Yes, it is. And deliberately and often"
+    },
+    {
+      "end_timestamp": 2232.0,
+      "id": "9139bc88-dacc-36c0-bac2-8907ae99fbe5",
+      "speaker": "Dan",
+      "start_timestamp": 2223.0,
+      "text": "Yeah. And in this case, this is another one that Alex does is groveling. Like these men are groveling their girlfriends. The pussy man."
+    },
+    {
+      "end_timestamp": 2238.0,
+      "id": "8db5bc29-e39a-3551-ba08-e883d142cbee",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2232.0,
+      "text": "Yeah. And in that groveling is not something that you do to someone."
+    },
+    {
+      "end_timestamp": 2256.0,
+      "id": "43e51f13-1452-3aed-9e43-0c203b608364",
+      "speaker": "Dan",
+      "start_timestamp": 2238.0,
+      "text": "Not really. You don't have a direct object to Bravo. But Trump in his ABC News interview that he just did. He says that reporters are groveling when they're backpedaling. He's trying to say that a reporter is backpedaling as well. Then he's just groveling. He's just groveling to the establishment."
+    },
+    {
+      "end_timestamp": 2257.0,
+      "id": "5334091b-bcb5-313b-9848-ef481409b89e",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2256.0,
+      "text": "Oh my god."
+    },
+    {
+      "end_timestamp": 2267.0,
+      "id": "dc61dfb8-0531-34a1-81ac-6035d8938179",
+      "speaker": "Dan",
+      "start_timestamp": 2257.0,
+      "text": "So it's kind of it's not proof positive, but it's a pretty good indication that Alex isn't lying when he says the Trump listens. So yeah, we got that to enjoy and look forward to"
+    },
+    {
+      "end_timestamp": 2277.0,
+      "id": "9b682a11-1ba7-3ffc-9c5e-630e11d0f919",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2267.0,
+      "text": "that. Man, that all makes sense, because Trump's use of language is often wrong and pretty sparse. He I feel like he knows maybe 100 words,"
+    },
+    {
+      "end_timestamp": 2281.0,
+      "id": "7d5fbdf4-e885-310a-8a75-b0e37bdcff5f",
+      "speaker": "Dan",
+      "start_timestamp": 2277.0,
+      "text": "you but they're the best words. The best words, he's gonna tell you."
+    },
+    {
+      "end_timestamp": 2283.0,
+      "id": "8b9c71f3-9637-3aa3-b906-aba430f9934c",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2281.0,
+      "text": "Mostly one syllable words."
+    },
+    {
+      "end_timestamp": 2284.0,
+      "id": "f6e3359b-e83d-3ca2-8e68-a9a4e885a24c",
+      "speaker": "Dan",
+      "start_timestamp": 2283.0,
+      "text": "Great, huge words"
+    },
+    {
+      "end_timestamp": 2293.0,
+      "id": "eb94c48b-67df-38b3-b21c-8611f1206c99",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2284.0,
+      "text": "huge. Tremendous and terrific are some of the longer that just you got to have more multisyllabic ones he has, you"
+    },
+    {
+      "end_timestamp": 2316.0,
+      "id": "45bee0fb-8b91-3885-8e47-24c5b72ee884",
+      "speaker": "Dan",
+      "start_timestamp": 2293.0,
+      "text": "gotta you gotta throw in the $5 word over here on there. So, here, this clip isn't another part of the statin. And I don't even want to tip my hand here. Alex makes a very weird admission in this clip that I'm not sure he even know. He knows. He said, I'm not I'm not positive."
+    },
+    {
+      "end_timestamp": 2320.0,
+      "id": "0358a6fa-f3a4-3344-b2ec-2e7495ba672f",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2316.0,
+      "text": "Okay. You're a weed that should die before you're born. Right? Exactly. She said."
+    },
+    {
+      "end_timestamp": 2336.0,
+      "id": "62365047-2dc7-3b3b-9a88-f47a5deb0d0f",
+      "speaker": "Dan",
+      "start_timestamp": 2320.0,
+      "text": "He also says Ashley Bedford and Leanne McAdoo do two of his reporters are in this conversation that he's brought them into studio now because he has to talk about like women. And so he brings in this is a this isn't about abortion. At this point."
+    },
+    {
+      "end_timestamp": 2339.0,
+      "id": "467db3dc-5722-3475-bb72-bd5e074109a7",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2336.0,
+      "text": "He's brought in women to talk about abortion. Well, two of"
+    },
+    {
+      "end_timestamp": 2347.0,
+      "id": "ee8cd03e-b0b3-3686-bec5-46795b056e2b",
+      "speaker": "Dan",
+      "start_timestamp": 2339.0,
+      "text": "his reporters are women, but they're Infowars employees first, right? Because they toe the line 100% on everything."
+    },
+    {
+      "end_timestamp": 2359.0,
+      "id": "4548a5fe-814c-3a6f-9a7f-900dcd7e5d94",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2347.0,
+      "text": "This is interesting, though, because this is more than Washington does a lot when it comes to things about women. That panel. One lady Yeah, exactly."
+    },
+    {
+      "end_timestamp": 2362.0,
+      "id": "8d910bef-d562-3469-aa14-6b9c233758de",
+      "speaker": "Dan",
+      "start_timestamp": 2359.0,
+      "text": "But they don't dare speak up and have like alternative opinions right"
+    },
+    {
+      "end_timestamp": 2367.0,
+      "id": "6eec39ea-6156-3559-a118-586bc1b2d81a",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2362.0,
+      "text": "there. They are here to validate. Yeah, what he has already said and proposed and affirmed."
+    },
+    {
+      "end_timestamp": 2371.0,
+      "id": "511f0135-effa-352f-aa40-e7089cde12bc",
+      "speaker": "Dan",
+      "start_timestamp": 2367.0,
+      "text": "They're there to be prompt some sort of propaganda. So"
+    },
+    {
+      "end_timestamp": 2378.0,
+      "id": "6c638961-995c-329a-9ff7-0250e4d226f6",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2371.0,
+      "text": "back to the Facebook thing. I heard these two women on Infowars. Yeah. We have to We can't let it"
+    },
+    {
+      "end_timestamp": 2386.0,
+      "id": "99f22834-32f7-3f2e-80d5-75c5c6f90e33",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2378.0,
+      "text": "go. Ms. Beg for you. And we're gonna weed. This is Leanne or anybody, right? Yeah. We definitely don't need to exterminate the black community, that's for sure."
+    },
+    {
+      "end_timestamp": 2388.0,
+      "id": "fa063396-c250-3904-9c8b-44a4b87cc7e2",
+      "speaker": "Dan",
+      "start_timestamp": 2386.0,
+      "text": "I agree. And also"
+    },
+    {
+      "end_timestamp": 2391.0,
+      "id": "df0a321f-703f-390a-9756-f47ef2627add",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2388.0,
+      "text": "didn't say that. We need to say that."
+    },
+    {
+      "end_timestamp": 2425.0,
+      "id": "31c14765-6fd5-3ba5-95da-b17832765834",
+      "speaker": "Dan",
+      "start_timestamp": 2391.0,
+      "text": "We don't it's implied for us but they do. Yeah. I will say of the people who are We're involved in Infowars Leann McAdoo is incredibly attractive to me. And It troubles me in a lot of ways. I'm gonna look her up real quick, please do. And then Ashley Bedford. Seems like she could be doing legitimate work elsewhere. She seems pretty talented and like a decent reporter, but is doing this. I assume for a job. I'm not entirely sure she seems to have some chops. But anyway, back to this."
+    },
+    {
+      "end_timestamp": 2457.0,
+      "id": "64fdbffb-880b-3068-8600-fca865920456",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2425.0,
+      "text": "And that's what Planned Parenthood for me that's the litmus test if you are all foaming at the mouth about men with let's admit what was founded by basically, Margaret Sanger was basically as the captain of the kk k show, and I'm sorry, I get women and kids and things happen you're worried you've been raped or might be deformed? That's a medical procedure. You know for the safety of the woman let's just be on but we don't have to worship killing the babies. I'm not judging anybody who's had an abortion. I've been honest. I paid for my time and I Okay, I'm sad for the point is is that he doesn't have to be some national worship festival."
+    },
+    {
+      "end_timestamp": 2464.0,
+      "id": "61e7b0bf-7205-3bf1-aec7-5176af934122",
+      "speaker": "Dan",
+      "start_timestamp": 2457.0,
+      "text": "Yeah, you you have your your jaw is on the floor. Is that from looking at Leann McAdoo or what we just heard?"
+    },
+    {
+      "end_timestamp": 2469.0,
+      "id": "19a5d7cd-1fd1-382d-a9b5-0a44ca31686d",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2464.0,
+      "text": "It's the ladder. No. What?"
+    },
+    {
+      "end_timestamp": 2471.0,
+      "id": "9ef910ed-2f12-3b10-a0fd-763b4fb7ab54",
+      "speaker": "Dan",
+      "start_timestamp": 2469.0,
+      "text": "What What are you talking about? Let me let me let me find"
+    },
+    {
+      "end_timestamp": 2472.0,
+      "id": "6e150d15-f978-3893-93f7-aeedb73dbb95",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2471.0,
+      "text": "her right."
+    },
+    {
+      "end_timestamp": 2476.0,
+      "id": "a35d0f00-f868-3576-80a5-7e00c64cfc39",
+      "speaker": "Dan",
+      "start_timestamp": 2472.0,
+      "text": "Yeah. She's gorgeous woman."
+    },
+    {
+      "end_timestamp": 2480.0,
+      "id": "5beb0630-1c39-35fb-b3f9-476d4994648f",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2476.0,
+      "text": "She is gorgeous. i I'll be honest, I didn't expect that. Yeah."
+    },
+    {
+      "end_timestamp": 2482.0,
+      "id": "ec24767b-00ba-3cc0-8054-e637854d4b8b",
+      "speaker": "Dan",
+      "start_timestamp": 2480.0,
+      "text": "Very good looking lady, very attractive Leann McAdoo, but"
+    },
+    {
+      "end_timestamp": 2483.0,
+      "id": "e2571a47-da5c-3885-bba6-5cbaf4b8738f",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2482.0,
+      "text": "that is, you know,"
+    },
+    {
+      "end_timestamp": 2491.0,
+      "id": "97c32387-9e95-3fdf-92fd-c18425865274",
+      "speaker": "Dan",
+      "start_timestamp": 2483.0,
+      "text": "so wait. And the name McAdoo is great. Pretty fun. So yeah, that that was a crazy admission."
+    },
+    {
+      "end_timestamp": 2494.0,
+      "id": "aa4903fb-da2a-3836-a297-c2651c09258d",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2491.0,
+      "text": "Yeah. And they didn't they seem to not bad a verbal eye at it. No,"
+    },
+    {
+      "end_timestamp": 2529.0,
+      "id": "320e650d-38cf-3e21-a00b-3462a7c427c0",
+      "speaker": "Dan",
+      "start_timestamp": 2494.0,
+      "text": "but you in the video. You could see them sort of look at him. I mean, they don't take their eyes off him when he's talking. So there's like, I'm sure he's very sexy. Oh, totally. They're scared of him. But they want to fuck him. Right? Yeah, yeah. So in that he that's multiple abortions. He's paid for? Yeah. For oral I've paid for him. Whoa, wow. Yeah. To be someone who is crazy anti choice. Yeah. And then to like admit flippantly off paid for abortions. Yeah, you're kind of a fucking hypocrite and a dickweed."
+    },
+    {
+      "end_timestamp": 2538.0,
+      "id": "2d59efb9-c00f-369a-bdd6-8c7b65c05c0e",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2529.0,
+      "text": "No, entirely. He's I'm sure it was not a I'm sure. It was not a cool He'll pay for that. I'm sure it was more like you're getting this."
+    },
+    {
+      "end_timestamp": 2542.0,
+      "id": "5a5ebd8f-ed45-3d9f-91b3-06d8c17d31aa",
+      "speaker": "Dan",
+      "start_timestamp": 2538.0,
+      "text": "I would assume based on his understanding of gender roles, you might be right."
+    },
+    {
+      "end_timestamp": 2546.0,
+      "id": "1601ebf2-ad0f-3323-bd1d-3994a8bb08be",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2542.0,
+      "text": "Yeah. Which is I feel bad even suggesting that as reality when I was probably"
+    },
+    {
+      "end_timestamp": 2552.0,
+      "id": "430b3882-98bb-30ee-9232-3f58b3a74091",
+      "speaker": "Dan",
+      "start_timestamp": 2546.0,
+      "text": "what Mommy's not gonna have a baby daddy decide."
+    },
+    {
+      "end_timestamp": 2574.0,
+      "id": "483a8261-5b8c-34f2-9782-216013a8ab7c",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2552.0,
+      "text": "This is something that I mean, my my, my blueness will be showing on this. But this is something I've said for a long time. To my my Christian friends about Trump. You know, the single issue voters oftentimes is being anti abortion as opposed to pro life. Let's be honest. Yeah. And I was like, how many abortions Do you think Trump has paid for? And I don't want to think about that."
+    },
+    {
+      "end_timestamp": 2594.0,
+      "id": "819cd1d5-bcf2-3507-bfd7-b7ce813129b4",
+      "speaker": "Dan",
+      "start_timestamp": 2574.0,
+      "text": "It's best not to Yeah, it's probably been a ton. It's probably been a ton, right? Yeah. You got to assume I mean, he even said like, I don't remember the exact quote, but it was basically that the AIDS crisis was his Vietnam was like his personal Vietnam and that real thing he said, Yeah, I'm paraphrasing a little bit, but that's that's gotta mean he was raw dog and everybody."
+    },
+    {
+      "end_timestamp": 2596.0,
+      "id": "64188b4f-7af0-367e-ade3-72b9839c5e51",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2594.0,
+      "text": "You know, he doesn't not raw dog. So"
+    },
+    {
+      "end_timestamp": 2608.0,
+      "id": "bdc0dcd1-fca5-367f-a902-4d7e072b92f5",
+      "speaker": "Dan",
+      "start_timestamp": 2596.0,
+      "text": "before the 80s he was fucking getting it in. On wrapped. Wow. So he probably had tons of like, birth scares,"
+    },
+    {
+      "end_timestamp": 2611.0,
+      "id": "60a6dfe4-ed02-3796-8128-1dc1dcab593d",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2608.0,
+      "text": "let's say, probably tons of shit just going on."
+    },
+    {
+      "end_timestamp": 2615.0,
+      "id": "38a326db-4d43-396e-90bb-6e4d07dca898",
+      "speaker": "Dan",
+      "start_timestamp": 2611.0,
+      "text": "He might have syphilis that might explain everything that's going on. Right. He's"
+    },
+    {
+      "end_timestamp": 2620.0,
+      "id": "3d508d24-f917-31e2-b849-da46af3a1e9c",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2615.0,
+      "text": "because he's saying some crazy stuff. Now, Syphilis is what degrade like, just mind. Right?"
+    },
+    {
+      "end_timestamp": 2630.0,
+      "id": "04c45fd4-36bc-350a-b1f7-6ad66d8ed8a9",
+      "speaker": "Dan",
+      "start_timestamp": 2620.0,
+      "text": "Well, if it's untreated, it's very easily treatable, but yeah, it makes you go crazy, if you don't Sure. But the thing is, I would have killed him by now. Actually, nevermind. It wouldn't have it wouldn't."
+    },
+    {
+      "end_timestamp": 2631.0,
+      "id": "28e978fe-1cec-3999-9bb2-147c08ff6df9",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2630.0,
+      "text": "He's got that money. Yeah. But"
+    },
+    {
+      "end_timestamp": 2635.0,
+      "id": "33fdaeee-a0ab-3a11-88f6-58e553073376",
+      "speaker": "Dan",
+      "start_timestamp": 2631.0,
+      "text": "if he goes to doctors like that one doctor he had, oh, yeah,"
+    },
+    {
+      "end_timestamp": 2639.0,
+      "id": "9bbc4f07-dc0e-34aa-9df0-626fdb610a7a",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2635.0,
+      "text": "not who's who's just like you're the most healthy individual I've ever examined."
+    },
+    {
+      "end_timestamp": 2666.0,
+      "id": "fa4a7d62-ac48-35bd-a297-71a8d08f5e9f",
+      "speaker": "Dan",
+      "start_timestamp": 2639.0,
+      "text": "They're looking like Wavy Gravy and shit. Like some old hippie doctor, good. Boy. So, you know, how do we know that? that Donald Trump is a real badass? That's a question that we all got to ask ourselves. Well, one way we can tell is How do other people who are badasses interact with him? Okay. Alex has some thoughts about it. All right."
+    },
+    {
+      "end_timestamp": 2673.0,
+      "id": "38a82741-bdaa-3b5c-8dd1-ca19c939a89c",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2666.0,
+      "text": "So just wait social justice worries, because that's really going to blow your mind. Yeah. What are they gonna do here in a few months a year when their lives"
+    },
+    {
+      "end_timestamp": 2701.0,
+      "id": "88276c94-0869-36d6-89dd-2f06e74b47e3",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2673.0,
+      "text": "are better? Well, let's take Don King and I'll be honest on kings like a super alpha male that what the President for beating people to death, inflicting the whole nine yards but he ran over top of somebody, all the big white promoters all the Italian Mafia, everybody and dominated sports but loves Donald Trump and respects him. I mean, I'm saying Trump has actually run over like powerful white guys has been Don King and he loves Trump. As he knows Trump has actually done a lot of good things. I mean, even people like Don Cain really respect Trump."
+    },
+    {
+      "end_timestamp": 2723.0,
+      "id": "bcd4499f-94e1-3bb4-844c-64de7f4c7837",
+      "speaker": "Dan",
+      "start_timestamp": 2701.0,
+      "text": "At this point. Ashley and Leanne are both looking at Trump, or at Alex Jones. Like, what are you talking? At this point they have gotten confused. Like, what? Why are you? First of all, Don King? That was murder. He was trying to collect on a gambling debt and beat a guy to death."
+    },
+    {
+      "end_timestamp": 2724.0,
+      "id": "e1edb473-64b9-3ba8-857a-62839a4a4974",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2723.0,
+      "text": "Oh my god."
+    },
+    {
+      "end_timestamp": 2731.0,
+      "id": "0fc9cb58-1996-36c3-b4b5-38e85e904397",
+      "speaker": "Dan",
+      "start_timestamp": 2724.0,
+      "text": "So yeah, he went to prison for Well, I guess, you know, maybe it's manslaughter or whatever like that. But it's bad. He's a bad dude."
+    },
+    {
+      "end_timestamp": 2732.0,
+      "id": "23d13afb-0fb3-3619-b7ca-8745e0be9326",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2731.0,
+      "text": "You right? Yeah."
+    },
+    {
+      "end_timestamp": 2734.0,
+      "id": "d9b0aef8-6c65-3411-a7c0-03fbeb897bc7",
+      "speaker": "Dan",
+      "start_timestamp": 2732.0,
+      "text": "But he respects Trump."
+    },
+    {
+      "end_timestamp": 2739.0,
+      "id": "d15caba5-14fd-328e-9614-e8329dbf726f",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2734.0,
+      "text": "So great, whereas a lot of flag shirts."
+    },
+    {
+      "end_timestamp": 2742.0,
+      "id": "d977d11b-fb02-38a2-af7d-8ee38eeba7cd",
+      "speaker": "Dan",
+      "start_timestamp": 2739.0,
+      "text": "I think Alex might be taking the wrong lesson from that. Do you think that's false? I"
+    },
+    {
+      "end_timestamp": 2751.0,
+      "id": "8bf10455-5cb6-3e4e-ba2c-0520f9d719e5",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2742.0,
+      "text": "think it's quite possible, Dan, you know, and I'm not a kind of person who would just blindly agree with you, even if you have me on your show, but I think you might be right about this."
+    },
+    {
+      "end_timestamp": 2756.0,
+      "id": "52f075de-ccfc-35b9-955e-3e1eed793c65",
+      "speaker": "Dan",
+      "start_timestamp": 2751.0,
+      "text": "I appreciate that. Also, Alex has some more thoughts that he wants to expand on the issue."
+    },
+    {
+      "end_timestamp": 2780.0,
+      "id": "6deea9d8-1e9f-3254-958b-01cd95027349",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2756.0,
+      "text": "And because there's something special about Donald Trump, not only getting to some cult worshipping Trump, but man, I'm telling you, he is just delivering it. It's crazy. And all the evil people hating. I just wonder who is Donald Trump? I mean, it's crazy, right? I don't get the media to freak out about because I know he makes like 300 phone calls a day. I just wonder how Trump has all the stamina for mail. Plug?"
+    },
+    {
+      "end_timestamp": 2802.0,
+      "id": "873dcc80-6ba0-3d46-9340-8d956ae86c5f",
+      "speaker": "Dan",
+      "start_timestamp": 2780.0,
+      "text": "Yeah, yeah. To be fair, at the end, Alex is like, Nah, I didn't send him any. But yeah, of course, it's the insinuation. That's, that's good enough. That's good enough for marketing. So yeah, he's a vital man. And, you know, Don King, he's a black guy who runs over white dudes. Yeah. I like how it has to come back to race to"
+    },
+    {
+      "end_timestamp": 2806.0,
+      "id": "1e54e642-f899-3106-a351-f816c596eb80",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2802.0,
+      "text": "it does. So is Alex Jones, one of these is he a supremacist?"
+    },
+    {
+      "end_timestamp": 2830.0,
+      "id": "93be5a0a-2ebf-3a06-8950-68567d600624",
+      "speaker": "Dan",
+      "start_timestamp": 2806.0,
+      "text": "I don't think so. Okay. I don't know. I it would be inappropriate for me to say that let you make that accusation? Sure. And I don't think that the evidence really necessarily bears that out. But I think he's beholden to some racist lies, that he doesn't realize that he believes like he's kind of big on the idea of white genocide, basically."
+    },
+    {
+      "end_timestamp": 2834.0,
+      "id": "d57770db-ddd9-3e90-ade3-8274741096fe",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2830.0,
+      "text": "Okay. He thinks that white people, are there groups trying to get rid of whites"
+    },
+    {
+      "end_timestamp": 2839.0,
+      "id": "24cb9d6d-0536-3429-8770-c9a49c1f0bc0",
+      "speaker": "Dan",
+      "start_timestamp": 2834.0,
+      "text": "somewhat. Yeah. Okay. He this does come up on the program sometimes."
+    },
+    {
+      "end_timestamp": 2849.0,
+      "id": "47d23d55-6bec-3227-876d-8ced7f933909",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2839.0,
+      "text": "And it's interesting that he, he equates like, Well, Don Keenum is very tough because he was able to take out white guys and murder a guy, you know, tough white guys."
+    },
+    {
+      "end_timestamp": 2859.0,
+      "id": "6eb9d055-2965-3d60-8c03-6a481f6c77a0",
+      "speaker": "Dan",
+      "start_timestamp": 2849.0,
+      "text": "Yeah. Let's, let's not mix facts here. Don King is like 80 years old and incredibly insane."
+    },
+    {
+      "end_timestamp": 2871.0,
+      "id": "4f439e6e-1f80-39a9-b18c-f9c4759fed83",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2859.0,
+      "text": "Oh, he's fully insane. He's lost it. So I'm sure you saw that clip of like Trump standing next to him. Yeah. And Don King is just like waving a flag, kind of like just not really looking at anything in particular. Yeah, I"
+    },
+    {
+      "end_timestamp": 2878.0,
+      "id": "6bf9b9e1-3a4f-3f5a-9206-7dcaefa195b5",
+      "speaker": "Dan",
+      "start_timestamp": 2871.0,
+      "text": "don't want to make fun of the old for like GE and old. These old. Right? He's batty"
+    },
+    {
+      "end_timestamp": 2891.0,
+      "id": "218d834a-8fb9-3d01-a22f-eb4254a0fdcf",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2878.0,
+      "text": "levels of old. Yeah. And I mean, they're granted, they're old people who like their 105. They're really with people that they report about on the news when they hit 105. Yeah, but also not dying makes you go crazy."
+    },
+    {
+      "end_timestamp": 2927.0,
+      "id": "58984445-a5e2-32f8-889a-29ec2e7d3c0c",
+      "speaker": "Dan",
+      "start_timestamp": 2891.0,
+      "text": "Unless you take DNA for us. Right. And you can get now at Infowars store.com. We're giving them a plug. I love it. Okay, so I think at this point, we're on to the next day. We are now on to the 24th. Okay, and Alex is we've just covered four hours worth of material, a lot of stuff in that we didn't cover his repetitions, there's just a lot of saying the same things over and over again. But the next day, he says some of the other same things over again, he has some more new and, and fuller, more robust lies about what happened at the inauguration. Okay."
+    },
+    {
+      "end_timestamp": 2936.0,
+      "id": "e704c1bc-4da5-32d1-8e5d-9d1b6f47f548",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2927.0,
+      "text": "And Obama who ran the Capitol Police had a plan to not let people in and then to let the protesters beat people up."
+    },
+    {
+      "end_timestamp": 2968.0,
+      "id": "16b68a33-28c4-3d36-81f3-15b3418406d0",
+      "speaker": "Dan",
+      "start_timestamp": 2936.0,
+      "text": "So first of all, he's saying that Obama, who relinquished power at noon, had put someone in place who wasn't going to defend the public. And he was going to make it so people couldn't get in. And that is why that one picture looks like there's nobody there at the inauguration. Because there was millions of people waiting to get in. They're all in line on the perimeter. Yeah, yeah. Get in, but because they needed to stage that photo op. Yeah. Yeah. So that's an insane"
+    },
+    {
+      "end_timestamp": 2979.0,
+      "id": "70242478-356c-30d6-8d48-428b81192217",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 2968.0,
+      "text": "theory. You know what I like about Alex Jones. He gives, He gives, like Obama a lot of credit. I mean, they're things I don't think Obama did. But it's really nice of him,"
+    },
+    {
+      "end_timestamp": 2991.0,
+      "id": "c2dda450-6603-3245-9fb8-79b5bb95bb13",
+      "speaker": "Dan",
+      "start_timestamp": 2979.0,
+      "text": "but it's not Obama. Obama is a tool of the globalists. Sure. So it's the globalists, it's the George Soros is of the world who are actually doing all this stuff. Obama just gets credit because he's the figurehead. Gotcha. Okay."
+    },
+    {
+      "end_timestamp": 3002.0,
+      "id": "a1eb0558-50c5-3523-aa2d-15cf2e580838",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2991.0,
+      "text": "What do they do? I have footage, live hours of women being beaten up and attacked and then blocking us from trying to get into in three different entrances."
+    },
+    {
+      "end_timestamp": 3029.0,
+      "id": "b3f693f4-1286-3d02-9582-e45b23e9d13e",
+      "speaker": "Dan",
+      "start_timestamp": 3002.0,
+      "text": "Here's how I know that that's not true. They post everything on infowars.com really fast. If they had hours of footage of people beating up old women at the inauguration, I would have put it up holy shit. That would have been like Rob, do get back to the hotel room right now. Put that up immediately, right? There's no fucking way they're sitting on that for a week being like, Oh, we just don't have it up. Bullshit. Fuck you. Bullshit."
+    },
+    {
+      "end_timestamp": 3075.0,
+      "id": "3606bbc3-abb7-3094-b5d6-80ee12263948",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3029.0,
+      "text": "So I had to travel miles around Pennsylvania Avenue to find one entrance to get in. And you're only allowed to go into certain entrances with your tickets. And guess what was happening there? Again, people trying to block the entrance. Now, what did the media do with this? What did they do this? I didn't do a whole report on this. They had everything from MSNBC, ABC to CBS. runnin with stories that that day, I was thrown out. And they show video. If we actually go to this article, it shows a photo from Cleveland is saying that I basically got arrested. This is how dumb they think you are."
+    },
+    {
+      "end_timestamp": 3084.0,
+      "id": "fa48c1ee-485d-3e58-b086-b879275562bf",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3075.0,
+      "text": "Let's pause for a second. Is this true? I am. I'm assuming you looked into this. What do you mean? Did these new stations have stories specifically? That was Alex Jones was thrown out?"
+    },
+    {
+      "end_timestamp": 3120.0,
+      "id": "a84c33e7-22a5-3497-b993-d90e6440d20c",
+      "speaker": "Dan",
+      "start_timestamp": 3084.0,
+      "text": "I want 100%. Don't give a fuck. Okay. The only things that he put up were like blogs and stuff like that. There was no like he didn't show any proof that the New York Times reported on it, which I can't imagine them carrying. No, they would not give a shit. Yeah, he has a real like, victim mentality about a lot of stuff you don't say while accusing Democrats of being like, you guys are all just, you know, you're victims of the system. You're willing victims? Yeah, like you. You know, you think that a cabal of people are stopping you from doing everything right."
+    },
+    {
+      "end_timestamp": 3123.0,
+      "id": "bcec7ad7-ce5e-3594-b9b5-1c38bcdca73e",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3120.0,
+      "text": "You're trying to initiate white genocide? Yeah, you might"
+    },
+    {
+      "end_timestamp": 3153.0,
+      "id": "d65abafa-7f04-3248-9823-64d7f652d1ff",
+      "speaker": "Dan",
+      "start_timestamp": 3123.0,
+      "text": "pot calling kettle black. But no, I don't care if those news sources. Let's say they did. I don't care. Like that isn't bad reporting. I saw the video of being thrown out of something. Where did you find the video is up on YouTube? You can find it and like I said, if they're saying if they're if they didn't do any research into the circumstances, and what have you done that shoddy reporting? Sure, sure. But I know something happened. And I guarantee he was drunk."
+    },
+    {
+      "end_timestamp": 3157.0,
+      "id": "17acaae1-5440-348e-847b-9c65f990ffe2",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3153.0,
+      "text": "Let's remember what is important. was drunk."
+    },
+    {
+      "end_timestamp": 3174.0,
+      "id": "60b964b4-2c67-3e0a-a434-b83ca5718711",
+      "speaker": "Dan",
+      "start_timestamp": 3157.0,
+      "text": "Yeah, he was tanked. And so like him being like, I wasn't thrown out and they want to say I'm drunk. Like, come on, man. Just give it up. Just say you were drunk. It's fine, right? No one cares. We only care that you're denying it. Yeah. So here we go."
+    },
+    {
+      "end_timestamp": 3236.0,
+      "id": "2b15c8a0-6fa5-3cac-a824-2d3a02c610d2",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3174.0,
+      "text": "Look, January 22 2017. Now that happened in July of 2016. They were escorting me for my protection when a bunch of communists attacked me saying I had no free speech, but not in the disinformation land. I got calls. I had my lawyer call me. He heard on the radio that I had been thrown out of the Trump inauguration and caused a disturbance. I can't even keep track of all this. I'm trying to get in. I'm attacked. As I'm walking towards it. There's bleeding women walking by on our Facebook Mentions live again. It's a knuckle and they're telling me I'm bleeding they attack me they won't you through the police do nothing. I might really we get there and they attack us. The police come and grab us again and say you're not allowed. We've closed his entrance. And then it turns into I'm arrested again. But wait, it gets better. I'm also drunk. They say that that drink? Nope. Nope. Wrong."
+    },
+    {
+      "end_timestamp": 3243.0,
+      "id": "1a762611-4884-311e-8219-bc6b2ab47166",
+      "speaker": "Dan",
+      "start_timestamp": 3236.0,
+      "text": "I love that. Like he's like, and then my lawyer calls me I can't even keep all this straight. Like that's, that's what happens when you build a house of lies."
+    },
+    {
+      "end_timestamp": 3253.0,
+      "id": "a3e4a073-72f1-37aa-9b97-a57aee532f30",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3243.0,
+      "text": "Can you imagine being his lawyer? Oh, man. Do you think that his lawyer is as crazy as he is? Or is his lawyer just like Jesus Christ? I can't believe that. This is what I do."
+    },
+    {
+      "end_timestamp": 3268.0,
+      "id": "78d50e88-dbba-3636-8bfa-c0318b0ee558",
+      "speaker": "Dan",
+      "start_timestamp": 3253.0,
+      "text": "Think it's either the most professional person in the world. Very Unlikely, but possible, or the Trump's doctor of lawyers. Yeah, it's it's like a not funny. Better Call Saul."
+    },
+    {
+      "end_timestamp": 3277.0,
+      "id": "345a8ca9-32dd-3198-9df5-33291dbb8dc4",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3268.0,
+      "text": "Oh, yeah. I was thinking like the oh, what's the character from The Simpsons? Was the lawyer from that. I just keep playing on heights is that his name? Sounds"
+    },
+    {
+      "end_timestamp": 3286.0,
+      "id": "614717c6-0af9-320c-b1ac-7cf25bb389ef",
+      "speaker": "Dan",
+      "start_timestamp": 3277.0,
+      "text": "right. I just keep thinking of Dewey Cheatham and Howe. That old dad joke. The law firm of Dewey Cheatham and Howe."
+    },
+    {
+      "end_timestamp": 3291.0,
+      "id": "d11bbfb9-6631-3944-974a-65d565717646",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3286.0,
+      "text": "Okay, I guess that's a good dad jokes. Not bad, bad had it maybe it's a boy."
+    },
+    {
+      "end_timestamp": 3310.0,
+      "id": "5a4d3518-bebf-3665-9939-cfaa8ecb50b4",
+      "speaker": "Dan",
+      "start_timestamp": 3291.0,
+      "text": "So these lies go on a little bit longer. And then he ends this. This sort of segment of lying Lionel Hutz saying that's all That's right I think that's it. Yeah, this one you're gonna love what happens happens here. This is one of Alex's trademark transitions that's gonna happen I love"
+    },
+    {
+      "end_timestamp": 3314.0,
+      "id": "58150f97-05a0-3b2c-ae33-cf0e6e8450b8",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3310.0,
+      "text": "I love a catchphrase a trademark This is beautiful"
+    },
+    {
+      "end_timestamp": 3472.0,
+      "id": "0f7f5786-c522-37b8-84e7-d939d0921693",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3314.0,
+      "text": "sitting outside waiting to get my tickets and women start coming by bleeding and I'm like the first one was like I bleeding they attacked me I'm like I'm like this person is a drama queen no way they attack them a woman than another woman comes by bleeding and another another and then oh my god, they're human. They're doing it down the street so I go down there. I thought that was never going to end and they go oh yeah, you're not getting through here. It was all after you Alexander. Weird we're little guys little black man. It's called dancing around a little Satan demons and all sudden boom, boom. It's a fascist white male just like it's kk k but actual modern giant que que que because people are just people and the media legitimize racism against whites, and has now created an army of self hating mental patient, white people running around leading, disheveled, really stupid looking minorities. And I say that because it's what you see. You look like really dumb, ignorant, but they all are going to college. They're all getting free government goodies. And you see what college pays for? Trillions spent since the 1960s on the Great Society and it is created just butthurt chip on the shoulder people whose whole identity is hating prosperity. Well, you better hate it because you're not gonna get any money with those worthless degrees. So they have really psychologically screwed you over by design. This is how you sabotage America. But what was left of America, every race, color and creed came together to try to resurrect the Republic to try to defeat globalism. That's a huge unelected oppressive tyranny. And you run around as we desperately try to write the ship running over icebergs in the freezing water of tyranny. And you're screaming and yelling, trying to stop us from riding the ship. Break your conditioning morons. I mean, it's not right to say he took out the bust of Martin Luther King and you know, it's a lie or to say nobody was there. And to attack free speech, and to do it for global corporations that we're taking over, and Trump is getting rid of the TPP rid of Obamacare, all of it written to screw you over. And you even know that's true, but you don't care because you're you're in such a cult, you can't admit you were wrong. Now, I gotta put out the mid air refueling here and find this operation. I didn't know we only got 2000 of his famous print. We've already sold 500 As of this morning, not a lie because they're 9095 on parchment paper. And I think we're probably selling them for too low. And quite frankly, I need to raise money. So I'm raising these two $50 apiece tomorrow. If I don't sell out, but I need money."
+    },
+    {
+      "end_timestamp": 3537.0,
+      "id": "dbdce2c2-129d-378c-965d-b28938574b59",
+      "speaker": "Dan",
+      "start_timestamp": 3472.0,
+      "text": "You like that switch? They're like that switch. screaming about nonsense. I didn't cut that. That's that is not edited at all. single clip that is awesome. No, like racial. I don't want to call it racist because you know, that's easily attackable word but that wasn't racist shit. Yeah. To being like you are all in a brain controlled cult. And then getting into this this fun. Because you're in this cult, you can't admit when you're wrong. I think he's talking about himself, and then immediately goes into a sales pitch for like a charcoal drawing of Donald Trump. Is that what that is? No way. Oh my gosh, it's so great. How he does these really impassioned yelling, pitches. Like just these like, I'm gonna get my points out, I'm gonna scream about them. And then like, also, we got these new pills and you're given up the game, Alex, you gotta be smoother than that. You can't like there are people who don't like you. You're making it so easy,"
+    },
+    {
+      "end_timestamp": 3546.0,
+      "id": "0a3cf4b8-66f1-398b-81b1-aeccc7f299be",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3537.0,
+      "text": "right? It's kind of like he if he runs out of steam, he's got this thing in his back pocket. And as well as sell just gotta sell this thing. We've got"
+    },
+    {
+      "end_timestamp": 3556.0,
+      "id": "a48d9485-83ce-3d9e-8e28-f4e9fcfec14c",
+      "speaker": "Dan",
+      "start_timestamp": 3546.0,
+      "text": "these fucking pictures of Trump. We got to do this thing. And then the the I need money. I broke his shit. I"
+    },
+    {
+      "end_timestamp": 3561.0,
+      "id": "cc20323e-c3ed-3c7a-969a-c4b4e6f6abbd",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3556.0,
+      "text": "barely he's got to pay his lawyer to keep track of all the lies. I would love someone I'd love people"
+    },
+    {
+      "end_timestamp": 3572.0,
+      "id": "92168d71-a742-3ed4-958b-54c08f9be16b",
+      "speaker": "Dan",
+      "start_timestamp": 3561.0,
+      "text": "to donate to my Patreon. If you'd like to go ahead. What's your Patreon patreon.com/freezin point, but I'm not going to throw it in everywhere. I think I accidentally just did."
+    },
+    {
+      "end_timestamp": 3580.0,
+      "id": "471b4a62-5211-3b0b-a1e5-141668e50aae",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3572.0,
+      "text": "What's it what I just did. I'm not trying to plug you slyly. What is the Patreon for just giving me money?"
+    },
+    {
+      "end_timestamp": 3593.0,
+      "id": "b95f25e5-52c9-3848-aa7a-a487f1f42ebe",
+      "speaker": "Dan",
+      "start_timestamp": 3580.0,
+      "text": "yourself and your rent? Well, no, it's for you know, like podcast related expenses. We put out a ton of podcasts and stuff like that. So like, sure everybody wants to support it. They can I don't give a shit. Yeah, I'm not gonna sell you any pills. I don't have any pictures of Trump."
+    },
+    {
+      "end_timestamp": 3597.0,
+      "id": "597c8f2c-3654-3d76-8bbd-d43c4ba5b90f",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3593.0,
+      "text": "Do you mean draw you some? Yeah, that'd be great. I can draw you some loser Trump. I draw you a lizard."
+    },
+    {
+      "end_timestamp": 3601.0,
+      "id": "1289ae3a-d5f8-3ca3-ac67-3a5e849d1e7b",
+      "speaker": "Dan",
+      "start_timestamp": 3597.0,
+      "text": "For those of you out there who don't know Tyler is Joe on all the presidents now"
+    },
+    {
+      "end_timestamp": 3619.0,
+      "id": "861adc30-10ed-3e72-996b-8a7158240a9f",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3601.0,
+      "text": "is lizard. No, I actually took a break right before the election. Or sorry, right. As soon as the election happened, I quit. Quit drawing him because he got so upset. Understandable as I stopped I took a break when I was drawing all the presidential portraits as lizard people. Yeah. Up to Truman."
+    },
+    {
+      "end_timestamp": 3628.0,
+      "id": "e00cd43b-65d2-3684-8a6d-342332c5f29b",
+      "speaker": "Dan",
+      "start_timestamp": 3619.0,
+      "text": "Okay. All right. Well, I mean, that's a good that's a good breaking point. Yeah, pre bomb post bomb world."
+    },
+    {
+      "end_timestamp": 3633.0,
+      "id": "cd86595f-e089-3ac1-a29f-3e89cf676c21",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3628.0,
+      "text": "I guess it was something that's made Was it during his first or second term that he I can't remember. I can't either, but"
+    },
+    {
+      "end_timestamp": 3695.0,
+      "id": "2b4bdbc1-b93b-3541-897d-0ff91e19ddc6",
+      "speaker": "Dan",
+      "start_timestamp": 3633.0,
+      "text": "something that's made. The experience of living in the world today a little bit worse. Was that Dan Carlin's Hardcore History just came out with a new episode, and that is this. He's a historian. He just does these really long, Awesome, well researched podcasts about things in history, okay. And his newest one is about the like, sort of creation of nuclear and atomic weapons. And it's, it's, it's appropriate and dark right now. And listening to it just made me really bummed out. Okay. So if you want to get bummed out, go ahead and do that. But if you don't want to be bummed out, plug, if you don't want to be bummed out. I had another clip for you. That's pretty fun. All right. So some fun. Wow, Alex was in DC for the inauguration. He ran into somebody who he has said some really fucking horrible things about, Oh, someone who I don't even I don't even remember all the specifics. But this guy, Trump has accused his dad of being involved in killing JFK."
+    },
+    {
+      "end_timestamp": 3699.0,
+      "id": "f75350a4-e206-31a3-b056-209452766e48",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3695.0,
+      "text": "Oh, so it's our it's our good pal Ted. It is."
+    },
+    {
+      "end_timestamp": 3739.0,
+      "id": "ccbf0678-2db4-30b8-9096-2fbdea4d958f",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3699.0,
+      "text": "Almost got to Aaron this yesterday. But I was so busy with all the news that we didn't play it. I'm gonna play it right now and also give some commentary on him. I was leaving Saturday in DC and I came out of the condo that we rented. And I was waiting for Buckley and others to come out of their condo. And I looked into the end of the hallway where I'd just come out, and the room right next to where I was staying. I guess Ted Cruz lives there or had rented it out. It's Ted Cruz coming out of the dark hallway because the lights were off down there for some reason. They always make the joke that he's like a vampire and looks like a vampire. But he Decot star is Count Dracula in a major TV show. I don't mean that as mean i"
+    },
+    {
+      "end_timestamp": 3749.0,
+      "id": "fedf5dc9-53d7-3cec-96ab-aafb3fc7a19c",
+      "speaker": "Dan",
+      "start_timestamp": 3739.0,
+      "text": "Interesting. Interesting to say you look like an undead creep. In a bad one. Yeah. That is a couple of idea. Ted. So"
+    },
+    {
+      "end_timestamp": 3787.0,
+      "id": "cd8d61cf-bf38-3d88-becb-39f4a566a6a4",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3749.0,
+      "text": "are Ted Cruz. I supported him early on for president. He's got a lot of great things. And I mentioned that in the short interviews true. It's just that the fact is trying to tell your votes in Colorado and other places, and claiming that you just won in a landslide when you got the delegates that just doesn't flow the same way. They Rob Sanders, but Trump stood up against it. But I'd like to see him get behind the rebirth of America. And he says he believes Trump is part of the new era. So this is exciting. Here's the interview with Ted Cruz. Look at this a secret meeting with Alex Jones and Ted Cruz. They brought us here. So what did you think about yesterday? 10? Well, I"
+    },
+    {
+      "end_timestamp": 3799.0,
+      "id": "22a6ccbc-7fd5-38ff-9f3d-ef4ccbd16bb1",
+      "speaker": "Dan",
+      "start_timestamp": 3787.0,
+      "text": "think it's the start of a new era to what we've been giving us. It just goes on from there. I should tell you it's a it's a boring interview. Yeah. They cornered him in an elevator."
+    },
+    {
+      "end_timestamp": 3801.0,
+      "id": "6286aeef-5a78-3a06-bc02-7035f7fe8089",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3799.0,
+      "text": "This interview is taking an elevator. Yeah,"
+    },
+    {
+      "end_timestamp": 3830.0,
+      "id": "ef43ef58-1b42-37a6-af75-07eb13d20788",
+      "speaker": "Dan",
+      "start_timestamp": 3801.0,
+      "text": "on an iPhone. It's insane to see how sad Ted Cruz's faces. Like he does not want to be in that elevator. Oh, yeah, I bet. It's like Alex Jones always talks about how he's not impressed by celebrities and doesn't care about insiders and stuff like that. He looked like a kid on Christmas. Like he was so excited that Ted Cruz was there. Yeah. At the end of the interview, he's even like, Hey, you should come on the program. You know, we got a billion listeners now."
+    },
+    {
+      "end_timestamp": 3837.0,
+      "id": "0925ddb0-e66e-3ac3-9735-ce189df36811",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3830.0,
+      "text": "Real quick. Yeah, you're doing a pretty good Alex Jones. Thank you very much. You've done a decent amount of listening. I can see"
+    },
+    {
+      "end_timestamp": 3861.0,
+      "id": "ee840a03-4195-3693-bb63-7c171689dd01",
+      "speaker": "Dan",
+      "start_timestamp": 3837.0,
+      "text": "working on and trying to practice trying to get up to like a Domian levels of impression about you is that when you invite them on the program is like we got a billion listeners. And Ted Cruz is like, Oh, that's a lot of people. It's obvious that Ted Cruz doesn't feel like a believer. Right. But then he's like, he's like it's a billion people who weigh more than Glenn Beck. Come on now. But it's great to see Ted Cruz even be like, I don't want to talk to this asshole."
+    },
+    {
+      "end_timestamp": 3884.0,
+      "id": "64c20cfe-5be8-34e0-aaaf-2c50b8750c2c",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3861.0,
+      "text": "Just like it's like, I'm Ted Cruz. I'm unreasonable. i I hate so many different people. I have 100 cans of soup in my pantry at all times. My daughters hate me. They won't kiss me but man do i Boy is this guy so much worse. And I know that I'm self aware and"
+    },
+    {
+      "end_timestamp": 3910.0,
+      "id": "2d668534-60df-31f9-b3d1-3429224dfcaa",
+      "speaker": "Dan",
+      "start_timestamp": 3884.0,
+      "text": "it's like I I I tried to shut down the government over something that people wanted. Then I swore I would never support Trump after he fucking really went after my wife real hard and my dad in a pro For me, I fucking cocked out supported Trump. And yet I know I can't be sued with Alex Jones."
+    },
+    {
+      "end_timestamp": 3924.0,
+      "id": "f4a1c8ad-4d3b-351b-8aca-3f6f988cb841",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3910.0,
+      "text": "I cold called for Trump. They're pictures of me with the saddest puppet look on my face. I can't get the stink of this guy on me. But boy, this guy socks right?"
+    },
+    {
+      "end_timestamp": 3927.0,
+      "id": "630ec708-c48e-3393-9631-b32bdd728e26",
+      "speaker": "Dan",
+      "start_timestamp": 3924.0,
+      "text": "This fucking iPhone elevator interviews."
+    },
+    {
+      "end_timestamp": 3934.0,
+      "id": "fa548033-d3f0-3b64-9ade-b377b2053eb3",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3927.0,
+      "text": "It's probably getting you can you tell what kind of iPhone by any chance because I feel like it's gotta be like an iPhone five s or like,"
+    },
+    {
+      "end_timestamp": 3938.0,
+      "id": "2f55db09-adf7-36b4-9649-a81fe5257e5d",
+      "speaker": "Dan",
+      "start_timestamp": 3934.0,
+      "text": "I think you know, I'm gonna give him the benefit of the doubt. I'm gonna say it's a six. It's a six. That's"
+    },
+    {
+      "end_timestamp": 3940.0,
+      "id": "4799968d-8450-3ab3-8404-cd9c88d035f6",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3938.0,
+      "text": "what I'm working with."
+    },
+    {
+      "end_timestamp": 3944.0,
+      "id": "452944ea-164e-37a8-97bd-db7c177feda8",
+      "speaker": "Dan",
+      "start_timestamp": 3940.0,
+      "text": "I think I have a five. I'm very I'm a troglodyte though."
+    },
+    {
+      "end_timestamp": 3948.0,
+      "id": "9246c2f9-2b7e-3b66-bc19-1b40a73d6407",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3944.0,
+      "text": "You are. You're rocking a five. Yeah, I hasn't held up. Okay. That's good."
+    },
+    {
+      "end_timestamp": 3956.0,
+      "id": "86e4ecab-c950-357f-919c-3aeb922c201c",
+      "speaker": "Dan",
+      "start_timestamp": 3948.0,
+      "text": "I don't I don't adapt to technology very well. I'm real real behind the times. I only got to sell an iPhone like two years ago, maybe?"
+    },
+    {
+      "end_timestamp": 3962.0,
+      "id": "f8d8bc36-d5c7-3957-8f20-7d9b7a7c27ee",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3956.0,
+      "text": "Oh, yeah. Yeah. Well, this podcast setup is more advanced than any of our other podcasting friends. Thank"
+    },
+    {
+      "end_timestamp": 3977.0,
+      "id": "06842a64-8086-36f5-bef6-ce7214418891",
+      "speaker": "Dan",
+      "start_timestamp": 3962.0,
+      "text": "you. I take that a little bit more seriously. Gotcha. It's a tiny bit, ya know, it's something that Alex takes seriously. Tell me sex. Here is where we get to what I would describe as the fun part of the show."
+    },
+    {
+      "end_timestamp": 3981.0,
+      "id": "89c5f4f0-632c-30f1-aba3-4686a0a2aed6",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 3977.0,
+      "text": "Oh, I can't wait. You know, it's been fun so far. But if we're just now to the fun part, the next"
+    },
+    {
+      "end_timestamp": 4005.0,
+      "id": "4df67cd4-ad6d-35ee-80c8-fbef7e2b07c2",
+      "speaker": "Dan",
+      "start_timestamp": 3981.0,
+      "text": "three clips are cuckoo bananas. So if everything else up to this point has been reasonably sane. Here's where it gets. Yep. So here's, here's what Alex's thoughts about like, Oh, I'm not even sure how to explain what this is. But enjoy. Okay."
+    },
+    {
+      "end_timestamp": 4042.0,
+      "id": "af83d74d-8014-30c8-b784-d5a94dd01b81",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4005.0,
+      "text": "But I really think about the fact that I always thought people were good like I was, it doesn't mean I'm perfect. I'm a very worldly person when it comes to eating and drinking. And, you know, let's just say I'm certainly not gay. But the point is nothing against gay people. You know what I mean? The point is, is that I'm not out to get anybody, ladies and gentlemen. And think, Sam, just say I like God's creation on the feminine side. But these people are crazy, ladies and gentlemen. Absolutely out of their minds."
+    },
+    {
+      "end_timestamp": 4045.0,
+      "id": "36346848-e99b-3115-8317-2c537db63aba",
+      "speaker": "Dan",
+      "start_timestamp": 4042.0,
+      "text": "What we're doing to try and parse that one. Do, can you"
+    },
+    {
+      "end_timestamp": 4049.0,
+      "id": "0e915743-f288-3ca3-a4c1-1060f613a495",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4045.0,
+      "text": "which people are he is he talking about? Am I supposed to know that already? Well,"
+    },
+    {
+      "end_timestamp": 4062.0,
+      "id": "acfc536a-8196-3ae0-81a8-22c597e3c79d",
+      "speaker": "Dan",
+      "start_timestamp": 4049.0,
+      "text": "I mean, it's these protests are types. We're still on that. That's pretty much the central theme of most of the show. But it does really seem like he's saying that gay people are out to get you. Yep. And the gay people are crazy."
+    },
+    {
+      "end_timestamp": 4072.0,
+      "id": "e4f79735-1d7e-31fe-bd61-d65df21703b8",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4062.0,
+      "text": "And they might be crazy, because they don't see the beauty of the worldly of the fit of the feminine creatures. God is bestowed upon this this great Earth. That"
+    },
+    {
+      "end_timestamp": 4078.0,
+      "id": "63496447-ae79-379e-8f38-a7aef48f6133",
+      "speaker": "Dan",
+      "start_timestamp": 4072.0,
+      "text": "is crazy. Yeah, I like how he has to say three times in there that he's not gay."
+    },
+    {
+      "end_timestamp": 4082.0,
+      "id": "73c6f188-bb13-3048-b2e8-fb64b5605500",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4078.0,
+      "text": "I'm not gay. Nothing against gay people. Why am I not that?"
+    },
+    {
+      "end_timestamp": 4087.0,
+      "id": "cf12744e-dcdc-3fbb-b4a9-a1aa0361c334",
+      "speaker": "Dan",
+      "start_timestamp": 4082.0,
+      "text": "I love the creations of feminine. Yeah. Oh, god. It's"
+    },
+    {
+      "end_timestamp": 4101.0,
+      "id": "9c7b9a08-9f43-31fd-87a1-9a73662e9312",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4087.0,
+      "text": "so much creepier when you have to like find a roundabout way of saying you like women. Yeah, instead of just being like, Well, I'm a heterosexual man. Yep, that's cut and dry. You can just say that. He's gotta like find like an innuendo. Like"
+    },
+    {
+      "end_timestamp": 4109.0,
+      "id": "b42d1bc8-c8d7-3fac-b2f3-7d38d0da0936",
+      "speaker": "Dan",
+      "start_timestamp": 4101.0,
+      "text": "also saying that you're not gay is not an attack on gays. You know what I mean? True. Like if I say I'm not gay."
+    },
+    {
+      "end_timestamp": 4113.0,
+      "id": "e7291139-1702-307e-8f97-1ef26dd041d9",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4109.0,
+      "text": "Oh, Dan. I don't I don't need nice"
+    },
+    {
+      "end_timestamp": 4125.0,
+      "id": "495f4ed6-2202-3a6b-a003-a9fdb2d48a30",
+      "speaker": "Dan",
+      "start_timestamp": 4113.0,
+      "text": "followed up with nothing wrong with gays. Yeah, I think we got we are we're done with that. Like that Seinfeld episode, like 30 years ago, right? Yeah. 20 years ago, you know, like we we took care of that idea of like, nothing wrong with that."
+    },
+    {
+      "end_timestamp": 4130.0,
+      "id": "2adb51f9-ca3c-36e0-a330-f956356eb1c4",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4125.0,
+      "text": "Yeah. He basically said no homo, no homo."
+    },
+    {
+      "end_timestamp": 4134.0,
+      "id": "99a61d82-87d3-30ca-aa58-35039b89d103",
+      "speaker": "Dan",
+      "start_timestamp": 4130.0,
+      "text": "Because sometimes when you say no homo What you mean is Homer."
+    },
+    {
+      "end_timestamp": 4137.0,
+      "id": "6c8e5f5c-e604-3a28-bb6c-c47448da2626",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4134.0,
+      "text": "It'd be really clear. He said it twice in a row. Basically,"
+    },
+    {
+      "end_timestamp": 4145.0,
+      "id": "0eaab031-d5e2-33b9-bfad-f6a0c183fa76",
+      "speaker": "Dan",
+      "start_timestamp": 4137.0,
+      "text": "this clip is a little bit longer. Okay. It is. absolute insanity."
+    },
+    {
+      "end_timestamp": 4147.0,
+      "id": "7e40c4e5-866a-325e-a09c-e16dc84c9282",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4145.0,
+      "text": "It will go bananas."
+    },
+    {
+      "end_timestamp": 4168.0,
+      "id": "9e0094a3-13c5-3771-a311-fc01dad726f4",
+      "speaker": "Dan",
+      "start_timestamp": 4147.0,
+      "text": "It's so strange. The thought process makes no sense. There's a there's a fascination with a bodily function. That is bizarre. Anyway, there you go. Okay. Oh, also he does one of my favorite things. He does some praying."
+    },
+    {
+      "end_timestamp": 4176.0,
+      "id": "c21a2bb9-2a2a-3864-afc8-5c8b39af532f",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4168.0,
+      "text": "I mean, they knew I just can't believe we're facing this level of evil."
+    },
+    {
+      "end_timestamp": 4186.0,
+      "id": "127575a4-3a04-3927-a1d7-7a85dce57593",
+      "speaker": "Dan",
+      "start_timestamp": 4176.0,
+      "text": "I want to also say just in advance this clip is a little bit longer so I apologize. But here we go. Okay."
+    },
+    {
+      "end_timestamp": 4228.0,
+      "id": "bf91456e-f76e-3683-8361-fb3016e0ea8d",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4186.0,
+      "text": "The Bible talks about evil people having a spirit wanting to be destroyed. Wanting to be lied to wanting to see righteousness fall. And that's it there people like tune into like this mental illness. Brainwave. I'm just flopping around and filming. and being idiots with all these weird creepy people with with like doggy style haircuts, you know that like, like, clown haircuts like David Brock who just puts out idiotic nonsense and then these minions take it and just repeat it. David Brock could go out on the street in front of these women and, you know, pull a cork out of his rear end and put 50 pounds of feces on the ground and tell those women that it was pumpkin pie, they'd get down on their knees and eat it."
+    },
+    {
+      "end_timestamp": 4234.0,
+      "id": "0841170f-4f22-3856-b972-032e69bf63bb",
+      "speaker": "Dan",
+      "start_timestamp": 4228.0,
+      "text": "Do you think he was trying to do a dirt Bernie Mac there?"
+    },
+    {
+      "end_timestamp": 4280.0,
+      "id": "f138391d-4758-34d5-ba77-2188b9d1716a",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4234.0,
+      "text": "I don't mean that to be gross, man. Sometimes you got to have gross analysis because it is gross. The lies they're putting out are gross. They're disgusting. And it's weird. And I don't know how we've had little scumbags like this dictating to us for so long. I mean, thank God, there's a global overthrow of the sycophant, daemons. And I want everyone to redouble their efforts. He thinks he's going to overthrow Trump and America and the rebirth of this body. We're going to overthrow you. And you think you and your minions of all your people and has been like Madonna. Skip this break. You think you you think you can talk about doing violence to us and get away with it? You got another thing coming?"
+    },
+    {
+      "end_timestamp": 4281.0,
+      "id": "ca237438-3856-3518-b955-4ce07d5e3281",
+      "speaker": "Dan",
+      "start_timestamp": 4280.0,
+      "text": "You got another"
+    },
+    {
+      "end_timestamp": 4282.0,
+      "id": "0196f579-2175-397d-8229-4112e615ca78",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4281.0,
+      "text": "thing common?"
+    },
+    {
+      "end_timestamp": 4294.0,
+      "id": "ef46180e-46e1-3f82-85f2-45635ead6f77",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4282.0,
+      "text": "I just know how the ether works. Their spiritual spiderweb shreds, universal for tripwires. Aye aye, I think you hit some big wires."
+    },
+    {
+      "end_timestamp": 4308.0,
+      "id": "e299ec30-c88b-337c-9e14-45122acfb7d7",
+      "speaker": "Dan",
+      "start_timestamp": 4294.0,
+      "text": "So also we're starting to realize that Alex Jones is a religious zealot. But in a really weird way. So on the last episode, we found out that he believes that everything is energy, which is not totally in line with Christian teachings."
+    },
+    {
+      "end_timestamp": 4316.0,
+      "id": "9ffcb94d-41ea-3025-811c-d47107b74ffc",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4308.0,
+      "text": "No. I once dated a girl who believed that everything was energy Jet A lot of crystals. No, she might now at the time crystals aren't really big yet."
+    },
+    {
+      "end_timestamp": 4319.0,
+      "id": "704dd183-985c-3214-acd8-e1ed7f738883",
+      "speaker": "Dan",
+      "start_timestamp": 4316.0,
+      "text": "Okay. Okay. Was this in Springfield or here?"
+    },
+    {
+      "end_timestamp": 4322.0,
+      "id": "26d06348-4adb-39de-8d46-1baa00fa0067",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4319.0,
+      "text": "This is Springfield, this is a while back? Okay. Well, then, I"
+    },
+    {
+      "end_timestamp": 4331.0,
+      "id": "a62076ac-2b25-3bd3-b545-e40367f77260",
+      "speaker": "Dan",
+      "start_timestamp": 4322.0,
+      "text": "mean, it kind of goes along with Gnosticism a little bit. You know, there's sort of, there's that influence there. I don't know what brand of Christianity he's into with everything is energy. But to be"
+    },
+    {
+      "end_timestamp": 4341.0,
+      "id": "19b1281b-3086-3f1e-88e4-4e8bb360d733",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4331.0,
+      "text": "honest, I think none. I don't think as a person, very Baptist for a very long time. I think. I think he's probably outside of the book a little bit."
+    },
+    {
+      "end_timestamp": 4344.0,
+      "id": "25590c65-a83f-3e7e-be08-3635efd0e9c8",
+      "speaker": "Dan",
+      "start_timestamp": 4341.0,
+      "text": "He's off script. Yeah, he's off scripture."
+    },
+    {
+      "end_timestamp": 4349.0,
+      "id": "9f7ccba5-1080-3e6b-9798-27184fe409ee",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4344.0,
+      "text": "He's got Yeah, he's off scripture. He's got he's doing he's kind of roaming into fanfic fanfiction."
+    },
+    {
+      "end_timestamp": 4355.0,
+      "id": "4bfc6131-d43b-38c1-8f88-b4370d1c5950",
+      "speaker": "Dan",
+      "start_timestamp": 4349.0,
+      "text": "The spiritual spider webs. Theory is a little bit that's not in Deuteronomy."
+    },
+    {
+      "end_timestamp": 4360.0,
+      "id": "ea82964d-74ef-3339-91cd-4ce0b4fda7ec",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4355.0,
+      "text": "No, no, not in the New Testament. This is a whole nother testament."
+    },
+    {
+      "end_timestamp": 4368.0,
+      "id": "e08829c1-c86e-3d71-812e-05bb9dd2d266",
+      "speaker": "Dan",
+      "start_timestamp": 4360.0,
+      "text": "The book of Jones. That's right. So this clip is not nearly done. The craziest part is yet to come."
+    },
+    {
+      "end_timestamp": 4402.0,
+      "id": "3731619b-c160-3341-978d-8c2dcad54ff9",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4368.0,
+      "text": "I think the left hit some big wires and some big spiritual things you haven't messed with or ever imagined are coming up. Because that's what God does. God goes Oh, you want to be evil. You want to act like your big powerful evil. Here just released that door over there. Released a kraken and the door and outcomes. What you're looking for? What you I put peace out there. I wish health and longevity to Obama and Michelle. And I wish Long live for you my friend and Madonna."
+    },
+    {
+      "end_timestamp": 4423.0,
+      "id": "0b8518d2-fe97-3be8-a141-354f05010a64",
+      "speaker": "Dan",
+      "start_timestamp": 4402.0,
+      "text": "So he's smugly preening? Well, he says that because he's obviously like, I don't mean this. He's He's a complete hypocrite. But he's like, for sure. I wish peace and long life for Obama and Michelle. He's gone on long tirades about how he believes that Michelle is a man. Oh, no. He's called her the first trainee and stuff like that. Like,"
+    },
+    {
+      "end_timestamp": 4425.0,
+      "id": "f502617f-0c82-3579-8722-33820226fddf",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4423.0,
+      "text": "are you fucking serious?"
+    },
+    {
+      "end_timestamp": 4442.0,
+      "id": "e6f01bdd-6f1a-3746-8ff2-0dce4cfa94c3",
+      "speaker": "Dan",
+      "start_timestamp": 4425.0,
+      "text": "Not kidding at all. It's it's horrible. He calls her Michael sometimes. It's incredibly offensive. Yeah, that is but yeah, I wish them the best when I'm trying to make a false point about my my honor or my integrity. So, again,"
+    },
+    {
+      "end_timestamp": 4447.0,
+      "id": "a262e0c1-3dec-3ad4-933c-ee7b63847f84",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4442.0,
+      "text": "I'm sure Alex Jones fans have got a short memory very, just just like he does."
+    },
+    {
+      "end_timestamp": 4451.0,
+      "id": "1f1f5365-27b3-32ac-a48a-b6d58a6999ae",
+      "speaker": "Dan",
+      "start_timestamp": 4447.0,
+      "text": "And the crazy part still yet to come. Okay."
+    },
+    {
+      "end_timestamp": 4460.0,
+      "id": "1a0fd1ce-94af-337e-90b5-739bee38f79d",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4451.0,
+      "text": "In fact, we should pray for David Brock and Hillary and Obama and all and just pray that there's any life in them in any humanity left in them. I mean, this is surely before."
+    },
+    {
+      "end_timestamp": 4462.0,
+      "id": "03e2826f-5555-3c93-af63-653044874331",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4460.0,
+      "text": "Pardon my ignorance, Who's David Brock."
+    },
+    {
+      "end_timestamp": 4470.0,
+      "id": "2272d1a3-602d-36f0-9dcd-7ad941faf762",
+      "speaker": "Dan",
+      "start_timestamp": 4462.0,
+      "text": "David Brock is the guy who runs Media Matters for America. They're a like left wing media watchdog."
+    },
+    {
+      "end_timestamp": 4475.0,
+      "id": "ffc5ca06-bfbc-3c6a-ad6f-75ff91d60d6b",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4470.0,
+      "text": "Oh, MMA. Yeah, mixed martial arts. Media Matters for America."
+    },
+    {
+      "end_timestamp": 4513.0,
+      "id": "2e52b0cc-318a-3168-a426-fb32179ddc88",
+      "speaker": "Dan",
+      "start_timestamp": 4475.0,
+      "text": "They fund a bunch of progressive causes. They're a real evil group in Alex's mind, because they take money from George Soros and the Open Society and stuff like that. That's part of the globalist network. Gotcha. So basically, David Brock is a globalist are funneling money into these he's a he's like the propaganda arm or whatever. I think David Brock has got a lot of issues but Media Matters is generally a very well read. Research cite that all they do. Not all they do but a lot of what they do is watch Fox News. Watch Glenn Beck watch Alex Jones and debunk tons of stuff that they say. And of course that pisses Alex"
+    },
+    {
+      "end_timestamp": 4519.0,
+      "id": "e5295f2b-de8c-3897-a65e-5f0e430c3014",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4513.0,
+      "text": "off right as it as it should. Yeah. He's getting just called out on anything whatsoever."
+    },
+    {
+      "end_timestamp": 4534.0,
+      "id": "60129952-e024-32cb-b72f-cb3ca54bd02b",
+      "speaker": "Dan",
+      "start_timestamp": 4519.0,
+      "text": "Yeah. Also a fun little tidbit. David Brock's ex boyfriend is the guy who owns Comet Ping Pong pizza. That is the center of pizza gate. So nice little Oh, it's a little fun connection there. Spiritual spider webs. That"
+    },
+    {
+      "end_timestamp": 4537.0,
+      "id": "2e8f06d0-5bfb-3b9f-ade3-46ba5d4517b6",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4534.0,
+      "text": "is interesting. There's a lot of spider webs already in this episode."
+    },
+    {
+      "end_timestamp": 4540.0,
+      "id": "6aaa5f0e-f0c6-3ec3-be2f-1a1e65d03175",
+      "speaker": "Dan",
+      "start_timestamp": 4537.0,
+      "text": "He's got no doubt."
+    },
+    {
+      "end_timestamp": 4547.0,
+      "id": "bdbd111e-b30b-3592-a8f6-42114f9a3d39",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4540.0,
+      "text": "So we're really in a tragic kingdom. And I'm just a girl in the world, man."
+    },
+    {
+      "end_timestamp": 4550.0,
+      "id": "f195a433-d4f8-3664-ad06-903b26bd7bb2",
+      "speaker": "Dan",
+      "start_timestamp": 4547.0,
+      "text": "So here we go. This is where he starts praying. Okay,"
+    },
+    {
+      "end_timestamp": 4552.0,
+      "id": "83d0bfd7-7edc-31ac-994b-a6c678dc22fa",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4550.0,
+      "text": "just Christ, father."
+    },
+    {
+      "end_timestamp": 4557.0,
+      "id": "87418f57-396c-3ccf-bd6f-5e5ef0a6857d",
+      "speaker": "Dan",
+      "start_timestamp": 4552.0,
+      "text": "Also keep him keep, see if you can hear him say amen. At any point."
+    },
+    {
+      "end_timestamp": 4657.0,
+      "id": "dda9b714-ef39-37c5-ab63-4c0a4f498883",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4557.0,
+      "text": "They awaken and repent of their evil ways and realize that they're fighting good. And so they keep doubling down on evil thinking they'll defeat us, and they're destroying themselves in front of us. And so, Heavenly Father, we know they continued on this path will defeat them even easier, but I can't help but feel sorry for them. And I apologize and repent that I say nasty things sometimes. But it's just such a spectacle. And I see their sin is so nasty that i i say bad things and I repent of that Lord knows I'm bad as well. So please, please forgive me, but I just don't know what to do anymore. We should really just pray for them. I'm serious. We should pray for them. And we should pray for their slaves. We should pray for their minions. Because they're their slaves too. I mean, have you read? You read the WikiLeaks? And it's like, Is this a joke? They admit these are real. It's like worse than villains in a movie. Like I hate the public. I want to keep them in the dark and rip them off. Let's scan everybody to commit crimes. Yeah, let's be criminals. He just picture a bunch of Gremlins hopping around my hand. People ask why all over the world leftist throw crap at people because they want to collect That's what I said earlier. They collect the crap they collect their piss. And they go out bags of it because that's what they do. And because they like playing with it, like crazy people in a little tick asylum. Why don't lunatics all over the world don't care if you're in Africa or Russia or the US or, you know, it didn't matter what continent or country lunatics like to eat their crap and throw it at people. People are like that they are fricking mentally ill. And there's giant masses of mentally ill by MSM. It's declassified. The CIA and others did it to him. And I want to say the whole CIA, the people running it, and Trump wants to stop all that."
+    },
+    {
+      "end_timestamp": 4680.0,
+      "id": "fc7cf9a4-a8e9-31c5-88ef-a61298601963",
+      "speaker": "Dan",
+      "start_timestamp": 4657.0,
+      "text": "It's so fascinating to me, where he catches himself to clarify stuff, because he's screaming about how all crazy people eat their crap and want to play with it. Like the CIA, not all of CIA. So the CIA are good people. He has to clarify that but he doesn't want to walk back like no, not all crazy people eat their crap. Yeah. Oh, man, I love that"
+    },
+    {
+      "end_timestamp": 4681.0,
+      "id": "a6c8bd50-ffcc-3091-be88-2c9854254ae5",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4680.0,
+      "text": "directly following a prayer."
+    },
+    {
+      "end_timestamp": 4687.0,
+      "id": "f7e0e404-896f-3c13-a3c6-b10bcb6aa3ea",
+      "speaker": "Dan",
+      "start_timestamp": 4681.0,
+      "text": "A note within a prayer. He never said Amen. Oh, true. All that yell. He"
+    },
+    {
+      "end_timestamp": 4690.0,
+      "id": "d94f1eba-6faa-3c53-a115-ea2427144c76",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4687.0,
+      "text": "didn't say that prayer."
+    },
+    {
+      "end_timestamp": 4702.0,
+      "id": "7b8e61a9-c71f-3ba6-8aa9-2eaddbf5bbfa",
+      "speaker": "Dan",
+      "start_timestamp": 4690.0,
+      "text": "He's still screaming at God. Also. Also, I like that he's trying to mansplain to God, about how evil other people are. Yeah. Like God doesn't need that. He knows. Yeah, God knows God's hip."
+    },
+    {
+      "end_timestamp": 4708.0,
+      "id": "c8b86e8e-778b-3c0f-816e-bbaaa51a4413",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4702.0,
+      "text": "He knows evil pretty well. Anything that's not God is evil, really."
+    },
+    {
+      "end_timestamp": 4735.0,
+      "id": "7528e44a-7064-3013-958d-afc49e396a31",
+      "speaker": "Dan",
+      "start_timestamp": 4708.0,
+      "text": "So I don't know, man, I think he would think I'm evil. I don't have any fascination with my crap. Although, I will say there are two points in the next clip. You'll probably hear it too. But when he said like, they're they like to keep their crap and keep their piss. Like, you could hear in the clip a blurt laugh from me, because as I was isolating the clips, I just lost it."
+    },
+    {
+      "end_timestamp": 4737.0,
+      "id": "6fc5507d-b7d6-3a66-b40f-b6d36eb1c2b2",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4735.0,
+      "text": "When you didn't expect this to be happening."
+    },
+    {
+      "end_timestamp": 4780.0,
+      "id": "d0c61aaf-8a57-3a04-b63b-485fd6321509",
+      "speaker": "Dan",
+      "start_timestamp": 4737.0,
+      "text": "Yeah, I knew it was covering it. I still I still laughed at the end of this next clip. I laughed so hard hearing it for like the third time is so stupid. It's incredibly offensive. On a recent show, Alex said that he's really good at doing impressions. And that his kid loves it when he does a cookie monster impression which is child. He's got multiple kids. I think he has three kids. Does he have a wife or a few does? He has a wife? He has a Yep, he has a wife. Wild Yeah, there was talk that he was having an affair with Leann McAdoo years ago but I don't know if this is substantiated at all. Good just be gossip rag talk."
+    },
+    {
+      "end_timestamp": 4790.0,
+      "id": "b76c425b-98f7-343d-a3b6-a2af20db7ae0",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4780.0,
+      "text": "He seems like rumor he might start it based on based on Leanne Stone Cold Fox if I can say so in the most woke way."
+    },
+    {
+      "end_timestamp": 4815.0,
+      "id": "b43f3da6-915b-3fb2-b9a3-42774d75015d",
+      "speaker": "Dan",
+      "start_timestamp": 4790.0,
+      "text": "Ma'am, with all due respect, man without you. You're very attractive lady. So this clip is we're coming to the end of our clips here but this one is is insane. It is a nice impression on the part we're revisiting that Alex's ability to do impressions. And you know, he's talking about, like a film he saw, which is, you know, I always like to hear about the artists."
+    },
+    {
+      "end_timestamp": 4821.0,
+      "id": "ed662e71-8a84-34d1-8625-6de96cf4e7a5",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4815.0,
+      "text": "Don't hate that weird, crazy person flopping around the street that is a victim of what has happened to our people."
+    },
+    {
+      "end_timestamp": 4844.0,
+      "id": "4b9f6df9-2e6c-3c8f-b1e3-c8ff3bacb219",
+      "speaker": "Dan",
+      "start_timestamp": 4821.0,
+      "text": "I should clarify. This is after he had shown a clip of what he described as the mentally ill protesters at the inauguration. Okay. And he just showed one lady out in the middle of the street with tin cans, like tied to her waist, like trying slamming something against the street. It was not a protester. It was a crazy person."
+    },
+    {
+      "end_timestamp": 4847.0,
+      "id": "6701894d-378a-3a65-b542-a2e3c6cb11b8",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4844.0,
+      "text": "It was a person who believed that they were a car holding people who just got married."
+    },
+    {
+      "end_timestamp": 4863.0,
+      "id": "5decf14c-eacf-35cf-b184-f5218f7ee0da",
+      "speaker": "Dan",
+      "start_timestamp": 4847.0,
+      "text": "Yeah, exactly. It was that it was that level things like oh, no, if you saw this, you'd not think this is street art. You would not think this is a protest. This is a crazy person. And he's like, Yeah, they just get out there and they do this crazy stuff. And then people gather around them. There's no one around them."
+    },
+    {
+      "end_timestamp": 4869.0,
+      "id": "bfd567cd-133f-3966-b9e2-69b2e1cfab16",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4863.0,
+      "text": "That this isolated crazy person is Yep, fully, just relatively adjacent to a protest."
+    },
+    {
+      "end_timestamp": 4905.0,
+      "id": "b2d04735-3da0-3cad-97cb-bc158bd9e3af",
+      "speaker": "Dan",
+      "start_timestamp": 4869.0,
+      "text": "It was in DC, I suppose. So that means it was part of it. Sure. With Old City, the only people within I would say at least 150 feet of this lady are the people taping it? Who worked for Infowars so like his whole argument of like, this is a protester they do crazy things they gather a crowd you're you have evidence you're showing right now that that's not the case. So anyway, he starts this clip out by saying he feels bad for this crazy person. Not because she's crazy, but because she's indoctrinated by the globalist globalist okay."
+    },
+    {
+      "end_timestamp": 4957.0,
+      "id": "1c70b644-faa5-39a9-99ed-f99b14ab8ec9",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4905.0,
+      "text": "It's like that HBO special. I saw like, eight nine years ago, I forget the name of it. And this guy's put cigarettes out on her beaten her making her have sex with 20 Guys a day and he's been hit but robber by car and the pimps and they're going you better get up Hurry on the streets. Maybe I'm sorry, baby. I'm gonna get back on the street. I'm gonna do it for you. He said you better get back on the street in her mother's there. Nice church lady. Nice black First Lady. And she's like, What have you done to my baby? Get out of here, Mama. He's good, man. I mean, it's like these people are pimped and broken and they got weird Islamist is laughing at me with women putting hijabs on going. You're evil you hurt women. You're a white male. We hate America. This is where he's you got the freedom you've done SS. God Almighty. I mean, whoa, whoa."
+    },
+    {
+      "end_timestamp": 4960.0,
+      "id": "ec53b667-ad8a-3dc6-a1a3-2e56b6cb8c25",
+      "speaker": "Dan",
+      "start_timestamp": 4957.0,
+      "text": "That's where I lost it when I was recording. Whoa,"
+    },
+    {
+      "end_timestamp": 4965.0,
+      "id": "ef67e6ec-5f12-3558-8974-31f0d49badad",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4960.0,
+      "text": "whoa, it's like you slowing themselves down."
+    },
+    {
+      "end_timestamp": 4986.0,
+      "id": "5f6cb29a-a822-390d-9618-9f639187330a",
+      "speaker": "Dan",
+      "start_timestamp": 4965.0,
+      "text": "It's legitimately like he just heard himself for the first time Oh, God, he is so crazy. It's the best. Oh, man. Yeah. So you don't think that was a very good impression?"
+    },
+    {
+      "end_timestamp": 4996.0,
+      "id": "3c4839ea-2e40-3913-9331-b5e3402d0c68",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 4986.0,
+      "text": "on us, I don't think it was a good impression. I'll say this. I could tell what he was going for though. Miami, which I don't think gives him any credit."
+    },
+    {
+      "end_timestamp": 5002.0,
+      "id": "14c95634-52db-3776-be29-26d9699aea07",
+      "speaker": "Dan",
+      "start_timestamp": 4996.0,
+      "text": "What was he going for? Like racist black voice? Yeah. I don't think I did he do the man's voice really offensive."
+    },
+    {
+      "end_timestamp": 5005.0,
+      "id": "46079d23-1e75-3436-9314-f60b84914df8",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5002.0,
+      "text": "He just made it. It was just his own voice. He is the pimp."
+    },
+    {
+      "end_timestamp": 5029.0,
+      "id": "dec55372-f4ad-348e-9f70-50e5ff05d02c",
+      "speaker": "Dan",
+      "start_timestamp": 5005.0,
+      "text": "Okay, okay. But yeah, the poor black women. Oh, mama. That's, like, you know what, there's two layers to it. It's like that's offensive. And then it's secondarily offensive that he doesn't get that it's offensive. Right. And if you were to try and tell him that it is he would be like you're brainwashed liberal"
+    },
+    {
+      "end_timestamp": 5035.0,
+      "id": "454c80dd-1f15-3cdd-b350-34d771d8c44d",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5029.0,
+      "text": "right? You say you're listening because you're brainwashed them I can see your half dead behind those cold eyes. Have your"
+    },
+    {
+      "end_timestamp": 5068.0,
+      "id": "6f8f7d48-bfcf-399a-9871-bd466c681595",
+      "speaker": "Dan",
+      "start_timestamp": 5035.0,
+      "text": "your eyes crossed. Right Alex? Jesus, he got me busted. So before we get out of here, I would like to take a moment. We got to we got a missive from the road. Jordan is on his workstation out there in London, good ol jolly England. And luckily for us, Jordan sent in a little report from from London, what are you seeing on the ground? And so for you know, we have a fight for knowledge, your knowledge fight. Okay. And so we're gonna get a little bit of knowledge from across the pond. All right."
+    },
+    {
+      "end_timestamp": 5284.0,
+      "id": "3e8343da-ddfd-3953-a5bc-05f6a47d5caa",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5068.0,
+      "text": "I am, I'm recording this from unoccupied London. There's zero occupiers here, and they would know they've been occupied before or at least bombed by them. I'm speaking specifically of Nazis, the ones from Germany, not the ones from the United States who currently hold power over over all of us really. It's strange being here and And, you know, I don't feel blamed for Trump. So much as I feel like the representation of Trump, you know what I'm saying? Like, I think they hate Trump so much here because his hair offends them personally. It reminds them too much of their own. Or his fake tan, his fake tan reminds them of the sun. And they have the same relationship with the sun that I have with, like, an old high school classmate, where it's like, no, I know you. I just, I just don't want to see you again, except for short bursts. I think I think one of their big issues is they do feel like, you know, we, we want up to them. Like we have a little bit of a little brother syndrome. With the UK, no matter how much things change. There is still that kind of small relationship there where, you know, with one vote, they said, Hey, we can destroy great pet Britain. And we said, oh, yeah, you like that? Well, with one vote, we can destroy the world. How do you feel about that? Assholes? So that's America. I can I can, you know, they, they read the news here. And the news is about Trump. Even though, you know, they had something very important to happen with the Supreme Court ruling on Brexit. And the Supreme Courts of Britain, which I don't know if they even have real courts, they're everybody wore wigs. They ruled that you cannot actually trigger Article 50. That's the Brexit law, without a congressional or parliamentary, which is their word. Like, you know, the C word. You can use parliamentary rules to actually vote on Article 50. And you can't do it without a parliamentary vote. So you think, you know, if everybody is finally realized that they don't want Brexit to happen, then they could put pressure on their parliament to keep that from happening. But that's a very non British way of looking at things. The fact that the majority of people now don't want Brexit to happen, and it doesn't matter to them. What matters to them is that they do it the right way. It's that kind of bloody mindedness that just is so British. Yeah, we don't want this to happen. And we have an opportunity to keep it from happening. What was that? How about and that's the end of that sentence."
+    },
+    {
+      "end_timestamp": 5287.0,
+      "id": "877fbdc0-9814-35d7-a434-2940fedff828",
+      "speaker": "Dan",
+      "start_timestamp": 5284.0,
+      "text": "Well, that is Jordan from the road."
+    },
+    {
+      "end_timestamp": 5289.0,
+      "id": "60a488c4-603d-3da1-b8fc-16469a0897a0",
+      "speaker": "Tyler Snodgrass",
+      "start_timestamp": 5287.0,
+      "text": "The road is really have any effect on him, I think. I think"
+    },
+    {
+      "end_timestamp": 5314.0,
+      "id": "89f5a5ee-2f18-321b-965d-076cd15d1ed0",
+      "speaker": "Dan",
+      "start_timestamp": 5289.0,
+      "text": "so. But he also that was like he captured the essence of road Alex Jones on that, that the long pauses the the sort of rambly thoughts whenever Alex is on the road. He's really low register, Alex. Okay. Do it a lot. Hey. Now the globalists are common. I'd like a VA, ma'am. He always records on planes. Anyway,"
+    },
+    {
+      "end_timestamp": 5318.0,
+      "id": "95cf174e-acf7-3af9-9a9d-6e99d756a001",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5314.0,
+      "text": "is that true? Yeah. He's always just disturbing someone"
+    },
+    {
+      "end_timestamp": 5339.0,
+      "id": "c3d2de35-d156-3be3-9cbc-90ff15e25ee9",
+      "speaker": "Dan",
+      "start_timestamp": 5318.0,
+      "text": "on an iPhone recording on a plane. Oh my god. So before we get out of here, we have one more clip. Okay. Close this out. And it is a clip where I think Alex gives up a little bit too much of his insecurities. I think they're showing you're on full display. And"
+    },
+    {
+      "end_timestamp": 5345.0,
+      "id": "133d13f8-a58d-3f9a-be24-259171799473",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5339.0,
+      "text": "as if he hasn't already been doing that. But for almost every second he's been talking but"
+    },
+    {
+      "end_timestamp": 5360.0,
+      "id": "52e9a724-9475-37eb-aaaf-ce009d7ac330",
+      "speaker": "Dan",
+      "start_timestamp": 5345.0,
+      "text": "I think there's some things that he hasn't really displayed his insecurities about necessarily sure that's fair. And in this clip, he goes ahead and does it and I think he accidentally says something that's very true. surrounded by a bunch of things that aren't he just"
+    },
+    {
+      "end_timestamp": 5363.0,
+      "id": "f28fe231-0fda-3cb3-9a58-6861608efadd",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5360.0,
+      "text": "says, I am gay. Now then against gay people."
+    },
+    {
+      "end_timestamp": 5371.0,
+      "id": "d5a3dc51-edc0-36a0-a329-cc90eac23ff6",
+      "speaker": "Dan",
+      "start_timestamp": 5363.0,
+      "text": "I am gay, and I hate him. Oh, here we go."
+    },
+    {
+      "end_timestamp": 5398.0,
+      "id": "af7000e4-f596-3d41-9d12-6d9994b1fa60",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5371.0,
+      "text": "Trump is ridiculously real ridiculously good. My spirit from the moment he started running was like, This guy's good. This guy's good. I'm like now now. Lebanon, listen to the neocon propaganda mag Ramona, and my guts like no, go with Trump. Donald Trump, then all sudden, oh, Trump wants to come on. And it's just crazy. If Trump isn't real, he's the greatest deception ever hit the planet. Now he's real folks."
+    },
+    {
+      "end_timestamp": 5404.0,
+      "id": "f1e7b301-9d8d-3e89-8e7d-593edc8b1085",
+      "speaker": "Dan",
+      "start_timestamp": 5398.0,
+      "text": "And there we have it. Oh, isn't that an interesting set of sentences?"
+    },
+    {
+      "end_timestamp": 5408.0,
+      "id": "dbdc8463-8282-3d15-9c46-2377fb088da1",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5404.0,
+      "text": "That is, and that's something you know, I think a lot of people on the left would agree with."
+    },
+    {
+      "end_timestamp": 5412.0,
+      "id": "25c2aba3-c926-3f24-a005-851f9cd411a6",
+      "speaker": "Dan",
+      "start_timestamp": 5408.0,
+      "text": "Well, the if then or the either or statement. Yes. Yeah, that's what I mean. Yeah, that's"
+    },
+    {
+      "end_timestamp": 5419.0,
+      "id": "499ace1c-5f44-3452-b66c-6b294c9c0dbc",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5412.0,
+      "text": "the part that's to true if Trump isn't real, and for many people he is not is the greatest deceptor."
+    },
+    {
+      "end_timestamp": 5462.0,
+      "id": "4c56189b-7161-36fa-b8bc-c42c660fff09",
+      "speaker": "Dan",
+      "start_timestamp": 5419.0,
+      "text": "Yep. And yeah, I think that's why he has to reassure himself afterwards. No, he's real. No, Alex, no, no. And the part that he said before that, like the the story of him being like, I was doubting him and then, but my gut wanted me to be in and then he said he wanted to be on the show. It's like, that's what convinced you. That's what convinced you Trump is on an episode. Oh, yeah. It's grim. I bet he doesn't do like a super long interview. But he tells Alex that he thinks his record is impeccable. He's been right about a lot of stuff, and that he promises he won't let him down. It's really, really scary and super depressing. Oh, no, it was funny back when he wasn't president."
+    },
+    {
+      "end_timestamp": 5470.0,
+      "id": "5163eb2e-a6e2-315f-a107-456fb5d78823",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5462.0,
+      "text": "Things were a lot funnier. jokes. Jokes are a lot more fun. whenever, whenever Trump wasn't."
+    },
+    {
+      "end_timestamp": 5474.0,
+      "id": "ecb24e8c-ef53-31cc-ad4a-dff1e3333638",
+      "speaker": "Dan",
+      "start_timestamp": 5470.0,
+      "text": "So Tyler, we've come to the end of the two days in the life of Alex Jones."
+    },
+    {
+      "end_timestamp": 5480.0,
+      "id": "cc56af32-adf9-32b9-b2b3-bec3675fc2ba",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5474.0,
+      "text": "Well, I appreciate you including me in this. This was a brand new experience. And I'm glad I had it."
+    },
+    {
+      "end_timestamp": 5491.0,
+      "id": "660ab78e-31c2-3c13-8bb1-adf8e48837b6",
+      "speaker": "Dan",
+      "start_timestamp": 5480.0,
+      "text": "I feel like from watching your face there was there was some moments of overwhelming like I think it towards the metal, especially there was a look, or at least a feeling of you didn't want to go further."
+    },
+    {
+      "end_timestamp": 5505.0,
+      "id": "e8a85b6d-a14f-31f8-8b96-88352e0d1f2e",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5491.0,
+      "text": "There were no not necessarily. There was I was I'll definitely admit shock. Sure, to say the least there was some horror. There was some happy surprises along the way as well. And I don't know."
+    },
+    {
+      "end_timestamp": 5509.0,
+      "id": "1aeeb675-668e-33f0-858a-baf86aeca291",
+      "speaker": "Dan",
+      "start_timestamp": 5505.0,
+      "text": "We're just talking about him paying for abortions, right? That's a happy surprise. It"
+    },
+    {
+      "end_timestamp": 5519.0,
+      "id": "d05872f6-ebb5-3661-b468-858a11179316",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5509.0,
+      "text": "was a happy surprise. Like I'm glad this guy hasn't made as many children as he could have. Well, he's got three. That is plenty, but not divisible by anything except for itself. And one"
+    },
+    {
+      "end_timestamp": 5529.0,
+      "id": "f15f8b4d-a6c7-3c3e-9a91-f25b5f11d942",
+      "speaker": "Dan",
+      "start_timestamp": 5519.0,
+      "text": "he likes. He likes to joke that He has four kids at home counting himself. Oh, that's that's pretty cute. Yeah. These these glimmers of humanity within the shell of a horrible, horrible lamb."
+    },
+    {
+      "end_timestamp": 5533.0,
+      "id": "f04a6c83-c283-3538-ae4a-11439e0b7312",
+      "speaker": "Tyler Snodgrass",
+      "start_timestamp": 5529.0,
+      "text": "Yeah, I can't imagine what home life is like."
+    },
+    {
+      "end_timestamp": 5537.0,
+      "id": "352f1005-5c5c-3b43-b900-e53aa7de1255",
+      "speaker": "Dan",
+      "start_timestamp": 5533.0,
+      "text": "It's either very tranquil, or full of yelling. And I that's"
+    },
+    {
+      "end_timestamp": 5543.0,
+      "id": "0fde80ca-36e4-398b-b9df-792ce24246dc",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5537.0,
+      "text": "what I was thinking. Yeah, probably the latter. It's either he can't turn it off, or he gets all of his yelling out of the studio. Well,"
+    },
+    {
+      "end_timestamp": 5571.0,
+      "id": "b79fe843-a616-3750-a12b-dbce9d3e5331",
+      "speaker": "Dan",
+      "start_timestamp": 5543.0,
+      "text": "me and Jordan have been speculating that a lot of these products that he sells, especially like a Super Male Vitality is probably a ton of testosterone. And there's a really decent chance for fucking sure. Yeah, there's a decent chance that you know, all this aggression and stuff like that is on bridled uncontrolled testosterone. And that doesn't turn off when you leave your performance studio. That's true. That's dangerous. It's very dangerous."
+    },
+    {
+      "end_timestamp": 5572.0,
+      "id": "84ca66c5-ecfa-3faa-8eb9-589cabf2a720",
+      "speaker": "Tyler Snodgrass",
+      "start_timestamp": 5571.0,
+      "text": "Yeah. Is he a bald guy?"
+    },
+    {
+      "end_timestamp": 5577.0,
+      "id": "f586723e-c4e8-307e-91f8-df7baf01e916",
+      "speaker": "Dan",
+      "start_timestamp": 5572.0,
+      "text": "No, it's sort of finish hair. But he's not. He's got a decent head of hair on him. Okay. Yeah,"
+    },
+    {
+      "end_timestamp": 5584.0,
+      "id": "94208924-91d9-39a5-9a1c-145f7a471dfa",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5577.0,
+      "text": "that's too bad. I feel like he doesn't deserve it. As a balding man. I can say that. He"
+    },
+    {
+      "end_timestamp": 5596.0,
+      "id": "e0a17559-2e77-3f82-953c-1cf5c768d9a6",
+      "speaker": "Dan",
+      "start_timestamp": 5584.0,
+      "text": "would look okay. Bald. Probably. I would say that. Yeah, I think you'd look alright, bald. Okay. So I'll say that in his in his favor. Do you think you will go back and explore Alex Jones ever again?"
+    },
+    {
+      "end_timestamp": 5607.0,
+      "id": "7c373961-37a4-369e-a6b4-d5efe87c3153",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5596.0,
+      "text": "Not on purpose. I, I will say this, I think I might I will be more acutely aware and probably interested. If something about Alex Jones crosses my path."
+    },
+    {
+      "end_timestamp": 5609.0,
+      "id": "5b890bb4-70aa-3252-97de-e4d33b5da8be",
+      "speaker": "Dan",
+      "start_timestamp": 5607.0,
+      "text": "Sure if he is in the zeitgeist."
+    },
+    {
+      "end_timestamp": 5629.0,
+      "id": "84cea46b-56ec-3fe2-bab1-f3a548a7569a",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5609.0,
+      "text": "Definitely. Yeah. If there's a news story about him if people are tweeting or Facebooking about him. Sure. I think I will read that. Because now I might understand a little bit of content. I have some insight now. Yeah. Also, this has been very fun. I would love to at some point revisit another episode. Oh, for sure. With you?"
+    },
+    {
+      "end_timestamp": 5634.0,
+      "id": "08f35efc-face-3fdf-82c6-728a1c7a4a7f",
+      "speaker": "Dan",
+      "start_timestamp": 5629.0,
+      "text": "I would, I would, I would enjoy that quite a bit. Is ever in London again. Yeah."
+    },
+    {
+      "end_timestamp": 5637.0,
+      "id": "f3f29af1-7845-3c1e-b17e-4d564c05ee17",
+      "speaker": "Tyler Snodgrass",
+      "start_timestamp": 5634.0,
+      "text": "But I will say I will probably avoid Alex Jones."
+    },
+    {
+      "end_timestamp": 5644.0,
+      "id": "b59fd74e-71e8-3f15-83e7-2069e496c22f",
+      "speaker": "Dan",
+      "start_timestamp": 5637.0,
+      "text": "That's kind of one of our messages. Yeah. Avoid him like the plague. But please subscribe to us on iTunes."
+    },
+    {
+      "end_timestamp": 5658.0,
+      "id": "6116c5e9-1d2f-3eaa-a706-4e9bb73ec250",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5644.0,
+      "text": "You're doing it. You know, this is great. You are really summarizing things. You're providing some context debunking a few things, making some jokes along the way. laughing It is dumb is yes, this is this is probably the best way to consume Alex Jones. If I can say that with my limited experience."
+    },
+    {
+      "end_timestamp": 5713.0,
+      "id": "02aa8f57-ecb6-3069-ae9f-94117a6240ac",
+      "speaker": "Dan",
+      "start_timestamp": 5658.0,
+      "text": "I would agree with you. And I'm biased because I'm creating this. Sure. But I listened to his show pretty much every day. And you would have to I guess I would recommend no one else do that. But if you want to get some of it, listen to this. Yes, it's fun. I think everyone says, I'm gonna put on my Alex Jones voice for this. Okay, everyone's done. I can't do it. For everyone. See, I'm on the spot. I can't do it. Like everyone says that. You should create the show that you want to listen to. And that's what I've done here. legitimately, if I could listen to if someone else was doing this, I would listen to this fucking thing every day. That's great advice. Yeah, I love doing this so much. So thank you for all for listening. We do appreciate it very much. much again. Knowledge fight. It's on iTunes. You can follow us on Twitter at knowledge underscore fight. And knowledge fight@gmail.com If you want to get in touch with us, only if you're a cook though."
+    },
+    {
+      "end_timestamp": 5716.0,
+      "id": "798d6728-44ce-37a8-8c19-9bc0eb8154f9",
+      "speaker": "Unknown Speaker",
+      "start_timestamp": 5713.0,
+      "text": "Cooks only like so."
+    },
+    {
+      "end_timestamp": 5717.0,
+      "id": "f3f4aabc-c4c6-3227-96c1-2d84b0dd2527",
+      "speaker": "Dan",
+      "start_timestamp": 5716.0,
+      "text": "cooks in Prague. tardes Welcome."
+    },
+    {
+      "end_timestamp": 5719.0,
+      "id": "84887f94-6360-3929-acbf-d3b69c45819c",
+      "speaker": "Tyler Snodgrass",
+      "start_timestamp": 5717.0,
+      "text": "I'm surprised you didn't call it cockfight?"
+    },
+    {
+      "end_timestamp": 5731.0,
+      "id": "c47b9520-e23d-3863-a7a2-1fe9c9d10d0a",
+      "speaker": "Dan",
+      "start_timestamp": 5719.0,
+      "text": "No, it was gonna be brain battle. But inside of Info Wars, yeah, but knowledge fight one out in the end, only knowledge fight. Yeah, it's good. It's pretty good. It's good stuff. Yeah. Tyler, thanks for coming. This"
+    },
+    {
+      "end_timestamp": 5733.0,
+      "id": "13720d82-51bb-3a63-966e-38d46e41a7dc",
+      "speaker": "Tyler Snodgrass",
+      "start_timestamp": 5731.0,
+      "text": "has been so much fun. Thank you so much for having me."
+    },
+    {
+      "end_timestamp": 5738.0,
+      "id": "46351162-fb97-3b9f-ba70-3fd4c4ed731e",
+      "speaker": "Dan",
+      "start_timestamp": 5733.0,
+      "text": "We'll catch you next time. But until then, good luck and good night."
+    },
+    {
+      "end_timestamp": 5743.0,
+      "id": "384a0d21-acc9-3339-887a-0d8880b29459",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5738.0,
+      "text": "Andy in Kansas, you're on the air. Thanks for holding."
+    },
+    {
+      "end_timestamp": null,
+      "id": "1846964d-d9fb-3589-9626-1814a6d0ae44",
+      "speaker": "Andy In Kansas",
+      "start_timestamp": 5743.0,
+      "text": "Hello Alex, I'm a first time caller. I'm a huge fan. I love your work."
+    }
+  ],
+  "history": {
+    "original_format": "txt",
+    "type": "otter"
+  }
+}

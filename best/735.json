@@ -1,0 +1,3041 @@
+{
+  "audio_identifier": "KF_735",
+  "audio_url": "https://traffic.libsyn.com/secure/knowledgefight/Oct-12-2022.mp3",
+  "blocks": [
+    {
+      "end_timestamp": 59.0,
+      "id": "faaed71e-8bcd-3c0c-b581-a5cb0ec6db49",
+      "speaker": "Alex Jones",
+      "start_timestamp": 0.0,
+      "text": "Red Alert. Red alert. Red alert. Red alert. Red alert. Not not not not not not Knowledge Fight. Dan and Jordan. I am sweating. Knowledge fight dot com. It's time to pray. I have great respect for Knowledge Fight. Knowledge Fight. I'm sick of them posing as if they're the good guys saying we are the bad guys. Knowledge Fight. Dan and Jordan. Knowledge Fight. Need money. Andy in Kansas Andy in Andy Stop it Andy in Kan Andy in Kansas. Andy it's time to pray Andy in Kansas, you're on the air. Thanks for holding. Hello Alex I'm a first time caller I'm a huge fan. I love your work. Knowledge Fight. Knowledge Fight dot com. I love you."
+    },
+    {
+      "end_timestamp": 61.0,
+      "id": "d029e9b2-981d-3378-9a70-4b3e043ea03e",
+      "speaker": "Dan",
+      "start_timestamp": 59.0,
+      "text": "Hey, everybody, welcome back to Knowledge Fight. I'm Dan."
+    },
+    {
+      "end_timestamp": 62.0,
+      "id": "5563819b-84d3-3079-8312-8f3048ef69da",
+      "speaker": "Jordan",
+      "start_timestamp": 61.0,
+      "text": "I'm Jordan."
+    },
+    {
+      "end_timestamp": 68.0,
+      "id": "3b74471c-3ba1-3b28-a1f7-7d3633acc226",
+      "speaker": "Dan",
+      "start_timestamp": 62.0,
+      "text": "We're a couple dudes like to sit around, worship at the altar of Celine, sing My Way and talk a little bit about Alex Jones."
+    },
+    {
+      "end_timestamp": 70.0,
+      "id": "3807f4b2-8603-35a4-a067-8bd2041daa62",
+      "speaker": "Jordan",
+      "start_timestamp": 68.0,
+      "text": "Indeed we are Dan."
+    },
+    {
+      "end_timestamp": 73.0,
+      "id": "310f4f8e-3aaf-3675-81e9-1720e306e779",
+      "speaker": "Dan",
+      "start_timestamp": 70.0,
+      "text": "Regrets, I've had a few"
+    },
+    {
+      "end_timestamp": 75.0,
+      "id": "ab277a07-bfab-3f58-a07a-bd6b481828c2",
+      "speaker": "Jordan",
+      "start_timestamp": 73.0,
+      "text": "What is your regret spot today?"
+    },
+    {
+      "end_timestamp": 110.0,
+      "id": "d8cf992c-37a2-3965-b7f3-82271882960e",
+      "speaker": "Dan",
+      "start_timestamp": 75.0,
+      "text": "Actually, my regret spot today is kind of interesting. So interesting. Alex Jones, as we all know, lost a big, big, big verdict on Wednesday. Sure. And as is sort of tradition, because we put out too much content. The instant reaction that folks had I got a lot of messages about oh, there's gonna be an emergency episode tonight. Well, that was on Wednesday. Yeah. and on Wednesdays, Survivor happens. Sure. I mean, my friend Angela Lampsberry generally get together and watch Survivor although, we've not been able to it's already like three episodes and"
+    },
+    {
+      "end_timestamp": 112.0,
+      "id": "229ca421-9f6a-30b2-a4d9-6955c89f1ef2",
+      "speaker": "Jordan",
+      "start_timestamp": 110.0,
+      "text": "it's been a struggle. No, I understand. We've talked"
+    },
+    {
+      "end_timestamp": 121.0,
+      "id": "89a6e841-0924-329e-80c8-6b833b2f750b",
+      "speaker": "Dan",
+      "start_timestamp": 112.0,
+      "text": "so we have this whole thing of like everyone wants an emergency episode and simultaneously everyone's like, Hey, Dan, take a day off. torn between two worlds."
+    },
+    {
+      "end_timestamp": 122.0,
+      "id": "7d243924-b8f4-32c2-88c8-8cefbec2b19a",
+      "speaker": "Jordan",
+      "start_timestamp": 121.0,
+      "text": "It is a difficult situation."
+    },
+    {
+      "end_timestamp": 122.0,
+      "id": "aae5d6ab-c03b-3d66-90f5-7d3d03ec9a3e",
+      "speaker": "Dan",
+      "start_timestamp": 122.0,
+      "text": "So I went and watched Survivor and that's my brightspot. This season of Survivor pretty fun, got some fun characters on it. But also I went over and I got this enamel pin from Angela Lampsberry, this is Kevin from Up, the bird"
+    },
+    {
+      "end_timestamp": 122.0,
+      "id": "aae5d6ab-c03b-3d66-90f5-7d3d03ec9a3e",
+      "speaker": "Jordan",
+      "start_timestamp": 122.0,
+      "text": "Oh that makes sense. You love Kevin from Up, the bird"
+    },
+    {
+      "end_timestamp": 151.0,
+      "id": "23bf4e37-e714-3bfc-9e19-10a0f446edd2",
+      "speaker": "Dan",
+      "start_timestamp": 122.0,
+      "text": "My favorite thing. My favorite bird. So playful. Makes up for how bad Up is as a move, I said it"
+    },
+    {
+      "end_timestamp": 156.0,
+      "id": "95149d78-279e-3278-89a2-7d9b3a52024a",
+      "speaker": "Jordan",
+      "start_timestamp": 151.0,
+      "text": "That's dangerous. I think everybody remembers the first five minutes and then forgets the rest of it."
+    },
+    {
+      "end_timestamp": 162.0,
+      "id": "687ef5ae-ffb1-3ff6-8aaa-36b440f190ee",
+      "speaker": "Dan",
+      "start_timestamp": 156.0,
+      "text": "I have some troubling feelings about that movie as a whole. And that first five minutes was a problem,"
+    },
+    {
+      "end_timestamp": 163.0,
+      "id": "aad4122f-4342-375a-be42-9c120c23c947",
+      "speaker": "Jordan",
+      "start_timestamp": 162.0,
+      "text": "dark, I didn't ask for it."
+    },
+    {
+      "end_timestamp": 196.0,
+      "id": "306cc23c-5eb4-378f-9368-1f7210f63054",
+      "speaker": "Dan",
+      "start_timestamp": 163.0,
+      "text": "It's not the darkness of it. It's I have some unpopular opinions about whether or not their relationship was healthy. I did an entire podcast about this years and years ago back in stand up days I don't want to rehash it now but yeah, now's not the time. Kevin the bird. Saving grace. Still the best and I love this enamel pin and the fact that it has a stand on it because it's so big. can stand it up so that's good stuff. It's gonna be with me forever so thank youAngela Lampsberry I appreciate it absolutely. Bright spot."
+    },
+    {
+      "end_timestamp": 227.0,
+      "id": "81de664a-4f7f-3080-8e48-8ace233fa8e7",
+      "speaker": "Jordan",
+      "start_timestamp": 196.0,
+      "text": "My bright spot Dan is two albums got dropped, two on the same day. Very very good. Not sure if the same day but whatever. Freddie Gibbs album sure Freddie Gibbs killing it everybody has it for the past his last three albums they're like he's the best rapper he's pretty great. And then the Yeah Yeah Yeahs came back with a new album The yeah yeah yeahs. I know, and you know what they sound like?A a different band. It sounds more like Karen O's more recent stuff but it's great it's really good all right yeah, I like it I like them both"
+    },
+    {
+      "end_timestamp": 245.0,
+      "id": "c157ed0e-a5be-3652-878b-28ad94546e9f",
+      "speaker": "Dan",
+      "start_timestamp": 227.0,
+      "text": "I gotta be honest with you what the yeah yeah yeahs are right in that spot where like, I think I was in college when they were really popular. Sure. And I hated the people who were into quote, college rock, and they got put in that box. That's fair, but I do know Maps from rock band. This is not I should know,"
+    },
+    {
+      "end_timestamp": 249.0,
+      "id": "20e90a8c-23e1-3d65-ad95-16898bf81583",
+      "speaker": "Jordan",
+      "start_timestamp": 245.0,
+      "text": "we're all very excited for that. We're all really happy you know Maps from rock band"
+    },
+    {
+      "end_timestamp": 252.0,
+      "id": "9aa53ecd-a7ad-3fd7-8c28-bbfea71d824a",
+      "speaker": "Dan",
+      "start_timestamp": 249.0,
+      "text": "that's how I discovered"
+    },
+    {
+      "end_timestamp": 291.0,
+      "id": "9f27ad84-5600-343d-9c43-a6dda6af1b21",
+      "speaker": "Jordan",
+      "start_timestamp": 252.0,
+      "text": "they have a really interesting backstory. It's kind of fascinating you know that that New York pop? No, no, it would be dance punk scene from the with the rapture and LCD sound system and yeah yeah yeahs, all coming up at the same time release their ad their debut massive album on the same day as as a blueprint, the blueprint. And it was also 911. That was also the reason that I remember that specifically. It happened on 911 buried the lede a little bit there. That was my personal 911. Yeah,"
+    },
+    {
+      "end_timestamp": 351.0,
+      "id": "5a16801b-06db-379c-ba80-d8289ed2f760",
+      "speaker": "Dan",
+      "start_timestamp": 291.0,
+      "text": "I was actually, I just as you were saying that I got really deep into my head about, like, how much stuff I discovered through rock band. Sure. And honestly, like, my parents didn't like the Beatles because they were very druggie. And so there wasn't, there wasn't like that influence in my childhood, right. And I didn't explore a ton of like older music as I was coming up, right. Like a lot of the all of that energy got put into weird hip hop. Sure. And so like that I have a encyclopedic back log. You are a lunatic my friend. Ask my tattooist how St. Louis I am. Exactly. But look, I don't I don't have that about classic rock stuff. Sure. A lot of that is kind of like Sure. Big Blind Spot. We're old if Classic Rock is Yeah, yeah, yeah. It's what I was getting to is the Beatles. Yeah. When Beatles Rock Band came out. I didn't know most of those songs. And then Yesterday on there, I was like, I know this song. I just didn't know it was the Beatles."
+    },
+    {
+      "end_timestamp": 360.0,
+      "id": "7a710ed0-e8b9-310a-8da3-f6eed98d8dff",
+      "speaker": "Jordan",
+      "start_timestamp": 351.0,
+      "text": "Fascinating one he too. I am popular opinions about the Beatles and how much I despise them. Wow. But what you're gonna do? Well,"
+    },
+    {
+      "end_timestamp": 396.0,
+      "id": "7679921c-1724-3131-86ff-b3d68a1a2915",
+      "speaker": "Dan",
+      "start_timestamp": 360.0,
+      "text": "let's not get into it. Now. Let's do it. Another Now's not the time. So Jordan, Alex lost the case. Yeah. I've heard the verdict came in on Wednesday. And like I said, people tried to get me to not watch Survivor with my friend bastards. But I persisted in watching survivor and here we are. Excellent. We didn't want to do this on mic because we had run the risk of getting a bunch of champagne on my table. We have a bottle of champagne indeed that we are raising. This is a Argyle is the name of brute. Yeah. And it's also our guy on the fitting name Street here in Chicago in uptown. True"
+    },
+    {
+      "end_timestamp": 402.0,
+      "id": "ae9f3b75-694f-314f-aa38-9fbf1e9daee8",
+      "speaker": "Jordan",
+      "start_timestamp": 396.0,
+      "text": "love where you used to live on a lot of our a lot of our episodes recorded on our guy."
+    },
+    {
+      "end_timestamp": 418.0,
+      "id": "4cba4702-224b-33dd-8626-666685b621ae",
+      "speaker": "Dan",
+      "start_timestamp": 402.0,
+      "text": "Not true. Ainsley the street. Oh, shit. You're right. Over. Yeah, that was my old hood. Yeah, but the podcast started. So it's very fitting. And so yeah, we're having a little champagne. While we discussed this, sort of going back to our roots."
+    },
+    {
+      "end_timestamp": 425.0,
+      "id": "07717452-9c2a-3ddb-80c8-04034f7b2e80",
+      "speaker": "Jordan",
+      "start_timestamp": 418.0,
+      "text": "I wish I could get Bogel job champagne, but I understand. But if wine Yes."
+    },
+    {
+      "end_timestamp": 431.0,
+      "id": "d08e7cfb-d3b4-3c46-ae77-1c68f5830f38",
+      "speaker": "Dan",
+      "start_timestamp": 425.0,
+      "text": "I feel like that wasn't the first wine. We drank. No,"
+    },
+    {
+      "end_timestamp": 434.0,
+      "id": "7c019351-d300-3ae4-bee8-4c2a73e2ef82",
+      "speaker": "Jordan",
+      "start_timestamp": 431.0,
+      "text": "no. The first wine we drank was very cheap."
+    },
+    {
+      "end_timestamp": 471.0,
+      "id": "b2d43da0-60e2-3777-a5e5-b5343e9c12f9",
+      "speaker": "Dan",
+      "start_timestamp": 434.0,
+      "text": "So it was Bogle. Yeah. Anyway, Jordan, today we're gonna be talking about the events of the 12. Yeah, that is the day of the announcement of the verdict is Wednesday. And so there's a couple things that we're going to be covering. Certainly, this will be incomplete. We'll have an episode that comes out this weekend. That will be a little bit of a special thing for folks course. But then on Monday, I hope to get into a little bit more even of the aftermath. But I decided that what we will do is we will talk about Alex's response to the verdict. A little bit of the War Room. Yeah. And then Alex did a special show that evening. Right. And so we'll talk about that I hear what"
+    },
+    {
+      "end_timestamp": 475.0,
+      "id": "d59aeed7-8664-3ea7-abc6-5a6de0eb4b6d",
+      "speaker": "Jordan",
+      "start_timestamp": 471.0,
+      "text": "you're saying is thoroughness is the enemy of immediacy. That's what I'm hearing. Yeah, generally,"
+    },
+    {
+      "end_timestamp": 492.0,
+      "id": "f4c265b5-f30d-3c43-b316-d16ddf1f183c",
+      "speaker": "Dan",
+      "start_timestamp": 475.0,
+      "text": "and sometimes things need to marinate a little bit. That's how it works. So we're gonna get into this talking about October 12. And the bullshit that happens. But before we do, let's take a little moment say hello to some new ones. Oh, that's great to do. So first D of teamStats. Thank you so much. You are now policy wonk."
+    },
+    {
+      "end_timestamp": 493.0,
+      "id": "31604552-065d-36ab-ba5a-52753fd108b5",
+      "speaker": "Alex Jones",
+      "start_timestamp": 492.0,
+      "text": "I'm a policy wonk, thank"
+    },
+    {
+      "end_timestamp": 494.0,
+      "id": "2aa16b39-16ca-3636-8a21-9cdd0b05c2ff",
+      "speaker": "Jordan",
+      "start_timestamp": 493.0,
+      "text": "you very much."
+    },
+    {
+      "end_timestamp": 500.0,
+      "id": "8e1812bf-9997-34cc-af4d-5bbc76f9c9b7",
+      "speaker": "Dan",
+      "start_timestamp": 494.0,
+      "text": "Thank you so much too high to Briana from Rob, thank you so much. You are now a policy wonk."
+    },
+    {
+      "end_timestamp": 501.0,
+      "id": "bed90ae9-6f7f-305a-b2eb-16ceedaa1bbe",
+      "speaker": "Alex Jones",
+      "start_timestamp": 500.0,
+      "text": "I'm a policy wonk, thank"
+    },
+    {
+      "end_timestamp": 502.0,
+      "id": "15aa2f01-834d-3084-ba8f-4744d5bb9b91",
+      "speaker": "Jordan",
+      "start_timestamp": 501.0,
+      "text": "you very much."
+    },
+    {
+      "end_timestamp": 509.0,
+      "id": "51fb32bd-6599-38dd-ade0-5d29f641164b",
+      "speaker": "Dan",
+      "start_timestamp": 502.0,
+      "text": "Next, kudos to judge for her restraint and not throwing a gavel at Alex, thank you so much. You're now a policy wonk."
+    },
+    {
+      "end_timestamp": 510.0,
+      "id": "078f8d0e-6e5d-3083-9bce-cc227173beb7",
+      "speaker": "Alex Jones",
+      "start_timestamp": 509.0,
+      "text": "I'm a policy wonk,"
+    },
+    {
+      "end_timestamp": 511.0,
+      "id": "a372a734-0de9-3374-8d80-40b42731b701",
+      "speaker": "Jordan",
+      "start_timestamp": 510.0,
+      "text": "thank you very much. And"
+    },
+    {
+      "end_timestamp": 515.0,
+      "id": "9bc0aae1-2a9b-3939-b9f2-3988fd889349",
+      "speaker": "Dan",
+      "start_timestamp": 511.0,
+      "text": "I should be clear that was about the Texas case. That's how far back I imagined. Let's,"
+    },
+    {
+      "end_timestamp": 518.0,
+      "id": "d303c378-b4a3-3c3f-aa82-2289afdb2e59",
+      "speaker": "Jordan",
+      "start_timestamp": 515.0,
+      "text": "let's not worry about it. Next. Robert. I"
+    },
+    {
+      "end_timestamp": 522.0,
+      "id": "6d63177a-fc22-37b6-aba6-dd04ec9ff6b2",
+      "speaker": "Dan",
+      "start_timestamp": 518.0,
+      "text": "love you. That's from Andhra, thank you so much. You are now policy walk. I'm a policy"
+    },
+    {
+      "end_timestamp": 527.0,
+      "id": "876422ac-e1b1-3d4f-ae74-9cd051e2abe7",
+      "speaker": "Jordan",
+      "start_timestamp": 522.0,
+      "text": "wonk. Thank you very much. And I hope you know, Robert and this isn't a weird thing. That's not a parasocial."
+    },
+    {
+      "end_timestamp": 533.0,
+      "id": "fffa830e-7433-3794-a787-851bfa4f0aa9",
+      "speaker": "Dan",
+      "start_timestamp": 527.0,
+      "text": "Yeah. That'd be creepy. Yeah. And the Goblin King of England. Thank you so much for an hour policy walk."
+    },
+    {
+      "end_timestamp": 534.0,
+      "id": "759bd73a-5df0-3819-9542-e8e14d6c4320",
+      "speaker": "Alex Jones",
+      "start_timestamp": 533.0,
+      "text": "I'm a policy wonk."
+    },
+    {
+      "end_timestamp": 550.0,
+      "id": "1ee3f302-d706-344e-92bc-9a0a6a8ca836",
+      "speaker": "Dan",
+      "start_timestamp": 534.0,
+      "text": "Thank you very much is Paul Joseph Watson. According to some Oh, okay. We got to technocrat in the mixture. Okay, so, Sister Petra. Oh, no. Oh, in Paris and Prince. Oh, it says pronounce patria. Oh."
+    },
+    {
+      "end_timestamp": 554.0,
+      "id": "561d1031-5abd-3828-a008-0c80f73ed78f",
+      "speaker": "Jordan",
+      "start_timestamp": 550.0,
+      "text": "You started reading too fast. All right, let's edit that part out"
+    },
+    {
+      "end_timestamp": 564.0,
+      "id": "fba0efa4-3425-3603-b750-68c35696618c",
+      "speaker": "Dan",
+      "start_timestamp": 554.0,
+      "text": "SR patron for being my fellow walkin shouting and learning with me. As from elke, thank you so much. You're now a technocrat."
+    },
+    {
+      "end_timestamp": 618.0,
+      "id": "4c790a62-85fb-3410-8ec1-00eb9f6c7b38",
+      "speaker": "Alex Jones",
+      "start_timestamp": 564.0,
+      "text": "I'm a policy wonk. I have risen above my enemies. I might quit tomorrow actually. Just gonna take a little break now. A little breaky for me. And then we're going to come back and I'm going to start the show over, but I'm the devil. Fuck you. Fuck you. I got plenty of words for you. But at the end of the day, Fuck you and your new world order and fuck the horse she wrote in on and all your shit. Maybe today's broadcast. Maybe I'll just be gone. Once maybe five years. Maybe I'll walk out of here tomorrow, and you never see me again. That's really what I want to do. I never want to come back here again. I apologize to the crew and the listeners yesterday that I was legitimately having breakdowns on air. I'll be better tomorrow."
+    },
+    {
+      "end_timestamp": 629.0,
+      "id": "8c09802a-2afb-3fcc-838a-6276b6a19e9f",
+      "speaker": "Dan",
+      "start_timestamp": 618.0,
+      "text": "He may never have to come back here tomorrow. That's a good point at some point. He's better today. No. So before we get into this, Jordan, I have another context drop for you to enjoy."
+    },
+    {
+      "end_timestamp": 636.0,
+      "id": "2b9729bb-7012-34c1-9cc8-92501bf78568",
+      "speaker": "Alex Jones",
+      "start_timestamp": 629.0,
+      "text": "I could fart and have a million viewers and I'm not I'm not bragging. It's just true. Because you're awesome. Folks. You tune in. We don't fart here. We're giving you real information."
+    },
+    {
+      "end_timestamp": 637.0,
+      "id": "b4889a51-3845-30c0-a279-e8cc142b2c4f",
+      "speaker": "Dan",
+      "start_timestamp": 636.0,
+      "text": "We don't fart here."
+    },
+    {
+      "end_timestamp": 645.0,
+      "id": "cebce144-948b-3bcd-81f0-a0d8168855bf",
+      "speaker": "Jordan",
+      "start_timestamp": 637.0,
+      "text": "We don't fart here. We don't fart here. If you want that shit. You go to only fans. I go to only fans for farts."
+    },
+    {
+      "end_timestamp": 649.0,
+      "id": "c389db1b-a9c0-34b1-865f-49ee8690698b",
+      "speaker": "Dan",
+      "start_timestamp": 645.0,
+      "text": "Alex Oh, not only fans. No, don't don't."
+    },
+    {
+      "end_timestamp": 652.0,
+      "id": "b2594ea5-5ad5-39d7-858b-3392af769100",
+      "speaker": "Jordan",
+      "start_timestamp": 649.0,
+      "text": "Well, I mean, Infowars is gonna go away. Why not info fans?"
+    },
+    {
+      "end_timestamp": 667.0,
+      "id": "ce228eab-db0d-3429-9f27-f0f0ff204b06",
+      "speaker": "Dan",
+      "start_timestamp": 652.0,
+      "text": "There's an there's an interesting aspect of this that, like, I think Alex could fart and have just the audience that he does, because the things that he does aren't any more informative than far. That's true. That's true. These people are just stuck. It"
+    },
+    {
+      "end_timestamp": 693.0,
+      "id": "1cc0de83-f240-3022-b2b2-1c2ea92abfbf",
+      "speaker": "Jordan",
+      "start_timestamp": 667.0,
+      "text": "reminds me of a French man, I believe was called Le Petit man. And he would fart. But he was really really good at it. He could make a bunch of different impressions of animals through his farting. He was famous for having an enema every morning. He farted for kings, my friend. That is how great he was. He was an entertainer who farted his ass off."
+    },
+    {
+      "end_timestamp": 720.0,
+      "id": "64d14a8b-fa7e-3e62-8409-4facc266f10e",
+      "speaker": "Dan",
+      "start_timestamp": 693.0,
+      "text": "All right. Well, Alex is fighting for his life. That's a good point. So we all know why we're here today. So I decided to just blow past the first few hours of bullshit and rambling about nukes on Alex's show to get down to when the verdict is red. Obviously, this happened to literally right after Alex had signed off in the fourth hour of his show. That is this is him going to break for commercials at 16. After the top of the hour. He just leaves."
+    },
+    {
+      "end_timestamp": 744.0,
+      "id": "719fc48f-9708-3fc4-a3ef-43c9154d2fbf",
+      "speaker": "Alex Jones",
+      "start_timestamp": 720.0,
+      "text": "Get your X ray, get your Vitamin Mineral Fusion. Get it all at Infowars store.com. All right, Jay Dyer takes over the next 45 minutes then I would Schroyer like I said, we're back at 6pm Central. Please magnify the broadcast. You are the power. You're the reason we're successful. Share the links tonight. Tell folks tune into this emergency broadcast."
+    },
+    {
+      "end_timestamp": 753.0,
+      "id": "42f5289e-6d7d-3e08-9d05-adeea49cc152",
+      "speaker": "Dan",
+      "start_timestamp": 744.0,
+      "text": "Naturally, Alex did not leave and Jay Dyer got the bump. Because after the commercial break, Alex comes back. And here's where we are."
+    },
+    {
+      "end_timestamp": 787.0,
+      "id": "423912b7-2105-329a-9629-0dda79081fba",
+      "speaker": "Alex Jones",
+      "start_timestamp": 753.0,
+      "text": "All right. Jay Dyer was set to host. They just handed me a note during the break, what to say. And it is vertic will be read in about two minutes. So that's from my lawyer at norm Pattice. It's being announced they had a total show trial. They are now having the Secretary of State in Texas said they want to sue me for questioning the election saying I unleashed hell on them. Didn't question the Texas election Republicans won. But just total made up crap."
+    },
+    {
+      "end_timestamp": 798.0,
+      "id": "b87d2983-8113-3ed3-97ae-6ce49c527a31",
+      "speaker": "Dan",
+      "start_timestamp": 787.0,
+      "text": "Oof. That's an unfortunate reveal of Alex's true feelings. He didn't question the Texas election because Republicans won done sure sounds like someone who's driven by concerns that are sincere about election integrity."
+    },
+    {
+      "end_timestamp": 810.0,
+      "id": "15518463-9fb7-3783-8e50-e7478c1a7fea",
+      "speaker": "Jordan",
+      "start_timestamp": 798.0,
+      "text": "Hey, now that might be him revealing too much and an offhand comment that he didn't think anybody would pay attention to is above the left right paradigm totally because Republicans won. And that's when you're above the left, right paragraph."
+    },
+    {
+      "end_timestamp": 838.0,
+      "id": "592c49c8-063f-38da-b283-cf1d1aa37efc",
+      "speaker": "Dan",
+      "start_timestamp": 810.0,
+      "text": "So about this, the Texas Secretary of State came out and made some comments about how severe the harassment that election workers had been getting. Right. Right. And Alex Jones is, you know, definitely a part of that. Yeah, he's mentioned he's not gonna get sued for this. That's that's not I don't think that was even in. I read an article in The Hill about it. That wasn't even like a part of like he should face consequences for this. Realize that there is this consequence for Right,"
+    },
+    {
+      "end_timestamp": 842.0,
+      "id": "cb8f5714-8bad-3df0-8000-cfc5190e213d",
+      "speaker": "Jordan",
+      "start_timestamp": 838.0,
+      "text": "right. We're already we're already there. Yeah, we've got the consequences down."
+    },
+    {
+      "end_timestamp": 851.0,
+      "id": "e0b5b9e2-3b31-3e43-9f3a-9893136c0781",
+      "speaker": "Dan",
+      "start_timestamp": 842.0,
+      "text": "Yeah. So Alex goes to the verdict. And I will say to his credit, he is not under any pretense that this is going to go well, okay."
+    },
+    {
+      "end_timestamp": 894.0,
+      "id": "35c10a62-7c04-3e97-9f7a-477ce0a8140f",
+      "speaker": "Alex Jones",
+      "start_timestamp": 851.0,
+      "text": "But just totally made up crap. Where a public official, including an FBI agent never said his name. I don't know who was named, didn't even know who he was. So he sued me, suing me for $550 million. As part of this, they want 8.2 5 billion just for the first count, there's four counts. That's what the lawyers asked for last week. For questioning, Sandy Hook never said the name of the FBI agent. So now bureaucrats can sue you under this precedent for asking questions. So they're about to announce the verdict. The jury took like four days of deliberation time on the weekend to come back here is the judge. Let's go to the audio of the biggest show trial in US history with the jury well, we'll shoot away that shot through it. I don't think they will. They're already told I'm guilty here. This"
+    },
+    {
+      "end_timestamp": 899.0,
+      "id": "7562af04-47c1-34b1-9e58-32f6b2cbbe77",
+      "speaker": "Dan",
+      "start_timestamp": 894.0,
+      "text": "is like see if they saw through it. See if we we pilled them. I don't think we did. Hey, let's"
+    },
+    {
+      "end_timestamp": 913.0,
+      "id": "d1228ed3-6292-3083-8830-e3fb0acc18ab",
+      "speaker": "Jordan",
+      "start_timestamp": 899.0,
+      "text": "throw This one out there, I think norm shanked it went well, it might as well have been him, him being like, I'm gonna get down on my knees for a little while. I'm gonna pray into this microphone. But the news is going to be bad. But at"
+    },
+    {
+      "end_timestamp": 920.0,
+      "id": "3b0c8b8b-dd91-3fe8-a62c-7c1267cc2fb7",
+      "speaker": "Dan",
+      "start_timestamp": 913.0,
+      "text": "the same time, I'm under no pretense that this is i There's no good news coming, folks."
+    },
+    {
+      "end_timestamp": 926.0,
+      "id": "3dbe93f3-29b4-3978-b95c-d9da74a2885a",
+      "speaker": "Jordan",
+      "start_timestamp": 920.0,
+      "text": "Let me ask you folks, you know how much I believe in God? Well, I don't believe in him enough to think he's gonna help me out here."
+    },
+    {
+      "end_timestamp": 934.0,
+      "id": "03eac7a3-ec10-3fbe-948a-032db5b3a61a",
+      "speaker": "Dan",
+      "start_timestamp": 926.0,
+      "text": "I am not gonna get a miracle. No. So he has a prediction about this. He actually he has some some numbers in mind. All right, is pleased?"
+    },
+    {
+      "end_timestamp": 950.0,
+      "id": "7056e087-17f2-325e-8c82-8cdfc70cb317",
+      "speaker": "Alex Jones",
+      "start_timestamp": 934.0,
+      "text": "Probably $200 million. We don't have any money. So it's all big joke. This is their trial. This is demo. There's Blumenthal son, the anti gun Democrat running all this?"
+    },
+    {
+      "end_timestamp": 961.0,
+      "id": "f25a83fe-77be-3c4a-aa55-d3d28e3b54f4",
+      "speaker": "Dan",
+      "start_timestamp": 950.0,
+      "text": "Yeah. So this is this is a good way to experience it. One of the lawyers is the son of Senator Blumenthal. And so of course, this is all because of the"
+    },
+    {
+      "end_timestamp": 966.0,
+      "id": "1386f5f5-16d2-30ee-be2f-04139818804f",
+      "speaker": "Jordan",
+      "start_timestamp": 961.0,
+      "text": "Yeah, Nana now that that makes perfect sense is a"
+    },
+    {
+      "end_timestamp": 996.0,
+      "id": "69cb6f75-e94d-37ce-9ec5-85c6585fe8ca",
+      "speaker": "Dan",
+      "start_timestamp": 966.0,
+      "text": "convincing thing that Alex is saying, right? And I find myself persuaded. I mean, it's obvious. So this is a 200 million is what he's saying. He thinks, sure. He does say that he had an all hands meeting, like a couple days before, and he predicted a billion. So I don't know if there was something about the judges body language that talked him down from that billion prediction to 200 million, right. But as the 900 million plus verdict comes along, he's like, I"
+    },
+    {
+      "end_timestamp": 1002.0,
+      "id": "04385755-baf4-3602-a24d-6a0851bafaf3",
+      "speaker": "Jordan",
+      "start_timestamp": 996.0,
+      "text": "always knew it was gonna be a bell. Yeah, well, it's nice to be an asshole for once and then all of a sudden be like, Ah, so yeah, it was right."
+    },
+    {
+      "end_timestamp": 1006.0,
+      "id": "9a2ffc2d-b092-3f10-8322-17985896db4d",
+      "speaker": "Dan",
+      "start_timestamp": 1002.0,
+      "text": "It's also nice to just play fast and loose with prediction. If,"
+    },
+    {
+      "end_timestamp": 1018.0,
+      "id": "43936534-03f5-35ca-b149-c0cd73d3abd0",
+      "speaker": "Jordan",
+      "start_timestamp": 1006.0,
+      "text": "if the only hashtag for Alex Jones was right, was him predicting he would lose a billion dollars? I would I would agree. I'd be like, hashtag Alex Jones was right."
+    },
+    {
+      "end_timestamp": 1023.0,
+      "id": "057f150f-7973-3833-94ff-6960dbda71fa",
+      "speaker": "Dan",
+      "start_timestamp": 1018.0,
+      "text": "To be fair, I'm not sure there's any public version of him predicting that"
+    },
+    {
+      "end_timestamp": 1026.0,
+      "id": "c2894841-fa86-33c0-b6cd-8bfef70f9aa2",
+      "speaker": "Jordan",
+      "start_timestamp": 1023.0,
+      "text": "outside. That's fair. That's fair."
+    },
+    {
+      "end_timestamp": 1031.0,
+      "id": "28100da5-5e02-34f8-84d7-2a1e9590b0b7",
+      "speaker": "Dan",
+      "start_timestamp": 1026.0,
+      "text": "So Alex had some feelings about what's going on in this courtroom, and they're pretty troubling."
+    },
+    {
+      "end_timestamp": 1033.0,
+      "id": "cb73e966-8e2a-3628-8312-b859b130484f",
+      "speaker": "Court Clerk (735)",
+      "start_timestamp": 1031.0,
+      "text": "Would you please pass the verdicts to me?"
+    },
+    {
+      "end_timestamp": 1048.0,
+      "id": "b94fcbfe-d4be-3dcf-8115-ee2af68fa4de",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1033.0,
+      "text": "And you can be seated. This is them. absolving themselves all the war crimes, everything. Sorry, when did you use good, I'm bad."
+    },
+    {
+      "end_timestamp": 1064.0,
+      "id": "6ed7e6cf-8288-3fd0-945b-44960c9220e3",
+      "speaker": "Dan",
+      "start_timestamp": 1048.0,
+      "text": "So this is a weird comment, because in a way, what he's suggesting is that he's some kind of an unwilling Christ figure for the media. By sacrificing him. They're purging their own sin and casting it onto Alex. But Alex hates the media, and he doesn't want their sin. So this is just bizarre."
+    },
+    {
+      "end_timestamp": 1088.0,
+      "id": "fe4bc56f-64eb-3940-ab92-ec3c4c9ca42c",
+      "speaker": "Jordan",
+      "start_timestamp": 1064.0,
+      "text": "Yeah. Yeah. I mean, this. So wait, so Alex has hated the mainstream media for forever for doing things that he insists that he never does, right. However, the mainstream media has apparently chosen him as the avatar for all the bad things they do that he does. Right. Right. So he's admitting that he does as"
+    },
+    {
+      "end_timestamp": 1098.0,
+      "id": "6492b8b4-8c95-3db6-b6f7-be7221990601",
+      "speaker": "Dan",
+      "start_timestamp": 1088.0,
+      "text": "I will. I don't know. No, not I don't think so. He is without sin. That's why he must be the vessel for their sin."
+    },
+    {
+      "end_timestamp": 1108.0,
+      "id": "cdfe1b40-fd0e-3d1e-9dc6-a32329274fb0",
+      "speaker": "Jordan",
+      "start_timestamp": 1098.0,
+      "text": "They don't tell that about the real Christ story. He's kind of an asshole when he killed a kid. I mean, one day well, I mean, he fought dragons. He killed a kid. He brought the kid back to life though."
+    },
+    {
+      "end_timestamp": 1115.0,
+      "id": "60ba24df-6b6c-3455-b932-e3e34725e573",
+      "speaker": "Dan",
+      "start_timestamp": 1108.0,
+      "text": "Whatever the case Alex does sincerely look at this as like I am. Christ blusher"
+    },
+    {
+      "end_timestamp": 1137.0,
+      "id": "2d5aac19-d340-3297-a101-62fb05d67942",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1115.0,
+      "text": "on the verge of nuclear war. This is happening. I questioned the mass shooting. I questioned Jussie Smollett WMDs in Iraq I'm a thought criminal judge found me guilty fool the jury how guilty I was."
+    },
+    {
+      "end_timestamp": 1152.0,
+      "id": "4631bdcf-9125-3366-9848-284e9f7b8552",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1137.0,
+      "text": "He's pausing to give the media time they all dial in to their full effect. Try to give credibility to the corporate system again, which they'll never bring back. It's a dinosaur trying to be resurrected. Come on, crucify me. Let's get it going."
+    },
+    {
+      "end_timestamp": 1172.0,
+      "id": "26bfab0f-a0a3-32bf-bead-4ea8aee775b9",
+      "speaker": "Dan",
+      "start_timestamp": 1152.0,
+      "text": "I really feel like he's getting impatient with the process and just being like, well, I'm doing a show. And yeah, I'm tuning in for the verdict. So I can do like some sort of a pageant about it. Sure. And there's lols here and I have to fill that time right right on the show, right. And that's kind of a tension No, no, no."
+    },
+    {
+      "end_timestamp": 1188.0,
+      "id": "4c96b168-c27e-38e4-8836-cab11e70d4c9",
+      "speaker": "Jordan",
+      "start_timestamp": 1172.0,
+      "text": "So what you should do in the trial where the point is you made a bunch of money off of hurting these people is try and make a lot of money off of hurting them when they Oh, no, that's bad. Well, that's"
+    },
+    {
+      "end_timestamp": 1193.0,
+      "id": "b34398b3-d497-378e-acb9-5f3a75081f28",
+      "speaker": "Dan",
+      "start_timestamp": 1188.0,
+      "text": "pretty much what's gonna be happening. I mean, here's a plug in the middle of waiting for the number odd"
+    },
+    {
+      "end_timestamp": 1210.0,
+      "id": "48ad075c-9b32-38d1-beca-b588f5c71ca8",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1193.0,
+      "text": "people in the static their rule, just countries over. So proud of our work. I'm so proud of your support. Get to your appeals now. They won't shut us down. You support us infowar store.com Save infowars.com Donate now fight these monsters?"
+    },
+    {
+      "end_timestamp": 1222.0,
+      "id": "0f5a8fa8-e10a-33b1-bf7b-382661b4da8e",
+      "speaker": "Dan",
+      "start_timestamp": 1210.0,
+      "text": "No. I mean, you know, there's downtime the court they're shuffling papers around the bailiffs coming up to get the papers and what have you want to throw in a little saving for wars icon baby. And"
+    },
+    {
+      "end_timestamp": 1233.0,
+      "id": "a29ebc3e-8ffa-3ef7-858d-dbbd090a2a9e",
+      "speaker": "Jordan",
+      "start_timestamp": 1222.0,
+      "text": "if he was in the courtroom while the bailiff was shuffling papers around, he'd be like, I gotta go outside. So I can say that people need to donate money before the verdict is read"
+    },
+    {
+      "end_timestamp": 1257.0,
+      "id": "574a8fb2-93c0-3f87-abd0-4104fe5589b5",
+      "speaker": "Dan",
+      "start_timestamp": 1233.0,
+      "text": "also buy food. Yeah, absolutely. Absolutely. There's a there's a weird thing where he's saying like, the judge is pausing in order to get the media to tune in for maximum impact, right. He knows that more people are tuning in to him to see his reaction to the total verdict. Totally doing these like plugs in the law. But yeah, it's playing the same game he's accusing the court of doing I will"
+    },
+    {
+      "end_timestamp": 1284.0,
+      "id": "1f564f86-a087-340d-a40f-84906a5746a1",
+      "speaker": "Jordan",
+      "start_timestamp": 1257.0,
+      "text": "give the judge perhaps some of the most credit that a reactionary person as myself can give, which is that she read pages upon pages like 15 pages, I don't know how many pages you read them so quietly, didn't laugh didn't say a word did show it emotion. She was reading out a billion dollars and was like a billion dollars you know, interesting"
+    },
+    {
+      "end_timestamp": 1296.0,
+      "id": "e89c6dd4-c0e2-3d29-a3ac-27f750115dee",
+      "speaker": "Dan",
+      "start_timestamp": 1284.0,
+      "text": "you know what the you have to do to pass the secondary bar that gets you to be a judge just faceless. Yeah, you have to do is you have to wear one of those clear helmets with the scorpion and oh, that's"
+    },
+    {
+      "end_timestamp": 1301.0,
+      "id": "87381dc7-a679-3908-90d2-9b954d2b5e05",
+      "speaker": "Jordan",
+      "start_timestamp": 1296.0,
+      "text": "a good idea. No reaction whatsoever. Exactly. That's smart. Yeah, smart. Yeah, it'd"
+    },
+    {
+      "end_timestamp": 1304.0,
+      "id": "5734f4c8-9c6f-324f-a496-42f43b1de470",
+      "speaker": "Dan",
+      "start_timestamp": 1301.0,
+      "text": "be able to keep a real stiff upper lip"
+    },
+    {
+      "end_timestamp": 1318.0,
+      "id": "34151596-3d33-3ed9-8962-44a0448bf755",
+      "speaker": "Jordan",
+      "start_timestamp": 1304.0,
+      "text": "I swear I don't know if I could read that first page. She read the first page as an adult a human adult. And it said $120 million it she did not immediately go"
+    },
+    {
+      "end_timestamp": 1333.0,
+      "id": "3b6b76fb-3544-3902-9763-59560c59b5aa",
+      "speaker": "Dan",
+      "start_timestamp": 1318.0,
+      "text": "you have a job position and an office share all that but you are human. Yeah. And it's it seems tough it may be you don't laugh a miracle it to go Yeah. Something like Whoa Nelly or make some facial like"
+    },
+    {
+      "end_timestamp": 1337.0,
+      "id": "111404e5-914a-33c8-be1a-d641c5052250",
+      "speaker": "Jordan",
+      "start_timestamp": 1333.0,
+      "text": "nothing nothing. She was dead. It was it was amazing pro Yeah."
+    },
+    {
+      "end_timestamp": 1356.0,
+      "id": "e0d71cd8-7e84-3650-adad-9314f9128b30",
+      "speaker": "Dan",
+      "start_timestamp": 1337.0,
+      "text": "So anyway, Alex, is he saying is this two years of appeals and that may be fairly close to accurate in terms of how the projection of how the process could work. But he also is losing faith that they're going to read the verdict. Oh, yeah, he's getting so annoyed."
+    },
+    {
+      "end_timestamp": 1391.0,
+      "id": "963423a0-3a04-332a-a57c-b7266821a3ac",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1356.0,
+      "text": "Save infowars.com Infowars store.com That's how you resist getting great products at the same time. We will get appeal this we're in such tyranny they'll probably say no on the appeal but two years left, whatever or the nuclear war doesn't even matter. It shows how tone deaf these people are. But I wanted to air report I said I would get to it I didn't. Whether weaponization hurricane Ian Of course 5g Control your body they want to poison injection control your body they want to control the weather. And they admit they're doing it all but they say it's a conspiracy theory and we talk about it. Alright, so we can pretty well wait are coming back. Oh, no."
+    },
+    {
+      "end_timestamp": 1395.0,
+      "id": "2afdd4a5-3d2d-39e8-8f59-3b63b3037ad8",
+      "speaker": "Dan",
+      "start_timestamp": 1391.0,
+      "text": "Gotta push back that weather."
+    },
+    {
+      "end_timestamp": 1410.0,
+      "id": "dacb4158-e7e4-38d3-8f37-613b08b6c35a",
+      "speaker": "Jordan",
+      "start_timestamp": 1395.0,
+      "text": "I mean, if here's the problem, if weather weapons are real, right? Honestly, losing a billion dollars doesn't seem that important to me. I'd be like, they have weather weapons. All is all bets are off"
+    },
+    {
+      "end_timestamp": 1424.0,
+      "id": "ad0bf77b-14d8-3bdd-aa64-3e0947f053a7",
+      "speaker": "Dan",
+      "start_timestamp": 1410.0,
+      "text": "if Alex's shit was real at all, there's so many more important things to do than Amelia who cares navel gaze total your your trial? Yeah, absolutely. But no it is what it is."
+    },
+    {
+      "end_timestamp": 1430.0,
+      "id": "44ec2bcf-e31f-3eef-af60-9c4f91f2d600",
+      "speaker": "Jordan",
+      "start_timestamp": 1424.0,
+      "text": "Why are you mad about millions of dollars when 90% of the population is going to be dead soon?"
+    },
+    {
+      "end_timestamp": 1451.0,
+      "id": "c261856e-6199-3dcb-9def-5a6d072c7b65",
+      "speaker": "Dan",
+      "start_timestamp": 1430.0,
+      "text": "Well yeah nuclear war millions of people being killed by the COVID vaccine whether whether that's the whole thing boy, it's severe. But also look at this court he's not having a good time. So he is he's having a great time he's very poor. That's not good. Just bear with me alright"
+    },
+    {
+      "end_timestamp": 1464.0,
+      "id": "4fa23f91-1b37-3dab-b515-1e1f46728fca",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1451.0,
+      "text": "corrupt guilty system wants to scapegoat me as the bad guy when are the bad guys no one believes them. Everybody hates him that has happened brain there are systems over they know it they're in full panic mode. This is exactly what I expected."
+    },
+    {
+      "end_timestamp": 1469.0,
+      "id": "c167e8f3-adf5-3583-b035-c646f92d6ff6",
+      "speaker": "Dan",
+      "start_timestamp": 1464.0,
+      "text": "It's very busy there's a pump up next to it there's positive like Yeah, yeah all right. They're the bad guy. I"
+    },
+    {
+      "end_timestamp": 1474.0,
+      "id": "d5496af8-4bcc-3bef-87c7-587e0dcf54a8",
+      "speaker": "Jordan",
+      "start_timestamp": 1469.0,
+      "text": "knew I was walking into the lions den I'm not surprised there are lions there. Yeah, I got it. And"
+    },
+    {
+      "end_timestamp": 1497.0,
+      "id": "e07694b5-7da1-3c1e-84fc-26c02cefd653",
+      "speaker": "Dan",
+      "start_timestamp": 1474.0,
+      "text": "you know we talked about this a bit this dynamic of Alex interpreting consequences and they negative feedback as virtue as symbols of virtue right and so for this it's like it's basically a revealing of how virtuous yeah hey, yeah, well in understood in Info Wars world, this is like, how over the target Am I a billion dollars okay, target."
+    },
+    {
+      "end_timestamp": 1510.0,
+      "id": "83e13207-b9a8-3ba9-9c76-d16869565523",
+      "speaker": "Jordan",
+      "start_timestamp": 1497.0,
+      "text": "I have 906 See 5 million good person units that I was awarded in this trial now I know that says they get money but I got good person units in"
+    },
+    {
+      "end_timestamp": 1529.0,
+      "id": "24f3226c-202c-3a0b-a635-1714b95f8380",
+      "speaker": "Dan",
+      "start_timestamp": 1510.0,
+      "text": "now that's not real. And now there's no problem actually believe that deep down No, but that is the public presentation of it. So when we get to the first count read for the first plaintiff, which is Robbie Parker, right, he ends up with $120 million judgment day. Yeah. And here's Alex, to plaintiffs"
+    },
+    {
+      "end_timestamp": 1561.0,
+      "id": "78bec907-76a4-3fbb-8c8a-96988d9aa679",
+      "speaker": "Court Clerk (735)",
+      "start_timestamp": 1529.0,
+      "text": "Robbie Parker, a defamation slaps slander damages passage future $60 million emotional distress damages $60 million. Total affair Justin reasonable damages to plaintiff, Robert Parker, and against Alex Jones and free speech systems live day by B $120 million."
+    },
+    {
+      "end_timestamp": 1592.0,
+      "id": "717ebcb7-48e7-3222-87fa-599667a6acb4",
+      "speaker": "Jordan",
+      "start_timestamp": 1561.0,
+      "text": "Here's what I'll say. Yeah. If they sued me, and got a judgment of $120 million, you know, I'm gonna laugh and shout because fucking go for it, man. You can have all of my money and $100 million. We got les. Fine. You know, what you're suing me for is what I've got. Alex actually has $120 million. So that first judgment must have been like, oh,"
+    },
+    {
+      "end_timestamp": 1614.0,
+      "id": "c068e01b-db9f-3599-ba9a-5ddf8a1f5eb4",
+      "speaker": "Dan",
+      "start_timestamp": 1592.0,
+      "text": "well, I mean, like, if I'm sued for even if I have $120 million, per se, sure, if I'm sued for it, and the judgment is being read. And I also have other cases that are still pending. I'm probably not going to laugh at that judgment. Right. That looks a little bad in terms of like, you know, we want to play this Court's true, we hit him with a billion dollar judgment anyway."
+    },
+    {
+      "end_timestamp": 1618.0,
+      "id": "1e4aba50-dc61-30d8-9f35-0789d553128b",
+      "speaker": "Jordan",
+      "start_timestamp": 1614.0,
+      "text": "You're right. It probably"
+    },
+    {
+      "end_timestamp": 1627.0,
+      "id": "003551cd-404c-34c6-91d3-5f6c3ea92989",
+      "speaker": "Dan",
+      "start_timestamp": 1618.0,
+      "text": "leads one to believe that these these penalties cannot be high enough, right, in terms of getting him to change any of his behavior. Right."
+    },
+    {
+      "end_timestamp": 1648.0,
+      "id": "73d4f2be-6607-3e08-8631-6f83906c2e20",
+      "speaker": "Jordan",
+      "start_timestamp": 1627.0,
+      "text": "Right. So he's, he's kind of experiencing a moment. Like, like, how I loved the nuclear bomb, like it was it was that kind of like, he's, he's slim pickins on the nuclear bomb just riding. But slim pickins dies immediately after that. He doesn't have to then go to court."
+    },
+    {
+      "end_timestamp": 1666.0,
+      "id": "8d94537f-2687-3f1d-9221-e75c73dd6601",
+      "speaker": "Dan",
+      "start_timestamp": 1648.0,
+      "text": "Well, that's why it's art. Yeah. I mean, it's like a child who gets sent to timeout and you have to go sit in the bathroom and then they break things in the back. Yeah, it's like wow, there's no that's not gonna work. escalate this. Does son is available and we have rockets. So yeah, I mean, basically, all you can do is cheer"
+    },
+    {
+      "end_timestamp": 1693.0,
+      "id": "f96ef22f-eb57-39dc-8168-8cb89d4d899b",
+      "speaker": "Court Clerk (735)",
+      "start_timestamp": 1666.0,
+      "text": "Francine Wheeler, a defamation slash slander damages past the future. $24 million emotional distress damages past and future $30 million dollars, just in reasonable damages to plaintiff Francie Wheeler and against Alex Jones at free speech systems. A mid total $54 million"
+    },
+    {
+      "end_timestamp": 1712.0,
+      "id": "67e4e754-ed37-368e-ab52-70f517da8529",
+      "speaker": "Dan",
+      "start_timestamp": 1693.0,
+      "text": "something really more insightful than that. Yeah. Whoo. And hamburgers. I mean, it's it's I think he's just trying to put a brave face forward. And again, play into that, like, this means I'm so right, right there. That afraid of me, right? I don't I find it a little bit boring. spots."
+    },
+    {
+      "end_timestamp": 1719.0,
+      "id": "ef7b2981-c0b1-3175-9211-96acd36ab16e",
+      "speaker": "Jordan",
+      "start_timestamp": 1712.0,
+      "text": "I mean, I can't I can't imagine my response. Because that's an upset. Like, I mean,"
+    },
+    {
+      "end_timestamp": 1729.0,
+      "id": "84bcc659-1b72-3d7f-bbf7-7c96ba5bfa94",
+      "speaker": "Dan",
+      "start_timestamp": 1719.0,
+      "text": "there's so many steps you would have to go through to get to the point where you would be experiencing this response. Change you along the way Definitely and prepare you to be a shithead in that moment, for sure."
+    },
+    {
+      "end_timestamp": 1760.0,
+      "id": "1d9a880a-1132-3ee3-a88d-c59d079a3315",
+      "speaker": "Jordan",
+      "start_timestamp": 1729.0,
+      "text": "I think just I wouldn't be surprised really, if hearing those words didn't come off as unreal to him. Like it was a fully surreal moment for me. Like the moment the first moment they said $60 million. I lost my shit. Right? You know, like, I was like, I can't believe that this pretty surprising. It was and I imagined for Alex it has to have been like, well, this is clearly pretend. And I'm dreaming, you know, because he's very little attached to reality in the first place."
+    },
+    {
+      "end_timestamp": 1768.0,
+      "id": "bf2bc173-944e-3776-b038-cc64350499ad",
+      "speaker": "Dan",
+      "start_timestamp": 1760.0,
+      "text": "Sure. Yeah, sure. I don't know. Is there any movie about this? That Alex gonna pretend was predictive programming for him? I'll"
+    },
+    {
+      "end_timestamp": 1771.0,
+      "id": "efd22311-d512-36e0-86e5-7ede002e76a8",
+      "speaker": "Jordan",
+      "start_timestamp": 1768.0,
+      "text": "tell you this. Not fucking yet. There will be"
+    },
+    {
+      "end_timestamp": 1775.0,
+      "id": "2cdffd3b-dcfb-3e1c-a671-c844767b6ff6",
+      "speaker": "Dan",
+      "start_timestamp": 1771.0,
+      "text": "fingers crossed one day you get to make that movie Jordan and the casting will be weird."
+    },
+    {
+      "end_timestamp": 1777.0,
+      "id": "4ff8adc4-6c48-3fba-b48b-b2729da72d5b",
+      "speaker": "Jordan",
+      "start_timestamp": 1775.0,
+      "text": "It is going to be weird."
+    },
+    {
+      "end_timestamp": 1786.0,
+      "id": "97daf55e-eebc-3550-ab40-2c54f6033774",
+      "speaker": "Dan",
+      "start_timestamp": 1777.0,
+      "text": "So yeah, I mean, there's just a bunch of celebration and like, it just feels like a game to him honestly."
+    },
+    {
+      "end_timestamp": 1800.0,
+      "id": "a779cc2a-f4a6-3649-a114-286c570d9098",
+      "speaker": "Court Clerk (735)",
+      "start_timestamp": 1786.0,
+      "text": "To place it in, and they're not. Damages past and future $38 million. Good. The emotional distress damages past and future $43,600,000"
+    },
+    {
+      "end_timestamp": 1804.0,
+      "id": "922d2956-34b5-3b5c-afe7-3ab4555eb939",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1800.0,
+      "text": "Eggs total a billion dollar man"
+    },
+    {
+      "end_timestamp": 1813.0,
+      "id": "7aaa20f2-fe24-3bcd-80bf-e5aeb13c4f62",
+      "speaker": "Court Clerk (735)",
+      "start_timestamp": 1804.0,
+      "text": "gets Alex Jones and free speech so close. Like hey, and like me at $1,600,000 traditional by German for what?"
+    },
+    {
+      "end_timestamp": 1826.0,
+      "id": "09a9de8c-ea06-38bd-b10c-5f86a76da80a",
+      "speaker": "Dan",
+      "start_timestamp": 1813.0,
+      "text": "Good? Yeah, good. So yeah, he keeps saying like Bob it up. Yeah. At a certain point it's like well, you're gonna you're gonna have all this above you might might as well like make it comical. Yeah,"
+    },
+    {
+      "end_timestamp": 1846.0,
+      "id": "ab9614fd-cfea-396f-abdf-a086d429265b",
+      "speaker": "Jordan",
+      "start_timestamp": 1826.0,
+      "text": "it does feel like this is your like, this is your team in the Super Bowl. Right and you're down 21 Three, and the other team is at the 10 yard line and you're just like, yeah, man, run up the score. I want to lose by 100 That sounds fucking great, man. I didn't like this football game. Anyway,"
+    },
+    {
+      "end_timestamp": 1847.0,
+      "id": "d17146fa-63b1-31be-b444-b8e661cf4c88",
+      "speaker": "Dan",
+      "start_timestamp": 1846.0,
+      "text": "I want to set record."
+    },
+    {
+      "end_timestamp": 1852.0,
+      "id": "ee85b1a9-5ebe-34b1-9840-df5b08674ce3",
+      "speaker": "Jordan",
+      "start_timestamp": 1847.0,
+      "text": "Totally. Yeah, if we're gonna lose, we should lose by the most there's ever been right?"
+    },
+    {
+      "end_timestamp": 1856.0,
+      "id": "367821ed-b1ea-3113-8b3e-04d94f5c7fed",
+      "speaker": "Dan",
+      "start_timestamp": 1852.0,
+      "text": "Right. Yeah, losing by 100 in the Superbowl just proves how right you were"
+    },
+    {
+      "end_timestamp": 1859.0,
+      "id": "94596c4e-41af-301d-bf23-aca116ab97d6",
+      "speaker": "Jordan",
+      "start_timestamp": 1856.0,
+      "text": "means that I was better at football than anybody."
+    },
+    {
+      "end_timestamp": 1869.0,
+      "id": "d7a1db90-5e4b-3fce-ac5f-ec768f33f0bd",
+      "speaker": "Dan",
+      "start_timestamp": 1859.0,
+      "text": "So yeah, and you know, along the way, there's not a whole lot of content. But he does take a couple avenues to introduce some like, I don't know, anti trans commentary rate."
+    },
+    {
+      "end_timestamp": 1871.0,
+      "id": "ca970383-4766-32ab-a6cb-96d7c8597dcd",
+      "speaker": "Court Clerk (735)",
+      "start_timestamp": 1869.0,
+      "text": "$18,600,000."
+    },
+    {
+      "end_timestamp": 1885.0,
+      "id": "763820d5-1964-37cd-8272-4f03ad821364",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1871.0,
+      "text": "So this is what a show trial looks like. I mean, this is the left completely out of control. Do whatever they want, like drag queen storytime to make and have a baby. I mean, this is what they did. This is their this is their, their panacea?"
+    },
+    {
+      "end_timestamp": 1890.0,
+      "id": "05e47bdf-817d-398c-9148-3528150997a0",
+      "speaker": "Court Clerk (735)",
+      "start_timestamp": 1885.0,
+      "text": "Like be $57,600,000 57 million"
+    },
+    {
+      "end_timestamp": 1897.0,
+      "id": "d6c43029-9c06-3d72-9b16-8c38ed5fd14e",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1890.0,
+      "text": "20 million. 50 million. 80 million. 100 million. No, no, you get a million you get 100 million. You got a 50 million."
+    },
+    {
+      "end_timestamp": 1903.0,
+      "id": "6402efe4-d81a-36b4-b594-2d2361c02af4",
+      "speaker": "Dan",
+      "start_timestamp": 1897.0,
+      "text": "Nice. Oprah their reference to Oprah. Yeah, that was your friend, Oprah Winfrey."
+    },
+    {
+      "end_timestamp": 1906.0,
+      "id": "bbed259c-a073-307d-bd94-d32e0e840bde",
+      "speaker": "Jordan",
+      "start_timestamp": 1903.0,
+      "text": "He enjoyed her show."
+    },
+    {
+      "end_timestamp": 1919.0,
+      "id": "ce269043-f0b5-325b-8a1e-daab16ef8e1c",
+      "speaker": "Dan",
+      "start_timestamp": 1906.0,
+      "text": "Look, I mean, there's not a lot going on here outside of this. Yeah, I met. I'll be totally clear. I mean, if you want you can watch the video and see his facial expressions and what have you, but like, it's just a bunch of die."
+    },
+    {
+      "end_timestamp": 1939.0,
+      "id": "d7d087bf-96a2-3eff-90eb-503b82f899fe",
+      "speaker": "Jordan",
+      "start_timestamp": 1919.0,
+      "text": "Yeah, bump it up. Oh, man, what if he played my way slowly, like a little bit underneath it would have heard how much more fitting Oh, that'd have been great. That whole pageant from the other day would have been perfect immediately. Like it was interspersed with the verdicts being read like $60 million. You know, like,"
+    },
+    {
+      "end_timestamp": 1953.0,
+      "id": "1beea816-a53d-3439-a259-83e7e0115ffb",
+      "speaker": "Dan",
+      "start_timestamp": 1939.0,
+      "text": "yeah, absolutely. It would have had like the Matic art artistic. Yeah, purpose, it would have been a show. Yeah. Whereas this is just kind of boring. And I think Alex even gets bored of listening to these numbers. Yeah. Eric Lafferty."
+    },
+    {
+      "end_timestamp": 2013.0,
+      "id": "3fa14022-4d6b-3221-848c-39d16e72efcd",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1953.0,
+      "text": "Okay, so this is gonna take hours and hours here about the billions and billions and billions I owe. Let's put up Drudge Report right now for people. Oh my god billion dollars owed by Alec shows. I personally don't have $2 million. The company is almost completely out of money. We're in bankruptcy. There's two appeals. It'll take years. There's capsule almost all of this. This is just completely absolutely made up. And now the Democratic Party Ron seen and bought it years ago, literally I was told that Drudge Report is just up there celebrating this. They want to scare everybody away from freedom and scare us away from questioning. Uvalde and what really happened there or Parkland or any other event. And guess what? We're not scared and we're not going away. And we're not going to stop. And literally for hundreds of 1000s of dollars I can keep them in court for years. I can appeal this stuff. We can stand up against this travesty against the billions of dollars they want. It's a joke. So please go to Infowars store.com"
+    },
+    {
+      "end_timestamp": 2018.0,
+      "id": "f77c08ec-b230-3083-b064-eff30f35c588",
+      "speaker": "Dan",
+      "start_timestamp": 2013.0,
+      "text": "He's decided that the Drudge Report is bad now Sheriff Sheriff so that's fun"
+    },
+    {
+      "end_timestamp": 2028.0,
+      "id": "bb9582a8-d3eb-3e97-813b-0f17e11f7c04",
+      "speaker": "Jordan",
+      "start_timestamp": 2018.0,
+      "text": "anyone who reports that he was not the hero who received an unfair kangaroo court billion dollar judgment is now ie"
+    },
+    {
+      "end_timestamp": 2058.0,
+      "id": "b8993f99-2bdf-3299-8df3-c75628597cfa",
+      "speaker": "Dan",
+      "start_timestamp": 2028.0,
+      "text": "these shifting alliances are are hard to keep track now when the devil is involved. So Alex, I mean this is in the fourth hour it takes a while for these verdicts to be read and so Alex runs out of time and the War Room starts and I thought Alex would be riding shotgun with absolutely just sit stay in the chair nah no oh and takes over boo and I will say oh and tries to put on a brave face here it all you all you"
+    },
+    {
+      "end_timestamp": 2090.0,
+      "id": "ecc2cd0a-5876-3a9a-9175-ddc5b7822830",
+      "speaker": "Owen Shroyer",
+      "start_timestamp": 2058.0,
+      "text": "Democrats, all you globalist all you evil freaks all you pedophiles all tuning in Infowars today, hoping that you're going to be celebrating and basking in our depression, our oppression and the attacks against us know, we've never felt better. Actually, you've given us the biggest victory of all time, you've confirmed that everything we've been fighting for is is is real, or you've confirmed everything we're fighting against Israel, you've only you've only solidified our dedication to the truth. This seems"
+    },
+    {
+      "end_timestamp": 2092.0,
+      "id": "6a37530f-6d24-3f5b-a9e6-8d71190a9742",
+      "speaker": "Dan",
+      "start_timestamp": 2090.0,
+      "text": "convincing."
+    },
+    {
+      "end_timestamp": 2103.0,
+      "id": "ecdff5ba-b22a-3fda-866a-42e2bd98c57a",
+      "speaker": "Jordan",
+      "start_timestamp": 2092.0,
+      "text": "Oh man, man, if everybody was celebrating my downfall, the last thing I would do was get up on a public place and be like oh, I'm not down Falling No not really."
+    },
+    {
+      "end_timestamp": 2105.0,
+      "id": "74b788ce-b449-3825-bf45-67ea2bc55379",
+      "speaker": "Dan",
+      "start_timestamp": 2103.0,
+      "text": "I'm not mad I'd be like,"
+    },
+    {
+      "end_timestamp": 2106.0,
+      "id": "5999ec88-2b99-3b15-a751-9053cb367687",
+      "speaker": "Jordan",
+      "start_timestamp": 2105.0,
+      "text": "Go away"
+    },
+    {
+      "end_timestamp": 2118.0,
+      "id": "c3c15f2e-fbe8-3744-8caf-89d8628c0f58",
+      "speaker": "Dan",
+      "start_timestamp": 2106.0,
+      "text": "this is a billion dollar judgment against the company that is the only people who would ever employ me in any media capacity is dead is not a problem for me."
+    },
+    {
+      "end_timestamp": 2124.0,
+      "id": "c6f8ab0f-cb50-3469-9b58-294b0cacddfe",
+      "speaker": "Jordan",
+      "start_timestamp": 2118.0,
+      "text": "I would have my resume on the screen and I'd be deleting the years I worked for info"
+    },
+    {
+      "end_timestamp": 2132.0,
+      "id": "324d50f7-d508-3ef8-bbb9-81eebbeeb7b4",
+      "speaker": "Dan",
+      "start_timestamp": 2124.0,
+      "text": "Why would also be showcasing skills on air I'd be juggling spinning plates I'd be just doing whatever I could to be like someone fucking iron frankly"
+    },
+    {
+      "end_timestamp": 2140.0,
+      "id": "75af78a5-d3e6-3412-bea7-64e1b3bc3abf",
+      "speaker": "Jordan",
+      "start_timestamp": 2132.0,
+      "text": "with Owen just demonstrate basic Excel skills that'll go a longer way than anything else he does right now."
+    },
+    {
+      "end_timestamp": 2150.0,
+      "id": "8391563b-899c-3b4c-93af-fb4254bad1ed",
+      "speaker": "Dan",
+      "start_timestamp": 2140.0,
+      "text": "So one of the things he does not juggling not excel not plate spinning. He interviews norm Pattis to do a post mortem."
+    },
+    {
+      "end_timestamp": 2159.0,
+      "id": "d1195e92-de46-3f50-acee-e5303924ac9f",
+      "speaker": "Jordan",
+      "start_timestamp": 2150.0,
+      "text": "How does that how does that man live on the day to day when he wakes up and looks at his dumb ponytail in the mirror every morning? What does"
+    },
+    {
+      "end_timestamp": 2191.0,
+      "id": "a32df9d1-1834-3c20-83ee-5723fae609e8",
+      "speaker": "Dan",
+      "start_timestamp": 2159.0,
+      "text": "he think? You know, you ever seen that faithfully video by journey? So the music video, you know, the road is no place to start? Sure. I'm sure there's a shot in it that always sticks out in my mind. And that's Steve Perry has a mustache. There's a shot of him very soulfully shaving his mustache, looking in the mirror. And those just after a beating like norm had in court, I just picture him like looking in a mirror and just soulfully cutting off the floaty drain. Should"
+    },
+    {
+      "end_timestamp": 2205.0,
+      "id": "6f666167-f696-319f-a7b7-73a35878ca38",
+      "speaker": "Jordan",
+      "start_timestamp": 2191.0,
+      "text": "we have to flick? Isn't that neat? A rebrand. Just feel like there's some sort of warrior code where if you lose that man, like I'm not saying that there's any kind of it's just, you know, you cut your ponytail off. If you lose that"
+    },
+    {
+      "end_timestamp": 2228.0,
+      "id": "b7b0ab93-1f30-3509-8610-e9897b986251",
+      "speaker": "Dan",
+      "start_timestamp": 2205.0,
+      "text": "bet. I will say to norms credit, and one of the few times I'll say that yeah. Oh, in his trying to do this, like we're actually as happy as we've ever been norm is at least as the perspective of like, that was a beating. Yeah, it was bad. Yeah, good. Good. There's a lot of things we can do. But that was bad. I was about as bad as it could go. Yeah. And so normally, actually his message that he brings to"
+    },
+    {
+      "end_timestamp": 2232.0,
+      "id": "62c4a9a5-4946-3819-bc45-1f7b0c013c41",
+      "speaker": "Jordan",
+      "start_timestamp": 2228.0,
+      "text": "Oh, no bad. The alien starts with a B."
+    },
+    {
+      "end_timestamp": 2235.0,
+      "id": "129f2b57-2af9-3058-832f-4768e48a4ce5",
+      "speaker": "Dan",
+      "start_timestamp": 2232.0,
+      "text": "And it might end with an S"
+    },
+    {
+      "end_timestamp": 2251.0,
+      "id": "64564201-a3b7-389d-827b-b5fc2ea4044c",
+      "speaker": "Owen Shroyer",
+      "start_timestamp": 2235.0,
+      "text": "Pattis representing Alex Jones. In this case, he was in the courtroom there. He has joined us on the phone now. So we're gonna get his first response to this $1 billion. Norm, it's time to start cutting the checks."
+    },
+    {
+      "end_timestamp": 2276.0,
+      "id": "88b3bb75-dca0-347e-a9d3-47247141858f",
+      "speaker": "Norm Pattis",
+      "start_timestamp": 2251.0,
+      "text": "Yeah, well, let me you know, let you know, that are printing more Monopoly money. That was pretty astounding. And what's more, that's just the beginning, there'll be an attorney's fee application, which could increase this by about 40% to 1.4 billion. And then judge Bellis will also have the ability to make a separate finding on punitive damages. So by the time this is done, it could easily be to two and a half million dollars."
+    },
+    {
+      "end_timestamp": 2279.0,
+      "id": "6b0b0f6e-4fdb-3959-8f8e-cb5e29fc326e",
+      "speaker": "Dan",
+      "start_timestamp": 2276.0,
+      "text": "Like oh, and you think this is bad? Let me double check for"
+    },
+    {
+      "end_timestamp": 2286.0,
+      "id": "0335b579-9851-31b1-a9fd-454bb33e9954",
+      "speaker": "Jordan",
+      "start_timestamp": 2279.0,
+      "text": "you. Man. I could not be happier with normes wet blanket on Owens bullshit, brave"
+    },
+    {
+      "end_timestamp": 2292.0,
+      "id": "a03dcf96-e950-3aa4-b91f-4e9ffca59ab7",
+      "speaker": "Dan",
+      "start_timestamp": 2286.0,
+      "text": "face. Well, I also think that this is probably a smart thing to do. Because then if you end up with 1 billion it's"
+    },
+    {
+      "end_timestamp": 2312.0,
+      "id": "1144619a-aceb-3ef1-b822-96152f3667ba",
+      "speaker": "Jordan",
+      "start_timestamp": 2292.0,
+      "text": "to add could have been two and a half. Yeah, come on. I do appreciate that norm really, really feels like in the moment that this is a problem that is worth two and a half billion. He really feels it. He knows."
+    },
+    {
+      "end_timestamp": 2332.0,
+      "id": "9d874e83-c65a-3be3-b20b-61c44d6e878e",
+      "speaker": "Dan",
+      "start_timestamp": 2312.0,
+      "text": "So it sends a chilling message though it's a thing it's to Alex no to other people who want to have free speech. Now, Alex has been just crowing constantly about how like this is gonna appeal. You know, all we're gonna fight this forever. Norm is his lawyer and norm in this clip says he doesn't know if Alex is going to appeal. Good call."
+    },
+    {
+      "end_timestamp": 2360.0,
+      "id": "5c58f271-1c33-394e-b2b1-94b444c78d73",
+      "speaker": "Norm Pattis",
+      "start_timestamp": 2332.0,
+      "text": "It's a it's a huge verdict. It sends a chilling message. I think the message that it sends is, you know, if you are outside the mainstream media, if you're challenging the orthodoxy in the orthodoxy determines what you said isn't true. There is now a body of law. If this stands on appeal, by the way, and we will I hope that Alex takes the appeal, you know, that would say you're responsible for anybody said if you buttered an untruth?"
+    },
+    {
+      "end_timestamp": 2374.0,
+      "id": "c1e26616-b3f5-3649-bc4c-fc224c439251",
+      "speaker": "Dan",
+      "start_timestamp": 2360.0,
+      "text": "That's not the message at all. And if if Alex takes the appeal, Alex is fundraising for the appeal incessantly already. So that doesn't feel right. No, you should be saying we're already at work on the appeal."
+    },
+    {
+      "end_timestamp": 2411.0,
+      "id": "d079e892-c2ff-3251-b08b-b82227e77886",
+      "speaker": "Jordan",
+      "start_timestamp": 2374.0,
+      "text": "I mean, he shouldn't be saying that Alex is fundraising to avoid having to deal with I mean, here's the problem with an appeal. Okay, is added appeal, unlike at this current trial, they can't bring in the evidence that you know, there was already a $50 million judgment against Alex. At no point in time in the trial. Could they be like, hey, jury, just so you know, we've run this game before and Alex Last, you know, so in an appeals court, you could be like, hey, guess what? Four separate juries awarded billions of dollars? Well,"
+    },
+    {
+      "end_timestamp": 2429.0,
+      "id": "e125fa92-fadf-3d83-af7a-12e50749018e",
+      "speaker": "Dan",
+      "start_timestamp": 2411.0,
+      "text": "but the question becomes like, is there a procedural problem with this case? Sure. And that would be what you would be appealing on. And if norm as the lawyer like he would know what the grounds for the appeal are sure, and he would probably be involved in it as Alex's lawyer. Well, he"
+    },
+    {
+      "end_timestamp": 2430.0,
+      "id": "3e2e186b-974d-36d3-942d-dcca44d0ed4a",
+      "speaker": "Jordan",
+      "start_timestamp": 2429.0,
+      "text": "would be the reason that it's a"
+    },
+    {
+      "end_timestamp": 2435.0,
+      "id": "6bd6d9bb-6457-3f87-9f99-59e196db81c2",
+      "speaker": "Dan",
+      "start_timestamp": 2430.0,
+      "text": "mistrial. That's interesting. Yeah. Hey, this one's on me."
+    },
+    {
+      "end_timestamp": 2442.0,
+      "id": "b03f7486-3f22-35e2-bc16-5335b1f36c2f",
+      "speaker": "Jordan",
+      "start_timestamp": 2435.0,
+      "text": "This was my appeal. Oh, did I get the worst judgment in history? Nah, man, I got the biggest mistrial in history."
+    },
+    {
+      "end_timestamp": 2455.0,
+      "id": "78aa312e-ffb5-386a-b33c-8a764aafb7e5",
+      "speaker": "Dan",
+      "start_timestamp": 2442.0,
+      "text": "But yeah, this this feeling, though the sentiment that consequences are a sign of virtue, right. He's just like everywhere, through every way. Oh, and oh, and is very deeply entrenched in that regard."
+    },
+    {
+      "end_timestamp": 2523.0,
+      "id": "6fb83274-d44b-3bbe-809e-82c2aad99c4c",
+      "speaker": "Owen Shroyer",
+      "start_timestamp": 2455.0,
+      "text": "I think that just This just confirms that I mean, most people would say that America is corrupt. Most people would say that this country has a corruption problem politically. And so then you would make the statement, you'd say, well, how do you know who's fighting the corruption? Well, who gets attacked by the establishment the most, who gets attacked by the deep state the most? Who do they go out for the most, and once again, the name is Alex Jones, the institution, the news organization is Info Wars. Now, I don't know if you can get into the future, as far as you know, appealing this or whatever, because I know the audience is going to want to know, you know, what, what the future might hold as far as appeals are concerned. But, you know, I get your response to it like this. Let's try to put it into a real world situation for the future. Let's say that back in December of 2020, you go on air, and you question the efficacy of the COVID vaccine. Well, oh, now you're getting sued by the companies that made the COVID vaccine. But here we are a year later. And now they're admitting the COVID vaccines are not safe or effective. Folks, that's what they're trying to silence is somebody saying what they believe to be true, which might ultimately be the truth? They don't want it out there norm."
+    },
+    {
+      "end_timestamp": 2552.0,
+      "id": "80123a5b-11a0-3a39-b43b-69f0656dc346",
+      "speaker": "Dan",
+      "start_timestamp": 2523.0,
+      "text": "So no one's getting sued for that. Right? And like, here's a short list of claims that might be actionable. Against Alex, for family members of people who lost people, to COVID who didn't do anything because Alex said it was safe. Remember when he said it was like, it was a race specific bio weapon? I mean, that seems like something that might be weird, or when you said it was only killing males. That was it. That was a little thing. Like what Oh, and just David icon and David Icke said viruses aren't even."
+    },
+    {
+      "end_timestamp": 2568.0,
+      "id": "487893e8-d24f-3931-b8e7-d019b3a47a4a",
+      "speaker": "Jordan",
+      "start_timestamp": 2552.0,
+      "text": "That's true. You only accept them into your body. David Icke hasn't even been sued for things. No, I feel like what Elon just said is, we're grateful that the vaccine itself does not have grounds to sue or a consciousness. Oh, if it did,"
+    },
+    {
+      "end_timestamp": 2571.0,
+      "id": "14a33c3e-b91e-32bb-aba8-898fe8fe2022",
+      "speaker": "Dan",
+      "start_timestamp": 2568.0,
+      "text": "it would. Well, no, I think a virus would Oh, Alex."
+    },
+    {
+      "end_timestamp": 2574.0,
+      "id": "49263c77-5237-3bc1-948d-eebd60c22eb4",
+      "speaker": "Jordan",
+      "start_timestamp": 2571.0,
+      "text": "That's a good point. The virus owes Alex a lot."
+    },
+    {
+      "end_timestamp": 2586.0,
+      "id": "41c6962c-90ed-3b57-a575-0084ad21f5e3",
+      "speaker": "Dan",
+      "start_timestamp": 2574.0,
+      "text": "I think that Owens example that he's using there is shit. And that's because Alex would never have been sued if all he was doing was questioning the shooting. You have to come up with these fake arguments, because the underlying points that he's trying to make just aren't true."
+    },
+    {
+      "end_timestamp": 2606.0,
+      "id": "aa7e0dc6-bd38-3103-b650-76f576423d61",
+      "speaker": "Jordan",
+      "start_timestamp": 2586.0,
+      "text": "I mean, the prime is entire show is evidence for why this is different. Like he does all the stuff that he says he's like, Oh, I questioned this. I questioned this gorgeous, and no one has a problem. It's this that he's getting sued for. How is that not consistently pointed out to them? It seems"
+    },
+    {
+      "end_timestamp": 2616.0,
+      "id": "663fe059-5eaa-32e6-a7cc-1cc13def4979",
+      "speaker": "Dan",
+      "start_timestamp": 2606.0,
+      "text": "irrelevant. It does. Also, this brute is not very good. Are you sure this isn't like a giant champagne filled, champagne bottle shaped thing of Cologne."
+    },
+    {
+      "end_timestamp": 2629.0,
+      "id": "69060b2e-9f4f-3798-b7ce-24e641b903b6",
+      "speaker": "Jordan",
+      "start_timestamp": 2616.0,
+      "text": "Oh, man, you are the kind of color I'm going to tell you this. Right now. The Willamette Valley is not going to be happy with your reviews, nothing but respect for Willamette Valley as much as I love Oregon. I'm going to tell you something Willamette."
+    },
+    {
+      "end_timestamp": 2646.0,
+      "id": "6f3eb26b-d798-37f5-8649-ad221c6c723d",
+      "speaker": "Dan",
+      "start_timestamp": 2629.0,
+      "text": "So Norm, like I said, I think some of his perspective is maybe a little bit more forgivable or at least more palatable than some of the other folks. And this one, I think, is right right in there. And that is, nor being like, if I hadn't shown up, it wouldn't have been like it, maybe he'd be better off."
+    },
+    {
+      "end_timestamp": 2678.0,
+      "id": "d79546b1-27db-3417-a3b1-d88c947428ae",
+      "speaker": "Norm Pattis",
+      "start_timestamp": 2646.0,
+      "text": "I think that's what they used to do to dissidents in Stalin's Russia. I, you know, the Sandy Hook parents were lovely people, they made good witnesses. There were things to argue about in this case, but the court didn't want to hear argument about it. I had to move mountains to win the right to make the limited little arguments I was permitted to make in that courtroom. But the bottom line is, if I'd stayed home, Alex wouldn't have been much worse off. The court just didn't want to hear from me, and didn't want to let the jury hear from"
+    },
+    {
+      "end_timestamp": 2697.0,
+      "id": "543f22f0-a108-3754-bcf5-75ffa6a2ff5c",
+      "speaker": "Dan",
+      "start_timestamp": 2678.0,
+      "text": "me. It's debatable. Like he might have been better off as far as I'm showing up or any other lawyer who didn't say, hey, maybe these people are exaggerating their grief and maybe a different different lawyer. Maybe would have done better. I think I think norms, exclusion from this case might have been advantageous to hell,"
+    },
+    {
+      "end_timestamp": 2712.0,
+      "id": "46be6aa9-3d82-3abf-881a-990277f6985c",
+      "speaker": "Jordan",
+      "start_timestamp": 2697.0,
+      "text": "I will die but Leaving that if they had not presented any defense, if they had just been like, listen, we do not have any defense for our actions. The judgment would not be a billion dollars"
+    },
+    {
+      "end_timestamp": 2722.0,
+      "id": "2b4218a5-06b1-3ca0-997f-5047a1b463c2",
+      "speaker": "Dan",
+      "start_timestamp": 2712.0,
+      "text": "I would say so yeah, I think that they made things worse for themselves. Absolutely. If there was just sort of like a opening statement and closing statement about like the philosophical idea"
+    },
+    {
+      "end_timestamp": 2732.0,
+      "id": "30aae7b8-99fc-3b94-83c0-e6249a6bd249",
+      "speaker": "Jordan",
+      "start_timestamp": 2722.0,
+      "text": "we tried, this is what happened. Maybe we went too far. Yeah, yeah, absolutely. And then they were just like, no questioning No. Yeah."
+    },
+    {
+      "end_timestamp": 2738.0,
+      "id": "c0e06b17-87b2-3724-a2fc-cdb7fa414519",
+      "speaker": "Dan",
+      "start_timestamp": 2732.0,
+      "text": "I think they would definitely come out looking better than the way thing"
+    },
+    {
+      "end_timestamp": 2745.0,
+      "id": "1a8bdbea-8fb8-3bb1-9d17-e24c54df066c",
+      "speaker": "Jordan",
+      "start_timestamp": 2738.0,
+      "text": "Absolutely. Well, what is your apology if your apology isn't in the opening statement? And the closing statement? Well,"
+    },
+    {
+      "end_timestamp": 2752.0,
+      "id": "6c5aba10-ec3e-3131-a68a-8205f03b023a",
+      "speaker": "Dan",
+      "start_timestamp": 2745.0,
+      "text": "and it doesn't it doesn't work to your advantage to have Alex yell about how this is a struggle session. real"
+    },
+    {
+      "end_timestamp": 2755.0,
+      "id": "5dc7b277-9da5-319c-9637-69c9a9cc5db7",
+      "speaker": "Jordan",
+      "start_timestamp": 2752.0,
+      "text": "problem. It's a real problem. Yeah, but anyway,"
+    },
+    {
+      "end_timestamp": 2758.0,
+      "id": "3812d6ea-7660-3b68-9aca-1a9dc7b176fc",
+      "speaker": "Dan",
+      "start_timestamp": 2755.0,
+      "text": "Norm norm he's he's pretty chill about this. Sure."
+    },
+    {
+      "end_timestamp": 2767.0,
+      "id": "ad35e2db-01d0-312b-a934-290cda2f591a",
+      "speaker": "Owen Shroyer",
+      "start_timestamp": 2758.0,
+      "text": "I'm sure you now know Bailey, Alex Jones are getting attacks from probably sides that you never expected to be attacked from."
+    },
+    {
+      "end_timestamp": 2793.0,
+      "id": "c30dfaac-ad1f-3441-b47b-e671058d7153",
+      "speaker": "Norm Pattis",
+      "start_timestamp": 2767.0,
+      "text": "Oh, yeah. I mean, you know, I'm just getting phone calls and text messages. You know, maligning my lawyering and suggesting that you know, that I either through the case or that I'm incompetent and I'm scum. This set everything else. Go leave alter. Obviously, it hurts. I don't like it. But I'm not going to pay a whole lot of rent for the space I occupy and other people's heads. That's their problem. Not mine. Haters are gonna hate"
+    },
+    {
+      "end_timestamp": 2804.0,
+      "id": "414081ba-abfa-3e3c-a47e-3d76395b8f9d",
+      "speaker": "Jordan",
+      "start_timestamp": 2793.0,
+      "text": "haters are gonna hate haters are gonna hate haters are gonna hate that is that is the voice of a man who is going to get paid despite having lost a billion dollars."
+    },
+    {
+      "end_timestamp": 2807.0,
+      "id": "8ef763e6-fb4f-3303-81a7-352f64570c89",
+      "speaker": "Dan",
+      "start_timestamp": 2804.0,
+      "text": "Lost a billion dollar case it is what it is. Hey, buddy,"
+    },
+    {
+      "end_timestamp": 2817.0,
+      "id": "1519a6e9-bbd2-366b-8e2b-badcefb6129a",
+      "speaker": "Jordan",
+      "start_timestamp": 2807.0,
+      "text": "guess what hours are still billable? Haters gonna hate Haters gonna hate Hey, listen to Alex. Sorry about that. You guys gonna play play,"
+    },
+    {
+      "end_timestamp": 2822.0,
+      "id": "78cbe535-7994-398f-9310-baec6b1cdeef",
+      "speaker": "Dan",
+      "start_timestamp": 2817.0,
+      "text": "play? Listen, shake it off. Shake it off. And licks."
+    },
+    {
+      "end_timestamp": 2829.0,
+      "id": "a5ae10aa-3375-3fb8-999d-515f1315de31",
+      "speaker": "Jordan",
+      "start_timestamp": 2822.0,
+      "text": "You know what the most important lesson for a lot of people when to take the L and Norm knows this isn't L? Well, I'm gonna take it."
+    },
+    {
+      "end_timestamp": 2837.0,
+      "id": "4ca2ed6c-90f3-38fc-bb00-55480aedff53",
+      "speaker": "Dan",
+      "start_timestamp": 2829.0,
+      "text": "Maybe you pretend that you could have won, or something? Nope. But don't fight it too hard. No, no."
+    },
+    {
+      "end_timestamp": 2841.0,
+      "id": "98d5da23-073d-37a0-856d-92a9cc7e206e",
+      "speaker": "Jordan",
+      "start_timestamp": 2837.0,
+      "text": "If I if I had had my druthers, we could have won. If I could"
+    },
+    {
+      "end_timestamp": 2846.0,
+      "id": "8177c616-baf7-318d-a526-a3b9033747a5",
+      "speaker": "Dan",
+      "start_timestamp": 2841.0,
+      "text": "have said anything right or right then maybe it is"
+    },
+    {
+      "end_timestamp": 2850.0,
+      "id": "693a5ea0-d11b-3821-96a5-4bedb2039fbb",
+      "speaker": "Jordan",
+      "start_timestamp": 2846.0,
+      "text": "just gonna hate turns out that lying is not okay. In court. Haters gonna hate."
+    },
+    {
+      "end_timestamp": 2857.0,
+      "id": "17761a7b-57da-3272-a0bd-7f61d0846c78",
+      "speaker": "Dan",
+      "start_timestamp": 2850.0,
+      "text": "So Norm believes that there's a question that no one asks about Info Wars. This is the essential question. Okay."
+    },
+    {
+      "end_timestamp": 2885.0,
+      "id": "02e7cce2-dc18-3c7e-990c-5f18d4615d02",
+      "speaker": "Norm Pattis",
+      "start_timestamp": 2857.0,
+      "text": "And the question that nobody asks, and for which there must be an answer it is, you know, what makes Alex and Infowars and you so popular? You don't hook people on some sort of drug that is foreign to their body. You talk about things that are obvious to them and that no one else talks about? And until people begin to understand what makes a show like Infowars or Alex Jones are all insurer popular. They're asking the wrong questions."
+    },
+    {
+      "end_timestamp": 3004.0,
+      "id": "bb38c868-8589-3170-8872-8c5666040c0f",
+      "speaker": "Dan",
+      "start_timestamp": 2885.0,
+      "text": "I agree with norm that this is a factor that's underappreciated in terms of understanding Infowars and misinformation in general, but his conclusion is childish. No one actually gravitates to Infowars or Alex because of his handle on information or the idea that he talks about stories no one else has the nerve to cover and I would say that there is a drug that he hooks his listeners on even ignoring the dumb placebo as supplements that he sells at huge markups. And he sells to people by pretending that they have a deficiency that he can solve. Yeah, like you don't have iodine in New Zealand eat it. Yeah. I Alex creates emotional hooks that get into people and they operate very similarly to how a drug might the truth or falsity of things Alec says don't matter to the audience because he's eliciting a feeling that they believe is true. Some story about an immigrant murdering a white woman that Alex yells about may not actually be true, but the audience doesn't care because to them, the feeling he's promoting with that story that you should be afraid of immigrants and that they want to kill white women is true. That's the majority of what Alex has gotten his skill set evoking feelings, and it's pretty easy to see why his show is successful. Well Oh, and and Harrison are just pathetic. Also rams. They can't stir emotions like Alex can. Owens just doing a bad Alex impression most of the time and doesn't come off as sincere at all. And Harrison's just too clearly a whiny baby dweeb. They can get a little bit of traction but they can't come anywhere near to even being like Alex's second because they can't do this. That's why PJ W sucks on Alex's show, but he's really successful on YouTube. in that format with the quick cuts and the weird close ups on his face looking very emotional. Paul is able to make the audience feel things. Even David Knight had a bit of this, which is why part a part of why it was so dumb for Alex to fire him. To your eye David Knight was a painfully boring snooze but his rhetorical style was good at reaching the older demographics, who really don't care for Alex's theatrics. Get through after cavity and yelling, he could elicit feelings in the older"
+    },
+    {
+      "end_timestamp": 3007.0,
+      "id": "eb992c06-db28-3260-bb3d-04a330c46ff4",
+      "speaker": "Jordan",
+      "start_timestamp": 3004.0,
+      "text": "is supplementary for the people that Alex can't hit."
+    },
+    {
+      "end_timestamp": 3031.0,
+      "id": "0c5ac2fe-c9c7-307b-a5b1-41f64f5ecd12",
+      "speaker": "Dan",
+      "start_timestamp": 3007.0,
+      "text": "Exactly, yeah. Anyway, no one goes to Infowars because they want information or hard hitting reporting. That's the lie they tell themselves so they don't have to admit that they're going to Alex for a hit of emotions that they crave for some reason or another, usually to justify unjustifiable positions that they have like racism or homophobia, right, they until they're able to intellectualize those feelings by Alyx appealing to those, those feelings."
+    },
+    {
+      "end_timestamp": 3053.0,
+      "id": "1abf4c39-5212-3e3a-b176-ab021542fe70",
+      "speaker": "Jordan",
+      "start_timestamp": 3031.0,
+      "text": "No, and we we all instinctively know this not least, like if you want to get into brain chemistry, the feeling you get from being right over and over again during a broadcast you know, like Alex so often consistently massaging your ego you know, how different from that is getting high for three hours, you know, and"
+    },
+    {
+      "end_timestamp": 3059.0,
+      "id": "563c58b1-a920-33ba-8049-765f7fb915f5",
+      "speaker": "Dan",
+      "start_timestamp": 3053.0,
+      "text": "Alex yelling about how you've saved the world. Hopefully, you are saving the world by giving him money. Yeah,"
+    },
+    {
+      "end_timestamp": 3065.0,
+      "id": "69490a37-147c-3aec-8261-3283c891b783",
+      "speaker": "Jordan",
+      "start_timestamp": 3059.0,
+      "text": "absolutely jerked my ego off or I get high. Like it's very similar kind of things, you know?"
+    },
+    {
+      "end_timestamp": 3073.0,
+      "id": "065155ea-247f-3e94-9d86-0a1816b88074",
+      "speaker": "Dan",
+      "start_timestamp": 3065.0,
+      "text": "Yeah. Not too dissimilar now, so Oh, it wants to sue people now too, because like, well, it's fun to do. I was popular just got a billion dollars."
+    },
+    {
+      "end_timestamp": 3074.0,
+      "id": "50bae20c-ab7c-3f41-b1c5-3d845aa268a6",
+      "speaker": "Jordan",
+      "start_timestamp": 3073.0,
+      "text": "It's time to sue. Yeah, so"
+    },
+    {
+      "end_timestamp": 3080.0,
+      "id": "3a990289-2802-3de9-be15-5e6570605a13",
+      "speaker": "Dan",
+      "start_timestamp": 3074.0,
+      "text": "people call him a racist. And so he wants to like as he's race. Well, Norm has an interesting response here. Let's hear it."
+    },
+    {
+      "end_timestamp": 3093.0,
+      "id": "8a24f465-8799-3532-aa00-4adadd606870",
+      "speaker": "Owen Shroyer",
+      "start_timestamp": 3080.0,
+      "text": "You know what's funny hearing you say all that? You know, I'm banned from pretty much all big tech platforms can't take an Uber can't take an Airbnb, people call me a racist all the time. insurrectionist all these lies about me. I wonder when am I gonna be able to sue for a billion dollars norm?"
+    },
+    {
+      "end_timestamp": 3098.0,
+      "id": "e67ec961-d1d6-31ff-8b33-e4be6d81b64f",
+      "speaker": "Norm Pattis",
+      "start_timestamp": 3093.0,
+      "text": "Well, you might, you can try. You just got to find a jury that's willing to get given to you. You know,"
+    },
+    {
+      "end_timestamp": 3108.0,
+      "id": "a8b74f14-399c-3dc3-945d-0a86a289e43f",
+      "speaker": "Dan",
+      "start_timestamp": 3098.0,
+      "text": "yeah, you can try. That's probably not the response that you want to hear from the lawyer. Go for it. I mean, you can't because you never win that case. You can try"
+    },
+    {
+      "end_timestamp": 3117.0,
+      "id": "4b925fee-2766-3c72-9e7e-8dc15ed90644",
+      "speaker": "Jordan",
+      "start_timestamp": 3108.0,
+      "text": "in private. That's the response that you want to hear from a lawyer on your show. You want to hear Hell yeah, we can all Sue tomorrow. It's gonna"
+    },
+    {
+      "end_timestamp": 3121.0,
+      "id": "d5443296-1019-3cbb-b3e4-66a4b4dc6edc",
+      "speaker": "Dan",
+      "start_timestamp": 3117.0,
+      "text": "sue norm just took that big L"
+    },
+    {
+      "end_timestamp": 3131.0,
+      "id": "466b93c2-f3bb-3192-a318-49391f0c64e4",
+      "speaker": "Jordan",
+      "start_timestamp": 3121.0,
+      "text": "to do a show. Yeah, please. This is like an hour longer than if I had just walked off the stage after bobbing for an hour I would be very difficult to talk to go here. What"
+    },
+    {
+      "end_timestamp": 3140.0,
+      "id": "bfb85a87-0d67-30ce-9929-08ca8dacd9d6",
+      "speaker": "Dan",
+      "start_timestamp": 3131.0,
+      "text": "if you just ate shit for like a half hour set? And you came off stage to a bill of a billion dollars from the bar. You drank the wrong button"
+    },
+    {
+      "end_timestamp": 3153.0,
+      "id": "75d41129-58d5-3291-8a1a-1b941fa03ae8",
+      "speaker": "Jordan",
+      "start_timestamp": 3140.0,
+      "text": "is that is not far enough. Relatively speaking from a lot of my life. In my world at the time, my bill, my bar Bill was about a billion dollars. So look, the"
+    },
+    {
+      "end_timestamp": 3197.0,
+      "id": "9e91c2e8-8beb-32ae-9b79-255d02ccbdc4",
+      "speaker": "Dan",
+      "start_timestamp": 3153.0,
+      "text": "interview is not very interesting past past this not not a lot of insight, you're getting sort of a lot of the same like we're gonna appeal. It'll take two years, right? Blah, blah, blah. Give Alex money. The law. Yeah, so the War Room. Nothing. The rest of it's just I want to be a no and I don't care garbage. So later in the evening, Alex comes back. And he does his evening emergency broadcast. And by this point, he's got himself a clip of Chris Maddie on the on the steps of the courthouse afterwards with the families behind him giving a press conference. And Alex plays that this is sort of the his thesis he plays this a lot of this clip, he plays a bunch."
+    },
+    {
+      "end_timestamp": 3224.0,
+      "id": "fec69d1d-b4f7-300c-866a-51a55966d02e",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3197.0,
+      "text": "So they got our financials and they default to us. They know we don't have any money. So he hits up and he says don't give him money. So we can't appeal second shot us down. That's their mission. Obviously, Democrat Party, ambulance chaser King Daddy says don't give us money. What do you do? It's totally disgusting. Let's play one more time. Go seek well of sql.com. Listen to your enemy. Shane, do not support us listen to this."
+    },
+    {
+      "end_timestamp": 3261.0,
+      "id": "1207d180-d5a2-3617-987c-96f59ee854cc",
+      "speaker": "Chris Mattei",
+      "start_timestamp": 3224.0,
+      "text": "But we will be added as long as it takes. And if you're out there right now, and you're one of Alex Jones's audience members. And you're considering giving him money. I just want you to know that based on the jury's verdict today, it's not a very good bet. And to go back with to what Robbie Parker said, All Alex Jones does his take from you exploit you lie to you. Feed your fears and your anxieties and your mistrust. And the only person that benefits in that equation is him. Well, that stops that stopping today, thanks to the courage of these families. Thank you very much."
+    },
+    {
+      "end_timestamp": 3264.0,
+      "id": "232bf4d8-590c-3e60-bf44-f3fffab47bde",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3261.0,
+      "text": "Thanks for your rig court and all the rest of it. No, nothing stopped."
+    },
+    {
+      "end_timestamp": 3300.0,
+      "id": "63407a88-e5ff-3145-b6c8-e9b0ce36a244",
+      "speaker": "Dan",
+      "start_timestamp": 3264.0,
+      "text": "So two things stick out to me here. The first is that this notion that many would have a plan to discourage Alex's listeners from donating so Alex wouldn't have enough money to appeal the case is super dishonor. Yeah. If this case was as much of a railroading as Alex insists it is he should have no problem finding someone to defend him pro bono. For instance, how about his good buddy who clearly feels this case is a threat to the future of the world media star Bobby barn a Bobby Burns or if any of this were true that this case like impinged on fundamental constitutional rights. The ACLU would be all over dating Alex"
+    },
+    {
+      "end_timestamp": 3305.0,
+      "id": "3657bc17-1875-3583-83f7-e503bc3e152f",
+      "speaker": "Jordan",
+      "start_timestamp": 3300.0,
+      "text": "have defended so many goddamn Nazis over the years Alex is not worse than them"
+    },
+    {
+      "end_timestamp": 3312.0,
+      "id": "790dd798-e794-38e9-89d3-df1c032313ba",
+      "speaker": "Dan",
+      "start_timestamp": 3305.0,
+      "text": "if this was a principle matter the ACLU couldn't do couldn't stop them from yeah big."
+    },
+    {
+      "end_timestamp": 3316.0,
+      "id": "6e85c0de-4914-3791-a4b1-36e47601a0ff",
+      "speaker": "Jordan",
+      "start_timestamp": 3312.0,
+      "text": "Oh my god, we can't wait to show off how ACLU we are. Yeah."
+    },
+    {
+      "end_timestamp": 3432.0,
+      "id": "1d4c42b0-3d0c-3721-9185-bc710e3659be",
+      "speaker": "Dan",
+      "start_timestamp": 3316.0,
+      "text": "The second thing is that tone at the end there were Alex is saying this isn't going to stop is probably unwise. There's still the Posner case to go, you may remember. And if Alex lets himself fly a little too freely, it feels like that could haunt him, particularly because that case is one where he is super guilty and the damages could end up being way higher than the Lewis Heslin. One. Alex is trapped in a space between being essentially impotent to change reality and needing to appear defy it to the audience or risk the cash drying up. If what norm says means anything. Sure, you know, it could be a while before this appeal is decided and Alex ends up losing that, and likely ends up being sanctioned a ton for abuse of the appeals process along the way. But if the audience loses heart, that's a bigger danger. I went over to save Infowars the fundraiser they had stood. And he was about $200,000 On the afternoon of the 13th, the day after the verdict came in. So this is the evening of the 12. Okay, so use about 200,000 That seems to be about where you know, he can muster, Alex went all out on his show Oh, and did what he could on the wall room. And then here we have Alex doing an emergency broadcast, that retroactively became part of a marathon that became that started at 8am That day, and then went till midnight. Oh, and spent like three hours taking calls after Alex left in the first episode of Alex's long awaited all colors show, which actually still isn't the thing. It was just filling time. Sure. They pulled out all the stops. And also, this is the tally after Alex's show on the 13th. And this is where they got to. It's a respectable number for sure. But it's not going to do shit for him in terms of staving off bankruptcy or paying lawyers enough to fight this two year appeal process. It seems like the free market is saying that the demand for Alex's show just doesn't justify its existence anymore. And I don't know, like I said this, this is never going to stop thing is making the lawyers, the plaintiffs lawyers case for Right."
+    },
+    {
+      "end_timestamp": 3453.0,
+      "id": "12c6310b-5eea-3e7a-914b-b9f6127ac55e",
+      "speaker": "Jordan",
+      "start_timestamp": 3432.0,
+      "text": "Right. Right. Okay. So if 1 million is point 1% of a billion, right. Am I right in saying that? It's 1000? Millions? Right? So one is 1.0? Yeah. So that would be point zero 2% of the total amount needed?"
+    },
+    {
+      "end_timestamp": 3476.0,
+      "id": "c9999a0e-e8f7-36bc-8f2a-e57367dfab96",
+      "speaker": "Dan",
+      "start_timestamp": 3453.0,
+      "text": "Well, to pay that off? Yeah. But the notion is I need enough money to pay the lawyers, Shannon make the business appear profitable bankruptcy court, and then it'll be smooth sailing. Right? So maybe $200,000 appears to be close to enough of supplemental money. Right? But it's it's it seems like not enough."
+    },
+    {
+      "end_timestamp": 3489.0,
+      "id": "aed5fb14-c3b4-3d46-b9ad-d4de33a18b98",
+      "speaker": "Jordan",
+      "start_timestamp": 3476.0,
+      "text": "If he gets a billion in Bitcoin, it will really narrow down the number of people who could be that's true, you know, like assassin aliens does a lot shorter. million is that's a fairly wide range in America now."
+    },
+    {
+      "end_timestamp": 3517.0,
+      "id": "2447332d-fb2a-322c-a2c8-600da5c67b7c",
+      "speaker": "Dan",
+      "start_timestamp": 3489.0,
+      "text": "But I think I think logistics put aside the fact that they could do this, like really go all out have a billion dollar judgment against the company. Yeah. And that's what they can muster out of the audience is not good. I mean, like, we just sort of sending buttons to people for free, right. And if people want to donate to charity, right, they can. Yeah. And we've raised like, what? $35,000 Plus Nothing,"
+    },
+    {
+      "end_timestamp": 3522.0,
+      "id": "61a6f639-6189-30b9-8cfa-f640ca91d2dc",
+      "speaker": "Jordan",
+      "start_timestamp": 3517.0,
+      "text": "nothing new looking. Right. It's not 200 grand."
+    },
+    {
+      "end_timestamp": 3527.0,
+      "id": "7032989a-44e9-3a71-9bad-e8d9a94c1493",
+      "speaker": "Dan",
+      "start_timestamp": 3522.0,
+      "text": "But we also don't have a billion dollar judgment against us. And we're not begging people to"
+    },
+    {
+      "end_timestamp": 3530.0,
+      "id": "8d8494d5-3b0f-3538-844c-fab711582c7e",
+      "speaker": "Jordan",
+      "start_timestamp": 3527.0,
+      "text": "donate to know that's a big part of our overhead keeping it low. $35,000"
+    },
+    {
+      "end_timestamp": 3554.0,
+      "id": "52bde3d9-0252-3391-a139-7c1f5eb22db7",
+      "speaker": "Dan",
+      "start_timestamp": 3530.0,
+      "text": "for charity feels like $200,000 in Alex's like his circumstance, yes. I just think it's a bad omen of what he can muster out of the audience. Yeah, they should they should be over a million. Yeah, I would think based on well, actually, the fundraiser the goal is 500,000. Right. So when they haven't reached the goal,"
+    },
+    {
+      "end_timestamp": 3557.0,
+      "id": "25938c8b-20ac-3e72-9d77-268fb54887f2",
+      "speaker": "Jordan",
+      "start_timestamp": 3554.0,
+      "text": "they should have hit their goal. Yeah, absolutely."
+    },
+    {
+      "end_timestamp": 3570.0,
+      "id": "a9b5e133-c3cf-3103-864f-d42d5a9613c0",
+      "speaker": "Dan",
+      "start_timestamp": 3557.0,
+      "text": "If anything about Alex, his reach his audiences commitment, any of that were, like meaningful. Yeah, I find that to be a real, real L for hours,"
+    },
+    {
+      "end_timestamp": 3581.0,
+      "id": "5f651960-ae79-311c-9139-2bbba2a789b4",
+      "speaker": "Jordan",
+      "start_timestamp": 3570.0,
+      "text": "right? If we actually had 10% of the world listening to knowledge fight, we would be able to drive more than $200,000 I'm just gonna say that,"
+    },
+    {
+      "end_timestamp": 3589.0,
+      "id": "7184fa87-13f4-395c-819f-cacaeaef04e0",
+      "speaker": "Dan",
+      "start_timestamp": 3581.0,
+      "text": "I would hope Yeah. Or it shows a real lack of engagement and commitment. Yeah. Anyway, Alex has had tons of people offer him jobs. Sure. But he doesn't give a shit."
+    },
+    {
+      "end_timestamp": 3595.0,
+      "id": "21db2992-b172-31a8-9864-b2706c1f2cd1",
+      "speaker": "Jordan",
+      "start_timestamp": 3589.0,
+      "text": "Oh, you should take one of the like landscaper. No, because he didn't give me a good landscaper."
+    },
+    {
+      "end_timestamp": 3611.0,
+      "id": "490a88cb-fc01-3391-9c3f-2a62c897c702",
+      "speaker": "Dan",
+      "start_timestamp": 3595.0,
+      "text": "Talking about media jobs. Oh, he was not gonna take those because he would be fired from them immediately. Yeah, well, That's true. But he reached out, tried to find somebody big to have on for his marathon. And of course, he's got Steve Coyle, the guy who believes in right biblical giants, right?"
+    },
+    {
+      "end_timestamp": 3629.0,
+      "id": "f0366a29-34d4-3c23-9ecd-a890965fb97c",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3611.0,
+      "text": "We've got dozens of organizations ready to put us on air anywhere. You're not shutting crap down. We're intensifying. I'm gonna launch a whole new show in defiance of you. Steve Quale, one of the icons of the liberty movement were totally vindicated world government out of the oven, poisoned shots, nuclear war, all of us here. Everybody has"
+    },
+    {
+      "end_timestamp": 3639.0,
+      "id": "832137eb-5981-3c6d-af12-ed3fb13ba5d5",
+      "speaker": "Dan",
+      "start_timestamp": 3629.0,
+      "text": "been vindicated. And of course, that means I don't know if you saw down. Where was this? I think this was over by Navy Pier. There were a bunch of giants. Oh, shit."
+    },
+    {
+      "end_timestamp": 3663.0,
+      "id": "a9b7727f-a485-33a8-9217-332f120206a8",
+      "speaker": "Jordan",
+      "start_timestamp": 3639.0,
+      "text": "Yeah. Oh, my god the last time. So here's the problem. Like we've I lived in Uptown for five years. When I moved into uptown. Unfortunately, it appears that I was gentrification, but I wasn't anywhere near as bad as the giants who have moved into the past year. I mean, they're nice dryers but they take up a lot of Oh my God, so many tall buildings. Now to give them a place to live, he ruins"
+    },
+    {
+      "end_timestamp": 3665.0,
+      "id": "ada280f5-2672-3a6d-ac98-acef037af6ff",
+      "speaker": "Dan",
+      "start_timestamp": 3663.0,
+      "text": "the lakefront views guidelines."
+    },
+    {
+      "end_timestamp": 3668.0,
+      "id": "eb06c9ad-58aa-3508-a2c9-82ba0cd9f03f",
+      "speaker": "Jordan",
+      "start_timestamp": 3665.0,
+      "text": "Sky."
+    },
+    {
+      "end_timestamp": 3672.0,
+      "id": "e333f6ad-fd05-3ace-889b-0b8fc3a28608",
+      "speaker": "Dan",
+      "start_timestamp": 3668.0,
+      "text": "So look, they just talk a bunch of bullshit about how World War Three is. Sure. Well,"
+    },
+    {
+      "end_timestamp": 3674.0,
+      "id": "1cd74aa5-4430-3d45-b583-70b7e7141a8d",
+      "speaker": "Jordan",
+      "start_timestamp": 3672.0,
+      "text": "naturally, you know,"
+    },
+    {
+      "end_timestamp": 3744.0,
+      "id": "e6a43529-410d-3e19-8eeb-67072453418d",
+      "speaker": "Dan",
+      "start_timestamp": 3674.0,
+      "text": "it is now World War Three is here. It's because according to them, the international bankers and globalists were afraid because Putin went to the gold standard. Sure. Meanwhile, Putin, you know, he just wanted people to respect his borders. That was his whole thing. And then like, you went to the gold standard and everybody else so mad if he on the gold standard feel like he's on the oil standard. See, that's a problem that isn't Russia didn't go to the gold standard. Now that's a problem. They just announced that they would buy gold from domestic institutions for a stable fixed price from March 28 to June 30th 2022. They didn't anchor the rubles value to gold, which is what Steve is saying that they did in order to justify this conspiracy, that the globalists want to start World War Three over right. Russia made this move because they have a giant domestic gold supply. The crapped svet met plant in Siberia is one of the biggest in the world. And after they invaded Ukraine, these domestic gold producers were barred from selling to international markets. That would be really bad for a lot of folks with a lot of money and valuable commodities. So Putin announced that the Russian government and the central bank would buy their gold at a set price to offset the setbacks that were caused by invading Ukraine right"
+    },
+    {
+      "end_timestamp": 3748.0,
+      "id": "b17d00d4-30ce-3be4-8c40-f4d973adbff5",
+      "speaker": "Jordan",
+      "start_timestamp": 3744.0,
+      "text": "the way the United States does for like cheese and shit. Yeah, this was set"
+    },
+    {
+      "end_timestamp": 3794.0,
+      "id": "c035b776-1dc9-3d56-8f02-71a6c881ccbe",
+      "speaker": "Dan",
+      "start_timestamp": 3748.0,
+      "text": "to start on March 28, and the price was set at 5000 rubles per ounce. However, that announcement made the price of the ruble jump about 20% and on April 7, Russia decided to go back on their announcement and begin buying gold quote at a negotiated price vary Russia of them. The rubles had gained in value, so they were getting screwed on the set gold price. So they decided to end it months before the program was set to run. So just to clarify, Steve is saying that the globalists want to start World War Three over the fact that Russia put their currency on a gold standard. But in reality, the ruble isn't on a gold standard. And the short term buying of gold at a set price was just done to offset some of the market inconveniences that came after invading Ukraine. You could say that Steve is on here just spouting complete bullshit in order to spread pro Russia messages and talking points. But"
+    },
+    {
+      "end_timestamp": 3798.0,
+      "id": "58acc3ee-7ecd-36c2-9e3b-858ef9fbb183",
+      "speaker": "Jordan",
+      "start_timestamp": 3794.0,
+      "text": "and this is not pro Russia. This is pro truth."
+    },
+    {
+      "end_timestamp": 3831.0,
+      "id": "3bcaa9f1-d064-3734-99b1-93de6a5bda81",
+      "speaker": "Dan",
+      "start_timestamp": 3798.0,
+      "text": "I stand Correct, right. I gotcha. So that's, that's a large portion of what they end up talking about. And I'm not super interested in it. And yeah, there's a decent chance I would skip past some of it yet some weird stuff ends up happening. All right, that actually I kind of enjoy. I'm interested. So Alex, one of his big the ways that this is profitable is there is a very severe thing that's happening, but there's a chance we can stop it. Sure. Right. That's the game. There needs to be there needs to be that window that maybe we can get out of it's going to be expensive tragedy,"
+    },
+    {
+      "end_timestamp": 3836.0,
+      "id": "17e69008-4a80-355f-86c7-ebcd911755d6",
+      "speaker": "Jordan",
+      "start_timestamp": 3831.0,
+      "text": "we cannot stop. However, if you donate to us, we can stop it."
+    },
+    {
+      "end_timestamp": 3841.0,
+      "id": "efe2c613-6ead-327c-9921-9cbbd81ffd50",
+      "speaker": "Dan",
+      "start_timestamp": 3836.0,
+      "text": "There's a chance Exactly. So he asks, Steve, if this world war three can be stopped candidate,"
+    },
+    {
+      "end_timestamp": 3879.0,
+      "id": "6b0cebe5-ad3d-3864-8524-ccadc32c28b2",
+      "speaker": "Jordan",
+      "start_timestamp": 3841.0,
+      "text": "they'll do anything to silence that true silence, truth tellers, even to provoking world war three. And this is the big issue tonight. Alex says we're on together. It's not something they don't want. It's not something they fear. They want it with all of their globalist Luciferian might, because at the end of the day, everything that you've talked about, know your videos, population, depopulation quotes, plans, how they're going to do it. We've watched millions probably more like at least, I'd say 50 million people dead worldwide on COVID. Why would you believe that people have 50 million"
+    },
+    {
+      "end_timestamp": 3884.0,
+      "id": "e17047e4-8539-3611-9a6f-a32ab71c8aa5",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3879.0,
+      "text": "I agree. So can we stop it or is it biblical is an unstoppable?"
+    },
+    {
+      "end_timestamp": 3901.0,
+      "id": "7c3ec2f3-be68-34b9-b428-4084dbca7036",
+      "speaker": "Jordan",
+      "start_timestamp": 3884.0,
+      "text": "No, it cannot be stopped. It cannot be stopped. It cannot be stopped. These are the days that obviously the four horsemen of the apocalypse the book of Revelation way they the left uses or the press mainstream press my how they're interchangeable. They Use those biblical terms"
+    },
+    {
+      "end_timestamp": 3903.0,
+      "id": "2a1a82fe-772f-3844-88dc-78ebf3a88c90",
+      "speaker": "Dan",
+      "start_timestamp": 3901.0,
+      "text": "conquer the fuck down then, right? I mean, you mean,"
+    },
+    {
+      "end_timestamp": 3915.0,
+      "id": "d5f29f55-2b20-3fef-bdd7-7c436301c44f",
+      "speaker": "Jordan",
+      "start_timestamp": 3903.0,
+      "text": "how do you say that and not also be like, hug your loved ones? No, like you're saying to me that global thermonuclear war is inevitable even"
+    },
+    {
+      "end_timestamp": 3927.0,
+      "id": "dea834b0-412c-3846-9ab7-d6cd75e26051",
+      "speaker": "Dan",
+      "start_timestamp": 3915.0,
+      "text": "beyond that. Horsemen of the Apocalypse. Yeah. Explain to me why I go to work the next day. Well, unless your job is digging the hole for your family to hide in. I don't know why you would."
+    },
+    {
+      "end_timestamp": 3931.0,
+      "id": "d52d1c36-c32d-3234-aa19-bda482f7483a",
+      "speaker": "Jordan",
+      "start_timestamp": 3927.0,
+      "text": "Well, then let's go dig a hole for my family. Right say"
+    },
+    {
+      "end_timestamp": 3937.0,
+      "id": "52337ce0-5148-31b9-8aa2-24cf7a736fe8",
+      "speaker": "Dan",
+      "start_timestamp": 3931.0,
+      "text": "I mean, conceivably, it's go to the bunkers, right. I mean, like, that's the only unstoppably you said it three times?"
+    },
+    {
+      "end_timestamp": 3954.0,
+      "id": "57f483d5-e239-38dc-83cf-2834e22b6ba6",
+      "speaker": "Jordan",
+      "start_timestamp": 3937.0,
+      "text": "I mean, okay, so here's, I feel like the game that is happening there is he's playing a game of chicken with apocalypse, where he's like, Okay, go to work, have some time, go out and eat dinner all the time. But as it's coming, so you gotta guess. Well, I"
+    },
+    {
+      "end_timestamp": 3964.0,
+      "id": "ab3c5a7e-91d9-3bc0-bafb-015c67ba1b24",
+      "speaker": "Dan",
+      "start_timestamp": 3954.0,
+      "text": "will say that I think that Steve said shit like this before, and it hasn't really hurt his career. So I think he's probably he's probably a little bit jaded to consequences."
+    },
+    {
+      "end_timestamp": 3970.0,
+      "id": "faac3946-f02e-3af6-9ccb-22678a5b03f9",
+      "speaker": "Jordan",
+      "start_timestamp": 3964.0,
+      "text": "Oh, the last time Alex claimed we would get hit by a nuclear bomb. I feel like he he suffered consequences for it. Right,"
+    },
+    {
+      "end_timestamp": 3985.0,
+      "id": "7dd883da-7ae4-3292-a9f3-68cb442fc3c0",
+      "speaker": "Dan",
+      "start_timestamp": 3970.0,
+      "text": "Nan. Oh, also, Steve is like an N times guy. Like he's on Jim Baker's show. Like he's one of the few people on Alex's show that has like crossover to Baker. Yeah. And like, so it's just kind of his thing. Sure. It's always on stop always, always times."
+    },
+    {
+      "end_timestamp": 3990.0,
+      "id": "221c1bbf-4e0b-3d1a-b14c-65dba36bdc5f",
+      "speaker": "Jordan",
+      "start_timestamp": 3985.0,
+      "text": "It's always coming. We're already in the first of the circles and Sandra."
+    },
+    {
+      "end_timestamp": 4002.0,
+      "id": "0397526c-9fa9-37c2-afc9-8f55811c35d8",
+      "speaker": "Dan",
+      "start_timestamp": 3990.0,
+      "text": "Now, like I said, Yeah, I want to skip to this shakes up, something happens. And they talk about Jesus a little bit. Now. You know, I love it. Steve has an interesting relationship with Jesus."
+    },
+    {
+      "end_timestamp": 4006.0,
+      "id": "190ec1d2-2e13-3079-ae95-eef5a8da9763",
+      "speaker": "Jordan",
+      "start_timestamp": 4002.0,
+      "text": "Okay. How can you Okay, let's hear it."
+    },
+    {
+      "end_timestamp": 4023.0,
+      "id": "4203ffb6-affc-3494-823e-a1505d6c89ee",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4006.0,
+      "text": "We're skipping breaks tonight. We got a few minutes left, Steve. Well, I appreciate you budgeting times to call.com. Talking about your awakening, your understanding, it's an amazing story. And just the fact we got to get right with God right now. I think more importantly, than then we should get right with Jesus right now. Spend a little time on that."
+    },
+    {
+      "end_timestamp": 4053.0,
+      "id": "98382918-e639-37ef-8265-23033cf81dd0",
+      "speaker": "Jordan",
+      "start_timestamp": 4023.0,
+      "text": "Well, thank you, Alex. Number one, when when you would ask me and just getting the bottom line. The Bible declares that the testimony of Jesus as a spirit of prophecy, God is the only supreme deity and being the God of the Bible, that that can tell the end at the beginning. And you know, I had an encounter with Jesus physically saw what, and he gave me a panorama of history."
+    },
+    {
+      "end_timestamp": 4056.0,
+      "id": "2fee85a2-5ee9-3428-8187-4bb951c518f5",
+      "speaker": "Dan",
+      "start_timestamp": 4053.0,
+      "text": "Yeah, he physically saw Jesus."
+    },
+    {
+      "end_timestamp": 4058.0,
+      "id": "e440b22f-7f11-37ff-a284-67802bf36c74",
+      "speaker": "Jordan",
+      "start_timestamp": 4056.0,
+      "text": "What's a panorama of history? Well,"
+    },
+    {
+      "end_timestamp": 4063.0,
+      "id": "33062436-d406-3e7f-8f75-1bb49d03976c",
+      "speaker": "Dan",
+      "start_timestamp": 4058.0,
+      "text": "we've talked about this before he's said this on we've discussed him saying this on the show before"
+    },
+    {
+      "end_timestamp": 4067.0,
+      "id": "10f37b7a-f35f-3bb5-b802-eb88fff46b0d",
+      "speaker": "Jordan",
+      "start_timestamp": 4063.0,
+      "text": "right he can see the beginning in the Z average life, but"
+    },
+    {
+      "end_timestamp": 4091.0,
+      "id": "dbd0dd00-4d5e-302f-b808-6ac3ae0e6161",
+      "speaker": "Dan",
+      "start_timestamp": 4067.0,
+      "text": "also the we'll get to this later he he clarifies a little bit that God didn't give him every bit of input. Yes, that's nice of God. Yeah, it's sort of like going through fog, you know, like, you can see something a little bit ahead, but not you know, like, not always. All right, so you can see like, the next talking point, God gives a much vision, sure, but not like 234 steps down the road."
+    },
+    {
+      "end_timestamp": 4104.0,
+      "id": "afef38a6-f868-3dde-b4b7-404972b289b0",
+      "speaker": "Jordan",
+      "start_timestamp": 4091.0,
+      "text": "One thing God knows. One thing I've noticed about God, huge fan of plausible deniability. He loves giving you just enough information to convince just enough people, but not enough information to prove"
+    },
+    {
+      "end_timestamp": 4122.0,
+      "id": "e3c37897-5842-383a-87a6-7e6a4e9046ff",
+      "speaker": "Dan",
+      "start_timestamp": 4104.0,
+      "text": "it. Well. What you don't understand about God is strategic flexibility. That is such a good God thing to do now. So Steve tells the story of meeting Jesus in the flesh. And I will remind you, this is the night that Alex lost a billion I believe he lost a billion dollars. Here's how we're spending our time. All right. In this case, Alex, I"
+    },
+    {
+      "end_timestamp": 4231.0,
+      "id": "ec28af4d-3de9-365a-9091-c308c2c19dfa",
+      "speaker": "Jordan",
+      "start_timestamp": 4122.0,
+      "text": "accepted Jesus at a house Lindsey meeting at the Student Union Building. I didn't know you know, how Lindsey explained to me who Jesus was. That's the first time I had anybody explained me who Jesus was the savior of the world when you saw him house, my mother's house, oh, I don't know, eight blocks from Montana State University. I walk into my room, which I had a bedroom in the basement. And the bottom line is Jesus physically appears, by the way, it wasn't drunk and I wasn't doing drugs, and Jesus all of a sudden, okay, okay, I fell at his feet as one door to get high, and I couldn't get up. I couldn't get up, and the glory of the Lord and when I say Glory, if you want to know what Jesus looks like, go to Revelation chapter one. Because when he lifted me up, and I said, Lord, who are you? And he said, I'm Jesus, your Savior. And I'm giving you a Josias ministry. I didn't know what that meant. I didn't know who Joseph was. When he looked into my eyes. Every cell in my body exploded with His love, His forgiveness, I had an understanding of of just the magnificence of God, though I couldn't have told you one Bible story. You know, probably maybe one Adam and Eve. And the bottom line is, is that we're like, it was so overwhelming for three hours. I basked I guess you'd say, praising him in his in his in just the presence of a living God. And after that he told me I would know him now understand this is not a dream, this is not a vision. This is like terra firma on Earth, and he said I know him don't do that ever again through His Word, though and Alex, fast forward and you know, after this experience had to go out and speak to an Assembly of God, Pastor, because he's the only one that could let me know what it meant to have an encounter with Jesus Christ."
+    },
+    {
+      "end_timestamp": 4256.0,
+      "id": "dce08c42-2556-3de3-9fb5-b97b47e64329",
+      "speaker": "Dan",
+      "start_timestamp": 4231.0,
+      "text": "So he was on campus Sure. And he went to a hot Lindsey meeting right and he accepted Jesus right not knowing anything about it. Did weird thing to do literally knew nothing. Weird thing to do went home. Yeah, went to the basement had one boom, Jesus. There he was in the flesh checking them out. Wow. What are the odds?"
+    },
+    {
+      "end_timestamp": 4263.0,
+      "id": "99994bb5-2cd0-39d0-8659-21ec8325045e",
+      "speaker": "Jordan",
+      "start_timestamp": 4256.0,
+      "text": "Explain to me, explain to me, honestly, why is Jesus going to Montana?"
+    },
+    {
+      "end_timestamp": 4264.0,
+      "id": "eb753185-45f1-3c0b-91ee-26b6703b1db7",
+      "speaker": "Dan",
+      "start_timestamp": 4263.0,
+      "text": "Gorgeous country."
+    },
+    {
+      "end_timestamp": 4300.0,
+      "id": "13bf9231-12f5-38b7-a0d5-74206ab7f110",
+      "speaker": "Jordan",
+      "start_timestamp": 4264.0,
+      "text": "Wow, that's fair. Yeah, that's fair. Yeah. You know, I saw Jesus once. Oh, like, actually, but not in a romantic magnate? Yeah, exactly. I had a manic episode. And I was having so many hallucinations. Like it was one of my first ones. I was gone for, like two or three weeks. And I remember seeing Jesus, I was playing pool in my basement. Were against Jesus. No, no, you can't play pool against Jesus. But no, I remember him, like up here talking to me. And I was very much like,"
+    },
+    {
+      "end_timestamp": 4302.0,
+      "id": "f40cbd31-6dc4-3a04-b2d7-5dc3cabbba8c",
+      "speaker": "Dan",
+      "start_timestamp": 4300.0,
+      "text": "yeah, man, Jesus was like us the horror it was"
+    },
+    {
+      "end_timestamp": 4317.0,
+      "id": "ad3d852a-1a30-3613-b6b8-9f9678aa368e",
+      "speaker": "Jordan",
+      "start_timestamp": 4302.0,
+      "text": "it was cool being in a manic episode when Jesus meets you, because at the same time, when you're in a manic episode, you're like, it's nice to meet you as equals Jesus. You know, like, I'm the savior of humanity. You're the Savior. We've got a lot in common man. Well,"
+    },
+    {
+      "end_timestamp": 4324.0,
+      "id": "562d658a-f791-3bad-acb9-4851696f304a",
+      "speaker": "Dan",
+      "start_timestamp": 4317.0,
+      "text": "it certainly is someone you'd want to meet in a vision other than like, Pete. Yeah, you know, yeah, just a random hallucination."
+    },
+    {
+      "end_timestamp": 4341.0,
+      "id": "cc1f05fc-c01d-32c6-a352-fd7fac92a256",
+      "speaker": "Jordan",
+      "start_timestamp": 4324.0,
+      "text": "No, totally. No, no. It's like, what everybody talks about status hallucination. Like, what everybody talks about their past lives are they like, oh, queen, Cleopatra, and they'd be like, if your past live is I was like, I was Dave and he died at five. You know, like, that's, that's not exciting."
+    },
+    {
+      "end_timestamp": 4370.0,
+      "id": "59224605-ef84-3ea7-9d5e-fac0a7d26166",
+      "speaker": "Dan",
+      "start_timestamp": 4341.0,
+      "text": "So leaving all that aside? Yeah. We have Alex doing a show where Steve Coyle is on talking about how he physically met Jesus. And Alex's being like, Yeah, but you did love it. Sounds so great. Five, six. Now, if we accept this as reality, sure, game changing. It does seem like times of believing everything Steve Quale has to say, because he has been well, I mean, I'll just let him okay. He's chosen Oh, shit, I the Lord. Oh, no,"
+    },
+    {
+      "end_timestamp": 4410.0,
+      "id": "2b14081d-a8e2-3b7d-99fa-e435a6405e4c",
+      "speaker": "Jordan",
+      "start_timestamp": 4370.0,
+      "text": "I don't know why God chose me a lot of people saying, well, you're such a, bla bla bla, but God chose me. And he when he said he'd give me a Josef's ministry that was to prepare the people of God. As we come into these and Tonto is a Jose's ministry. You know, this, you've heard me so many times. I always tell people look, it's not like I just sit down and figure this stuff out. But God in His mercy and in his calling to me, opens up the events before my eyes and I get flashed forwards. You know. So when you talk about Jesus appearing to you, people say, oh, man, that guy's on LSD. No, I wasn't. I was on heavenly."
+    },
+    {
+      "end_timestamp": 4423.0,
+      "id": "da3e3880-679a-32f7-a64d-8066acee4153",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4410.0,
+      "text": "Talking about not being able to get up. That's been my experience. Like Moses couldn't even see God. It's like, I've had that happen a couple times. I can't even I'm just like, it's like, but I don't. It's like total knowledge is beamed."
+    },
+    {
+      "end_timestamp": 4428.0,
+      "id": "47083998-e4fe-37da-b620-32cf219d592c",
+      "speaker": "Jordan",
+      "start_timestamp": 4423.0,
+      "text": "Yeah, and God's God dump stuff into I call it a data dump."
+    },
+    {
+      "end_timestamp": 4452.0,
+      "id": "0edb342c-f672-377a-b4b9-4194d6e9b24f",
+      "speaker": "Dan",
+      "start_timestamp": 4428.0,
+      "text": "I think Alex is like, I think what he has is night terrors. Yeah. Like he's describing not being able to move. And like so many of the things that he comes up with are based on movies he's seen, and they're horrifying. And that kind of feels like maybe he wakes up with like sleep paralysis. Yeah. Like, I don't know that. That makes total sense to me. Whereas Steve is just a lunatic. I"
+    },
+    {
+      "end_timestamp": 4460.0,
+      "id": "98411456-84ae-3bbc-95ed-dd540dab75d4",
+      "speaker": "Jordan",
+      "start_timestamp": 4452.0,
+      "text": "had I had a really terrible instance of sleep paralysis. One time I was in this place in fucking Bloomingdale. Illinois, you"
+    },
+    {
+      "end_timestamp": 4462.0,
+      "id": "840c1c3b-da15-337f-8632-513febe42349",
+      "speaker": "Dan",
+      "start_timestamp": 4460.0,
+      "text": "woke up and you're watching Jesus play pool. No, no,"
+    },
+    {
+      "end_timestamp": 4486.0,
+      "id": "542939ca-f347-3b6c-bcfe-ea87ebc271d9",
+      "speaker": "Jordan",
+      "start_timestamp": 4462.0,
+      "text": "no, I woke up. And you know, in that night terror where you do the hallucination thing, I woke up, and there was a man in a wheelchair slowly wheeling his way into my room, and I don't know why that is so scary, but the speed at which he was doing it was like, wow, he's not even trying to murder me and there's nothing I can do you know, it was that kind"
+    },
+    {
+      "end_timestamp": 4488.0,
+      "id": "efb2ff82-8c75-39d1-b02e-47ecea312a34",
+      "speaker": "Dan",
+      "start_timestamp": 4486.0,
+      "text": "of lazy as murder. Yeah, it's"
+    },
+    {
+      "end_timestamp": 4491.0,
+      "id": "75adbb89-f328-371d-a5ee-88f7cd277261",
+      "speaker": "Jordan",
+      "start_timestamp": 4488.0,
+      "text": "not even a hard murder for this dude, you know? Yeah,"
+    },
+    {
+      "end_timestamp": 4504.0,
+      "id": "a7bcbf00-d69b-3dd5-bd59-a7448cb8fce0",
+      "speaker": "Dan",
+      "start_timestamp": 4491.0,
+      "text": "it's tough. The real nightmare for me would be like if I'm there and I can't move. Right sleep. Sleep paralysis. Sure. And then like Haven't the bird comes? And I can't hug him. I'm going to throw it on her. Excuse me to"
+    },
+    {
+      "end_timestamp": 4510.0,
+      "id": "5992858c-7050-3d30-8378-7643763192ff",
+      "speaker": "Jordan",
+      "start_timestamp": 4504.0,
+      "text": "break into your place and start throwing Eric the bird. Kevin, Kevin. Sorry, my bad."
+    },
+    {
+      "end_timestamp": 4518.0,
+      "id": "a562bfbe-a1a8-3958-9650-d2faf314586d",
+      "speaker": "Dan",
+      "start_timestamp": 4510.0,
+      "text": "So yeah, I think Alex has night terrors. I think Steve is delusional. Good, good use of time on this. Emergency."
+    },
+    {
+      "end_timestamp": 4521.0,
+      "id": "61ff3e18-ca71-3e11-a2a6-cf885d2b9edc",
+      "speaker": "Jordan",
+      "start_timestamp": 4518.0,
+      "text": "I'm sorry. Did they lose a billion dollars today?"
+    },
+    {
+      "end_timestamp": 4530.0,
+      "id": "6750f545-224a-3b20-99f4-7043ea26a93d",
+      "speaker": "Dan",
+      "start_timestamp": 4521.0,
+      "text": "It's so weird what you do? So anyway, evil. I guess we would be included in that. We're afraid because Steve has met Jesus."
+    },
+    {
+      "end_timestamp": 4532.0,
+      "id": "d48bf364-8678-3fe0-b171-872decc0a058",
+      "speaker": "Jordan",
+      "start_timestamp": 4530.0,
+      "text": "People crazy that don't want to admit there's a"
+    },
+    {
+      "end_timestamp": 4545.0,
+      "id": "cd374585-7071-3a19-95b0-1eaada3edda2",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4532.0,
+      "text": "Christians the satanists in the rage. Because this is real. I mean, like you were able to look into Christ eyes. I couldn't even do it. Like I was just like, hammered on the floor. That's how you know it's true."
+    },
+    {
+      "end_timestamp": 4563.0,
+      "id": "5630c6d7-3b1b-385a-ba74-9f94063cdbc2",
+      "speaker": "Dan",
+      "start_timestamp": 4545.0,
+      "text": "This is so dumb. Yep. Anyway, they spend quite a bit of time on this course this emergency episode, talking about World War three churches. Cool. Great, actually. Right. And then quite a bit about how Steve met Jesus. Right?"
+    },
+    {
+      "end_timestamp": 4573.0,
+      "id": "c7fa5753-6b7b-366e-821f-b9f1a39ca52c",
+      "speaker": "Jordan",
+      "start_timestamp": 4563.0,
+      "text": "I mean, that makes sense. Apocalypse, a country where I wouldn't be prosecuted and the salvation of the earth. Yeah, that doesn't make sense for I've lost a billion dollars,"
+    },
+    {
+      "end_timestamp": 4590.0,
+      "id": "c8a66386-8176-3f53-a31a-0a8fdc0a2a26",
+      "speaker": "Dan",
+      "start_timestamp": 4573.0,
+      "text": "which would be prosecuted in Russia for something that's possible. You'd run afoul of some of you weren't friends with Putin. So Aleksei says goodbye to Steve Coyle, farewell, give the Giants my best share. And he has some other guests."
+    },
+    {
+      "end_timestamp": 4611.0,
+      "id": "354c45c0-809d-338f-b7c8-e9b4eea60d39",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4590.0,
+      "text": "Look, we got Robert Barnes that worked on the case for two years. And I'm so busy and everything else. He went on to other cases, so we're going to sue him told me so they're going to default you it's all fraud. He was right. And I didn't listen to his counsel. That's my fault. But he joins us when we come back after this very short, important piece on weather weapons"
+    },
+    {
+      "end_timestamp": 4617.0,
+      "id": "8390be61-ae0a-3d48-b1da-c3a0ec7c13e7",
+      "speaker": "Jordan",
+      "start_timestamp": 4611.0,
+      "text": "to it. How dare you? How dare you? How dare you get to weather weapons right now?"
+    },
+    {
+      "end_timestamp": 4628.0,
+      "id": "29e73e35-6b6b-3454-aa80-2458b8f75b1e",
+      "speaker": "Dan",
+      "start_timestamp": 4617.0,
+      "text": "It took him hours. He tried to get to it right before the verdict. Of course in the evening show. He's finally getting there. It's time there's continuity. It's a payoff."
+    },
+    {
+      "end_timestamp": 4630.0,
+      "id": "75214bcd-2055-39fc-901f-b2448899b208",
+      "speaker": "Jordan",
+      "start_timestamp": 4628.0,
+      "text": "We've got to kill time before Barnes shows up."
+    },
+    {
+      "end_timestamp": 4640.0,
+      "id": "aa51e18b-7dac-303a-834d-c996c766cf9c",
+      "speaker": "Dan",
+      "start_timestamp": 4630.0,
+      "text": "So yeah, Barnes is coming on. I love the idea that like he was too busy, too busy. That's why he didn't follow through with the case."
+    },
+    {
+      "end_timestamp": 4651.0,
+      "id": "98d0caa6-1162-36a2-bac4-11b93887db8d",
+      "speaker": "Jordan",
+      "start_timestamp": 4640.0,
+      "text": "The idea that Barnes was like, Hey, let's cooperate fully. And Alex said, No. Me infuriates me so hard."
+    },
+    {
+      "end_timestamp": 4653.0,
+      "id": "a932e4b5-26a6-3c67-bb17-ed6ab98665fc",
+      "speaker": "Dan",
+      "start_timestamp": 4651.0,
+      "text": "I Bobby Barnes is like, let's do this by the book. Totally."
+    },
+    {
+      "end_timestamp": 4658.0,
+      "id": "b3f04794-da6d-3d37-93b8-3fef5d88c704",
+      "speaker": "Jordan",
+      "start_timestamp": 4653.0,
+      "text": "Get the fuck out of here. I swear to god. Yeah."
+    },
+    {
+      "end_timestamp": 4667.0,
+      "id": "5847557d-c938-3b3f-bc3a-e913eb4ae6c2",
+      "speaker": "Dan",
+      "start_timestamp": 4658.0,
+      "text": "So like Barnes is on and the two of them just talk shit with each other about how, you know everything is unfair. The world is against them. They're"
+    },
+    {
+      "end_timestamp": 4671.0,
+      "id": "68e5c95a-77c1-3c07-95b6-fae2c8ba280a",
+      "speaker": "Jordan",
+      "start_timestamp": 4667.0,
+      "text": "their heroes. Everybody's mean. Yeah. And there seems to be like"
+    },
+    {
+      "end_timestamp": 4701.0,
+      "id": "a391aac1-5880-37e7-9a2e-b0381151a57b",
+      "speaker": "Dan",
+      "start_timestamp": 4671.0,
+      "text": "a through line between norm also comes on a little bit. But Barnes and Norm both have this like, suspicion about how like, Chris Matisse said, don't donate to Infowars. Right. That's not a good investment. Not a good bet. Right? And they're like, Hey, shouldn't he be wanting everybody to give money to Infowars? Because then his clients get more money. It's like trying to I don't think you're making the argument you think you're making they're trying to fundraise off like,"
+    },
+    {
+      "end_timestamp": 4708.0,
+      "id": "816eb75d-9242-360d-847d-9d01753bab0e",
+      "speaker": "Jordan",
+      "start_timestamp": 4701.0,
+      "text": "hey, they're trying to fundraise off of them telling their people that they're going to lose their money if they fundraise? Yeah,"
+    },
+    {
+      "end_timestamp": 4727.0,
+      "id": "16476784-8493-3031-be27-6b7c9eb8c66e",
+      "speaker": "Dan",
+      "start_timestamp": 4708.0,
+      "text": "kind of, but you're also like, secretly, we're not going to give them any money. So everything is fine. Yeah. Yeah, it's very weird. I find it compelling. Yeah. But one thing I do find compelling is that Alex, I think, maybe had a few pops because he's seems to be Soda Pops. No, he seems to be communicating a little bit different."
+    },
+    {
+      "end_timestamp": 4778.0,
+      "id": "04fd4b30-df4c-3c25-9ba7-3e8d12fb41ea",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4727.0,
+      "text": "Again, the whole thing, the billion dollar verdict is a scare everybody. What is this really meant to do? And then you predicted this on the show two weeks ago, a week ago. And in Connecticut two weeks ago, you shed this FBI agent I've ever said his name Jonah Hill, who the hell he is? Yes, we know me if they can get public officials to sue people and when because you question a public event or criticize the government they have victory. Well, here is this Texas. Major government official, Secretary of State was in hundreds of newspapers yesterday, every Texas TV station that we looked at, said Alex Jones how're you doing buddy? Hell by questioning the 2020 Texas election."
+    },
+    {
+      "end_timestamp": 4782.0,
+      "id": "c726fc54-bf72-3ff8-8358-642ce0d50d00",
+      "speaker": "Dan",
+      "start_timestamp": 4778.0,
+      "text": "He seems to be suffering to get these words out. Yeah."
+    },
+    {
+      "end_timestamp": 4783.0,
+      "id": "8a2bb3e7-e0d3-3fb6-a508-e2f3d45570f1",
+      "speaker": "Jordan",
+      "start_timestamp": 4782.0,
+      "text": "That's a bit of a struggle."
+    },
+    {
+      "end_timestamp": 4790.0,
+      "id": "388ce2d3-2a90-3210-9542-87deae272597",
+      "speaker": "Dan",
+      "start_timestamp": 4783.0,
+      "text": "I don't know if he's like had a few drinks or if like he's just gassed but like it's it's very weird."
+    },
+    {
+      "end_timestamp": 4816.0,
+      "id": "d26e0b47-7450-3d78-943c-83b5caaa54db",
+      "speaker": "Jordan",
+      "start_timestamp": 4790.0,
+      "text": "I would I swear to you, in this one instance. I cannot judge anyone's by havior for the moment after they receive a billion dollar judgment, I just I don't know how you would behave baseline. Absolutely. I mean, yeah, I feel like getting absolutely shit faced beyond all reason makes just as much sense. Anything else"
+    },
+    {
+      "end_timestamp": 4825.0,
+      "id": "e096643a-a856-31c7-87f5-fea3ba95a452",
+      "speaker": "Dan",
+      "start_timestamp": 4816.0,
+      "text": "if Alex came on and he was wearing a lampshade Holy Land was just like brought the llama bad"
+    },
+    {
+      "end_timestamp": 4833.0,
+      "id": "7803ac0e-99c9-3279-a1d8-3e07d35b3e11",
+      "speaker": "Jordan",
+      "start_timestamp": 4825.0,
+      "text": "symbols. It was just bouncing them together. Yeah, that makes more sense than going on trying to defend yourself."
+    },
+    {
+      "end_timestamp": 4843.0,
+      "id": "ec99f1fb-589b-37b3-8a53-5e3e813638f6",
+      "speaker": "Dan",
+      "start_timestamp": 4833.0,
+      "text": "I would have no qualms with what do you have to lose? I would have no confusion. Nope, nothing to report here. Alex was wasted. You know, it's"
+    },
+    {
+      "end_timestamp": 4855.0,
+      "id": "8ce3b2fb-d10a-34e7-8c10-55a9bd2b0bb3",
+      "speaker": "Jordan",
+      "start_timestamp": 4843.0,
+      "text": "crazy. Maybe for the first time in anyone's life. You could have true clarity after receiving a billion dollar judgment of just like, You know what, literally nothing I do matters that this boy, you"
+    },
+    {
+      "end_timestamp": 4872.0,
+      "id": "72bf8a5c-14a4-3171-b92f-0ba661c0185c",
+      "speaker": "Dan",
+      "start_timestamp": 4855.0,
+      "text": "know, you know what I think would be fitting to like that, that episodes from like, way back where he gets really drunk and yells at Adam Schiff and talks about Jason on a human skull. I remember that. That should be what he bet show. Yeah, absolutely. That should be that. Totally. That would make"
+    },
+    {
+      "end_timestamp": 4874.0,
+      "id": "89cf9ca7-4eff-3191-b19c-ce6ba8378638",
+      "speaker": "Jordan",
+      "start_timestamp": 4872.0,
+      "text": "sense. absolute insanity. Yeah, yeah, that would make sense."
+    },
+    {
+      "end_timestamp": 4893.0,
+      "id": "b5b170da-acb8-3e33-abe5-e4532e8550ba",
+      "speaker": "Dan",
+      "start_timestamp": 4874.0,
+      "text": "But instead, this show where you talk to Steve Quale, but physically meeting Jesus and then is like burping through that sort of banal conversation with Robert Barnes. It's like, I don't know. That's disappointing. Yeah, start screaming about art and Scholes and the ways to learn. Come on, buddy."
+    },
+    {
+      "end_timestamp": 4900.0,
+      "id": "041a1cdd-2c68-3db8-b59e-b2de780bd701",
+      "speaker": "Jordan",
+      "start_timestamp": 4893.0,
+      "text": "I've not said this before to too many people. But Alex, I think you should get drunk."
+    },
+    {
+      "end_timestamp": 4911.0,
+      "id": "32b053e6-b301-3d9c-b16c-e6f8b99dabc7",
+      "speaker": "Dan",
+      "start_timestamp": 4900.0,
+      "text": "If there ever is a time when everyone would think it's fine, totally fine. Absolutely. Yes. So yeah, I mean, Alex is just like, they're not getting my money."
+    },
+    {
+      "end_timestamp": 4931.0,
+      "id": "5c037c1e-cb3c-3086-87c8-e8278df9a28e",
+      "speaker": "Robert Barnes",
+      "start_timestamp": 4911.0,
+      "text": "And as long as people keep Infowars on the air, by buying products that they like, anyway, at good prices, they will lose. I mean, the price is what happens with the court. When it goes what happens with the bankruptcies, regardless of what happens with anything else out there. As long as the people stick with Infowars. It cannot break through that line. And"
+    },
+    {
+      "end_timestamp": 4946.0,
+      "id": "95a29a4e-1983-3dda-90cc-fff06dca25ac",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4931.0,
+      "text": "notice, notice, Chris, man, he said that don't give him money, supposedly, this planet, you're gonna get it. But he doesn't want this his mission to silence us now. They're not getting the money, folks."
+    },
+    {
+      "end_timestamp": 4966.0,
+      "id": "471a9a02-48a7-38e6-ab64-bbcf2d085f76",
+      "speaker": "Robert Barnes",
+      "start_timestamp": 4946.0,
+      "text": "Absolutely. And what it shows is that what they have figured out is that the audience is what keeps Infowars alive. And they thought they could use this public smear campaign through a public show trial. That's what show trials are all about public smear campaign, to be able to get the audience to turn away from Infowars and Alex Jones."
+    },
+    {
+      "end_timestamp": 4983.0,
+      "id": "476d08dc-986c-3269-aac3-8be879e858c9",
+      "speaker": "Dan",
+      "start_timestamp": 4966.0,
+      "text": "Yeah. So Alex, I think the journey past the Steve Quale portion of this episode is just kind of the same shit. He says with Barnes normally, yeah. And then it just a progression of him audibly falling apart,"
+    },
+    {
+      "end_timestamp": 4993.0,
+      "id": "359cd835-fe8f-3297-a907-e11d6830546c",
+      "speaker": "Robert Barnes",
+      "start_timestamp": 4983.0,
+      "text": "okay. It's about getting the Infowars audience to not listen to itself, to not support itself to not embrace itself does not share with itself. That's what they That's right."
+    },
+    {
+      "end_timestamp": 4998.0,
+      "id": "b2e1b891-bce2-3fba-8b2e-88095cc23ab4",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4993.0,
+      "text": "We're the rallying point that they hate. They hate the audience. And he's, oh, I"
+    },
+    {
+      "end_timestamp": 4999.0,
+      "id": "58417c64-585c-312c-a6e7-52d983efb761",
+      "speaker": "Jordan",
+      "start_timestamp": 4998.0,
+      "text": "can hear it out there. Don't"
+    },
+    {
+      "end_timestamp": 5008.0,
+      "id": "546cae78-609a-3383-9857-2dd15a382832",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4999.0,
+      "text": "give it support. I don't want my planet was to get money. No, it's not about that. It's about silencing us."
+    },
+    {
+      "end_timestamp": 5016.0,
+      "id": "57c3bdf9-dbd3-39e4-9f3a-6d67fa280244",
+      "speaker": "Robert Barnes",
+      "start_timestamp": 5008.0,
+      "text": "It's all about getting people, the best form of censorship is self censorship. And what they want is people to begin to self censor, they're supportive. Infowars"
+    },
+    {
+      "end_timestamp": 5026.0,
+      "id": "f69ee0c6-cbb2-3dfb-a28a-9f85539b3822",
+      "speaker": "Dan",
+      "start_timestamp": 5016.0,
+      "text": "go to good on barns, trying to do some heavy lifting to like, carry the weight there. Yeah. Yeah, you can, you can get a little bit of that vibe off, Alex. It's not it's it's not inspiring."
+    },
+    {
+      "end_timestamp": 5051.0,
+      "id": "34963a09-ef2c-31a6-885e-f728a17e0f14",
+      "speaker": "Jordan",
+      "start_timestamp": 5026.0,
+      "text": "I feel like the traditional, like, stereotypical child of divorce, you know, with that, like, hypersensitivity towards the moods of certain people as to like, Oh, I know what happens next. Whenever this type of tone, like when Alex starts talking with that kind of thing. It's like, oh, man, I'm so hypersensitive to that, like, I know what's common man, you know?"
+    },
+    {
+      "end_timestamp": 5060.0,
+      "id": "72bbbcc6-651c-3d5b-91fd-3d953d330b34",
+      "speaker": "Dan",
+      "start_timestamp": 5051.0,
+      "text": "Yeah. And just to like, not be seeming like I'm being a tease or anything. There is no like, blow up here. He just seemed"
+    },
+    {
+      "end_timestamp": 5063.0,
+      "id": "8bf0e45f-7dd9-3adb-acf4-5115f37bea51",
+      "speaker": "Jordan",
+      "start_timestamp": 5060.0,
+      "text": "not on air. No. That's the point. Yeah."
+    },
+    {
+      "end_timestamp": 5078.0,
+      "id": "9d6fd9c1-1419-385e-8da5-7096e23c724e",
+      "speaker": "Dan",
+      "start_timestamp": 5063.0,
+      "text": "Just sort of a like mock originally Yang going on that doesn't. It doesn't inspire a lot of confidence. But it also isn't all that interesting. No, no, no. So Barnes says some shitty things."
+    },
+    {
+      "end_timestamp": 5092.0,
+      "id": "ce605f7f-2092-3f0b-bb13-734831f81a65",
+      "speaker": "Robert Barnes",
+      "start_timestamp": 5078.0,
+      "text": "This was never about false statements. This was never about the families frankly, they were simply the tool by which they could try to shame the Infowars audience into silencing Infowars and"
+    },
+    {
+      "end_timestamp": 5116.0,
+      "id": "f04bc62e-0ced-34cf-8bf1-333fd6e473b2",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5092.0,
+      "text": "Robert Barnes. I've got to say, this isn't fun. It's not happy. But I'm proud to be the main target these people. Stay right there. Let's bring norm Panasonic And you guys can't respond to each other right now. Like, we'll just let you guys go back and forth. Here. Are there any witnesses? He's been gagged. I wasn't gagged, despite what the media said. That didn't but but now that the verdicts out norm Pattis can actually talk about what he witnessed and what he saw and wasn't allowed to defend me."
+    },
+    {
+      "end_timestamp": 5126.0,
+      "id": "0c568c4e-c0c6-38bf-ad55-115d11fa0bd8",
+      "speaker": "Dan",
+      "start_timestamp": 5116.0,
+      "text": "Yeah, I mean, like, Why can't be both barns? Why can't it be about the families and about what Alex did and also about shutting his ass up?"
+    },
+    {
+      "end_timestamp": 5131.0,
+      "id": "4338cc81-d4dc-34b5-8c87-737725c5299e",
+      "speaker": "Jordan",
+      "start_timestamp": 5126.0,
+      "text": "Hey, that's a compound problem that is far beyond Barnes's ability"
+    },
+    {
+      "end_timestamp": 5135.0,
+      "id": "8a3f27df-3589-3eb9-870e-011e8653f116",
+      "speaker": "Dan",
+      "start_timestamp": 5131.0,
+      "text": "under seal it all mutually exclusive. Oh, no, in"
+    },
+    {
+      "end_timestamp": 5139.0,
+      "id": "c588b1ee-f498-31e2-9e4a-ae651fe04e0c",
+      "speaker": "Jordan",
+      "start_timestamp": 5135.0,
+      "text": "fact, almost symbiotic in their relationship. Yeah."
+    },
+    {
+      "end_timestamp": 5150.0,
+      "id": "1057212e-47b7-3a80-96b1-522d2776c992",
+      "speaker": "Dan",
+      "start_timestamp": 5139.0,
+      "text": "So as this goes along, Norm says a lot of basically the same shit that he said with with Owen earlier, and he is giving a long talks"
+    },
+    {
+      "end_timestamp": 5153.0,
+      "id": "a0a8b523-5a27-3c0b-be6c-e2d96ea65bef",
+      "speaker": "Jordan",
+      "start_timestamp": 5150.0,
+      "text": "like and he wasn't allowed to talk in court."
+    },
+    {
+      "end_timestamp": 5163.0,
+      "id": "9a8a4f8d-c2c7-39f7-9807-fe3982558404",
+      "speaker": "Dan",
+      "start_timestamp": 5153.0,
+      "text": "I will I will say there was one moment that I didn't cut a clip from but I thought it was pretty cute. And that was like Alex asked Barnes a question and norm is like, Oh, I'm sorry. I've been talking too much. Oh, haters gonna hate"
+    },
+    {
+      "end_timestamp": 5168.0,
+      "id": "9783cf0f-37a8-3dd2-a3ff-fc2e01550560",
+      "speaker": "Jordan",
+      "start_timestamp": 5163.0,
+      "text": "Haters gonna hate man. trowel and say the N word Haters gonna hate."
+    },
+    {
+      "end_timestamp": 5173.0,
+      "id": "c8c8a86a-b537-3cb9-8a2b-be1ef96c58db",
+      "speaker": "Dan",
+      "start_timestamp": 5168.0,
+      "text": "But yeah, as it goes along, you just get the sense that Alex is just he's run out of gas."
+    },
+    {
+      "end_timestamp": 5206.0,
+      "id": "ec3244ed-7caa-32e9-b9d5-11a8db0ccc87",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5173.0,
+      "text": "Well, because I'm in the war. You want to back us back as I've been in the show damn long. We got nuclear war. They've killed 20 million people with boys and shots all going on. I'm just gonna keep being a man to the end. And everybody's feeling sorry for me. Don't feel sorry for me. Feel sorry for the millions of illegals brought across hundreds or 1000s of kidnapped kids. Those are for kids drag queen storytime their parents take him to I mean, look, I'm a man out of I can tell you what, keep me to fight back us. Infowars store.com. Save infowars.com. But man, this is just so shameful Barnes."
+    },
+    {
+      "end_timestamp": 5212.0,
+      "id": "8350c792-5aa3-3f22-b1d0-694221aca6df",
+      "speaker": "Robert Barnes",
+      "start_timestamp": 5206.0,
+      "text": "Oh, it's completely shameful. It is a shameful moment. Maybe one of the most shameful moments in the history of American"
+    },
+    {
+      "end_timestamp": 5221.0,
+      "id": "ccf5d563-9740-3bf4-a17e-de4b45f0bc25",
+      "speaker": "Dan",
+      "start_timestamp": 5212.0,
+      "text": "law. Oh, I thought the show we're doing right now is shameful. Oh, no. Shame to American law. Oh, sorry. I misread that. Yeah,"
+    },
+    {
+      "end_timestamp": 5230.0,
+      "id": "ac6313db-ab0d-3f8f-9bdf-4eeda727abc8",
+      "speaker": "Jordan",
+      "start_timestamp": 5221.0,
+      "text": "I don't know if Barnes has ever said anything more true. unintentionally. That's the most that's the most true thing I think he's ever said honestly."
+    },
+    {
+      "end_timestamp": 5241.0,
+      "id": "99c40e69-2130-345e-a8e9-e832b1fb4d14",
+      "speaker": "Dan",
+      "start_timestamp": 5230.0,
+      "text": "Alex, like, being like, Hey, fuck it. You know what, give us money or don't come get us. But that's that is still like a desperate plea for money. Yeah, it is the appearance of like,"
+    },
+    {
+      "end_timestamp": 5244.0,
+      "id": "c1d3c5a3-e520-3738-9d59-2eae712577a4",
+      "speaker": "Jordan",
+      "start_timestamp": 5241.0,
+      "text": "I don't know. I don't really start to Viagra. bravado. Yeah, totally."
+    },
+    {
+      "end_timestamp": 5246.0,
+      "id": "b5d87dd2-c915-30b1-b151-065c6abfa0b7",
+      "speaker": "Dan",
+      "start_timestamp": 5244.0,
+      "text": "I don't even want your money. Hey, listen,"
+    },
+    {
+      "end_timestamp": 5258.0,
+      "id": "01c6bf81-7576-3cb9-b274-4b2743b852e6",
+      "speaker": "Jordan",
+      "start_timestamp": 5246.0,
+      "text": "I have gotten so much money. I mean, I'm bankrupt. But I had so I'm powerful. I've got the will I got the will to give me your money or not. I don't give up. But seriously, give me your money. It's admirable."
+    },
+    {
+      "end_timestamp": 5268.0,
+      "id": "09a127ad-b99b-3bb9-a791-44f0aae21b10",
+      "speaker": "Dan",
+      "start_timestamp": 5258.0,
+      "text": "It's not No. But it does lead to Alex doing an interesting plug. Interesting. And it leads me to think things are worse than he wants to lead. But"
+    },
+    {
+      "end_timestamp": 5326.0,
+      "id": "9f0e7329-4fbc-3363-81c9-087043ffde96",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5268.0,
+      "text": "I mean, where can you donate better? You heard the plaintiff's lawyers, the Democrat anti gun. Creature. Che do not give Alex Jones money. It's a lost cause he means you're a lost cause he wants to break your will. He hates the show, because I'm a focal point of liberty and freedom standing against these creatures. But I'm not worried about it. The other day, I've already hit the next level is fight. Thanks for your support. And there's so many up and comers and so many great leaders. I'm seeing God's vision unfold here. But I've got more to do in the fight to go to 1776 coin.com 1776 coin.com It's a fundraiser man, the arena coin. There's a special running right now. I was 1776 coin.com. With a promo code 1776 You get $30 off of the coin. The coin is a fundraiser coin Infowars store.com or 7076 join.com. And"
+    },
+    {
+      "end_timestamp": 5351.0,
+      "id": "e57399f9-0b73-3671-ba16-a655dc40b54c",
+      "speaker": "Dan",
+      "start_timestamp": 5326.0,
+      "text": "so the idea of this coin is we're selling it at a high market, right as a fundraiser fundraiser for the show. So if you want to buy this, it costs more, but it's symbolic. It's really a donation, right. Yeah. So now now, we're offering this way cheaper. Maybe it's a fundraiser. fundraiser party is now optional. The fundraiser."
+    },
+    {
+      "end_timestamp": 5355.0,
+      "id": "aa1e3baa-cc5a-3ff9-8cc0-211a5c3f4ba1",
+      "speaker": "Jordan",
+      "start_timestamp": 5351.0,
+      "text": "Fundraisers good. But we got to get the shit out shows"
+    },
+    {
+      "end_timestamp": 5365.0,
+      "id": "d2c0da45-c828-316c-b9ac-9d2f57746d9e",
+      "speaker": "Dan",
+      "start_timestamp": 5355.0,
+      "text": "a lack of commitment to the idea of that fundraiser that has no chill to it. Really? I'm gonna ask you there's an air of stinky desperation."
+    },
+    {
+      "end_timestamp": 5374.0,
+      "id": "a57f9250-ab73-3442-be87-1376069982d0",
+      "speaker": "Jordan",
+      "start_timestamp": 5365.0,
+      "text": "I'm gonna ask you a question. What exactly do you think I'm gonna do with 20,000 coins with no value? Nothing."
+    },
+    {
+      "end_timestamp": 5388.0,
+      "id": "2be8b67e-a94c-3cd6-8591-c8b615e3ddc2",
+      "speaker": "Dan",
+      "start_timestamp": 5374.0,
+      "text": "Create a Teddy Roosevelt. Yeah, that to me was a sign of you got to move these fucking coins. Yeah, and we need whatever we can make on them. Now fuck the fundraiser thing. Totally. I need some money."
+    },
+    {
+      "end_timestamp": 5391.0,
+      "id": "8898f5be-a795-35cb-b535-5360cb88bd4c",
+      "speaker": "Jordan",
+      "start_timestamp": 5388.0,
+      "text": "I need flow. Yeah."
+    },
+    {
+      "end_timestamp": 5394.0,
+      "id": "27631784-3422-3cb9-98e6-e0564dac1ac9",
+      "speaker": "Dan",
+      "start_timestamp": 5391.0,
+      "text": "So Alex goes off air. And"
+    },
+    {
+      "end_timestamp": 5403.0,
+      "id": "54b4378f-2469-3653-b414-d741c525a2c8",
+      "speaker": "Jordan",
+      "start_timestamp": 5394.0,
+      "text": "raucous applause from everybody. I think Chris Maddy called in and was like Hey, Got that you apologized and now we none of them. No, none of"
+    },
+    {
+      "end_timestamp": 5407.0,
+      "id": "0a675584-9cdd-3185-abd7-17d7d35351f1",
+      "speaker": "Dan",
+      "start_timestamp": 5403.0,
+      "text": "that keep an eye out for the last words that he says okay."
+    },
+    {
+      "end_timestamp": 5457.0,
+      "id": "47673569-f12f-3e7f-afa0-6e070cb70ad1",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5407.0,
+      "text": "Sons, a globalist satanic bastards to go to save infowars.com Legal Defense Fund, and I want to see hundreds of $1,000 not 160,000 And a few weeks me begging, because it takes money to beat these creatures. And I want you go to infowar store.com get incredible products you need. You heard them Don't bet on Jones. Don't give him money. He's a lost cause. They're saying you're a lost cause and you're not a lost cause. This is a damn war. And it takes money to win wars. I got a few more tricks up my sleeve though. God gave me What were you gonna break? Aragorn passes, press conference, a few other clubs that Oh, Tory's gonna take over. I'll be back Lord willing 11am Central Mara. Before that. There is American journal with the great Harrison Smith 8am Central. The coordinates are infowars.com forward slash show. God bless. Thanks for your support. And good luck. Good luck. Good"
+    },
+    {
+      "end_timestamp": 5461.0,
+      "id": "97a6dc86-72ed-3810-853c-7bdb78797e64",
+      "speaker": "Dan",
+      "start_timestamp": 5457.0,
+      "text": "luck to weird, weird."
+    },
+    {
+      "end_timestamp": 5466.0,
+      "id": "7792fd2d-6de2-38be-99a9-5772858ec400",
+      "speaker": "Jordan",
+      "start_timestamp": 5461.0,
+      "text": "That's not quite good luck and good night. Yeah, that's a very different tone of good luck."
+    },
+    {
+      "end_timestamp": 5469.0,
+      "id": "f3e3a0fb-e8fa-3ab6-99bd-cc966005b0c1",
+      "speaker": "Dan",
+      "start_timestamp": 5466.0,
+      "text": "What kind of luck does the audience need here means"
+    },
+    {
+      "end_timestamp": 5484.0,
+      "id": "3715fbdc-7b0d-3fde-b449-acd937dfed58",
+      "speaker": "Jordan",
+      "start_timestamp": 5469.0,
+      "text": "whoever if you just told me an hour ago, that nuclear war was inevitable. Good luck with that, and there's no stopping it. Good luck. Good luck. Good luck taking that lesson. Good luck. I we're all in this"
+    },
+    {
+      "end_timestamp": 5571.0,
+      "id": "0aa0814a-50e6-3385-bb28-ffc26c6c7ab0",
+      "speaker": "Dan",
+      "start_timestamp": 5484.0,
+      "text": "individually find myself quite uninspired. So look, we have the billion dollar judgment. And obviously, Alex's response to that in the moment is about what you'd expect. Yeah. Cheering it on, and sort of making a game. Yeah. That's what it is. Yeah. Later on in the evening. He does his emergency show. And at this point, I would say the mission is to do the best show you could possibly do. Do a show that lays out some hard hitting information that the globalists don't want people to have right? prove your worth, right, do something that is undeniably great, because here's the deal. Everyone already fucking knows that you lost a billion dollars. Yeah, the audience knows that. Yeah, they know you need money. You don't have to be a desperate weirdo. Do something. Don't spend a fucking hour with Barnes and Norm complaining and whining about nonsense. Do something that really changes the game, because you probably have the most eyes possible on things the most attention the most. Like if your mission is really about an information war information, boom. Don't don't spend time talking with Steve Quale about how he physically met Jesus. Yeah, don't do that. And to me the reason that he did that is because he has nothing else. There isn't something else that he can do"
+    },
+    {
+      "end_timestamp": 5585.0,
+      "id": "9f772fa9-1141-3f26-bec9-38acfac47313",
+      "speaker": "Jordan",
+      "start_timestamp": 5571.0,
+      "text": "no, there's no elevation No, no, there's no way that he can be like the rest go back to basics it because there was no basic so there was never anything. He was empty from the start."
+    },
+    {
+      "end_timestamp": 5601.0,
+      "id": "baa2d126-3675-3f37-bad4-4de3dc34fae0",
+      "speaker": "Dan",
+      "start_timestamp": 5585.0,
+      "text": "Yeah, G Edward Griffin won't answer his phone calls. Webster Tarpley doesn't like him scouse ends in bed. Yeah, it is Ron Paul doesn't want to come on anymore. And why does it matter if he did he doesn't answer his phone. He couldn't even get Roger no he's"
+    },
+    {
+      "end_timestamp": 5607.0,
+      "id": "7f495972-f087-32cf-b46c-2649881814b7",
+      "speaker": "Jordan",
+      "start_timestamp": 5601.0,
+      "text": "the whoopee cushion of the right he's got nothing we have an emergency."
+    },
+    {
+      "end_timestamp": 5608.0,
+      "id": "d3becd71-e85f-3e3f-92e2-f7dd142d6788",
+      "speaker": "Dan",
+      "start_timestamp": 5607.0,
+      "text": "Yeah, Rogers Nadal Rogers"
+    },
+    {
+      "end_timestamp": 5612.0,
+      "id": "724d3556-2356-3eae-afaf-2d18ad5724cd",
+      "speaker": "Jordan",
+      "start_timestamp": 5608.0,
+      "text": "got his own problems if the January 6 committee"
+    },
+    {
+      "end_timestamp": 5618.0,
+      "id": "2f2a41e8-b1fe-3e57-b7f4-77516d714284",
+      "speaker": "Dan",
+      "start_timestamp": 5612.0,
+      "text": "I wonder Steve magenic wouldn't even come on. I wonder if that was like he was like I'm gonna pass on"
+    },
+    {
+      "end_timestamp": 5622.0,
+      "id": "0ae5f11f-b34f-3caf-a667-554088f2f620",
+      "speaker": "Jordan",
+      "start_timestamp": 5618.0,
+      "text": "this. A Alex. I've done all I can for you."
+    },
+    {
+      "end_timestamp": 5624.0,
+      "id": "78876254-fe03-38b9-b55a-32f66a8a7cb3",
+      "speaker": "Dan",
+      "start_timestamp": 5622.0,
+      "text": "I lost you a billion dollars. No"
+    },
+    {
+      "end_timestamp": 5631.0,
+      "id": "bf9e7dd4-8881-3479-ba9d-056e25d3f1f3",
+      "speaker": "Jordan",
+      "start_timestamp": 5624.0,
+      "text": "way for you to not love me still after having lost you a billion dollars."
+    },
+    {
+      "end_timestamp": 5656.0,
+      "id": "b5e9fa9f-af0c-38da-b542-7eab5272dd44",
+      "speaker": "Dan",
+      "start_timestamp": 5631.0,
+      "text": "Yeah. Brutal. Yep. Also, this is a strange topic. Steve Janek came up. So I Yeah. Roger recently was on Alex's show in the middle of a hurricane that hit Florida. Right. And Roger did not correct Alex's politeness. Give him a lesson in man. Rudl. And I found that to be disappointing. Just for continuity. I would have liked it. If Roger was like you didn't ask how I'm doing."
+    },
+    {
+      "end_timestamp": 5664.0,
+      "id": "fb70ac1d-62cc-3aaf-a05d-c82349583210",
+      "speaker": "Jordan",
+      "start_timestamp": 5656.0,
+      "text": "It really should be a situation where we could put together a supercut of ventually of like people in Florida during her"
+    },
+    {
+      "end_timestamp": 5668.0,
+      "id": "512b4616-c9c0-3d0f-be37-216de1b26cdd",
+      "speaker": "Dan",
+      "start_timestamp": 5664.0,
+      "text": "maybe call somebody? Absolutely. When there's fires, hopefully"
+    },
+    {
+      "end_timestamp": 5675.0,
+      "id": "745563f2-fd8f-3ebe-8080-e15e56319242",
+      "speaker": "Jordan",
+      "start_timestamp": 5668.0,
+      "text": "10 years from now we've got a whole thing that we can write. Everybody needs to correct his politeness. Yes,"
+    },
+    {
+      "end_timestamp": 5679.0,
+      "id": "8884c65b-57d4-3be0-9cc6-bf00127e069c",
+      "speaker": "Dan",
+      "start_timestamp": 5675.0,
+      "text": "Alex. I'm doing fine. Thanks. Yeah,"
+    },
+    {
+      "end_timestamp": 5682.0,
+      "id": "e4b24c91-c952-3add-b4c1-d53cfa67c74e",
+      "speaker": "Jordan",
+      "start_timestamp": 5679.0,
+      "text": "we would play that with my way."
+    },
+    {
+      "end_timestamp": 5712.0,
+      "id": "6c06ca25-34eb-39bc-9851-1c1b0a75e999",
+      "speaker": "Dan",
+      "start_timestamp": 5682.0,
+      "text": "This is a sad showing. Yeah. For an emergency broadcast. I watched a little bit of Owens like phone call show but it's like three hours and who cares. Brutal. But yeah, I mean, they did what they could they did a whole day. went till midnight. And then Alex showed Next day, and of course, the great Harrison Smith, sure in the journal and then Owens wall room and you know, about 200,000. And I don't know, seems seems like the juice is not loose"
+    },
+    {
+      "end_timestamp": 5746.0,
+      "id": "d6318d8a-7257-383f-843f-a7881d27320a",
+      "speaker": "Jordan",
+      "start_timestamp": 5712.0,
+      "text": "every movie you've ever seen, where it's like, oh, the leader of the pack like the A team has got a serious problem that's arisen and just for the, you can turn around a new look at your team and be like, we can do this together. Maybe it won't be easy. Maybe we won't win. Maybe it's not 100% shot, but I believe that you and I can do this together. And Alex looking over at Owen has to be like, I am going to pay a billion fucking dollars. Oh, and"
+    },
+    {
+      "end_timestamp": 5767.0,
+      "id": "3c8dbb39-3904-3fdc-9efe-73bfcf025f9a",
+      "speaker": "Dan",
+      "start_timestamp": 5746.0,
+      "text": "Alex turns around, he sees Oh, when he sees Bobby bar, he sees norm. You see Steve Quale rambling about face man. And this looks around, comes back. And he says, Good luck. Good luck. My team sucks. This is no good."
+    },
+    {
+      "end_timestamp": 5768.0,
+      "id": "21f0a137-7c80-33fb-aff1-7c4d1a6dd7a2",
+      "speaker": "Jordan",
+      "start_timestamp": 5767.0,
+      "text": "We're fucked. We're in trouble."
+    },
+    {
+      "end_timestamp": 5786.0,
+      "id": "f702be72-bd61-3c23-aaee-58c3b425ec5d",
+      "speaker": "Dan",
+      "start_timestamp": 5768.0,
+      "text": "So we will be back. Probably a sneaky snake over the weekend. And then back on Monday with a little bit more of a follow up on things. But this is the the immediate what we got. Yeah. So but until then, until we see you again. We have worked we do have"
+    },
+    {
+      "end_timestamp": 5797.0,
+      "id": "449cd9b3-8fcd-3585-8ffb-d02260d54677",
+      "speaker": "Jordan",
+      "start_timestamp": 5786.0,
+      "text": "a website is now try to calm Yep. We're also on Twitter. We are on Twitter. It's at knowledge underscore fight. Yep, we'll be back. But hey, no, no, I'm done. I had to I had a day. It's good day. Okay. Good day."
+    },
+    {
+      "end_timestamp": 5810.0,
+      "id": "01c5c587-b121-366c-b826-d7305e11d1dd",
+      "speaker": "Dan",
+      "start_timestamp": 5797.0,
+      "text": "All right. Well, for that day, I say. Thank you, Jordan. We're back. But until then, I'm Neil. I'm Leo I'm dz x kharkom. Wilford Snapple Snapple of the Gribble. Pebble,"
+    },
+    {
+      "end_timestamp": 5813.0,
+      "id": "8abea0ea-1ff9-302a-9280-139bb5506de0",
+      "speaker": "Jordan",
+      "start_timestamp": 5810.0,
+      "text": "and now here comes the sex robots. Andy in"
+    },
+    {
+      "end_timestamp": null,
+      "id": "3b994393-8b3b-3c6d-bb74-8c548400b447",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5813.0,
+      "text": "Kansas, you're on the air. Thanks for holding. So Alex, I'm a first time caller. I'm a huge fan. I love your work."
+    }
+  ],
+  "history": {
+    "original_format": "txt",
+    "type": "otter"
+  }
+}

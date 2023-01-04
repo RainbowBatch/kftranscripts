@@ -1,0 +1,3510 @@
+{
+  "audio_identifier": "KF_1",
+  "audio_url": "https://traffic.libsyn.com/secure/knowledgefight/Episode1-2-17.mp3",
+  "blocks": [
+    {
+      "end_timestamp": 8.0,
+      "id": "31e72de3-fd19-3c05-8b8a-cb114bfd801b",
+      "speaker": "Alex Jones",
+      "start_timestamp": 0.0,
+      "text": "Andy in Kansas, you're on the air. Thanks for holding. Well, Alex, I'm a first time caller. I'm a huge fan. I love your work."
+    },
+    {
+      "end_timestamp": 23.0,
+      "id": "22e6550d-860c-37f0-8994-96b63c0abdae",
+      "speaker": "Dan",
+      "start_timestamp": 8.0,
+      "text": "Hey everybody. How's it going? Boy, welcome to knowledge fight. That is our official opening theme song. I love you. I will marry you. If you're joining us for the first time, which of course you are."
+    },
+    {
+      "end_timestamp": 24.0,
+      "id": "36c1474e-39df-3e0c-a8d6-65690332119b",
+      "speaker": "Jordan",
+      "start_timestamp": 23.0,
+      "text": "You have to be."
+    },
+    {
+      "end_timestamp": 31.0,
+      "id": "4300a2b0-4cf2-3570-bc74-153960b03f83",
+      "speaker": "Dan",
+      "start_timestamp": 24.0,
+      "text": "This is a show where I am going to have a little discussion with my friend Jordan here."
+    },
+    {
+      "end_timestamp": 35.0,
+      "id": "3a66f8d6-6ba7-3921-af9b-cb286229d361",
+      "speaker": "Jordan",
+      "start_timestamp": 31.0,
+      "text": "That's me. Jordan Holmes. Also. I'm Dan. We're off to a great start."
+    },
+    {
+      "end_timestamp": 39.0,
+      "id": "b7fd2c23-5aaf-3d1c-960a-b9f852a85daf",
+      "speaker": "Dan",
+      "start_timestamp": 35.0,
+      "text": "clunky off the top. I have experienced podcaster"
+    },
+    {
+      "end_timestamp": 42.0,
+      "id": "921f8ca2-2965-33b3-9d17-5850db3e442b",
+      "speaker": "Jordan",
+      "start_timestamp": 39.0,
+      "text": "Dan freeze. Totally. Yes."
+    },
+    {
+      "end_timestamp": 46.0,
+      "id": "3e13c862-f786-387b-adcf-d566b2fcabe5",
+      "speaker": "Dan",
+      "start_timestamp": 42.0,
+      "text": "I've been doing this for years. Yeah, out the gates."
+    },
+    {
+      "end_timestamp": 59.0,
+      "id": "132634d5-90da-39e4-abbe-4eff607edba7",
+      "speaker": "Jordan",
+      "start_timestamp": 46.0,
+      "text": "Joe can introduce himself clunk city. I that is also the name of this pod. Podcast. Info Wars wars going city. Clunk remix. Yeah."
+    },
+    {
+      "end_timestamp": 85.0,
+      "id": "2cb65813-5c3d-3efe-9c76-4eaf644628d2",
+      "speaker": "Dan",
+      "start_timestamp": 59.0,
+      "text": "So I have, for the last while been a bit obsessed with a one Alex Jones Infowars fame. And as the world has turned to chord with a soap opera title, I have become more and more aware that I want to do a better job of covering what he does, right? It's kind of like a Chris Hardwick thing, where it's like the walk the Talking Dead, right? Want to do that?"
+    },
+    {
+      "end_timestamp": 93.0,
+      "id": "3b7ca04a-922c-33ea-ad44-62455ed76cf6",
+      "speaker": "Jordan",
+      "start_timestamp": 85.0,
+      "text": "You want to do an Alex Jones after show where we all sit around wondering who's gonna die next week."
+    },
+    {
+      "end_timestamp": 118.0,
+      "id": "3b5a7a85-4f08-30e2-beab-39fba657df55",
+      "speaker": "Dan",
+      "start_timestamp": 93.0,
+      "text": "It's all about Yeah, we're all dead. But I want to I want to I want to say this. I want to be very clear about a couple things. Because I think it's so easy to get things misconstrued off the top and I don't want those things to ever come up as a confusion. Okay, first thing, I in no way want Alex Jones to be taken off the air. Right. I think what he does is,"
+    },
+    {
+      "end_timestamp": 127.0,
+      "id": "f54069c0-7731-3843-9817-5b85dbf21322",
+      "speaker": "Jordan",
+      "start_timestamp": 118.0,
+      "text": "well, one when this podcast blows up, and we're the number one podcast next year, our careers are entirely tied to his continued success. So we meet him. Yeah, we need him."
+    },
+    {
+      "end_timestamp": 150.0,
+      "id": "f900d562-ce44-3a8b-ae35-031ac32ef871",
+      "speaker": "Dan",
+      "start_timestamp": 127.0,
+      "text": "I think what he does borders on entertaining. And on the other side of that border is irresponsible. But at the same time, I am so opposed to censoring things. I want people to view him in context, but I would never want to shut him down. Or say like he can't do what he does, right? Because that's an easy attack. Right? You know, like, and"
+    },
+    {
+      "end_timestamp": 151.0,
+      "id": "9cab114f-56ef-386f-a013-bc28ef806cb9",
+      "speaker": "Jordan",
+      "start_timestamp": 150.0,
+      "text": "it's a slippery slope."
+    },
+    {
+      "end_timestamp": 152.0,
+      "id": "f3a35835-2d8e-3589-9b3b-6f91f443d28c",
+      "speaker": "Dan",
+      "start_timestamp": 151.0,
+      "text": "It is. Yeah, it is."
+    },
+    {
+      "end_timestamp": 161.0,
+      "id": "4ed5585c-cab4-35d4-ae81-8cf349c5bd49",
+      "speaker": "Jordan",
+      "start_timestamp": 152.0,
+      "text": "If you can go after him. Who who's next? You know, like, oh, as as people who say like professionally say, dumb shit."
+    },
+    {
+      "end_timestamp": 164.0,
+      "id": "0377b426-a836-3957-977a-5f992b12f522",
+      "speaker": "Dan",
+      "start_timestamp": 161.0,
+      "text": "Sure. If we stages Yeah,"
+    },
+    {
+      "end_timestamp": 177.0,
+      "id": "bbc312df-f3c1-3a19-90ff-a82a43e91d8e",
+      "speaker": "Jordan",
+      "start_timestamp": 164.0,
+      "text": "exactly. Exactly. Recorded in some instances. Yeah. Very foolishly on my Yeah, exactly. If we start going after those guys, you know, somebody's next that we like that said,"
+    },
+    {
+      "end_timestamp": 178.0,
+      "id": "cba46784-c319-3b7c-baa7-9e412a7ae9bc",
+      "speaker": "Alex Jones",
+      "start_timestamp": 177.0,
+      "text": "and even beyond that, there's"
+    },
+    {
+      "end_timestamp": 204.0,
+      "id": "a0b2271f-f355-39e3-89cf-71265fa99b3b",
+      "speaker": "Dan",
+      "start_timestamp": 178.0,
+      "text": "a principle of it, right? Which we do subscribe to, right? Say whatever you want, as long as it's not, you know, advocating violence against somebody a threat, which, which he's also done when he gets me to my second point. Okay, whatever I'm gonna say, and whatever you're gonna say, I want this to be super clear. There's a big part of me that really admires Alex Jones. Absolutely. And here's why."
+    },
+    {
+      "end_timestamp": 208.0,
+      "id": "8e7725e0-8623-38fa-8daf-e91bb56ab3d0",
+      "speaker": "Jordan",
+      "start_timestamp": 204.0,
+      "text": "He is you're an insane person. Yes."
+    },
+    {
+      "end_timestamp": 234.0,
+      "id": "8690d89f-77e0-3bd6-9da5-333a0b54beb2",
+      "speaker": "Dan",
+      "start_timestamp": 208.0,
+      "text": "He is an amazing broadcaster. Okay, if you really take the tricks of broadcasting and apply him to them, he is insanely good. Okay. You could not say a lot of the stuff he does without being really good at your job. I think that's something that will come out. We will see their points where you'd be like, he's great. Right. I admire his skill. I don't like what he does with it. Right."
+    },
+    {
+      "end_timestamp": 244.0,
+      "id": "563b604f-2f96-38a2-89a8-4dad6db64b05",
+      "speaker": "Jordan",
+      "start_timestamp": 234.0,
+      "text": "Well, I think that's probably going to be the central the central battle of this whole podcast is you trying to prove to me that I should admire him in certain aspects?"
+    },
+    {
+      "end_timestamp": 264.0,
+      "id": "01b1bdca-8031-3d0d-92c9-a16e6c4bd24b",
+      "speaker": "Dan",
+      "start_timestamp": 244.0,
+      "text": "I don't think so. Okay. All right. Fair enough. I just wanted to make that caveat off the top because it's, it would be easy for anyone listening to think that this is just going to turn into a beat up fast and be like, Hey, Alex Jones is stupid, right? That's not at all and Oh, another thing? I don't think people who listen to him are stupid. I don't think his fans are stupid."
+    },
+    {
+      "end_timestamp": 272.0,
+      "id": "68b2c020-29e3-3c06-b1c1-b3fe8f216661",
+      "speaker": "Jordan",
+      "start_timestamp": 264.0,
+      "text": "That's and that actually on the way here? That's something I was thinking about is are we aware? Are we on the access of stupid slash evil?"
+    },
+    {
+      "end_timestamp": 275.0,
+      "id": "9bc2960f-4108-33c5-b410-517d1231a087",
+      "speaker": "Dan",
+      "start_timestamp": 272.0,
+      "text": "Personally? Yeah, I'm not not not"
+    },
+    {
+      "end_timestamp": 278.0,
+      "id": "f7a22c57-5fb1-3549-951b-2b0f168a8fe1",
+      "speaker": "Jordan",
+      "start_timestamp": 275.0,
+      "text": "you and me. Although we're probably more on the evil side."
+    },
+    {
+      "end_timestamp": 286.0,
+      "id": "ffc45415-e793-3a36-8aad-aaf544f03763",
+      "speaker": "Dan",
+      "start_timestamp": 278.0,
+      "text": "I would say I would say I'm more stupid. Okay, most of the evil things I've done in my life have been accidents. Okay. Let's say you're"
+    },
+    {
+      "end_timestamp": 295.0,
+      "id": "be751620-3fbb-37a2-850d-598e26ad106e",
+      "speaker": "Jordan",
+      "start_timestamp": 286.0,
+      "text": "not a premeditated murder guy. You're like a second degree murder guy like in the moment or manslaughter? Yeah, in the heat of the moment. Oopsies I accidentally"
+    },
+    {
+      "end_timestamp": 339.0,
+      "id": "caab5342-c23b-32f1-8b5d-10fdf6f55cf1",
+      "speaker": "Dan",
+      "start_timestamp": 295.0,
+      "text": "trigger like a Rube Goldberg machine to kill someone. That's the kind of evil I'm at, oh, no, what happened there? Gotcha. Yeah. All right. Let's do this. You okay, we want to start with, I want to start out something a little bit fun. And the kind of, I think is indicative of so this is just one day in the life of Alex Jones. Right? These clips that we're gonna play are from the January 2 2017 episode, right? Putting this out a couple days after, but we have to because of just like, we have jobs, right? I wish that I could just our jobs are not Alex Jones his job, but job is not the brain battle, right? As much as I wish it was. I wish that I could just sit around isolate these clips and ruminate on that. But this podcast"
+    },
+    {
+      "end_timestamp": 349.0,
+      "id": "aeeff01c-8c12-3205-a5dc-1a23f9532dc1",
+      "speaker": "Jordan",
+      "start_timestamp": 339.0,
+      "text": "will also be us occasionally dropping out potential names for this podcast. Yeah, every episode, we may change the name of this podcast. Good luck finding us."
+    },
+    {
+      "end_timestamp": 374.0,
+      "id": "bac99cd0-7e70-35ab-bf19-985c2a4cb7c4",
+      "speaker": "Dan",
+      "start_timestamp": 349.0,
+      "text": "So for those of you who don't know who Alex Jones is, he is formerly a wild conspiracy theory broadcaster, who then turned into a bit of a turn into a bit of a preacher and then now is basically just super into Trump, because he believes that Trump is going to destroy the globalists. Okay, now, who are the globalists? It's a nebulous,"
+    },
+    {
+      "end_timestamp": 385.0,
+      "id": "fcda7901-1475-313f-8ebd-cc4ddf696bd4",
+      "speaker": "Jordan",
+      "start_timestamp": 374.0,
+      "text": "I really don't want you to say a word that begins with J and ends with Uden. What about the article? Yes, yeah,"
+    },
+    {
+      "end_timestamp": 416.0,
+      "id": "e0f04266-33f4-3716-be07-41afb4a0c973",
+      "speaker": "Dan",
+      "start_timestamp": 385.0,
+      "text": "see, there we go. Ms. DOS, he, it's super vague who the globalists are, but they are the ones he's against, right. And we know some of the characters that he'll throw out these people who want there to be more Trans Atlantic partnerships. I'm not I'm not necessarily in favor of these things. I'm not necessarily philosophically opposed to, in principle, some of the things he's for right. But"
+    },
+    {
+      "end_timestamp": 431.0,
+      "id": "77a59830-2712-3b8d-89b5-6c24a5d74eb0",
+      "speaker": "Jordan",
+      "start_timestamp": 416.0,
+      "text": "if he didn't have at least some small aspect of like, god dammit, I might actually agree with him. He would never be successful. Undoubtedly, if it was just pure on bile, all day, every day for three hours a day for"
+    },
+    {
+      "end_timestamp": 473.0,
+      "id": "c2d60d28-e4c0-3f50-b310-9b9886dd670d",
+      "speaker": "Dan",
+      "start_timestamp": 431.0,
+      "text": "if you kind of commercials does a lot of the commercials. Oh, of course, which we'll get to in a minute. All right. But I wanted to start with one of the things that I think is spectacularly indicative of his style of broadcast. Okay, here are a couple of clips from this day's episode that highlight a tendency within him to want to tell you things but not want to tell you things right. There's this like I II, there's a given take that he does, this goes back to the expert broadcasting thing, right? There's an amazing like, ability to tell you things and not tell you things simultaneously."
+    },
+    {
+      "end_timestamp": 489.0,
+      "id": "d6d069ce-57a9-3c6c-89e5-a7a8995aed50",
+      "speaker": "Jordan",
+      "start_timestamp": 473.0,
+      "text": "That's good here work in both angles. Before we do that, though. Let's, let's talk about the central kind of idea of this podcast. Yes, you are an Info Wars obsessive but I don't know a goddamn thing about Alex Jones. Yes."
+    },
+    {
+      "end_timestamp": 499.0,
+      "id": "fe265725-58f6-348b-ac15-92f45c2b431c",
+      "speaker": "Dan",
+      "start_timestamp": 489.0,
+      "text": "Your role. Totally Accurate by your description. I'm not an obsessive, I'm fascinated. Okay. All right. And I believe that there's a certain responsibility that people have to same way"
+    },
+    {
+      "end_timestamp": 507.0,
+      "id": "74c6716f-9d7c-3075-878a-877d38f144a6",
+      "speaker": "Jordan",
+      "start_timestamp": 499.0,
+      "text": "I'm not obsessed with any of my ex girlfriends. I'm just fascinated by their recent actions that don't involve me dude, I"
+    },
+    {
+      "end_timestamp": 513.0,
+      "id": "67de9358-3752-3c31-a389-24967bbae423",
+      "speaker": "Dan",
+      "start_timestamp": 507.0,
+      "text": "told you not to bring up me and Alex's past relationship. Okay, sorry. Sorry. Really fucking brutal. I"
+    },
+    {
+      "end_timestamp": 517.0,
+      "id": "0ae31788-0ba0-34a5-ba23-7af7a06c3968",
+      "speaker": "Jordan",
+      "start_timestamp": 513.0,
+      "text": "know. I know he broke your heart and steal your byte. Listen,"
+    },
+    {
+      "end_timestamp": 529.0,
+      "id": "b6f6e0fb-6759-315b-808a-ee36562215f3",
+      "speaker": "Dan",
+      "start_timestamp": 517.0,
+      "text": "you can read between the lines all my exes live in Texas. Also, one of my favorite things is he's his the opening of his show. It talks about how he's deep within occupied Texas"
+    },
+    {
+      "end_timestamp": 536.0,
+      "id": "beb978b9-661e-3c50-943a-6ffb50230127",
+      "speaker": "Jordan",
+      "start_timestamp": 529.0,
+      "text": "occupied so what Austin is that? He's in Austin. Okay. He's in the only occupied Texas"
+    },
+    {
+      "end_timestamp": 550.0,
+      "id": "c2421cc1-141d-3c99-826d-7f1ca54a0dd9",
+      "speaker": "Dan",
+      "start_timestamp": 536.0,
+      "text": "occupied. Right. Okay, so here's his first clip. In this one, he it also showcases what I would describe as a glaring false humility that he has I think it's delicious"
+    },
+    {
+      "end_timestamp": 588.0,
+      "id": "5cb563ef-a072-302b-a684-b2f6fa77690c",
+      "speaker": "Caller",
+      "start_timestamp": 550.0,
+      "text": "because honestly, I don't think many of us are going to be able to hear you here in the very near future. I I honestly believe that they're either gonna take you out or you're gonna get murdered. Same with Trump regime that I'm calling this my personal view on what I think is gonna be happening and like I said, they're either gonna shut Infowars down they're gonna take you out they're gonna either have Trump assassinated during the inauguration are right before right afterwards they're not gonna let him be president very long. And personally has a long haul truck driver at this point I'm considering quitting my job going home finding something to do locally because I don't think that you know, even something what I'm doing here this is gonna last very much longer not"
+    },
+    {
+      "end_timestamp": 598.0,
+      "id": "cda41a13-564a-3989-a622-3a7a2e0f372b",
+      "speaker": "Dan",
+      "start_timestamp": 588.0,
+      "text": "so well. Well, he this caller is describing these paranoid fantasies about how someone's going to murder Alex Jones. Right. Alex is sitting there making a face"
+    },
+    {
+      "end_timestamp": 630.0,
+      "id": "eddb13ba-d1ea-3b34-8715-2d125e4b67de",
+      "speaker": "Jordan",
+      "start_timestamp": 598.0,
+      "text": "before before We get into what the response crazy nonsense he's about to say. Here's the thing. I wonder about right wing people who are always assuming that crazy right wing people are going to be assassinated. Right Wing people are never assassinated. He was always it's always Harvey Milk or Kathy Giffords. Okay, yeah, it's always the people who are trying to do good, because liberals and progressives, ultimately, our policies, I think that's really what it"
+    },
+    {
+      "end_timestamp": 634.0,
+      "id": "e579b2e3-50b7-3cbc-a9f9-449a1cca94c5",
+      "speaker": "Dan",
+      "start_timestamp": 630.0,
+      "text": "is. Well, now the narrative that he would spin, maybe not want to put words in his mouth, but"
+    },
+    {
+      "end_timestamp": 639.0,
+      "id": "02e8ae18-a8e3-3995-ab37-996bebb5083c",
+      "speaker": "Jordan",
+      "start_timestamp": 634.0,
+      "text": "US flag operations. So good bingo. You know, it's the"
+    },
+    {
+      "end_timestamp": 655.0,
+      "id": "b480c78f-6481-3c73-8139-85ad21c9399b",
+      "speaker": "Dan",
+      "start_timestamp": 639.0,
+      "text": "globalist taking out the progressives in order to create social chaos. It's this sort of logic that you can't really get out of, because it just becomes circular a certain point. So anyway, this caller has raised this concern about how Trump and him are going to be taken out. And here's Alex's response."
+    },
+    {
+      "end_timestamp": 675.0,
+      "id": "f8349ea1-4cf1-3f4c-8193-b75101076a81",
+      "speaker": "Alex Jones",
+      "start_timestamp": 655.0,
+      "text": "I was about to say, I was gonna be going on the road the next few days and going and having some meetings and things and I'm just gonna leave it at that. And imagine the media could put two and two together, and I'm tempted, don't even leave just because then I don't need to warn people in person puts you that way."
+    },
+    {
+      "end_timestamp": 678.0,
+      "id": "cb436dcb-cb58-3914-a21d-02f63619efb6",
+      "speaker": "Caller",
+      "start_timestamp": 675.0,
+      "text": "Yeah, I mean, I'm at the point to where like, I just know that"
+    },
+    {
+      "end_timestamp": 695.0,
+      "id": "2bce33fc-ff2f-31c8-950b-176c7af878e4",
+      "speaker": "Alex Jones",
+      "start_timestamp": 678.0,
+      "text": "this isn't about pomp and circumstance. Exactly. Like, like, I've already I'm not gonna even get into it. The point is, this is so serious. I'm like, I can do more here. I don't need to even go have somebody pat me on the head and say, Thank you. I mean, you know what I mean? I mean, I'm so in the bunker at this point, that I don't even care about meeting with the President. I'm sorry. Just go ahead."
+    },
+    {
+      "end_timestamp": 698.0,
+      "id": "974606cf-9eee-3cf7-bdbd-2edfd88de562",
+      "speaker": "Dan",
+      "start_timestamp": 695.0,
+      "text": "Okay. All right. All right. You're in that bunker, my man."
+    },
+    {
+      "end_timestamp": 703.0,
+      "id": "bd685170-9635-3352-9a73-002cc140281f",
+      "speaker": "Jordan",
+      "start_timestamp": 698.0,
+      "text": "He's in he's in the bunker in occupied text and occupied tax. Yes."
+    },
+    {
+      "end_timestamp": 713.0,
+      "id": "34f543ff-3090-39b2-b5f5-9b46f7bec8d3",
+      "speaker": "Dan",
+      "start_timestamp": 703.0,
+      "text": "The Infowars studio right. Full of the delightful people like Robert do. And Joanne McAdoo Lian McAdoo"
+    },
+    {
+      "end_timestamp": 715.0,
+      "id": "c74939cc-4440-3377-b9e9-8b856222b760",
+      "speaker": "Jordan",
+      "start_timestamp": 713.0,
+      "text": "Lian McAdoo sounds like a made up name oh in Shroyer"
+    },
+    {
+      "end_timestamp": 719.0,
+      "id": "b261d038-8cfd-3e36-b0c8-ef560160c0ba",
+      "speaker": "Dan",
+      "start_timestamp": 715.0,
+      "text": "these are people who I don't want to talk about because I'm focusing on now"
+    },
+    {
+      "end_timestamp": 726.0,
+      "id": "3b7a9997-d893-3764-9951-a0b6d45cf476",
+      "speaker": "Jordan",
+      "start_timestamp": 719.0,
+      "text": "we're digging into Alex Yeah, we will develop an entire podcast network into the Alex Jones now there will"
+    },
+    {
+      "end_timestamp": 730.0,
+      "id": "63650e06-a6f2-34aa-88ca-1747c23d5a6c",
+      "speaker": "Dan",
+      "start_timestamp": 726.0,
+      "text": "be spin offs. Yeah. Oh, absolutely. Just cover Owen Shroyer,"
+    },
+    {
+      "end_timestamp": 735.0,
+      "id": "b760822a-0ee1-358d-91b6-3e85367629b2",
+      "speaker": "Jordan",
+      "start_timestamp": 730.0,
+      "text": "right. We're gonna we're gonna be so busy. We're gonna hire different hosts to deal with"
+    },
+    {
+      "end_timestamp": 740.0,
+      "id": "53127d3e-73a2-3631-ae3d-23c83c14bbef",
+      "speaker": "Dan",
+      "start_timestamp": 735.0,
+      "text": "to have a kid. And at age three, it's going to start on the Alex Jones as Kid beat."
+    },
+    {
+      "end_timestamp": 744.0,
+      "id": "4d0970d7-0f32-33f6-ab32-f1587e623e59",
+      "speaker": "Jordan",
+      "start_timestamp": 740.0,
+      "text": "That's that's a good reason. Raise them up soldiers."
+    },
+    {
+      "end_timestamp": 750.0,
+      "id": "fcf41f1f-55d6-3d1a-892e-2f3619536f7f",
+      "speaker": "Dan",
+      "start_timestamp": 744.0,
+      "text": "With three year old son will start covering Alex Jones, his 13 year old son who is a correspondent for Infowars."
+    },
+    {
+      "end_timestamp": 755.0,
+      "id": "cd165aca-d4ae-3bf0-803d-06459884d5eb",
+      "speaker": "Jordan",
+      "start_timestamp": 750.0,
+      "text": "Right? Who is also equivalent in an intelligence to a three year old possibly"
+    },
+    {
+      "end_timestamp": 758.0,
+      "id": "15bd0411-7946-3d24-be79-fbd7da2a8402",
+      "speaker": "Dan",
+      "start_timestamp": 755.0,
+      "text": "I don't want to beat up on him. He seems like a good kid."
+    },
+    {
+      "end_timestamp": 765.0,
+      "id": "cef37232-2ff3-3db5-b924-e476ec249405",
+      "speaker": "Jordan",
+      "start_timestamp": 758.0,
+      "text": "You are like, that's, that's exactly what we're trying to avoid is us just talking shit,"
+    },
+    {
+      "end_timestamp": 786.0,
+      "id": "70cac5d5-8797-3d4f-86a7-765c62b955b8",
+      "speaker": "Dan",
+      "start_timestamp": 765.0,
+      "text": "especially on people who don't deserve it. Right? Like we grew up in the church in various churches. And we did things I would say in the name of those churches that we don't really look back on fondly now. Like, I remember, there was a see what the flag was like the celebration where before school, everyone would gather up and pray at the flag. Pray for our horrible culture."
+    },
+    {
+      "end_timestamp": 795.0,
+      "id": "c77a93b6-26d4-3a94-8c0f-6b3ea5a408c0",
+      "speaker": "Jordan",
+      "start_timestamp": 786.0,
+      "text": "Oh, I remember doing that. Yeah, I forgot because I blocked it out of my memory. I apologize for bringing it back. Yeah, no, I'm gonna have to deal with that now, but"
+    },
+    {
+      "end_timestamp": 815.0,
+      "id": "5b2c7dcb-1c6f-3a3f-a4ab-fb77cb23ccf2",
+      "speaker": "Dan",
+      "start_timestamp": 795.0,
+      "text": "but I would go around and try and proselytize to my friends. And I really regret that now. And I feel similarly for this kid. Right. Like Rex Jones. I don't know. Like, if you believe the stuff that you're saying, God bless you. You're 13 Like no one. No one should believe what they will believe as an adult at 13."
+    },
+    {
+      "end_timestamp": 823.0,
+      "id": "7346dfd6-cd9a-34b8-a7f1-79a824653009",
+      "speaker": "Jordan",
+      "start_timestamp": 815.0,
+      "text": "Yeah. And, and it's, it's sad for me a 29 year old man to be like, Oh, it's about time somebody took this 13 year old down a peg."
+    },
+    {
+      "end_timestamp": 827.0,
+      "id": "148d2296-4756-3973-98a5-0b586cc3223d",
+      "speaker": "Dan",
+      "start_timestamp": 823.0,
+      "text": "I also wonder if he's paying him. Maybe paying his son for these reports?"
+    },
+    {
+      "end_timestamp": 833.0,
+      "id": "ee81198c-fe83-3788-b5c9-18c7d04bc076",
+      "speaker": "Jordan",
+      "start_timestamp": 827.0,
+      "text": "Absolutely not. I feel anyway, absolutely not. So and if he is he's keeping it. So that"
+    },
+    {
+      "end_timestamp": 840.0,
+      "id": "416f8ac4-6728-30aa-acd7-507fac0c0fdc",
+      "speaker": "Dan",
+      "start_timestamp": 833.0,
+      "text": "clip I think indicated this beautiful thing that Alex does where he wants to tell you badly that he was invited to have a meeting when he's having"
+    },
+    {
+      "end_timestamp": 851.0,
+      "id": "dad5fdd7-4648-3e5a-8927-d743e7defee7",
+      "speaker": "Jordan",
+      "start_timestamp": 840.0,
+      "text": "some meetings. He really wants to tell you that you need to know that and if you're in the media, who doesn't cover him? You can put two and two together right. But if you covered it"
+    },
+    {
+      "end_timestamp": 857.0,
+      "id": "2f9bafb1-04ec-3c13-8495-b00b804d3214",
+      "speaker": "Dan",
+      "start_timestamp": 851.0,
+      "text": "but then that wasn't enough so at the end of the clip he had to explain the president pat me on the head"
+    },
+    {
+      "end_timestamp": 858.0,
+      "id": "42895cb8-4ec6-3b03-b2dd-60bbcd055165",
+      "speaker": "Jordan",
+      "start_timestamp": 857.0,
+      "text": "Oh, absolutely not."
+    },
+    {
+      "end_timestamp": 874.0,
+      "id": "17acab1b-1b5f-3c01-9bb7-12901160cbad",
+      "speaker": "Dan",
+      "start_timestamp": 858.0,
+      "text": "So he does this another time that I think is pretty amazing. But this this clip is actually a little bit longer and starts with what I can only describe as amazing fanfiction about political intrigue."
+    },
+    {
+      "end_timestamp": 877.0,
+      "id": "f2639617-82d1-31f4-afec-2e4d66e2c988",
+      "speaker": "Jordan",
+      "start_timestamp": 874.0,
+      "text": "I was hoping for Twilight. But let's let's move on. Just change a"
+    },
+    {
+      "end_timestamp": 885.0,
+      "id": "9fa8bb59-653d-3583-9e1c-717e5bb170c9",
+      "speaker": "Dan",
+      "start_timestamp": 877.0,
+      "text": "couple names and insert a personal email server and you basically have Bella and Edward. Alright, for years,"
+    },
+    {
+      "end_timestamp": 913.0,
+      "id": "5a540152-9261-3dfe-9061-7c5a1225cf99",
+      "speaker": "Alex Jones",
+      "start_timestamp": 885.0,
+      "text": "she would put data on there. To her foundation at her Dropbox. She didn't go to a local park and drop the stuff underneath a park bench like other spies have done. She would load it up for everybody in the world to see He, and she would say where she stood on China, or where she stood on this country or that and what she was going to do show they knew what she was about to do and had to give her more money. Or she would put in policies that weren't one sided for them."
+    },
+    {
+      "end_timestamp": 915.0,
+      "id": "887f6a90-ab7f-3c64-b8cc-d191a521582c",
+      "speaker": "Dan",
+      "start_timestamp": 913.0,
+      "text": "Now, as far as I can tell, there's no evidence of this."
+    },
+    {
+      "end_timestamp": 929.0,
+      "id": "458f78b3-ab90-329f-8e18-aaa55487fbf8",
+      "speaker": "Jordan",
+      "start_timestamp": 915.0,
+      "text": "I also feel like he doesn't know what Dropbox is, or how spies work. Do they go to the park? Feel like they go to park in movies, and then the rent in real life, they just go through garbage."
+    },
+    {
+      "end_timestamp": 945.0,
+      "id": "27e76674-7dad-3839-9613-b1da54d676d6",
+      "speaker": "Dan",
+      "start_timestamp": 929.0,
+      "text": "That's another late motif that will come up not on this episode. But a lot of times, he does use movies to explain the real world. Like recently, he did a breakdown of the new Alien movie that's coming out next year, about how it depicts what the Illuminati really believes about the"
+    },
+    {
+      "end_timestamp": 960.0,
+      "id": "01a9b86b-4175-3f35-a93a-594f9f7465c4",
+      "speaker": "Jordan",
+      "start_timestamp": 945.0,
+      "text": "world. Well, if anybody already knows the plot to the new Alien movie coming out next year, it's gotta be him. He's got documents. Yeah, absolutely. It was in Hillary's Dropbox, email. All right, back to the clip. She also had one sided policies for the"
+    },
+    {
+      "end_timestamp": 1021.0,
+      "id": "72369a98-4f48-3e16-8368-c4472706a8df",
+      "speaker": "Alex Jones",
+      "start_timestamp": 960.0,
+      "text": "Hillary created a digital Dropbox. And by the way, that's been confirmed. And that's the data that's going to come out if the Democrats keep pushing. The Democrats are so crazy, they don't even care. They're gonna go for broke, they made a deal with Trump on election night to admit he won and to back off, perfect sense. And then Trump would put out the word to the dogs in US intelligence to stop releasing info. And they began double crossing trump the next morning, and the American people and I told Trump, they're never going to stop coming after you. I told him three days after the election, I said, Mr. President Elect, they're never going to stop. They're never going to follow the deal. They're going to try to kill you. Politically, or physically, they're not going to stop. They can't stay. I'm not gonna say everything I said. And I've said, How could Trump said, but let me explain something to everybody. This is deadly serious. All of this is deadly serious."
+    },
+    {
+      "end_timestamp": 1027.0,
+      "id": "bde24b20-932c-33c8-8632-81dc56b846c6",
+      "speaker": "Jordan",
+      "start_timestamp": 1021.0,
+      "text": "All right. That's the end of that clip. It is all right. So let's, let's tear this apart. Sure. Piece by piece."
+    },
+    {
+      "end_timestamp": 1042.0,
+      "id": "ac80a0d1-e43c-3192-b329-ac82fc1963af",
+      "speaker": "Dan",
+      "start_timestamp": 1027.0,
+      "text": "Oh, and let me be clear, some of these clips may end up being a little bit long, because before we started recording, I wanted to explain to you that I don't want to play things wildly out of context, right. I think that's an unfair game to play, and is the best I can, as best I can."
+    },
+    {
+      "end_timestamp": 1047.0,
+      "id": "1505e30e-5336-3b03-8193-7d04dacf69c2",
+      "speaker": "Jordan",
+      "start_timestamp": 1042.0,
+      "text": "I'm going to keep as best I can. I'm going to keep this as deadly serious."
+    },
+    {
+      "end_timestamp": 1054.0,
+      "id": "e422295d-abcb-3f9a-8ead-7c807920d900",
+      "speaker": "Dan",
+      "start_timestamp": 1047.0,
+      "text": "Yeah. So the point of that clip, I think, is that he talks to Trump. Right. I think that's kind of the point."
+    },
+    {
+      "end_timestamp": 1070.0,
+      "id": "a8c5470f-7c9d-39a7-995f-73cf7961eca9",
+      "speaker": "Jordan",
+      "start_timestamp": 1054.0,
+      "text": "Well, I think there's a few things that we get into there at the beginning. Okay, which is she's created a digital Dropbox. Yes. Which is proven that is confirmed. Yes. Just like, I feel like everybody has a digital Dropbox."
+    },
+    {
+      "end_timestamp": 1073.0,
+      "id": "acfaa872-38a1-376e-8edb-2a9df891430b",
+      "speaker": "Dan",
+      "start_timestamp": 1070.0,
+      "text": "I have a Dropbox. Sure, right. Yeah."
+    },
+    {
+      "end_timestamp": 1076.0,
+      "id": "3643f9c1-e3ae-3ef7-872b-486da4259468",
+      "speaker": "Jordan",
+      "start_timestamp": 1073.0,
+      "text": "So you shouldn't, you shouldn't need to say digital in front"
+    },
+    {
+      "end_timestamp": 1080.0,
+      "id": "7c6d64f7-e40f-3748-a685-d1d8b018804a",
+      "speaker": "Dan",
+      "start_timestamp": 1076.0,
+      "text": "of Dropbox. So Dropbox is a brand name, right?"
+    },
+    {
+      "end_timestamp": 1105.0,
+      "id": "02e418db-9d97-3633-8e69-73c48894efee",
+      "speaker": "Jordan",
+      "start_timestamp": 1080.0,
+      "text": "It's an app. It's Buzz marketing. Oh, he works for Dropbox. Holy shit, new conspiracy new conspiracy theory right there, which is deadly serious. We should keep a running tally of Alex Jones, Alex Jones works Dropbox, right. He is a he is a secret agent for the dropbox Corporation. Yeah. Okay. So she created this dropbox that's confirmed"
+    },
+    {
+      "end_timestamp": 1114.0,
+      "id": "2d738411-6089-38fb-befb-fdfb63c317d5",
+      "speaker": "Dan",
+      "start_timestamp": 1105.0,
+      "text": "where the Chinese could find out what she's gonna do to them. Right. And then pay her to not do it. I guess that I that's sort of the implication. I feel like"
+    },
+    {
+      "end_timestamp": 1123.0,
+      "id": "598c8e4a-00f1-3af5-9588-70a6efdeee9c",
+      "speaker": "Jordan",
+      "start_timestamp": 1114.0,
+      "text": "I can't argue with that. Well, how could you because that is so beyond the realm of possibility."
+    },
+    {
+      "end_timestamp": 1126.0,
+      "id": "65801cc8-3927-3031-89f8-5db784abea63",
+      "speaker": "Dan",
+      "start_timestamp": 1123.0,
+      "text": "You know, why would you say that? Let's see, you're you seem like you're in denial."
+    },
+    {
+      "end_timestamp": 1134.0,
+      "id": "1c6bfc3d-a532-38f8-a580-74cc65d652db",
+      "speaker": "Jordan",
+      "start_timestamp": 1126.0,
+      "text": "So okay. First, first off, China is not a guy. Yeah, it is. Not a guy."
+    },
+    {
+      "end_timestamp": 1138.0,
+      "id": "7cbdf99a-a4cd-3949-b786-e579909e614d",
+      "speaker": "Dan",
+      "start_timestamp": 1134.0,
+      "text": "He forms like Voltron. Well, all of 1 billion parts like I"
+    },
+    {
+      "end_timestamp": 1148.0,
+      "id": "87b799ea-f2f3-3e2d-9b81-4a45485d09c8",
+      "speaker": "Jordan",
+      "start_timestamp": 1138.0,
+      "text": "understand that I understand that he thinks of China as a as just what like one dude. Yeah. Like if you asked him to name the Politburo in China,"
+    },
+    {
+      "end_timestamp": 1151.0,
+      "id": "6af43c69-a703-3c7a-9f26-c5610ed4ad31",
+      "speaker": "Dan",
+      "start_timestamp": 1148.0,
+      "text": "do you think he could? I don't even know if that's a person or a building"
+    },
+    {
+      "end_timestamp": 1174.0,
+      "id": "eae37b99-b0d5-3d68-bd79-cd95e0a2e848",
+      "speaker": "Jordan",
+      "start_timestamp": 1151.0,
+      "text": "as well. It's a collective of like the the Politburo at its from Russia it's the the governing body it's an oligarchy basically, okay. These are these are like, I don't know, you could call them the Illuminati who sit around and talk about what it is they're going to do. They are not one guy like and also"
+    },
+    {
+      "end_timestamp": 1178.0,
+      "id": "91569b10-be78-3325-8c41-644c9089b000",
+      "speaker": "Dan",
+      "start_timestamp": 1174.0,
+      "text": "act as one unified and attack."
+    },
+    {
+      "end_timestamp": 1182.0,
+      "id": "4473d0c4-351a-3e5e-894d-7b6008f3c7a7",
+      "speaker": "Jordan",
+      "start_timestamp": 1178.0,
+      "text": "I assume that they get together and you know, like,"
+    },
+    {
+      "end_timestamp": 1186.0,
+      "id": "0c6976a6-45b7-3d17-9734-51880a4fdb5d",
+      "speaker": "Dan",
+      "start_timestamp": 1182.0,
+      "text": "inspire that would put words in your mouth."
+    },
+    {
+      "end_timestamp": 1195.0,
+      "id": "15fc638c-59ed-3378-a490-b8432cee0079",
+      "speaker": "Jordan",
+      "start_timestamp": 1186.0,
+      "text": "I I just lost to Alex Jones. We are on one episode and it's Alex Jones won me zero."
+    },
+    {
+      "end_timestamp": 1204.0,
+      "id": "7d32db8e-1b30-3887-97d2-1bd851e89584",
+      "speaker": "Dan",
+      "start_timestamp": 1195.0,
+      "text": "I don't think you did lose because the fundamental point still remains that The idea that she created a digital Dropbox where people could find out stuff, like that's"
+    },
+    {
+      "end_timestamp": 1209.0,
+      "id": "1feb720a-eda3-3ee0-a0ac-6b359c1c96aa",
+      "speaker": "Jordan",
+      "start_timestamp": 1204.0,
+      "text": "how and that's how insidious he is. We keep saying digital Dropbox, right?"
+    },
+    {
+      "end_timestamp": 1224.0,
+      "id": "d5fecdcb-5e76-31b8-b522-db112ca86f16",
+      "speaker": "Dan",
+      "start_timestamp": 1209.0,
+      "text": "It's smart, it's the same, it's essentially creating a verbal hashtag. Right? It's, and again, this comes back to why he's a good broadcaster. These are the these are the elements that you have to take apart to see like, Oh, this is what he's doing in the same"
+    },
+    {
+      "end_timestamp": 1251.0,
+      "id": "136227de-8404-3c8a-a741-3f61ddfb6fd7",
+      "speaker": "Jordan",
+      "start_timestamp": 1224.0,
+      "text": "way. And and his, his cadence as well. Everything, every single thing that he went through there is easily capable of sticking in your mind. Sure, like I was a hand meter. I know, I can't get digital Dropbox out of my head. Now, if somebody asked me to, hey, could you just put that in my Dropbox, I'd be like what I mean a digital which Dropbox, the digital one or the one that's underneath that park bench over there? Well, this is a bad"
+    },
+    {
+      "end_timestamp": 1298.0,
+      "id": "f21cb438-65ba-3668-a6ba-653f3d88b937",
+      "speaker": "Dan",
+      "start_timestamp": 1251.0,
+      "text": "example of it. But it is an old fashioned trick that oral tradition cultures would use in the same way that our every time he talks about the Chinese, he calls them the Communist Chinese, right? It's a it's a trick called using an epithet. And not necessarily like a negative epithet, right? But it's just using something to characterize a noun makes it stick in your, in your memory more, in the same way that they would always call Achilles rage filled Achilles, or brave Odysseus, in The Iliad and The Odyssey. It's a really good trick when you don't have paper to get people to remember things. It's a mnemonic trick. And he uses that so fucking Well, digital, Dropbox is probably not even intended to be like that. But it still is. He's well, what were your distractions to the point that there was a deal"
+    },
+    {
+      "end_timestamp": 1304.0,
+      "id": "f0d2eb43-bfc8-3b54-8475-e75d84ced4ad",
+      "speaker": "Jordan",
+      "start_timestamp": 1298.0,
+      "text": "made? Yeah, no, all I can think about is where is this digital drop?"
+    },
+    {
+      "end_timestamp": 1319.0,
+      "id": "44369169-4839-3c5a-aa11-a084a89c3975",
+      "speaker": "Dan",
+      "start_timestamp": 1304.0,
+      "text": "Right? The only way for this claim to be proven is for some information. Well, the digital Dropbox has confirmed. Wow. Yes. But it's been confirmed through unconfirmed channels, or whatever, you know,"
+    },
+    {
+      "end_timestamp": 1327.0,
+      "id": "fca62a17-afd4-3aeb-aaa6-9414758de78b",
+      "speaker": "Jordan",
+      "start_timestamp": 1319.0,
+      "text": "yeah. You know, I feel like you can just find somebody who's like, oh, yeah, I put something into that Dropbox. You know, only"
+    },
+    {
+      "end_timestamp": 1330.0,
+      "id": "cdd825be-6408-3248-99fd-21e3fd9b43eb",
+      "speaker": "Dan",
+      "start_timestamp": 1327.0,
+      "text": "she put things in everyone else putting money in accounts."
+    },
+    {
+      "end_timestamp": 1334.0,
+      "id": "e8246163-3144-36dd-9174-9a70bec08e9a",
+      "speaker": "Jordan",
+      "start_timestamp": 1330.0,
+      "text": "Where you can't do it at a digital Dropbox,"
+    },
+    {
+      "end_timestamp": 1340.0,
+      "id": "16f3d250-2d7a-34ac-9a92-850ea3144d10",
+      "speaker": "Dan",
+      "start_timestamp": 1334.0,
+      "text": "Cayman Islands. I don't know. I don't know the foundation, you make a donation to the foundation. Oh,"
+    },
+    {
+      "end_timestamp": 1343.0,
+      "id": "d16ae71b-b81a-32a1-940a-a6a77ca3ab6c",
+      "speaker": "Jordan",
+      "start_timestamp": 1340.0,
+      "text": "that's that's some solid epithet right there. The donation foundations"
+    },
+    {
+      "end_timestamp": 1369.0,
+      "id": "328870ed-7fd5-3a5b-84ac-330b6528d0fb",
+      "speaker": "Dan",
+      "start_timestamp": 1343.0,
+      "text": "just arriving. So I mean, like the only way for it to be proven that they like the Hillary step down immediately, because she was afraid of this information of the digital Dropbox coming out that Trump had over her. And somehow Trump actually has all of the intelligence agencies in his sway and all this, the only way for that to ever come out is for it the ship to go down."
+    },
+    {
+      "end_timestamp": 1418.0,
+      "id": "abcebd70-cb6b-3a52-a00f-b77648e10710",
+      "speaker": "Jordan",
+      "start_timestamp": 1369.0,
+      "text": "Yeah, boy. It does. If you know anything about the intelligence agencies and the way they've been behaving, they kind of are on Trump's side, pretty, pretty solidly. There's, and then there's the thing, the thing that confused me is that he's insisting that Hillary and the Democrats, yeah made a deal on election night. He gives very few details, by which I mean known none, about what that deal entails. So we know there's a deal. We don't know what that deal is. The next day, they are betraying him, right? We don't know how they're betraying Him because we don't know what their deal I think we can guess why. But why would they they're all globalists who are in the who are just hanging out with China. It"
+    },
+    {
+      "end_timestamp": 1422.0,
+      "id": "6393fd49-9b62-3d63-850a-5f6f76666190",
+      "speaker": "Dan",
+      "start_timestamp": 1418.0,
+      "text": "makes no sense to make that deal to begin with if you're going to flip on it"
+    },
+    {
+      "end_timestamp": 1425.0,
+      "id": "1994d1ce-73ba-3d85-9d04-fd25dac90e30",
+      "speaker": "Jordan",
+      "start_timestamp": 1422.0,
+      "text": "the next morning. I think it makes perfect sense."
+    },
+    {
+      "end_timestamp": 1433.0,
+      "id": "6982f312-fef1-3c1a-9f9c-bd2a760edc21",
+      "speaker": "Dan",
+      "start_timestamp": 1425.0,
+      "text": "So he doesn't in his speech, acceptance speech doesn't lay out all his dirty laundry. It would be wild and angry in the morning."
+    },
+    {
+      "end_timestamp": 1476.0,
+      "id": "b176430f-2fcb-309e-98e7-60c9f59b6fdd",
+      "speaker": "Jordan",
+      "start_timestamp": 1433.0,
+      "text": "That would be the greatest that would be great. If he came out in his acceptance speech with just and here's all the shit I have on Hillary now. I was waiting to tell it to you guys until I got elected. Yeah, if only they had made a deal with me two hours ago. I wouldn't have said anything fucking deal windows closed. Hey, if they had betrayed me tomorrow, I would have been fine as long as this deal happened tonight. Okay, they betrayed him. Yes. And the Democrats which again I feel like I feel like he's just using it as a as a guy right combo. Now it is a guy in his mind. It's a guy. It's Schumer. All Democrats are"
+    },
+    {
+      "end_timestamp": 1480.0,
+      "id": "df50b41c-991e-3b40-b768-3f7093dc3179",
+      "speaker": "Dan",
+      "start_timestamp": 1476.0,
+      "text": "a guy. We're all Chuck Schumer."
+    },
+    {
+      "end_timestamp": 1484.0,
+      "id": "5516e2b7-ab54-3dd6-ab94-6e1811d20052",
+      "speaker": "Jordan",
+      "start_timestamp": 1480.0,
+      "text": "They're all Amy Schumer actually or Rob, but as we"
+    },
+    {
+      "end_timestamp": 1492.0,
+      "id": "80075d8c-ef90-3488-8605-c1d800507044",
+      "speaker": "Dan",
+      "start_timestamp": 1484.0,
+      "text": "all know, fucking honest, it's George Soros. That's who he thinks all that is that is right. That's who he thinks they all are. In fact, that brings me to our next clip."
+    },
+    {
+      "end_timestamp": 1495.0,
+      "id": "c417a341-5f50-3a8e-a610-7bd19f0ac2a5",
+      "speaker": "Jordan",
+      "start_timestamp": 1492.0,
+      "text": "Excellent. That was the greatest segue in the history of pod."
+    },
+    {
+      "end_timestamp": 1530.0,
+      "id": "f2b2f71b-f8a4-3fea-9491-0179d1660c8e",
+      "speaker": "Dan",
+      "start_timestamp": 1495.0,
+      "text": "Thank you very much. This clip is actually part of what I would claim To be a very substantive, substantive narrative that has been going on forever on his show, and it's something that I really take issue with because it's a good example of a time where he uses something and references it and just lies about what it says. Okay, so George Soros is essentially his big Boogeyman. He says evil globalist madman. So here Here's a little clip of Alex talking about George Soros on today's program."
+    },
+    {
+      "end_timestamp": 1583.0,
+      "id": "91c77cec-d737-3a45-acb7-9ca3ca909f6c",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1530.0,
+      "text": "The minute they take down, Netanyahu, they're going after Trump show Hey, all you that wants to live under globalist Islamic rule. All of you that hate Jews. You're about to get a big juicy taste if the globalist when of what its gonna be like me and under Saudi Arabian Communist China, politically calling the shots to the Democrats who have openly made deals to sell us out to him. Oh, and then have weirdo Nazi collaborators like George Soros is Jewish sitting over it so so you get your anti semitism strike there you got this evil Dr. Evil over here running this whole takeover who's Jewish and they're about to get rid of the Jewish state so just enjoy yourself. You got to teach rounding up Jews and World War Two just it's so delicious. Bill Soros, he just can't stop and it's all the WikiLeaks and you know what the Jews haven't anything stopping hell half the Jews or liberals love George Soros. Just add whatever you want dumb asses."
+    },
+    {
+      "end_timestamp": 1585.0,
+      "id": "b48e9b82-fa07-3fbe-87cc-27314623fdd3",
+      "speaker": "Dan",
+      "start_timestamp": 1583.0,
+      "text": "So a couple things"
+    },
+    {
+      "end_timestamp": 1592.0,
+      "id": "4e074d07-94c5-3437-91c7-af4d5c6370d2",
+      "speaker": "Jordan",
+      "start_timestamp": 1585.0,
+      "text": "that was a barrage of people all together on the same side. So let's let's parse what I"
+    },
+    {
+      "end_timestamp": 1614.0,
+      "id": "5e6442c1-f15a-33ae-9059-f476de59cea9",
+      "speaker": "Dan",
+      "start_timestamp": 1592.0,
+      "text": "want to say one thing before we parse Okay, I think that this this clip also contains one of my favorite fucking things in the world, which is everyone is always surprised by commercial breaks. They are never fucking ready for a commercial break. But all of their commercials are just for their supplements. It's all just for colloidal iodine. Super Male Vitality. It's all the in house Info Wars pills, but they have"
+    },
+    {
+      "end_timestamp": 1622.0,
+      "id": "02a0fbbf-80fb-34cb-92c4-5dfe8814bd3b",
+      "speaker": "Jordan",
+      "start_timestamp": 1614.0,
+      "text": "complaining no idea why those specific pills are the ones they're marketing who could possibly be their target audience."
+    },
+    {
+      "end_timestamp": 1629.0,
+      "id": "2013827d-c471-3974-a35d-0dd569692fbc",
+      "speaker": "Dan",
+      "start_timestamp": 1622.0,
+      "text": "What's super awesome too is he often goes on Jags about how like he turns down sponsors sounds like you don't believe Oh,"
+    },
+    {
+      "end_timestamp": 1642.0,
+      "id": "997cfe2d-86b1-3b9c-897a-3c38abcde3ce",
+      "speaker": "Jordan",
+      "start_timestamp": 1629.0,
+      "text": "I guarantee he only he only advertises products he uses Right? Which a he got he needs that and formerly sold through a mail that"
+    },
+    {
+      "end_timestamp": 1654.0,
+      "id": "789ee02b-d001-3036-92b7-1f25ab613e39",
+      "speaker": "Dan",
+      "start_timestamp": 1642.0,
+      "text": "formally gold. Well, he used to use the hot gold real hard, but that was because he was on the GSM network. Okay, which is the Genesis communicate Oh GCN Genesis communication network."
+    },
+    {
+      "end_timestamp": 1665.0,
+      "id": "117f2bd3-0d78-38cb-bd22-59f5ab89df75",
+      "speaker": "Jordan",
+      "start_timestamp": 1654.0,
+      "text": "Did he leave him because they became the genocide communication network? I don't know. I can't confirm or under the poem of George Soros. Well, I just calming Jor Netanyahu,"
+    },
+    {
+      "end_timestamp": 1698.0,
+      "id": "cd639d42-776a-3fe4-b9d8-8eec0f4b6be1",
+      "speaker": "Dan",
+      "start_timestamp": 1665.0,
+      "text": "just to be clear, the GCN was owned by by gold Consortium. So when he was I think he's still is broadcast by them. But now they've shifted over to this weird health food stuff. Okay, so he used to be Hawking gold. And now they sell all this weird. Like, you know, all your body really needs is a couple of these minerals, which totally is true, right? It's all sold by this guy named Dr. Wallach who's actually if you actually look at Dr. Wallach he's a veterinarian"
+    },
+    {
+      "end_timestamp": 1703.0,
+      "id": "33e1d8da-ef21-3d82-ac6c-f57c5c2e4494",
+      "speaker": "Jordan",
+      "start_timestamp": 1698.0,
+      "text": "knows better what will affect the human body than somebody who kills pet"
+    },
+    {
+      "end_timestamp": 1719.0,
+      "id": "ad39151d-ac99-3bda-ae03-e5c06606e502",
+      "speaker": "Dan",
+      "start_timestamp": 1703.0,
+      "text": "a dog doctor? Yeah, he's a he's a he's like a new age doctor and veterinarian never would have guessed. So never would have guessed. If you look up the people who used to sell gold, their website now goes to his weird health food stuff. I've already covered that."
+    },
+    {
+      "end_timestamp": 1725.0,
+      "id": "4017e574-e3f2-3bd2-8a2b-ccf3e92a86f1",
+      "speaker": "Jordan",
+      "start_timestamp": 1719.0,
+      "text": "Doctor that has doctors but Chairman from 30 Rock written all over"
+    },
+    {
+      "end_timestamp": 1728.0,
+      "id": "360a73e4-c7fd-344e-be90-efac7ca0c776",
+      "speaker": "Dan",
+      "start_timestamp": 1725.0,
+      "text": "100% Yeah, so anyway, back to parsing."
+    },
+    {
+      "end_timestamp": 1747.0,
+      "id": "04bf7649-60d2-3cf7-a5cb-77ca2f4243d7",
+      "speaker": "Jordan",
+      "start_timestamp": 1728.0,
+      "text": "Right. All right. So the My Favorite my favorite thing that he said right there. George Soros got a taste from World War Two Nazi Germany. Yes, he got a taste of genocide. What would camp rounding up Jews rounding up Jews? And he's a Jew?"
+    },
+    {
+      "end_timestamp": 1776.0,
+      "id": "e7974b90-90e4-32d6-8798-5529ff4fb65f",
+      "speaker": "Dan",
+      "start_timestamp": 1747.0,
+      "text": "Are you aware of where that comes from? Where that where what he's referencing? No. Okay, so he references this all the time. And in the same way when he talks about Nazi collaborator, George Soros, it's the same thing. It's another epithet. Okay, sticks in your head. He's right. So back back years ago, there was George Soros was interviewed on 60 minutes. And he was being interviewed by what's this guy's name Croft? can remember Crofts first name, who cares?"
+    },
+    {
+      "end_timestamp": 1779.0,
+      "id": "0811f94b-7d29-334d-8697-a0bda37fcd4f",
+      "speaker": "Jordan",
+      "start_timestamp": 1776.0,
+      "text": "I remember him from the craft Nixon interview. Yes."
+    },
+    {
+      "end_timestamp": 1886.0,
+      "id": "87723e79-6e18-367f-8fda-32b7d8e5ae23",
+      "speaker": "Dan",
+      "start_timestamp": 1779.0,
+      "text": "Steve Croft is interviewing him. I will read you the transcript of that interview because I don't want to play the audio, right? I just don't want to pull up more shit that I don't have ready. You're a Hungarian Jew who escaped the holocaust by posing as a Christian, right? And you watch lots of people get shipped off to the death camps. Right? I was 14 years old. And I would say that that's when my character was made, in what way that one should think ahead. One shouldn't one should understand and anticipate events. And when one is threatened, it was a tremendous threat of evil. I mean, it was a very personal threat of evil. My understanding is that you went, went out, in fact, and helped in the confiscation of property from the Jews. sorrows. Yes, that's right. Yes. I mean, that's, that sounds like an experience that would send lots of people to a psychiatric couch for many, many years. Was it difficult? No, not at all. Not at all. Maybe as a child, you don't? You don't see the connection. But it was it created No, no problem at all. No feeling of guilt. Know, for example, that I'm Jewish, and here I am watching these people go, I could just as easily be these. I should be here. I should be there, none of that. And his response? Well, of course, I could be on the other side, or I could be one of one from whom the thing is being taken away. But there was no sense that I shouldn't be there. Because that was well, actually in a funny way. It's just like in the markets. That is, if I weren't there, of course, I wasn't doing this, but somebody else would, would be taking it away anyhow. And it was the whatever, whether I was there or not. I was only a spectator, the property was being taken away. So the I had no role in taking that property away. So no sense of guilt."
+    },
+    {
+      "end_timestamp": 1911.0,
+      "id": "b673371c-cd16-321b-8139-6589b11ee70f",
+      "speaker": "Jordan",
+      "start_timestamp": 1886.0,
+      "text": "Okay, so this this interview? Yes. Alex Jones has taken a survival story. Yes. Where it seems like Soros clearly dissociated, a bit from his own personal identity as a measure of survival. Yes, he survives, yes. He was harrowing. His father"
+    },
+    {
+      "end_timestamp": 1932.0,
+      "id": "5b855c82-6f09-3c05-911c-7c3e6eafc7e1",
+      "speaker": "Dan",
+      "start_timestamp": 1911.0,
+      "text": "hit him with a Christian gentleman who was responsible for when Jews were taken away, they would catalog their belongings. It was thieving, or whatever, but right, you got to imagine if you're a 14 year old kid, your primary concern is making sure no one finds out you're a Jew, right? Because you will be murdered."
+    },
+    {
+      "end_timestamp": 1939.0,
+      "id": "20c169e2-8459-3f9f-b307-7a0ea0bc181f",
+      "speaker": "Jordan",
+      "start_timestamp": 1932.0,
+      "text": "And also where do you masturbate? Sure, or pee? Yeah, right. Beyond that, even Jewish pee is different, and they could smell it."
+    },
+    {
+      "end_timestamp": 1942.0,
+      "id": "55e4785d-64a8-3c59-8994-91d736a0b5c4",
+      "speaker": "Dan",
+      "start_timestamp": 1939.0,
+      "text": "The pics"
+    },
+    {
+      "end_timestamp": 1956.0,
+      "id": "d4cf3d15-7b94-3bbd-9bbe-e0960b4d495a",
+      "speaker": "Jordan",
+      "start_timestamp": 1942.0,
+      "text": "are different. So circumcision is, is the main selling, selling point for Jews, everybody call it a selling point. And I shouldn't have said selling boy, I should have said catching point or something. So something along those lines,"
+    },
+    {
+      "end_timestamp": 2009.0,
+      "id": "405ccc23-60cf-3233-a9c5-bd44c45d4179",
+      "speaker": "Dan",
+      "start_timestamp": 1956.0,
+      "text": "there was another quote that was about that time in his life. It was actually probably the happiest year of my life, that year of German occupation. For me, it was a very positive experience. It's strange, I think it says sage, but I think he meant strange. It's a strange thing, because you see incredible suffering around you. And the fact that you're in considerable danger yourself, but you're 14 years old, and you don't believe that it can actually touch you. You have a belief in yourself, you have a belief in your father. It's a very happy making exhilarating experience. So people, Alex Jones, in particular takes these quotes to twist it to be like the happiest time in his life was when he was helping Hitler round up Jews, right, which is false on two counts. And I don't believe that Alex doesn't know that. Okay, he's citing these things."
+    },
+    {
+      "end_timestamp": 2059.0,
+      "id": "7c9aaf84-a093-3cea-982a-326b45841e46",
+      "speaker": "Jordan",
+      "start_timestamp": 2009.0,
+      "text": "Yeah, I, it might my first reaction on hearing that is, that's some crazy shit. And clearly, he's rich enough to be honest. Which if if he was not, like, imagine him as an actor saying that nonsense. He would be pilloried for weeks, undoubtedly. Right. So he's rich enough to be like, hey, this was a hugely formative experience in my life. It is one of the most tragic things that's ever happened. And somehow, because of those strange circumstances that I was in, it wound up being a positive experience for me. Okay. Now, I think that people who leave early means that he was in cahoots with Hitler himself, right, and is trying to destroy the Jewish state."
+    },
+    {
+      "end_timestamp": 2064.0,
+      "id": "a45b3eef-4cf1-390f-afd1-2c1a7a43e5ea",
+      "speaker": "Dan",
+      "start_timestamp": 2059.0,
+      "text": "And because he was so happy, then he wants to recreate it. Yeah. Well, 100%"
+    },
+    {
+      "end_timestamp": 2081.0,
+      "id": "f9c46834-08d4-3da3-b675-8f2c3ed90191",
+      "speaker": "Jordan",
+      "start_timestamp": 2064.0,
+      "text": "I mean, I remember growing up whenever I was being beaten regularly, it was an exhilarating experience. Well, exhilarating, is weird definition that no, it's an exhilarating experience. And I constantly try and recreate it psychologically. That's unimpeachable logic"
+    },
+    {
+      "end_timestamp": 2100.0,
+      "id": "72ea1e07-ff16-3081-93f5-726a3c40726f",
+      "speaker": "Dan",
+      "start_timestamp": 2081.0,
+      "text": "but the traumas that we have in our lives often if you have undergone some analysis, some therapy, you don't necessarily think of them as horrible times in your life bumps and bruises make you stronger. They there are tons of people who do holocausts. Wow, I mean, you're not you're not responsible, often for the cards you're doing. Next,"
+    },
+    {
+      "end_timestamp": 2109.0,
+      "id": "249cb836-8d20-3d58-8e20-fcb02d090ba0",
+      "speaker": "Jordan",
+      "start_timestamp": 2100.0,
+      "text": "whatever doesn't put you in another and makes you stronger? Sure. Now, if someone dies, that is the end of this podcast, we made it through one episode. If someone does"
+    },
+    {
+      "end_timestamp": 2113.0,
+      "id": "e9a466ed-f984-344d-bf05-1a9e55ad7699",
+      "speaker": "Dan",
+      "start_timestamp": 2109.0,
+      "text": "an after show of our after show, they're going to take that clip. Oh, yeah."
+    },
+    {
+      "end_timestamp": 2118.0,
+      "id": "7f92b708-29f2-3513-861c-401688a26ee6",
+      "speaker": "Jordan",
+      "start_timestamp": 2113.0,
+      "text": "Well, I still think that's a, that is a piece of advice, you can take it or leave it."
+    },
+    {
+      "end_timestamp": 2151.0,
+      "id": "4b5042e3-7ae0-3221-ae53-5914be841182",
+      "speaker": "Dan",
+      "start_timestamp": 2118.0,
+      "text": "So this really bothers me quite a bit. Because most of the like, I'm not here to stand up for George Soros, and say he's the best man in the world. But this idea of painting him as a Nazi collaborator is incredibly irresponsible. And the fact that I'm 100% sure that Alex Jones has watched the clips from that Doc, or has watched that interview, has seen these things. He knows what he was talking about fact that he chooses to paint it as he was helping roundup Jews means that he's spinning a false narrative for a reason. Right? And that bothers me a lot."
+    },
+    {
+      "end_timestamp": 2158.0,
+      "id": "17f1ee75-1200-35eb-9171-e25e4480b0b3",
+      "speaker": "Jordan",
+      "start_timestamp": 2151.0,
+      "text": "Okay, so that puts us into lying territory versus deceiving territory. Yes,"
+    },
+    {
+      "end_timestamp": 2160.0,
+      "id": "c668e27c-432d-3fb1-b52b-34998c045ac8",
+      "speaker": "Dan",
+      "start_timestamp": 2158.0,
+      "text": "propaganda territory"
+    },
+    {
+      "end_timestamp": 2212.0,
+      "id": "8e009d48-5c2a-3c6c-b977-793b742956c5",
+      "speaker": "Jordan",
+      "start_timestamp": 2160.0,
+      "text": "right. Now, the other part of this that I love about him, and you're absolutely right about him being a great broadcaster, at no point in his entire show, I'm imagining, does he ever actually get into why he would want this to happen? Barely, if ever, right? So he leaves it to your own imagination to make these connections of oh, well, clearly, if he survived the Holocaust. He also wants to and loved it, which is also a great movie titled surviving the Holocaust and loving Dracula. So Leslie Nielsen as a slapstick young George Soros, but still that same age, he went to young that Leslie Nielsen, yeah, he can't play it that young now. He's a great actor, but I think he's dead. He has debt. Yeah. So you know, he'd be even better at it."
+    },
+    {
+      "end_timestamp": 2214.0,
+      "id": "26401a64-7cb3-33f0-959e-65ded4c6d81c",
+      "speaker": "Dan",
+      "start_timestamp": 2212.0,
+      "text": "Yeah. Okay."
+    },
+    {
+      "end_timestamp": 2227.0,
+      "id": "119a17ad-edb7-3d67-903d-6c23004624b9",
+      "speaker": "Jordan",
+      "start_timestamp": 2214.0,
+      "text": "So so, before before we get because we, we already got site and he's a genius. Yeah, we already got sidetracked onto the nonsense you said. But did you notice that of responding to the nonsense he said,"
+    },
+    {
+      "end_timestamp": 2233.0,
+      "id": "160fe709-6624-3057-81c5-2eac8182d858",
+      "speaker": "Dan",
+      "start_timestamp": 2227.0,
+      "text": "You noticed that on the way to the stuff talking about George Soros there was like,"
+    },
+    {
+      "end_timestamp": 2239.0,
+      "id": "5d2fb6f1-ac49-3513-9581-4fd021c4bfe8",
+      "speaker": "Jordan",
+      "start_timestamp": 2233.0,
+      "text": "oh, there's 30 difference. Don't miss Matt. Yeah, he was thrown into the wall. She's thrown shit at the wall to see what sticks"
+    },
+    {
+      "end_timestamp": 2268.0,
+      "id": "614fff4a-f35a-337c-a675-771ab29dcba7",
+      "speaker": "Dan",
+      "start_timestamp": 2239.0,
+      "text": "and stuff that he was talking about. Bibi Netanyahu was, Oh, he's he's the best. Apparently the police questioned him over some corruption stuff. That day on the on the second, I'm having difficult times finding independent corroboration of that being anything serious. It's difficult to say but it does feed into the narrative that they already have built up with. The United States has turned their back on Israel, with the sitting out of the UN vote."
+    },
+    {
+      "end_timestamp": 2273.0,
+      "id": "6de43c2d-9217-3453-8258-8ee494a479d0",
+      "speaker": "Jordan",
+      "start_timestamp": 2268.0,
+      "text": "Yeah. And their third the $35 billion 8,000,000,030 $8 billion"
+    },
+    {
+      "end_timestamp": 2286.0,
+      "id": "5d55e1c4-3f17-3007-9c9b-4fce543c046d",
+      "speaker": "Dan",
+      "start_timestamp": 2273.0,
+      "text": "in military aid. Right. It's like I believe here. My position on that is Israel is an incredibly complicated situation that I don't understand all the ins and outs of right. I do believe Palestinians have rights. How about that? How does that grab you?"
+    },
+    {
+      "end_timestamp": 2303.0,
+      "id": "93aea197-ec58-3777-9404-e9ff70777220",
+      "speaker": "Jordan",
+      "start_timestamp": 2286.0,
+      "text": "I don't know. George Soros agrees with that. And I feel like you're wrong there. Oh, yeah. George Soros is against rounding up. What the thing that before now now, I'm pissed off. Also, I just got hit with him saying that China and Saudi Arabia are on the same team."
+    },
+    {
+      "end_timestamp": 2307.0,
+      "id": "203b50eb-f0bb-3b22-b029-dc6edf87f6ab",
+      "speaker": "Dan",
+      "start_timestamp": 2303.0,
+      "text": "Well, beyond that. Also, globalists are Islamist."
+    },
+    {
+      "end_timestamp": 2315.0,
+      "id": "02b1b3da-0bdf-36d3-bb2c-e19630299a70",
+      "speaker": "Jordan",
+      "start_timestamp": 2307.0,
+      "text": "Well, yeah. No, that that I that we can skip over because that's okay. So, as everybody knows, Islamist are all for global relations,"
+    },
+    {
+      "end_timestamp": 2327.0,
+      "id": "03926a38-92db-38d4-a93e-e690e15c4d6d",
+      "speaker": "Dan",
+      "start_timestamp": 2315.0,
+      "text": "part of this anti globalist sort of narrative. One of the necessary pieces of it is that they have to create their own like Axis of Evil, right for them, in order to make Russia"
+    },
+    {
+      "end_timestamp": 2335.0,
+      "id": "77e3cd99-5429-3e31-8900-1b76f9df71d5",
+      "speaker": "Jordan",
+      "start_timestamp": 2327.0,
+      "text": "Okay, or weird that they are calling themselves the axis of evil. That's a big tip off if the globalists are like, Oh, we're totally evil. Oh,"
+    },
+    {
+      "end_timestamp": 2341.0,
+      "id": "293f451a-aad6-377f-a86f-f47c16a355d8",
+      "speaker": "Dan",
+      "start_timestamp": 2335.0,
+      "text": "yeah, we're super I'm an evil Dr. Evil, right. Exactly."
+    },
+    {
+      "end_timestamp": 2348.0,
+      "id": "66dd4eaf-6f11-339e-b031-f4872fbb19b9",
+      "speaker": "Jordan",
+      "start_timestamp": 2341.0,
+      "text": "I feel like he doesn't know Dr. Evil is fictional. He's given me the Dr. Evil doesn't know he's fictional vibe."
+    },
+    {
+      "end_timestamp": 2374.0,
+      "id": "0b198236-83e8-3ccf-9254-0b40ee7018d7",
+      "speaker": "Dan",
+      "start_timestamp": 2348.0,
+      "text": "So he like the the, the Alliance there in order to make Russia Okay. China, Saudi Arabia, North Korea, and you know, some other countries right. But those are the ones that are like the big problems, especially Communist China. Those are the those are the people we have to be worried about. Just So Russia is cool. Ah, Putin just wants prosperity."
+    },
+    {
+      "end_timestamp": 2389.0,
+      "id": "62e53a89-3148-30fc-be7a-7ee5067b4559",
+      "speaker": "Jordan",
+      "start_timestamp": 2374.0,
+      "text": "Well, absolutely. Yeah. And also Putin's country is turning into a shithole that he's he's rapidly doing everything he can to direct every possible attention away from the fact that Russia's economy is garbage right now."
+    },
+    {
+      "end_timestamp": 2401.0,
+      "id": "7d5d8674-ca22-3096-96d1-ce05c12d64df",
+      "speaker": "Dan",
+      "start_timestamp": 2389.0,
+      "text": "Toilet. Yeah. And it has been brings that up but he uses it as a deflection away from Russian tampering and hacking and stuff like that. He's like, how can they do anything? They have the GD P of Italy."
+    },
+    {
+      "end_timestamp": 2404.0,
+      "id": "a117a75d-7c4a-33cc-aab3-c942a76d9a6c",
+      "speaker": "Jordan",
+      "start_timestamp": 2401.0,
+      "text": "All right, well, yeah, but that's a solid. That's a solid deflection."
+    },
+    {
+      "end_timestamp": 2418.0,
+      "id": "fae5f5a9-ea23-3c37-87af-9d94bd5c55e0",
+      "speaker": "Dan",
+      "start_timestamp": 2404.0,
+      "text": "Yeah, but also Putin probably has like $200 billion, or something like that. There's a lot of people hiding a lot of money. I can't imagine the fact that the GDP is that low doesn't mean that there aren't the resources. Like there's a lot of dark money."
+    },
+    {
+      "end_timestamp": 2441.0,
+      "id": "6e9959fa-dbc5-3131-a8f2-1db8fdd50d72",
+      "speaker": "Jordan",
+      "start_timestamp": 2418.0,
+      "text": "Like, I don't know, like some of that money that went to that Olympic Stadium and the roads that were never actually birth. Somebody's got all that money. Yeah. Communist China got all that my absolute that's what we know when Communist China and Saudi Arabia conspired to with northfields Sochi Olympics, I guess, what are we going with?"
+    },
+    {
+      "end_timestamp": 2444.0,
+      "id": "df20890b-c1ca-3826-9fea-eee21f994140",
+      "speaker": "Dan",
+      "start_timestamp": 2441.0,
+      "text": "I don't know. All right. This is a conspiracy to be able to flesh out"
+    },
+    {
+      "end_timestamp": 2458.0,
+      "id": "53682b3f-13ad-33ea-b5b7-6bff9d96cb18",
+      "speaker": "Jordan",
+      "start_timestamp": 2444.0,
+      "text": "Communist China and Saudi Arabia. Yes, that did okay. Did he plan to say that probably not as he said that before he ever combined Communist China and Saudi Arabia"
+    },
+    {
+      "end_timestamp": 2463.0,
+      "id": "7e63aa96-140a-338a-8502-b5e640dc2971",
+      "speaker": "Dan",
+      "start_timestamp": 2458.0,
+      "text": "only as people he doesn't like, like, I don't I think that he Mad Libs that one."
+    },
+    {
+      "end_timestamp": 2469.0,
+      "id": "064d808d-c753-34ed-a999-a044f11db2ee",
+      "speaker": "Jordan",
+      "start_timestamp": 2463.0,
+      "text": "Yeah, he had to. I mean, even he listened to that show. He was like, holy shit. That's crazy. He"
+    },
+    {
+      "end_timestamp": 2488.0,
+      "id": "2329e7a5-8a04-3bbe-94c6-8fc0a35e3e62",
+      "speaker": "Dan",
+      "start_timestamp": 2469.0,
+      "text": "I think it was that the spirit got good to him. He was just like, it was like, All right. Well, these words are coming out what Oh, give me the Holy Spirit. Tell me who I am again, which is a perfect transition to this next clip. Excellent. So I think segways are dominant. This might be one of my favorite clips. I don't want to do any setup."
+    },
+    {
+      "end_timestamp": 2504.0,
+      "id": "29f76935-3e58-3bca-8081-13176479f70e",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2488.0,
+      "text": "To ladies and gentlemen. That's what I said last week. I said if they killed Netanyahu or something, you know, World War Three is about to happen. Well, here it is. And I told you they're really thinking about arresting Trump. They're really thinking about false remember all those right charges and pedophile charges that were always fake names that were never true. And"
+    },
+    {
+      "end_timestamp": 2507.0,
+      "id": "38c72458-3459-380e-9df4-1c80eb5a5e45",
+      "speaker": "Dan",
+      "start_timestamp": 2504.0,
+      "text": "that's not entirely accurate. No got dropped as soon as he"
+    },
+    {
+      "end_timestamp": 2571.0,
+      "id": "beb1c6ae-a1c6-382d-b4fc-736506f7da43",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2507.0,
+      "text": "won. Claiming Gerry Epstein connections to what was really to Clinton and Hillary and to both of them really everything they're doing they say we're doing so now this is Zero Hedge Israeli police internet Yahoo's home for questioning over corruption allegation. Boy, you talk about canary in the coal line, the globalist would move against Netanyahu as WikiLeaks shows they're planning to do via sorrows if they weren't planning to have people ready to imprison him or kill him if he starts trying to spill the beans on stuff. Because Netanyahu has been involved in everything good, bad, ugly, you name it. And if there is a move against Netanyahu that means we're moving against Trump. That your bottom buck? Whoa, no way Renovo just red alert. Red alert. Red alert. This is getting crazy this is show fricken how to control it's time to pray. Our heavenly Father please help."
+    },
+    {
+      "end_timestamp": 2575.0,
+      "id": "fe82cec8-b1cd-3791-bdae-f1d217d1d720",
+      "speaker": "Jordan",
+      "start_timestamp": 2571.0,
+      "text": "No, no, no, no."
+    },
+    {
+      "end_timestamp": 2579.0,
+      "id": "9a854ba9-8f4d-34eb-9f64-14f078f26726",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2575.0,
+      "text": "No, please protect the children of the children. How"
+    },
+    {
+      "end_timestamp": 2599.0,
+      "id": "0448b11a-f57a-3bfd-9899-2fa82f76e265",
+      "speaker": "Dan",
+      "start_timestamp": 2579.0,
+      "text": "dare you get in the way of his prayer. I'm sorry. I have to go back and I'm sorry. This is this is on air through prayer again. And he when he doesn't, it's afraid. He immediately like like puts his hand over his face and makes it he acts like he's gonna cry it's astounding"
+    },
+    {
+      "end_timestamp": 2648.0,
+      "id": "c7439420-d0ae-3e65-aef6-8926a33d5210",
+      "speaker": "Alex Jones",
+      "start_timestamp": 2599.0,
+      "text": "This is so frickin out of control it's time to pray. Our heavenly Father please help us open our eyes please help us be good we're so sorry for all the abortions of all evil in our name. Please protect children please reprieve us image in your will. Please, somehow stop the evil forces that are trying to stop this miracle that you've given us. Please help there be peace in the Middle East. Please stop those who are trying to overthrow Israel and start world war three and bring it Armageddon. Please give us a reprieve like none of that we have time to wake people up and reach out to those that are still in darkness and deceive please in the name of Your Son. Jesus Christ lead guide and direct us Amen. And I don't do that for show folks. I don't want to be here. I am so upset right now. My head is burning. I am sweating even though it's like 65 degrees in here. I am so pissed."
+    },
+    {
+      "end_timestamp": 2657.0,
+      "id": "7b3f228d-fa9a-3a22-a42b-ff6139e2ff1c",
+      "speaker": "Dan",
+      "start_timestamp": 2648.0,
+      "text": "Well, he might be sweating in 65 degree temperatures because he's taking too much goddamn Super Male Vitality fairly possible or that he's coked out I have no idea but"
+    },
+    {
+      "end_timestamp": 2680.0,
+      "id": "c95cb7e6-108f-39d5-ae58-c0b17df82075",
+      "speaker": "Jordan",
+      "start_timestamp": 2657.0,
+      "text": "first thing you say after publicly praying is I don't do that for show right on your literal show. You're doing that for show you're 100% doing it for sure. But I would listen to any what is that? No REMAX have to pray. It's time to pray. What a showman. God that's so good."
+    },
+    {
+      "end_timestamp": 2699.0,
+      "id": "4c6c6cf5-ba1e-309d-b743-33e1f6713b34",
+      "speaker": "Dan",
+      "start_timestamp": 2680.0,
+      "text": "I want to be super clear about this too. I don't mean to beat up on religion. I don't I don't want to mock someone just for being religious. Religion is a great thing when used right? Like it does bring a lot of meaning to a lot of people's lives and Hooray, but I do take great issue with the idea that it's you know, it's being used to basically for show"
+    },
+    {
+      "end_timestamp": 2719.0,
+      "id": "7eddcd5a-2f14-3441-b77b-3a76f0c61996",
+      "speaker": "Jordan",
+      "start_timestamp": 2699.0,
+      "text": "Yeah, well I mean, just the fact that you responded that way. Means it's odd pray. Dear, dear God, I just want to I'm sorry about abortion. Why did he start with abortions? Where did that come from? Well, this is a stream of consciousness rant."
+    },
+    {
+      "end_timestamp": 2722.0,
+      "id": "cef1b2fd-e926-3122-acd6-16fa20696a57",
+      "speaker": "Dan",
+      "start_timestamp": 2719.0,
+      "text": "Okay, but it's Gorgeous. Gorgeous, right?"
+    },
+    {
+      "end_timestamp": 2725.0,
+      "id": "18286431-4eee-3949-9d37-ea88b5e03daa",
+      "speaker": "Jordan",
+      "start_timestamp": 2722.0,
+      "text": "Why is Netanyahu the canary in the coal mine?"
+    },
+    {
+      "end_timestamp": 2732.0,
+      "id": "a5539c2f-2dc4-38cd-a5d5-033f89da2c7c",
+      "speaker": "Dan",
+      "start_timestamp": 2725.0,
+      "text": "Because once they come for Israel, that means Trump's next Yeah, but why would you go for Israel? First, there's an internal logic to it. That's never explained."
+    },
+    {
+      "end_timestamp": 2737.0,
+      "id": "b24f490d-627e-3b91-9c41-29c5ad4dc56c",
+      "speaker": "Jordan",
+      "start_timestamp": 2732.0,
+      "text": "What Okay, so you're coming for Netanyahu because he's"
+    },
+    {
+      "end_timestamp": 2744.0,
+      "id": "d35794a7-e3f7-32ce-8816-c8295e2bad13",
+      "speaker": "Dan",
+      "start_timestamp": 2737.0,
+      "text": "got all the dirt. He knows good and bad things that everyone's done. So you got to take him out first. So he can't spill the beans. So"
+    },
+    {
+      "end_timestamp": 2751.0,
+      "id": "44540623-95fd-3676-bc41-571d3cd27167",
+      "speaker": "Jordan",
+      "start_timestamp": 2744.0,
+      "text": "again, the good, the bad, the ugly, he's got all of it. Yes. Where? Why? And how did he get any of it?"
+    },
+    {
+      "end_timestamp": 2755.0,
+      "id": "537f84b5-92f8-3143-bb3c-fe5c901e41d5",
+      "speaker": "Dan",
+      "start_timestamp": 2751.0,
+      "text": "He's been around the game forever. So yeah, that's not"
+    },
+    {
+      "end_timestamp": 2761.0,
+      "id": "02928c32-7cae-3132-b40b-c32085f106d0",
+      "speaker": "Jordan",
+      "start_timestamp": 2755.0,
+      "text": "a thing that you can't just say, I've been around the game. So I know the secrets of every nation on the planet."
+    },
+    {
+      "end_timestamp": 2765.0,
+      "id": "dce7da20-73c7-3149-9969-9c9f353d3f0a",
+      "speaker": "Dan",
+      "start_timestamp": 2761.0,
+      "text": "Yeah, but you can, if no one, that's a good hole as you want it. That's"
+    },
+    {
+      "end_timestamp": 2779.0,
+      "id": "a8c0c9c0-00ad-345d-9a9d-7b0d0f7fae03",
+      "speaker": "Jordan",
+      "start_timestamp": 2765.0,
+      "text": "I hear it here is the fundamental disconnect, is that I feel like before I say something, I should have at least the barest understanding of why that thing is occurring."
+    },
+    {
+      "end_timestamp": 2783.0,
+      "id": "08498d9a-94a7-319c-8e01-a037dc2b3d38",
+      "speaker": "Dan",
+      "start_timestamp": 2779.0,
+      "text": "Uh huh. So like, when you make a public claim, right, yeah."
+    },
+    {
+      "end_timestamp": 2795.0,
+      "id": "0163f624-ee29-3cd1-a343-8c711450e408",
+      "speaker": "Jordan",
+      "start_timestamp": 2783.0,
+      "text": "And even if it's dumb, and relatively uninformed, I've got a reason for thinking it. You know, and if you're saying it as a joke, right, right. Even Yeah, even then, well, before we go any further,"
+    },
+    {
+      "end_timestamp": 2800.0,
+      "id": "4b622f2d-1ca2-3b7a-92f0-8b0c9ef3596a",
+      "speaker": "Dan",
+      "start_timestamp": 2795.0,
+      "text": "it's already to sound dropped."
+    },
+    {
+      "end_timestamp": 2806.0,
+      "id": "d1cabdb8-3536-3cf6-b7c3-4aa7bd81ef2b",
+      "speaker": "Jordan",
+      "start_timestamp": 2800.0,
+      "text": "We're not gonna be funny. I love you. I love you. Oh, God, what?"
+    },
+    {
+      "end_timestamp": 2825.0,
+      "id": "9ded872b-dbaf-3f7a-8c2e-2f6ab1e33aeb",
+      "speaker": "Dan",
+      "start_timestamp": 2806.0,
+      "text": "That song is amazing. What I was watching this. I lost my shit at work at that moment. I was just like, like, if I were writing a character I couldn't come up with something funnier than yelling about World War Three is coming right along pause."
+    },
+    {
+      "end_timestamp": 2855.0,
+      "id": "c1f4aab5-f115-3616-8051-50a3362e02d2",
+      "speaker": "Jordan",
+      "start_timestamp": 2825.0,
+      "text": "Okay, all right. Let me let me ask you before we before we go any further and begin with defending praying, right? Amazing. Not defending praying right saying that it is not for show. Oh, by the way, this is a 100% genuine need to pray moment. By the way. That's sincere folks. Have you ever. Also, that's a super professional wrestling move. You can see somebody walking into the ring and being like, Hey, before we wrestle, it's time to pray."
+    },
+    {
+      "end_timestamp": 2882.0,
+      "id": "01112574-5e91-36c1-a821-9bfad705a017",
+      "speaker": "Dan",
+      "start_timestamp": 2855.0,
+      "text": "No, no, no, no, it would have to be like, now the undertaker has been trying to get me for years now. There's a cabal. He's got a he's got an evil group. Maybe we call them the ministry of darkness. And they're gonna come get me we're talking about viscera, we're talking about the big boss man. Once you get visceral out that's the canary in the coal mine. And Undertaker's come and for me, it's time to break the negatives."
+    },
+    {
+      "end_timestamp": 2915.0,
+      "id": "8466fe5b-7825-3c33-a4eb-9daee85b2f33",
+      "speaker": "Jordan",
+      "start_timestamp": 2882.0,
+      "text": "I am going to hear that 10 million times before I go to sleep tonight. In my brain, it's an isolated CLIP OF GOD. Any anytime I am in a bad mood, I will just pull that up on my phone and be like, Oh, life is good. Yeah. Okay, so so so here we go. You're they're coming for Netanyahu first. And if they get to Netanyahu first. That's not going to be enough to destabilize everything. No, you got to then go after Trump. Right? Why are those two connected? Or how are those two connected?"
+    },
+    {
+      "end_timestamp": 2918.0,
+      "id": "7ab0f73a-36d4-3e63-a0a2-8328e8aefbee",
+      "speaker": "Dan",
+      "start_timestamp": 2915.0,
+      "text": "I think because it's so implied I don't"
+    },
+    {
+      "end_timestamp": 2931.0,
+      "id": "846e9065-7b66-38c7-87c1-80087377bd1a",
+      "speaker": "Jordan",
+      "start_timestamp": 2918.0,
+      "text": "really have tar. Have they ever met? Of course, went Oh, okay. So they've never met Has Trump ever stated before any positive feelings towards Israel?"
+    },
+    {
+      "end_timestamp": 2938.0,
+      "id": "9f47431a-9c1c-3c68-aabe-11baaa94abbe",
+      "speaker": "Dan",
+      "start_timestamp": 2931.0,
+      "text": "I think he's tweeted a bunch and he spoke at APEC. Yeah, he's he's come out in favor of Israel."
+    },
+    {
+      "end_timestamp": 2940.0,
+      "id": "82c046dd-9487-3822-a323-f4b3ea2a213b",
+      "speaker": "Jordan",
+      "start_timestamp": 2938.0,
+      "text": "But we're all in favor of Israel."
+    },
+    {
+      "end_timestamp": 2962.0,
+      "id": "46f0b77d-29d1-3322-b0da-420d14c4029e",
+      "speaker": "Dan",
+      "start_timestamp": 2940.0,
+      "text": "He's also said some negative things about Obama's handling of, you know, like backing away from Israel in the UN vote, right? Like, I believe, what was his tweet, like, hey, hold tight, the like, everything's gonna be different after the 20th. Right, which was both in reference to Russia and to Israel,"
+    },
+    {
+      "end_timestamp": 2977.0,
+      "id": "8b46e036-c009-38c6-b1f3-d1ace9c5e72a",
+      "speaker": "Jordan",
+      "start_timestamp": 2962.0,
+      "text": "which is it is nice that they have the luxury of being like, hey, we can we can weather the next 20 days because eventually we've got Trump who's just going to do whatever it is. We say"
+    },
+    {
+      "end_timestamp": 2989.0,
+      "id": "75c76970-c41d-3847-8df9-0aafc95dfc04",
+      "speaker": "Dan",
+      "start_timestamp": 2977.0,
+      "text": "basically Sure, he's he's a weird undefined variable that will do whatever we want. Okay, so But then let's here's the thing that drives me insane addiction was right there's always gonna be two hours long. Yeah."
+    },
+    {
+      "end_timestamp": 2995.0,
+      "id": "1b348db9-f9a6-381f-9d76-4cda92a5c086",
+      "speaker": "Jordan",
+      "start_timestamp": 2989.0,
+      "text": "Does anybody ever war games this right I mean, by that I mean, okay, so they kill Netanyahu."
+    },
+    {
+      "end_timestamp": 2999.0,
+      "id": "0535a44b-bf54-3190-ae51-c7324b6ec921",
+      "speaker": "Dan",
+      "start_timestamp": 2995.0,
+      "text": "So you're asking do we ever a be this thing right what happens next"
+    },
+    {
+      "end_timestamp": 3003.0,
+      "id": "c8285a44-0f26-3a9c-84f8-b6d52afaada0",
+      "speaker": "Jordan",
+      "start_timestamp": 2999.0,
+      "text": "kill All Netanyahu? Or then what happened? Oh, no, not necessarily that"
+    },
+    {
+      "end_timestamp": 3007.0,
+      "id": "02451af3-ca63-3bac-9b03-6fdb58a3c572",
+      "speaker": "Dan",
+      "start_timestamp": 3003.0,
+      "text": "you could just Shanghai him somewhere, right, you could just rent"
+    },
+    {
+      "end_timestamp": 3014.0,
+      "id": "435cd232-9569-392c-a390-1af6550a7db9",
+      "speaker": "Jordan",
+      "start_timestamp": 3007.0,
+      "text": "you could, I don't know, arrest him on corruption charges, but that what you trumped up, right."
+    },
+    {
+      "end_timestamp": 3023.0,
+      "id": "6aeec3a5-aa95-3e3f-9a34-67d4f7837732",
+      "speaker": "Dan",
+      "start_timestamp": 3014.0,
+      "text": "But then at the same time, if the whole thing is that he's got tons of dirt, you would have to kill him, right? I mean, based on what he's in order for the narrative last Jones is"
+    },
+    {
+      "end_timestamp": 3027.0,
+      "id": "0ebc50a9-b665-3bd4-a5ea-544dfa2a7b7c",
+      "speaker": "Jordan",
+      "start_timestamp": 3023.0,
+      "text": "that dirt in a digital Dropbox could be, then you can find it or take out"
+    },
+    {
+      "end_timestamp": 3031.0,
+      "id": "8ecf74ec-afad-39a1-8ded-8bd36c39d3fc",
+      "speaker": "Dan",
+      "start_timestamp": 3027.0,
+      "text": "his neck. Like, just don't make it so we can't talk."
+    },
+    {
+      "end_timestamp": 3035.0,
+      "id": "42932db5-b514-34f1-94bb-1ec703c5e9d2",
+      "speaker": "Jordan",
+      "start_timestamp": 3031.0,
+      "text": "Okay, I can see that like, like Roadhouse, they're gonna rip his throat and"
+    },
+    {
+      "end_timestamp": 3038.0,
+      "id": "5324c92e-0ae8-3c70-9b5c-967280d0ff09",
+      "speaker": "Dan",
+      "start_timestamp": 3035.0,
+      "text": "then that'll be a message to anyone else who wants to talk, you know, I'm saying,"
+    },
+    {
+      "end_timestamp": 3051.0,
+      "id": "dfff2cdc-3df1-3a29-8342-5ca436bd8aef",
+      "speaker": "Jordan",
+      "start_timestamp": 3038.0,
+      "text": "right? I mean, unless he has access to a computer or paper, or Yeah, or a typewriter or lot of possibilities. So you got to cut it. You got to cut off his hands and feet, because you can learn how to write with your feet. And"
+    },
+    {
+      "end_timestamp": 3056.0,
+      "id": "9c54140d-5d5d-3e4c-916f-2e22229bb138",
+      "speaker": "Dan",
+      "start_timestamp": 3051.0,
+      "text": "you're there in league with the Saudi Arabians who are notorious for cutting off ham, right? Or at least they were in the movie Aladdin."
+    },
+    {
+      "end_timestamp": 3074.0,
+      "id": "35bb966d-d4f6-330b-a6ba-c06f7f2bec55",
+      "speaker": "Jordan",
+      "start_timestamp": 3056.0,
+      "text": "Right. But you also then have to remove his eyes because some people can text a tie with their with their I wrote that whole book with his eyes. Right, exactly. So you got to remove those. Yeah. Now, unfortunately, what about toes? We're also we've already removed his feet. Okay. I've already established that we're moving to speak."
+    },
+    {
+      "end_timestamp": 3081.0,
+      "id": "3d80b0da-783e-3699-9da0-01960d96c756",
+      "speaker": "Dan",
+      "start_timestamp": 3074.0,
+      "text": "I missed that thinking about the the man from Alibaba, right."
+    },
+    {
+      "end_timestamp": 3116.0,
+      "id": "720949f3-8002-350b-9c4d-5fed36a5eb28",
+      "speaker": "Jordan",
+      "start_timestamp": 3081.0,
+      "text": "Leave Bob why so which, why did they misprint they blatant? Okay. All right. Let's let's get rid of the whole Alex Jones angle and go directly into this podcast is about the movie. Yeah. All right. All right. So that but then we also have the technology now where we can read brain scans and turn that into type. Right? It's still it's an infancy stages, but I'm assuming if you know everything about everybody, right, you got to know we're coming full circle. Now. He's been there for the good, the bad and the ugly. Yeah, it's got to be merged."
+    },
+    {
+      "end_timestamp": 3119.0,
+      "id": "548b5eb4-deab-3d65-89f0-4a4aaa7b6575",
+      "speaker": "Dan",
+      "start_timestamp": 3116.0,
+      "text": "Okay, so then your WarGames scenario. You've got a murderer?"
+    },
+    {
+      "end_timestamp": 3132.0,
+      "id": "40405cd4-7f84-3077-8815-93d44ee66b5b",
+      "speaker": "Jordan",
+      "start_timestamp": 3119.0,
+      "text": "Murderer Netanyahu. Yeah. And then Israel is what? Yeah. And so but but even then, if they murder Netanyahu,"
+    },
+    {
+      "end_timestamp": 3136.0,
+      "id": "959d86b4-2f5f-3884-8716-8812b1fc6853",
+      "speaker": "Dan",
+      "start_timestamp": 3132.0,
+      "text": "who's the next leader waiting in the wings? It's not someone who has any different philosophies."
+    },
+    {
+      "end_timestamp": 3143.0,
+      "id": "0d2d83ce-b2e7-309d-babb-105d8d1b3913",
+      "speaker": "Jordan",
+      "start_timestamp": 3136.0,
+      "text": "Right. And let me ask you a question. Is that our job or is it Alex Jones's job to know, the next person in line?"
+    },
+    {
+      "end_timestamp": 3144.0,
+      "id": "81728cf2-5934-32ae-bf4c-b6cab2c69b6f",
+      "speaker": "Dan",
+      "start_timestamp": 3143.0,
+      "text": "It's certainly not mine."
+    },
+    {
+      "end_timestamp": 3145.0,
+      "id": "c05a62eb-b792-3ec6-bce0-7831e7aa605d",
+      "speaker": "Jordan",
+      "start_timestamp": 3144.0,
+      "text": "It's certainly not mine."
+    },
+    {
+      "end_timestamp": 3147.0,
+      "id": "32607d80-45a4-39de-a61d-5e6831f1595a",
+      "speaker": "Dan",
+      "start_timestamp": 3145.0,
+      "text": "I'm not making any claims. Frankly, I"
+    },
+    {
+      "end_timestamp": 3151.0,
+      "id": "92186de8-85f2-3f4c-90d2-b82b36aa5d22",
+      "speaker": "Jordan",
+      "start_timestamp": 3147.0,
+      "text": "don't know many of my Aldermen. Let's put it that way. I know almost none. I've recently"
+    },
+    {
+      "end_timestamp": 3156.0,
+      "id": "adf90b3b-2176-3d0a-b620-8df68e0b2c68",
+      "speaker": "Dan",
+      "start_timestamp": 3151.0,
+      "text": "found out who my representatives are, because I've felt the need to call them I think"
+    },
+    {
+      "end_timestamp": 3163.0,
+      "id": "87475fd2-a005-352d-bf07-e9e84401d26d",
+      "speaker": "Jordan",
+      "start_timestamp": 3156.0,
+      "text": "that's a good idea. Yeah. If there's one thing that we can learn, it's don't call out of Jones know, call your state representative."
+    },
+    {
+      "end_timestamp": 3174.0,
+      "id": "59032690-cb36-3e1c-9db4-c6971d3d65f0",
+      "speaker": "Dan",
+      "start_timestamp": 3163.0,
+      "text": "If you do call Alex Jones. You tell him you love him. I love you. I love you. I wish that the caller had been like, I know you do. A little bit gorgeous."
+    },
+    {
+      "end_timestamp": 3177.0,
+      "id": "9fe2f0bc-aecc-3e1f-852a-3062b3e4aad5",
+      "speaker": "Jordan",
+      "start_timestamp": 3174.0,
+      "text": "He pulls the he pulls the whole Empire Strikes Back."
+    },
+    {
+      "end_timestamp": 3193.0,
+      "id": "eca314bc-fefe-3cab-a078-644382ddbe84",
+      "speaker": "Dan",
+      "start_timestamp": 3177.0,
+      "text": "Yeah. So there are you know, there are people calling any mention that you might be asking yourself about this time who listens to the Alex Jones Show people who need virility pills are certainly if you want a discount on boner pill. I think it's boner pills, right?"
+    },
+    {
+      "end_timestamp": 3197.0,
+      "id": "f605702a-537f-3dad-ab92-0ee22972869e",
+      "speaker": "Jordan",
+      "start_timestamp": 3193.0,
+      "text": "It's super reality or vitality is boner pill he"
+    },
+    {
+      "end_timestamp": 3204.0,
+      "id": "87a0864b-dc0d-363a-8a7d-a41134e0304f",
+      "speaker": "Dan",
+      "start_timestamp": 3197.0,
+      "text": "talks about how like your libido go and it's gotta be I don't know if it is but I think it might be boner pills."
+    },
+    {
+      "end_timestamp": 3208.0,
+      "id": "c0721877-ae95-3d80-b7c0-857df3b45c09",
+      "speaker": "Jordan",
+      "start_timestamp": 3204.0,
+      "text": "It has to be but or it might or it might just be like a shit ton of testosterone."
+    },
+    {
+      "end_timestamp": 3233.0,
+      "id": "7b9b5680-7ff0-3451-837f-a21933bd3e2a",
+      "speaker": "Dan",
+      "start_timestamp": 3208.0,
+      "text": "I've done some research on Quantcast. And Alexa, I don't know what that is. There are two websites that are basically they keep statistics on websites for advertising purposes. Okay, so if you want to sell ads, you can quote your Quantcast rating and stuff like that, right? I've done some research on what kind of traffic his website actually gets. Okay. And it's substantially lower than he says. And imagine how that would occur. There are like he generally has"
+    },
+    {
+      "end_timestamp": 3237.0,
+      "id": "af18f0c4-0a26-3ebc-a667-88d62c400dac",
+      "speaker": "Jordan",
+      "start_timestamp": 3233.0,
+      "text": "been saying he exaggerates or perhaps outright lies about something. Yeah,"
+    },
+    {
+      "end_timestamp": 3269.0,
+      "id": "f3df8535-15e9-33b8-8391-b08169edc5fa",
+      "speaker": "Dan",
+      "start_timestamp": 3237.0,
+      "text": "if you go, he has like 200 to 300,000 hits a day unique hits on his website, which is still great. That is pretty good. That's a lot. Yeah. But then whenever like a cop is killed, it goes up to about a million, of course, because you know, you're getting all that viral content out there. Right? You're reeling in the racists with the thug cop killer narratives, and that drives a lot of traffic. You can see spikes in his traffic whenever in like, oh, let's Google that date. See what happened. Oh, boom, okay. That was that when Dallas happened and shit like that. But"
+    },
+    {
+      "end_timestamp": 3293.0,
+      "id": "d24cf7d6-b6d4-3823-b588-accabdff7114",
+      "speaker": "Jordan",
+      "start_timestamp": 3269.0,
+      "text": "which was also a false flag operation initiated by Hillary Clinton and the globalists. Absolutely, she put that into her digital Dropbox WikiLeaks found it. They all know that the plot to kill Netanyahu is orchestrated by Communist China and Islamist Saudi Arabia working in concert to put this all together and who is behind both of those sorrow sorrows?"
+    },
+    {
+      "end_timestamp": 3295.0,
+      "id": "432974d0-c116-34ae-89c5-19dda2557312",
+      "speaker": "Dan",
+      "start_timestamp": 3293.0,
+      "text": "The Nazi loving Jew"
+    },
+    {
+      "end_timestamp": 3301.0,
+      "id": "95032c87-b7b2-30e5-89bf-a9ab00fde32e",
+      "speaker": "Jordan",
+      "start_timestamp": 3295.0,
+      "text": "and now actually I think this podcast just ended because I nailed it. I got it."
+    },
+    {
+      "end_timestamp": 3327.0,
+      "id": "caf0e45b-c3d2-3f1d-8970-5fbe6d08b3fd",
+      "speaker": "Dan",
+      "start_timestamp": 3301.0,
+      "text": "Also they Soros is claimed to be fun. I mean, he does donate to Black Lives Matter he does. He does support that group. But they, they they act like because he gives money to help that cause that their his Goon Squad, kind of. It's insane and very racist. But anyway, you're asking yourself this question who's listening? And Alex has a couple answers for you. Okay, for our next clip, who is listening? who's listening to the show?"
+    },
+    {
+      "end_timestamp": 3339.0,
+      "id": "19c293aa-0b03-373e-b4e4-acab19c7ccef",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3327.0,
+      "text": "Does it Hillary know when she attacks me? And when they say I'm all these bad things and lie about me and have all their paid shills put out all this info, don't they know that only he was so"
+    },
+    {
+      "end_timestamp": 3351.0,
+      "id": "b3c17de2-c925-396f-a120-c23b7c59bae1",
+      "speaker": "Jordan",
+      "start_timestamp": 3339.0,
+      "text": "close to getting a name? He was so close to just making up with any name for paid shells, like an organization Hey, chills, and then pauses and be like, Oh, no, it left me. I can't say Saudi Arabia again. He could"
+    },
+    {
+      "end_timestamp": 3362.0,
+      "id": "435c9f6a-2b43-3455-9ce9-4687e4482371",
+      "speaker": "Dan",
+      "start_timestamp": 3351.0,
+      "text": "have just as easily said correct the record like that. Oh, absolutely. That. I mean, that was something that was proven. Absolutely. But he could have thrown that out. There would have been easy throw Media Matters under the bus if you want. Yeah,"
+    },
+    {
+      "end_timestamp": 3368.0,
+      "id": "a39604fe-1a96-38de-b198-9ad27af6b01a",
+      "speaker": "Jordan",
+      "start_timestamp": 3362.0,
+      "text": "but you know, I don't he's, he's had a long day. Okay. I will give him I will give him that."
+    },
+    {
+      "end_timestamp": 3373.0,
+      "id": "115ced6f-32eb-3b79-8a28-75b9c39606a1",
+      "speaker": "Dan",
+      "start_timestamp": 3368.0,
+      "text": "I think those two things are also to relate it to pizza gate now. And I don't think he wants to touch that one."
+    },
+    {
+      "end_timestamp": 3382.0,
+      "id": "d3ffa69a-592a-3738-ba20-a4ef1726d968",
+      "speaker": "Jordan",
+      "start_timestamp": 3373.0,
+      "text": "Yeah. Was Was that his faults? indirectly. Is that or did he start the whole pizza gate thing? Or was it a random tweet that he turned into the echo chamber?"
+    },
+    {
+      "end_timestamp": 3405.0,
+      "id": "24fb61bf-7c02-3851-ba92-d64d2499da06",
+      "speaker": "Dan",
+      "start_timestamp": 3382.0,
+      "text": "I think that after that guy showed up at that pizza place with a gun, it was a hot potato. And he had to drop it. They had to clean the website of all of the mentions of it. They got rid of all of it. Well, not all of it but all of their like main reporting on it. All the stuff where he was talking about it being something that needs to be investigated and citizen investigators do something about it."
+    },
+    {
+      "end_timestamp": 3412.0,
+      "id": "0d0c6b1d-94f2-37c6-9412-a338ed48337f",
+      "speaker": "Jordan",
+      "start_timestamp": 3405.0,
+      "text": "That like that. So that Magid he said the things that happened and then he was like, Oh, I wish they hadn't happened. And"
+    },
+    {
+      "end_timestamp": 3431.0,
+      "id": "04242340-bdf9-3eef-bc01-b8db89468065",
+      "speaker": "Dan",
+      "start_timestamp": 3412.0,
+      "text": "the guy Joe Biggs was a guy who used to work for him, and he got fired around the same time, and he was on the pizza gate beat. So if there's a little bit of suspiciousness, they've both put out videos talking about how like, No, I didn't get fired. I'm going on to bigger and better things. I got movies I'm writing. We'll see. Maybe that's the case. And that"
+    },
+    {
+      "end_timestamp": 3449.0,
+      "id": "794b22b5-c51c-3edb-9e59-72673db3d78c",
+      "speaker": "Jordan",
+      "start_timestamp": 3431.0,
+      "text": "is classic. I got fired from the TV show. You know, it's it was time for me to move on. I feel like my future is in feature films. Yeah. I've already had a couple of meetings. I will tell you who they're with. Nope. But you know, and frankly, it's really just about me. I've made all of my money rhymes"
+    },
+    {
+      "end_timestamp": 3452.0,
+      "id": "f8bbd177-1af1-3754-b0dd-5f5755b4c328",
+      "speaker": "Dan",
+      "start_timestamp": 3449.0,
+      "text": "with Bernstein."
+    },
+    {
+      "end_timestamp": 3458.0,
+      "id": "c1f56045-2646-3ab4-90e7-fb3804a1abff",
+      "speaker": "Jordan",
+      "start_timestamp": 3452.0,
+      "text": "I don't even care if I meet with George Soros. about producing these films."
+    },
+    {
+      "end_timestamp": 3479.0,
+      "id": "81d32322-fa7e-34cc-987c-18341f5c01f0",
+      "speaker": "Dan",
+      "start_timestamp": 3458.0,
+      "text": "The thing that made it stink to high heaven was Alex put out a video where he was talking about how talented Joe Biggs was and stuff like that was like, dude, like, you're just you're the canary in the coal mine now. Now you're saying this? I know. It's not true. Right? He has dirt on you. Right? I love you. Let's watch the rest of this clip. Here we go."
+    },
+    {
+      "end_timestamp": 3521.0,
+      "id": "8a13709e-48fe-3fcb-986a-828a1d4578bf",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3479.0,
+      "text": "And I don't even mean the general public here. republics important, and there's someone awake now. But the people that do the hanging, the military, the police, the bureaucrats, the judges, the lawyers, the Congress, people, they all listen, the Russian government listens, the British government listens. The Israeli government listens. The Pakistani government listens, the Japanese government listens, the Communist Chinese listen and hate my guts. Because they know folks, this is the real place. I don't want to differentiate myself and say this is the only place you really get information of this magnitude. It's the only place you get it this strong. This focus this dedicated this continual, we don't take breaks around here. I don't"
+    },
+    {
+      "end_timestamp": 3531.0,
+      "id": "c4a26d31-16c2-3d99-9e08-3bdd5f804365",
+      "speaker": "Dan",
+      "start_timestamp": 3521.0,
+      "text": "I would like to point out after him saying he doesn't take breaks, he had someone else host the fourth hour. So and he pretty routinely has people host before that well. And"
+    },
+    {
+      "end_timestamp": 3537.0,
+      "id": "03a65657-48b6-39e8-be12-ea45f92f0314",
+      "speaker": "Jordan",
+      "start_timestamp": 3531.0,
+      "text": "he also doesn't want to say that, you know, he's putting himself as the only voice but you know"
+    },
+    {
+      "end_timestamp": 3538.0,
+      "id": "d8d7d4df-4827-3507-afd8-39649a799234",
+      "speaker": "Dan",
+      "start_timestamp": 3537.0,
+      "text": "what, I'm the only one He's the only one. Yeah,"
+    },
+    {
+      "end_timestamp": 3551.0,
+      "id": "06f4a3d6-3c3d-3954-95fb-d90b6f548268",
+      "speaker": "Jordan",
+      "start_timestamp": 3538.0,
+      "text": "that's I don't want to say it. I'll let other people say it for me, specifically the Pakistani government. Level of narcissists question. Does he know who anyone in the Pakistani government?"
+    },
+    {
+      "end_timestamp": 3553.0,
+      "id": "713b783a-0599-345c-9677-f5942d7ed8f0",
+      "speaker": "Dan",
+      "start_timestamp": 3551.0,
+      "text": "Maybe one guy? All right."
+    },
+    {
+      "end_timestamp": 3557.0,
+      "id": "f974c96b-a44f-3a2b-be40-c655c1869e7e",
+      "speaker": "Jordan",
+      "start_timestamp": 3553.0,
+      "text": "Does he know the capital of Pakistan?"
+    },
+    {
+      "end_timestamp": 3563.0,
+      "id": "c8226d1d-cca4-3181-bc33-977e91d022c5",
+      "speaker": "Dan",
+      "start_timestamp": 3557.0,
+      "text": "Khartoum? I don't know if it's alright. I have no idea. The capital pack is a capital of something"
+    },
+    {
+      "end_timestamp": 3571.0,
+      "id": "f1ff868a-55a5-352e-a42b-480a8a08c970",
+      "speaker": "Jordan",
+      "start_timestamp": 3563.0,
+      "text": "that I thought you said cartoon and we're back on the Latin so there's a british series from Pakistan"
+    },
+    {
+      "end_timestamp": 3596.0,
+      "id": "5c808482-7dbb-3b65-b339-0f1244e3b603",
+      "speaker": "Dan",
+      "start_timestamp": 3571.0,
+      "text": "that might be race ish. It's not racist. It's not racist. Getting there. The the I know I took a geography class in high school and I know like for state or country capital still. That's it? I don't know, Pakistan's I don't remember. Because it's not fun to say. No, Burkina Faso is capital. Ouagadougou? That's pretty fun too. So fun. That is fun to Madagascar. Antananarivo. Ah, yeah, I"
+    },
+    {
+      "end_timestamp": 3600.0,
+      "id": "10936cdb-4632-3ce2-827b-58975af14a92",
+      "speaker": "Jordan",
+      "start_timestamp": 3596.0,
+      "text": "know Antananarivo on. It features heavily in the civilization games."
+    },
+    {
+      "end_timestamp": 3604.0,
+      "id": "e9629dc8-26d1-34ad-8832-a4310135d45c",
+      "speaker": "Dan",
+      "start_timestamp": 3600.0,
+      "text": "unders to go Jalpa really? I might be out"
+    },
+    {
+      "end_timestamp": 3610.0,
+      "id": "c5b244a6-6e66-384a-a403-6b685e49cf8c",
+      "speaker": "Jordan",
+      "start_timestamp": 3604.0,
+      "text": "that he's good. That's myself. So none of the big ones don't have."
+    },
+    {
+      "end_timestamp": 3613.0,
+      "id": "e57f6676-9786-3fa3-b1d3-ba45aa336eca",
+      "speaker": "Dan",
+      "start_timestamp": 3610.0,
+      "text": "Like what? I hope Brazil is Brasilia, right. I"
+    },
+    {
+      "end_timestamp": 3617.0,
+      "id": "a155b770-e76e-35d4-960e-23117b569310",
+      "speaker": "Jordan",
+      "start_timestamp": 3613.0,
+      "text": "don't know. Okay. I mean, like, European nation like"
+    },
+    {
+      "end_timestamp": 3626.0,
+      "id": "37e2f72b-eae3-3ec1-9d9d-d40b82a26f6c",
+      "speaker": "Dan",
+      "start_timestamp": 3617.0,
+      "text": "which ones? I mean to pay one. Anyone? France. That's Paris. You're rolling your eyes. You have no capital?"
+    },
+    {
+      "end_timestamp": 3633.0,
+      "id": "70787247-6f70-350c-b8b4-826298d86b21",
+      "speaker": "Jordan",
+      "start_timestamp": 3626.0,
+      "text": "I don't know. I feel like it's the same way where people are like the capital of the capital of California is LA."
+    },
+    {
+      "end_timestamp": 3641.0,
+      "id": "6e85a6bb-ad05-313d-b681-799dada70366",
+      "speaker": "Dan",
+      "start_timestamp": 3633.0,
+      "text": "No, it's Sacramento. We all know exactly. Well, we don't all know that some of us do. Some of us. Do you know, who doesn't want you to know that? The globalists, that's true. So actually, Alex,"
+    },
+    {
+      "end_timestamp": 3653.0,
+      "id": "c8b7dd44-cccc-3065-a24d-5582ed8b9dbe",
+      "speaker": "Jordan",
+      "start_timestamp": 3641.0,
+      "text": "or Saudi Arabia or the Pakistani government? Definitely not the Communist Chinese. before we, before we do anything, can we go back to the list? Just isolate the list? See if I can, because the next time we record I'm gonna have to"
+    },
+    {
+      "end_timestamp": 3655.0,
+      "id": "72cfd2dd-1905-3bc4-9e23-4d8e9195e4ae",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3653.0,
+      "text": "take note he attacks me. Oh, do"
+    },
+    {
+      "end_timestamp": 3657.0,
+      "id": "8d295cc3-485c-3bdb-9d46-e82446b56c10",
+      "speaker": "Dan",
+      "start_timestamp": 3655.0,
+      "text": "you want me to play it? Or are you"
+    },
+    {
+      "end_timestamp": 3660.0,
+      "id": "41dfb405-f5e3-31c1-9c3f-743af77cde12",
+      "speaker": "Jordan",
+      "start_timestamp": 3657.0,
+      "text": "Yeah, isolate just the clip of him listing people, the bureaucrats,"
+    },
+    {
+      "end_timestamp": 3663.0,
+      "id": "b089d8c8-1e69-3a0f-a76a-e8f976f8b79e",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3660.0,
+      "text": "the judges. Now, before that,"
+    },
+    {
+      "end_timestamp": 3670.0,
+      "id": "6a73a008-dbf2-337d-a325-c2cc14f9411d",
+      "speaker": "Jordan",
+      "start_timestamp": 3663.0,
+      "text": "go back one sec. They all listen, the people who do that the people who do the hanging? Yeah. What is that? What does that mean? I think it"
+    },
+    {
+      "end_timestamp": 3674.0,
+      "id": "c34f34e2-665c-3710-b3dc-4e9836826029",
+      "speaker": "Dan",
+      "start_timestamp": 3670.0,
+      "text": "means people who aren't hanging out. I hope I fucking Oh, can't"
+    },
+    {
+      "end_timestamp": 3677.0,
+      "id": "24367ce4-dcb7-3540-a660-f2a010b0c39e",
+      "speaker": "Jordan",
+      "start_timestamp": 3674.0,
+      "text": "mean the people who do the hanging."
+    },
+    {
+      "end_timestamp": 3684.0,
+      "id": "6ad2aa65-52ed-3edd-97c3-4c30649fd743",
+      "speaker": "Dan",
+      "start_timestamp": 3677.0,
+      "text": "Like, I think he's talking about stringing people up. Yeah, he very clearly said lynching. Yeah, no, no, no, no, let's not."
+    },
+    {
+      "end_timestamp": 3687.0,
+      "id": "69432c72-9dac-3570-aca9-865531d5f121",
+      "speaker": "Jordan",
+      "start_timestamp": 3684.0,
+      "text": "Well, that would be racially charged. And"
+    },
+    {
+      "end_timestamp": 3693.0,
+      "id": "a9d358b1-37b5-3356-882b-a256d8eb9b6b",
+      "speaker": "Dan",
+      "start_timestamp": 3687.0,
+      "text": "I want to defend Alex when it's appropriate. And that's not fair of you. He wasn't going to say lynching. And no, you're right."
+    },
+    {
+      "end_timestamp": 3697.0,
+      "id": "434cfac4-b609-33be-92d6-a0fc2081ceac",
+      "speaker": "Jordan",
+      "start_timestamp": 3693.0,
+      "text": "He wasn't going to it. But yeah, because I was I was pulling that"
+    },
+    {
+      "end_timestamp": 3706.0,
+      "id": "e51863f8-84e0-3688-a92f-784c03695235",
+      "speaker": "Dan",
+      "start_timestamp": 3697.0,
+      "text": "that would be ascribing racism in a situation where he's just being wacky. You're absolutely right. And he is wrong. Yes. But so do the hanging."
+    },
+    {
+      "end_timestamp": 3713.0,
+      "id": "e5d5d0c4-06c5-32d1-bbdc-1f67130726fa",
+      "speaker": "Jordan",
+      "start_timestamp": 3706.0,
+      "text": "Hanging are the military, the police. So he starts with those as the people who do"
+    },
+    {
+      "end_timestamp": 3715.0,
+      "id": "2810b2a1-208e-3894-9725-ba42adc75689",
+      "speaker": "Dan",
+      "start_timestamp": 3713.0,
+      "text": "the judges, the bureaucrats, the lawyers,"
+    },
+    {
+      "end_timestamp": 3728.0,
+      "id": "1426b755-c4da-3327-8c0e-48bc4e798ba6",
+      "speaker": "Jordan",
+      "start_timestamp": 3715.0,
+      "text": "but I think he has to meet the government, the Pakistani government, the Communist Chinese, who hate him. We singled them out for hating him. They listen like the Pakistani government is like, Oh, we like that guy. So the"
+    },
+    {
+      "end_timestamp": 3740.0,
+      "id": "3426ec6f-6c5b-3eba-848b-ef8530e4e00a",
+      "speaker": "Dan",
+      "start_timestamp": 3728.0,
+      "text": "implication seems to me to be that, like all 10,000 people who work in government listen to him. Yeah. No fucking way they get any work done. If they're listening four hours a day to his pill ads,"
+    },
+    {
+      "end_timestamp": 3761.0,
+      "id": "7468f1f3-032d-34e6-bed6-58c678508fb1",
+      "speaker": "Jordan",
+      "start_timestamp": 3740.0,
+      "text": "they have to, they have to listen to the only place the only place he doesn't want to say it. Yeah. But he is the only place that gives it to you this focus. Well, I think, which is my favorite thing. You said this focus? Yeah. When he's not focused, as long as he's just rambling on about different all the governments that he knows we're in that"
+    },
+    {
+      "end_timestamp": 3771.0,
+      "id": "eae552aa-65c7-3553-892e-ac15330f1a58",
+      "speaker": "Dan",
+      "start_timestamp": 3761.0,
+      "text": "list. If we keep doing this, I will make a supercut of all the times he says I've got to get to this story, and then not because it happens 10 times a day, at least. But"
+    },
+    {
+      "end_timestamp": 3784.0,
+      "id": "1984db97-e8fd-3d12-85f7-69947e265153",
+      "speaker": "Jordan",
+      "start_timestamp": 3771.0,
+      "text": "see, that's again, that's another brilliant move, because it it builds you up, it does the same thing, then local news always does where it's like, this story is about kittens. Stay tuned. Are your children dying? You know, like that kind of a thing?"
+    },
+    {
+      "end_timestamp": 3798.0,
+      "id": "9ab6d73a-bf32-3489-b560-0a81f16b2245",
+      "speaker": "Dan",
+      "start_timestamp": 3784.0,
+      "text": "Yeah, there's a comedian named Ron Raimi, who would do the similar trick rhetorically on stage. Yeah, you do. Like, I gotta go. Like this sort of thing that teased, like, he's gonna be leaving any minute now. Pay attention to this guy. It's the same thing. It's"
+    },
+    {
+      "end_timestamp": 3801.0,
+      "id": "e7d50dd2-68c9-356f-9a7f-fc0689e0c4e4",
+      "speaker": "Jordan",
+      "start_timestamp": 3798.0,
+      "text": "in the first five minutes of a 45 minutes. And then but by"
+    },
+    {
+      "end_timestamp": 3823.0,
+      "id": "4fad1b3b-f009-3527-b0ad-52780edba9ae",
+      "speaker": "Dan",
+      "start_timestamp": 3801.0,
+      "text": "the time you caught on to it, you liked the trick, right? So it becomes like, Oh, he's not gonna leave. But we'd like this is the same thing. It's a call and response, not so much to get to. We got this big story here, right? And you never get to it. You just have more fucking pill ads. But listen, Jordan, I feel like you don't believe that these people listen to his show. For your pitch, as Alex has some"
+    },
+    {
+      "end_timestamp": 3827.0,
+      "id": "5b32fe5d-fcb8-3b3e-aced-973bbb103923",
+      "speaker": "Jordan",
+      "start_timestamp": 3823.0,
+      "text": "more words, I am suspicious. But let's see where we go."
+    },
+    {
+      "end_timestamp": 3854.0,
+      "id": "4969eebf-ed3f-37c3-a825-193a66b483d8",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3827.0,
+      "text": "Well, shed, you know, there's a new Washington Post article by their editors saying Trump reading Infowars can tank markets, start wars basically, that we put that headline back up there get ready to tank the markets. They're raising interest rates to tank the markets. They're getting ready to knock out the power grid. They're gonna blame Trump. They're gonna blame the Russians. Everything they do. Everything they blame myself is what they're really planning in washington post editor Trump reading Infowars"
+    },
+    {
+      "end_timestamp": 3868.0,
+      "id": "85cd19b6-d456-3cdd-84d8-26e93d3d52a3",
+      "speaker": "Dan",
+      "start_timestamp": 3854.0,
+      "text": "I want to take a break really quick to point this out that he says that all the fucking time. Right? Which leads me to believe that the inverse is true. The oil Yeah, whatever. It's very happy we're doing is what they're doing. Right. When it's like, it kind of feels like that applies to you"
+    },
+    {
+      "end_timestamp": 3872.0,
+      "id": "803646ad-43a9-374c-9ec3-5da1164f4eba",
+      "speaker": "Jordan",
+      "start_timestamp": 3868.0,
+      "text": "rubber, you're glue. Yeah."
+    },
+    {
+      "end_timestamp": 3895.0,
+      "id": "29976bf8-d2b8-30f8-8de6-5e8f373643ac",
+      "speaker": "Dan",
+      "start_timestamp": 3872.0,
+      "text": "It reminds me of when my brother would do something when we were kids, and then accuse me of doing it to our parents. Right. Like it's it's It reminds me a very adolescent bullying techniques that he brings us up over and over and over and over again, this like idea that the globalist accused him of the things they're doing. It's insane. Whatever. Anyway, so Trump reads Infowars Trump reads"
+    },
+    {
+      "end_timestamp": 3897.0,
+      "id": "a589953a-f0be-3e68-8fc9-15763be6f3c1",
+      "speaker": "Jordan",
+      "start_timestamp": 3895.0,
+      "text": "Infowars to 10 Mark markets"
+    },
+    {
+      "end_timestamp": 3953.0,
+      "id": "560af3d1-307d-3b57-a2c7-45d25139c886",
+      "speaker": "Alex Jones",
+      "start_timestamp": 3897.0,
+      "text": "invite incursions. Why do you think Trump reads Infowars let me just go ahead and tell the mainstream media because they don't seem to figure it out. It's not just Flynn that listens and reads Infowars it's all of them dummies. I'm not bragging. And by the way, the generals don't learn anything from me. There's only a couple of websites like World Net Daily drudge report.com Breitbart Infowars that they can go read that they know are real. You understand that dumbass? Excuse me? I'm sorry, God, I apologize. I'm not trying to be like that. I'm so angry for my normal filters. Okay. And I start thinking about the New World Order. I get really angry. The generals all listen stupid. The foreign governments listen stupid. Because they know we know what we're talking about. We're dead on some ego perspective, I wish I was wrong."
+    },
+    {
+      "end_timestamp": 3956.0,
+      "id": "d450ee65-d2ed-3493-b5ae-c534452add0e",
+      "speaker": "Dan",
+      "start_timestamp": 3953.0,
+      "text": "He also says that a lot. I wish I was wrong. ever say it from"
+    },
+    {
+      "end_timestamp": 3960.0,
+      "id": "d85863d5-8bf7-3c16-8f7a-9d80cc32988c",
+      "speaker": "Jordan",
+      "start_timestamp": 3956.0,
+      "text": "an ego perspective or not doing this for show? No. Yeah."
+    },
+    {
+      "end_timestamp": 3969.0,
+      "id": "c3d3b8c2-86d1-3bcd-8eb2-523a86b008e4",
+      "speaker": "Dan",
+      "start_timestamp": 3960.0,
+      "text": "I wish I was wrong is like, like, almost like a hook on rap song was wrong. And then if you want to guys,"
+    },
+    {
+      "end_timestamp": 3972.0,
+      "id": "ce73e0cf-efe5-3dec-b60a-4c95ca57f337",
+      "speaker": "Jordan",
+      "start_timestamp": 3969.0,
+      "text": "if you came to life to sing the hook on that we shove"
+    },
+    {
+      "end_timestamp": 3985.0,
+      "id": "91d3fb08-f294-3dff-8e68-2f272191608c",
+      "speaker": "Dan",
+      "start_timestamp": 3972.0,
+      "text": "was wrong. Go to YouTube, and just search Alex Jones failed predictions and there's wonderful compilations of like 100 times he's been so fucking wrong about everything."
+    },
+    {
+      "end_timestamp": 3988.0,
+      "id": "300b51b9-84f4-31ad-bac9-d7d25e95ca66",
+      "speaker": "Jordan",
+      "start_timestamp": 3985.0,
+      "text": "The idea is wish come true."
+    },
+    {
+      "end_timestamp": 4004.0,
+      "id": "c6af2a8b-e3ba-35a5-97f0-bf20c669d836",
+      "speaker": "Dan",
+      "start_timestamp": 3988.0,
+      "text": "We should all be so lucky. Right? His wishes are he's also everyone with you here. My I don't want to play it on the show. Although maybe one time we should do that for a special episode. Okay. Do yourselves a favor and go fucking listen to the y2k episode of Alex Jones Show. It's all"
+    },
+    {
+      "end_timestamp": 4011.0,
+      "id": "fc737484-c77b-363d-bf80-1e12afe571a0",
+      "speaker": "Jordan",
+      "start_timestamp": 4004.0,
+      "text": "new. There was a white he's been doing this for how long like 25 years. Holy god damn shit. Yeah. So"
+    },
+    {
+      "end_timestamp": 4043.0,
+      "id": "d41972c0-dc70-3a09-bef3-b7511a5a9ef9",
+      "speaker": "Dan",
+      "start_timestamp": 4011.0,
+      "text": "on December 31 1999, he was creating a panic and trying to get people to riot, essentially. Wow. Yeah, he was feeding into a lot of like real horrible paranoia. And what's interesting now he talks about how like Russia is sort of good guys. Right? And he's on board with Russia. As we all know, they are in his y2k broadcast. He's talking about how Putin this guy Putin, the ruthless is evil. He's talking all this shit on this guy who flies forward 17 years."
+    },
+    {
+      "end_timestamp": 4098.0,
+      "id": "cc31457e-6166-337f-bf35-1cdd9a824b75",
+      "speaker": "Jordan",
+      "start_timestamp": 4043.0,
+      "text": "17 years is a long time number one right now. Number two, here is the here is my favorite thing about the Russian paranoia right now. Because that is like the flip on that was so fast. What do you mean? Well, I mean, the right wing was crazy. Like, the moment the Cold War ended, they wanted to start a new Cold War. So now because of the whole Trump thing, now Democrats are all on this Oh, Russia tamper with the election. And they probably did in some fashion. Sure. Whether or not it was like a direct thing or an indirect thing. The The one problem I have with it all. Is that just like, he says, we've done all the same shit, man. America has done all of that. We've done worse, bro. Yeah."
+    },
+    {
+      "end_timestamp": 4102.0,
+      "id": "f9f04297-3f45-3edf-bdf9-749b9756b981",
+      "speaker": "Dan",
+      "start_timestamp": 4098.0,
+      "text": "Well deposed many governments unjustified wars, but we Yeah."
+    },
+    {
+      "end_timestamp": 4131.0,
+      "id": "e8b98430-3d24-3671-bcd3-c05c3fdd4ce5",
+      "speaker": "Jordan",
+      "start_timestamp": 4102.0,
+      "text": "Like there's a reason that term Banana Republic was not invented by the wonderful clothing store. Yeah, sponsor us. Is because we overthrew a few governments for the you know, our corporations sell bananas. Yeah, Chiquita. Yeah, exactly. So so I get I get where they're coming from. And it's always worse when it happens to you. Yeah. It's, it's such a hugely hypocritical concept. Well, the"
+    },
+    {
+      "end_timestamp": 4161.0,
+      "id": "68c2aac5-0f7c-3f11-8529-7fc9536df087",
+      "speaker": "Dan",
+      "start_timestamp": 4131.0,
+      "text": "difference is, I think you and I would be fair about that is that we recognize that the government has done very horrible things. But I also I would take the side that it is worse that it's happening to us. Because we're gone. Or if we're in some weird flux state, right. It does destabilize things a great deal, right? Absolutely. Now, I don't think that I you know, given the entire stretch of history and how long the world is, essentially, the time of the world"
+    },
+    {
+      "end_timestamp": 4167.0,
+      "id": "1821e55d-01d5-30a8-9ea6-06c62d009438",
+      "speaker": "Jordan",
+      "start_timestamp": 4161.0,
+      "text": "is, well, 6000 years. And if you don't believe that it's time to pray that"
+    },
+    {
+      "end_timestamp": 4174.0,
+      "id": "e76a77c4-0410-3009-991b-7c91c8d50cc4",
+      "speaker": "Dan",
+      "start_timestamp": 4167.0,
+      "text": "we will have to go down at some point, right? I mean, it's just, it's natural, you know, kingdoms come and go as well."
+    },
+    {
+      "end_timestamp": 4178.0,
+      "id": "9f91e3d8-bf4b-3c0b-8731-44e2dc7832cb",
+      "speaker": "Jordan",
+      "start_timestamp": 4174.0,
+      "text": "And we're clearly tearing ourselves down as we speak. Sure. I mean,"
+    },
+    {
+      "end_timestamp": 4190.0,
+      "id": "c2b97781-6ca8-3910-a1d2-01b21975a6a6",
+      "speaker": "Dan",
+      "start_timestamp": 4178.0,
+      "text": "everyone has it the average lifespan of every sort of Kingdom, or big colonial power is about 200 years and then it starts to fall apart. Basically. The sort of guideline"
+    },
+    {
+      "end_timestamp": 4198.0,
+      "id": "fc0db0ec-37f0-3ff3-b017-d7a09d771995",
+      "speaker": "Jordan",
+      "start_timestamp": 4190.0,
+      "text": "you know, I, I couldn't say because, you know, the, the Big History is written about people who lasted, you know, 1000 years or whatever it is,"
+    },
+    {
+      "end_timestamp": 4203.0,
+      "id": "76ca2380-c1a9-3f2e-b532-07ce6226ef7c",
+      "speaker": "Dan",
+      "start_timestamp": 4198.0,
+      "text": "even those ones have to discrete periods within them. Oh, absolute. So they're all like, if"
+    },
+    {
+      "end_timestamp": 4215.0,
+      "id": "f01a570b-05cd-389e-95a1-ba9790a343b5",
+      "speaker": "Jordan",
+      "start_timestamp": 4203.0,
+      "text": "you want to go through the history of Chinese government that is one of the most fascinating, you know, the Three Kingdoms. granary? Yeah, the different dynasties, the Jos, the Qin, like that's all. That's all good stuff,"
+    },
+    {
+      "end_timestamp": 4219.0,
+      "id": "bebb241c-25ad-35c8-b4c0-dafb41b0feda",
+      "speaker": "Dan",
+      "start_timestamp": 4215.0,
+      "text": "which we don't respect at all as history because it's so weird and different. Oh, I"
+    },
+    {
+      "end_timestamp": 4224.0,
+      "id": "401165b9-3bbc-30ba-b0e9-48f541592aa6",
+      "speaker": "Jordan",
+      "start_timestamp": 4219.0,
+      "text": "don't like it, because it's interesting, but it's not about us."
+    },
+    {
+      "end_timestamp": 4227.0,
+      "id": "77093e0b-b933-362a-a30d-eb228f2b2ddd",
+      "speaker": "Dan",
+      "start_timestamp": 4224.0,
+      "text": "Right? You know, right. But because of the Communist Chinese."
+    },
+    {
+      "end_timestamp": 4236.0,
+      "id": "9dc76426-bea7-3e32-b85b-8118052d7b76",
+      "speaker": "Jordan",
+      "start_timestamp": 4227.0,
+      "text": "Also, if you were to learn anything about history, you would then have to apply it to now. And that would mean changing a lot of the ways you think about stuff"
+    },
+    {
+      "end_timestamp": 4240.0,
+      "id": "dc304763-a12e-31da-933a-0916b490b1f8",
+      "speaker": "Dan",
+      "start_timestamp": 4236.0,
+      "text": "that also requires you to load in a bit of empathy."
+    },
+    {
+      "end_timestamp": 4250.0,
+      "id": "984e4800-5469-3983-8dbd-9874a64de220",
+      "speaker": "Jordan",
+      "start_timestamp": 4240.0,
+      "text": "Yeah, that's the way against that's troubling to see. Because if you're empathetic, you know, then what they're doing is everything that you're doing."
+    },
+    {
+      "end_timestamp": 4263.0,
+      "id": "3d2cb1bb-0301-3dda-bbec-166596370796",
+      "speaker": "Dan",
+      "start_timestamp": 4250.0,
+      "text": "Yeah. I would say that no matter what, I still don't want us to go down right now. Because it would be very unpleasant for me. Yeah, I mean, let it happen after I'm dead."
+    },
+    {
+      "end_timestamp": 4273.0,
+      "id": "5952d467-c173-3b64-b751-10e72e332f7e",
+      "speaker": "Jordan",
+      "start_timestamp": 4263.0,
+      "text": "I do think there is a part of mortality where it is like, you know, if I have to die, I feel like everybody should go with me, right?"
+    },
+    {
+      "end_timestamp": 4297.0,
+      "id": "4505495b-4431-38ae-801c-52a7ebd31918",
+      "speaker": "Dan",
+      "start_timestamp": 4273.0,
+      "text": "Well, sure. I mean, I remember used when I used to smoke a lot of weed Me and a couple of friends would sit around. And one of the things we've always were like, super fascinated by is the idea of being able to see the end. Like what a privilege that would be to be one of the humans who gets to see it all. And yeah, yeah, that'd be cool. There's something to be said for that. But I still don't want it. No, I'd rather live, you know, or whether it happened when I'm like, 90,"
+    },
+    {
+      "end_timestamp": 4303.0,
+      "id": "93dac9d9-c7a7-3d98-9fe9-056fe45d754c",
+      "speaker": "Jordan",
+      "start_timestamp": 4297.0,
+      "text": "right, right. It would be good to already be dying, and then everything else starts dying to that'd be pretty fun."
+    },
+    {
+      "end_timestamp": 4312.0,
+      "id": "6cc037a0-e406-3f7b-a19a-5cb90d03a003",
+      "speaker": "Dan",
+      "start_timestamp": 4303.0,
+      "text": "Yeah, it'd be boss. Yeah. Okay. So here's another narrative piece back to the in the same vein as the George Soros thing."
+    },
+    {
+      "end_timestamp": 4334.0,
+      "id": "74960945-4155-30a2-a348-170859b44b80",
+      "speaker": "Jordan",
+      "start_timestamp": 4312.0,
+      "text": "Now. Hold up one second. Sorry, before we go any further. Yep. Here is why Trump reads Infowars was never answered. No. He brought up here's why Trump did this. Then immediately. Yeah, I am so mad at us. It's false to answer. Why'd"
+    },
+    {
+      "end_timestamp": 4342.0,
+      "id": "678c9345-42fe-3281-8f08-a7960beb8c51",
+      "speaker": "Dan",
+      "start_timestamp": 4334.0,
+      "text": "you know why? Because again, the spirit got too good to him. Yeah, it's this thing that gets in him. The Boogie Woogie bandit comes in and takes over but"
+    },
+    {
+      "end_timestamp": 4347.0,
+      "id": "a14acba6-d145-3e7c-a051-8c7ff8c6e065",
+      "speaker": "Jordan",
+      "start_timestamp": 4342.0,
+      "text": "I would have kept it can literally any explanation he"
+    },
+    {
+      "end_timestamp": 4354.0,
+      "id": "c6ea9966-8ad0-369a-a323-412ccb25df7f",
+      "speaker": "Dan",
+      "start_timestamp": 4347.0,
+      "text": "listens, because it's too important to let you know that everyone listened. Well, okay, that's me, you dumb, dumb person."
+    },
+    {
+      "end_timestamp": 4361.0,
+      "id": "cdee8328-dd28-3eb4-bf73-8d82d0283d47",
+      "speaker": "Jordan",
+      "start_timestamp": 4354.0,
+      "text": "But he could have made up anything and because it's Trump, I probably would have been entered at the very least entertained that notion"
+    },
+    {
+      "end_timestamp": 4365.0,
+      "id": "e20b1df0-4fc8-3b23-adde-a384843ed0b1",
+      "speaker": "Dan",
+      "start_timestamp": 4361.0,
+      "text": "Sure. Should be like a no while he listens by we gave him a free password."
+    },
+    {
+      "end_timestamp": 4373.0,
+      "id": "e629851f-fcd4-3f9b-9230-26aa7040c4e7",
+      "speaker": "Jordan",
+      "start_timestamp": 4365.0,
+      "text": "Yeah, or not even that, just like, Do you know why he listens? Because everybody's got to read something on the toilet every day. Like, I don't know."
+    },
+    {
+      "end_timestamp": 4376.0,
+      "id": "4bc48f5a-2859-365e-8d65-0023afa996b8",
+      "speaker": "Dan",
+      "start_timestamp": 4373.0,
+      "text": "That would be a real disappointing reveal. Yeah."
+    },
+    {
+      "end_timestamp": 4378.0,
+      "id": "10d78487-be20-35fe-a52c-913d993421a3",
+      "speaker": "Jordan",
+      "start_timestamp": 4376.0,
+      "text": "He would never reveal that. He didn't say you know"
+    },
+    {
+      "end_timestamp": 4389.0,
+      "id": "4cf68c43-65d4-311f-92fb-3c12cd5ff54a",
+      "speaker": "Dan",
+      "start_timestamp": 4378.0,
+      "text": "what, I'm gonna tell you why he listens. And the mainstream media can't figure this out. So you do expect it's going to be something big right? I guess the answer is that he listens because everyone important. Listen,"
+    },
+    {
+      "end_timestamp": 4396.0,
+      "id": "db8bbe7f-83ca-32ef-abcd-b880cf5c42a0",
+      "speaker": "Jordan",
+      "start_timestamp": 4389.0,
+      "text": "everyone important listens. Yeah, but that's why does unless unless you're you're saying it's like a peer pressure thing? Well, no, no, no,"
+    },
+    {
+      "end_timestamp": 4397.0,
+      "id": "3880879e-7b67-39a5-b6ef-c2d074ce852b",
+      "speaker": "Dan",
+      "start_timestamp": 4396.0,
+      "text": "no, you're I think you're,"
+    },
+    {
+      "end_timestamp": 4409.0,
+      "id": "705e1afe-d4f7-3a1e-a7aa-fdd67ed6961b",
+      "speaker": "Jordan",
+      "start_timestamp": 4397.0,
+      "text": "I think you're being even then Trump doesn't even go to intelligence briefings? Nope. Because he gets and since they obviously listen to Infowars everyone does wouldn't they be briefing him on Infowars every day"
+    },
+    {
+      "end_timestamp": 4416.0,
+      "id": "07a7f436-cb8c-3144-9abf-94a88619fa3c",
+      "speaker": "Dan",
+      "start_timestamp": 4409.0,
+      "text": "that so far, I are the only person I have evidence doesn't listen to Infowars you"
+    },
+    {
+      "end_timestamp": 4422.0,
+      "id": "6469ffba-e2fd-3d43-8ece-01797039880d",
+      "speaker": "Jordan",
+      "start_timestamp": 4416.0,
+      "text": "from a very forensic standpoint, I guess you're correct there and my cat. I guess you're correct."
+    },
+    {
+      "end_timestamp": 4424.0,
+      "id": "39194b64-a8f5-361c-b8c5-53fdd6e95e99",
+      "speaker": "Dan",
+      "start_timestamp": 4422.0,
+      "text": "I try and keep it away from her. She"
+    },
+    {
+      "end_timestamp": 4426.0,
+      "id": "687208fa-032f-33e1-a390-96517916b7cb",
+      "speaker": "Jordan",
+      "start_timestamp": 4424.0,
+      "text": "doesn't need that. That's good. It's really stressful."
+    },
+    {
+      "end_timestamp": 4447.0,
+      "id": "985c3fce-d42f-31a2-bc7c-43f3daad4b6e",
+      "speaker": "Dan",
+      "start_timestamp": 4426.0,
+      "text": "I think you're being slightly unfair. Just a tiny bit. Not very unfair, but I think we're being a tiny bit unfair because Okay, there is an implied answer in okay. And that is that Zero Hedge Breitbart, Drudge and Alex Jones are the only people who give actual news. Okay, so that's why"
+    },
+    {
+      "end_timestamp": 4452.0,
+      "id": "6b04254d-573d-3cb5-9bcb-bceec9ae7658",
+      "speaker": "Jordan",
+      "start_timestamp": 4447.0,
+      "text": "Trump listens to Infowars Yes, because he needs the actual news"
+    },
+    {
+      "end_timestamp": 4473.0,
+      "id": "80c9a5ba-b648-3edf-aa4a-9031876f7bdf",
+      "speaker": "Dan",
+      "start_timestamp": 4452.0,
+      "text": "that's the implied answer to which he doesn't really spell out but he kind of he kind of does that's another narrative that's that's going on. I was gonna go to this other one about I'm just gonna cut this from the what we need to cover because I don't get to play the audio he just basically here's basically says that recess appointment like it's about Merrick Garland being put into the Supreme Court as a recess appointment. Rach"
+    },
+    {
+      "end_timestamp": 4475.0,
+      "id": "a337e226-4434-3e7f-8227-ee9dfeed59fc",
+      "speaker": "Jordan",
+      "start_timestamp": 4473.0,
+      "text": "we can only god damn hope."
+    },
+    {
+      "end_timestamp": 4491.0,
+      "id": "bd37c1b0-8ab7-323d-8c37-26e65de2e442",
+      "speaker": "Dan",
+      "start_timestamp": 4475.0,
+      "text": "I mean, I think so. It is the or at least have a fair shot. You know, like, I would rather it go and be debated and what have you, but he but Alex's point is that it's now we're fucking talking about it. So I might as well play the clip. Right? All right. Because I don't want to act like I'm putting words in his brain."
+    },
+    {
+      "end_timestamp": 4518.0,
+      "id": "8db42597-9d7e-3ecf-94c5-17c460ea0de2",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4491.0,
+      "text": "Gotcha. Now this just broke up on infowars.com It's up on drudge report.com Obama still could force Merrick Garland onto the court during intersession recess. So no presidents ever done stuff like this, but they're talking about with 17 days left not trying to force a new individual onto the Supreme Court."
+    },
+    {
+      "end_timestamp": 4523.0,
+      "id": "c2862b46-3089-3a06-b39c-d8beccbb6daf",
+      "speaker": "Dan",
+      "start_timestamp": 4518.0,
+      "text": "So the part that's totally not true 100 100% George Washington made a recess appointment."
+    },
+    {
+      "end_timestamp": 4527.0,
+      "id": "0e0fc0f6-85a2-3875-a39c-aa84ac57a5f1",
+      "speaker": "Jordan",
+      "start_timestamp": 4523.0,
+      "text": "I don't remember that. That was clearly before the Constitution was written"
+    },
+    {
+      "end_timestamp": 4538.0,
+      "id": "b9028896-9701-3e6f-922e-a1a5ab22d8ef",
+      "speaker": "Dan",
+      "start_timestamp": 4527.0,
+      "text": "president since George Washington has made recess appointments Washington appointed South Carolina Judge John Rutledge as Chief Justice of the United States during the congressional recess in 1795."
+    },
+    {
+      "end_timestamp": 4545.0,
+      "id": "c3768bcf-f8c1-3b1c-b31e-39fdaaf1bfbc",
+      "speaker": "Jordan",
+      "start_timestamp": 4538.0,
+      "text": "Because that was that was he was he was a, you know, still in the infancy he was he's making some mistakes"
+    },
+    {
+      "end_timestamp": 4555.0,
+      "id": "0fa780e8-f6ce-3793-bdad-489238400452",
+      "speaker": "Dan",
+      "start_timestamp": 4545.0,
+      "text": "because of Rutledge, his political views and occasional mental illness. However, the Senate rejected his nomination and Rutledge attempted suicide and resigned."
+    },
+    {
+      "end_timestamp": 4558.0,
+      "id": "0b80ed7c-eacd-3ef2-bccf-f935777a81af",
+      "speaker": "Jordan",
+      "start_timestamp": 4555.0,
+      "text": "Oh, I love American history so much beyond"
+    },
+    {
+      "end_timestamp": 4573.0,
+      "id": "82fe4045-d661-310e-8e80-0278d7f53be6",
+      "speaker": "Dan",
+      "start_timestamp": 4558.0,
+      "text": "that New Jersey Judge William J. Brennan was appointed to the Supreme Court by President Dwight D. Eisenhower in 1956 by a recess appointment never heard of him. Bob I mean, Eisenhower, George HW Bush appointed Lawrence Eagleburger as Secretary of State during recess in 1992."
+    },
+    {
+      "end_timestamp": 4577.0,
+      "id": "6432b620-a53c-310f-a5c4-3596e9a0d07a",
+      "speaker": "Jordan",
+      "start_timestamp": 4573.0,
+      "text": "That was clearly too far back for Alex Jones to have read."
+    },
+    {
+      "end_timestamp": 4610.0,
+      "id": "093945a7-957b-3477-8c3e-71d609c1889b",
+      "speaker": "Dan",
+      "start_timestamp": 4577.0,
+      "text": "President Ronald Reagan made 240 recess appointments an average of 30 per year, President HW Bush made 77 recess appointments and George W HW. Oh, he made 19 per year basically 77 total, Bill Clinton made 109 or 139 recess appointments an average of 17 per year, President George W. Bush made 171 recess appointments an average of 21 per year. And as of January 5 2012, President Barack Obama had made 32 the least of anyone on this list, an average of 4.5 per year, but"
+    },
+    {
+      "end_timestamp": 4623.0,
+      "id": "227657ca-5152-3ccf-9d5c-6eb9288538f3",
+      "speaker": "Jordan",
+      "start_timestamp": 4610.0,
+      "text": "that does not matter. But there's all of that all of the Obama information always winds up to being Obama's a dictator, and he's doing this but it's always the least of anybody else. That doesn't matter. It doesn't matter the"
+    },
+    {
+      "end_timestamp": 4641.0,
+      "id": "bd57a9d7-024d-3687-89cf-a5bf11872611",
+      "speaker": "Dan",
+      "start_timestamp": 4623.0,
+      "text": "least reassess appointments, the least, vacation days, all these things he's played, he played golf one time, so he's the worst. So the statistics don't match up. But I the reason that I have included this, in terms of this, this list of false narratives, one one quick question, not know the facts. He can't not know that."
+    },
+    {
+      "end_timestamp": 4650.0,
+      "id": "06a27f02-f3ec-3e73-9988-af4d777f2830",
+      "speaker": "Jordan",
+      "start_timestamp": 4641.0,
+      "text": "I absolutely disagree. No, he can. He absolutely does not know about recess appointments. I would guarantee that"
+    },
+    {
+      "end_timestamp": 4655.0,
+      "id": "29766034-f45a-3ecf-b24e-58c598dc0b28",
+      "speaker": "Dan",
+      "start_timestamp": 4650.0,
+      "text": "you think it's like a you're telling a Supreme Court justice to go play Foursquare. That's what he thinks"
+    },
+    {
+      "end_timestamp": 4668.0,
+      "id": "071410c6-e746-38fc-acf6-921999f89b91",
+      "speaker": "Jordan",
+      "start_timestamp": 4655.0,
+      "text": "I well. tetherball. Did you did you say any? Like it was George Washington who did the Supreme Court? The first one? Yeah. Were there any other Supreme Court other than Eisenhower?"
+    },
+    {
+      "end_timestamp": 4671.0,
+      "id": "4b8e4070-9151-3297-b592-9b27eba1a0e7",
+      "speaker": "Dan",
+      "start_timestamp": 4668.0,
+      "text": "I don't know. I didn't do a full investigation because"
+    },
+    {
+      "end_timestamp": 4676.0,
+      "id": "3bbc97fd-af25-33f1-b888-407ae2916cd3",
+      "speaker": "Jordan",
+      "start_timestamp": 4671.0,
+      "text": "he's clearly not going to pay attention to any recess appointment. That's not the Supreme Court."
+    },
+    {
+      "end_timestamp": 4680.0,
+      "id": "c265f58f-6ad7-36ed-9642-72c1f4ae12ba",
+      "speaker": "Dan",
+      "start_timestamp": 4676.0,
+      "text": "But you could do any cursory amount of research and find these facts."
+    },
+    {
+      "end_timestamp": 4724.0,
+      "id": "912623b7-bf38-386f-836b-715a11706a80",
+      "speaker": "Jordan",
+      "start_timestamp": 4680.0,
+      "text": "Yeah, but he's not going to. He has a T says appointments are not going to be something that he research. He has a fucking team, but they're not there to learn things. Or to to learn. They're not there to develop a what is no, no, not even that. They're there to develop a narrative. Yeah. So their entire job is to filter out information that supports them. From information that doesn't right. I get what gets to Alex Jones is probably more the former than the latter. Yeah, but But you undercoat you're you're you're telling me that Alex Jones is doing any of his own research?"
+    },
+    {
+      "end_timestamp": 4726.0,
+      "id": "3a8fa537-1738-302b-8617-182a89d81f3d",
+      "speaker": "Dan",
+      "start_timestamp": 4724.0,
+      "text": "I hope so. I hope some"
+    },
+    {
+      "end_timestamp": 4730.0,
+      "id": "42d83122-b9b0-3066-8394-c06c3a6c9ec8",
+      "speaker": "Jordan",
+      "start_timestamp": 4726.0,
+      "text": "Do you believe that? Genuinely, you listen to his show."
+    },
+    {
+      "end_timestamp": 4732.0,
+      "id": "130fe79e-d5f3-3f6b-afd7-ef6815074d28",
+      "speaker": "Dan",
+      "start_timestamp": 4730.0,
+      "text": "This is the hardest question I've ever been. I"
+    },
+    {
+      "end_timestamp": 4746.0,
+      "id": "476d8f11-7066-312a-9cfa-bcf911c1bb1d",
+      "speaker": "Jordan",
+      "start_timestamp": 4732.0,
+      "text": "really believe that Alex Jones does his own research. Maybe he did. Way back when when he didn't have the the the all star team. Yeah. But now has he done any research for the past 10 years?"
+    },
+    {
+      "end_timestamp": 4752.0,
+      "id": "e6dd5379-b235-3395-b193-9ee836648847",
+      "speaker": "Dan",
+      "start_timestamp": 4746.0,
+      "text": "It's tough to say I in my heart of hearts, I have to believe he's done some, but not much."
+    },
+    {
+      "end_timestamp": 4771.0,
+      "id": "22e2bb66-ccf1-386a-bd05-7143cf5a3684",
+      "speaker": "Jordan",
+      "start_timestamp": 4752.0,
+      "text": "What was the when was the last full book that he finished? And I'm not and I'm not saying that as like a as like a dig for? Oh, I read and other people don't? I'm just saying that he does a four hour show. I would guess he has an all day thing. I very much doubt he has time to really go through all of this stuff. Well, I"
+    },
+    {
+      "end_timestamp": 4782.0,
+      "id": "49401632-54aa-33ac-bab6-a35ec5cfd3f1",
+      "speaker": "Dan",
+      "start_timestamp": 4771.0,
+      "text": "would guess that it's probably none dare call it a conspiracy. The book that radicalized him in junior college. That's true. It's probably read that 100 times. That's possible. I bet that's the case."
+    },
+    {
+      "end_timestamp": 4793.0,
+      "id": "f29295e7-6356-3ab6-be1e-7f1acb45786e",
+      "speaker": "Jordan",
+      "start_timestamp": 4782.0,
+      "text": "But then, but even then, and his team's research, is that are they researching historians or they will do aggregating information that is on the internet and they're gonna"
+    },
+    {
+      "end_timestamp": 4798.0,
+      "id": "2ef4f0f3-55e2-39fa-9488-6b0da12931e7",
+      "speaker": "Dan",
+      "start_timestamp": 4793.0,
+      "text": "get yelled at if they come up with something that doesn't fit. Oh, absolutely."
+    },
+    {
+      "end_timestamp": 4842.0,
+      "id": "a645a9c9-4b1b-3e1a-b85b-d199063bb74d",
+      "speaker": "Jordan",
+      "start_timestamp": 4798.0,
+      "text": "One part of the narrative Sumit If they say one thing that doesn't fit the narrative, because then they get fucking Joe Biggs out of there, right? Well, that's, that's the thing. That is the, that is the situation with belief. If you once you get to a certain point, you're building a house of cards, so everything has to support that foundation. Otherwise, the whole thing, if just one piece of information that doesn't support the narrative, and the whole thing goes down, right. So even if and again, even if he did discover that, in his research, there is almost always going to be a part in his mind that turns that into something that actually supports his narrative."
+    },
+    {
+      "end_timestamp": 4855.0,
+      "id": "210227c6-3183-3bda-bb35-12b3e9797d02",
+      "speaker": "Dan",
+      "start_timestamp": 4842.0,
+      "text": "I don't like what you're saying, because I to mine ears. I hear this as a very positive statement about him. How so? Because what you're saying is he doesn't know that he's wilfully deceiving about recess appointments."
+    },
+    {
+      "end_timestamp": 4864.0,
+      "id": "12161f86-d420-3793-af7d-3b2b575daa18",
+      "speaker": "Jordan",
+      "start_timestamp": 4855.0,
+      "text": "I would argue that ignorance is far worse in a broadcast situation. Do you have direct line? No, I"
+    },
+    {
+      "end_timestamp": 4868.0,
+      "id": "794d9ea9-dac9-3989-ac69-fa7f72101a11",
+      "speaker": "Dan",
+      "start_timestamp": 4864.0,
+      "text": "think direct lying is worse, because that means you're doing it for a reason. Like, do you agree with me, but"
+    },
+    {
+      "end_timestamp": 4872.0,
+      "id": "6316562a-b8e5-35a0-8106-a226c47f4611",
+      "speaker": "Jordan",
+      "start_timestamp": 4868.0,
+      "text": "everybody is doing it for a reason? Do you agree with me? And he's getting paid? Well, for it? It's"
+    },
+    {
+      "end_timestamp": 4876.0,
+      "id": "2f0fbe96-561d-3243-a0fc-ca459331844c",
+      "speaker": "Dan",
+      "start_timestamp": 4872.0,
+      "text": "a good gig. Yeah. I mean, do you like"
+    },
+    {
+      "end_timestamp": 4897.0,
+      "id": "508a600f-cc6e-38db-8017-0f9c06f48de3",
+      "speaker": "Jordan",
+      "start_timestamp": 4876.0,
+      "text": "the truth of broadcasters, and this is the way it is on TV. And any kind of broadcaster is if you listen to any of their, like personal interviews, most of them imply and some of them have said, you know, on a good day, I believe 40% of what I say"
+    },
+    {
+      "end_timestamp": 4902.0,
+      "id": "485dd3b7-593b-3f56-ab0d-6ac4b1f7feb4",
+      "speaker": "Dan",
+      "start_timestamp": 4897.0,
+      "text": "that's their job. Maybe podcasting is different. I believe pretty much everything I say, Well, yeah,"
+    },
+    {
+      "end_timestamp": 4907.0,
+      "id": "2056b144-b252-3c9f-8db4-26bd8aee3a8a",
+      "speaker": "Jordan",
+      "start_timestamp": 4902.0,
+      "text": "but we're we're not being paid a lot of money. No, say whatever it is. We're told to say I"
+    },
+    {
+      "end_timestamp": 4913.0,
+      "id": "8ac28ce7-8df2-3533-a94d-78490a5518ce",
+      "speaker": "Dan",
+      "start_timestamp": 4907.0,
+      "text": "wanted to I wanted to make the premise of this show that we pretend to George Soros is paying us but it's too late."
+    },
+    {
+      "end_timestamp": 4921.0,
+      "id": "472ce13a-c610-3c1f-aa12-ea7f20f67fee",
+      "speaker": "Jordan",
+      "start_timestamp": 4913.0,
+      "text": "Yeah, no, we're we we excited. So it well, I've actually already kind of implied that George Soros did commit the entire"
+    },
+    {
+      "end_timestamp": 4925.0,
+      "id": "0b257905-0ee6-3ce8-98d6-8a12d8ee6626",
+      "speaker": "Dan",
+      "start_timestamp": 4921.0,
+      "text": "Okay, so it's time for a couple of grab bag clips."
+    },
+    {
+      "end_timestamp": 4934.0,
+      "id": "4086cb9a-3250-36d1-895c-d9b76edd5f7e",
+      "speaker": "Jordan",
+      "start_timestamp": 4925.0,
+      "text": "Oh, God, we're gonna need some music for that. We're gonna need some morning Zoo Crew like"
+    },
+    {
+      "end_timestamp": 4936.0,
+      "id": "17021a8c-b0df-3073-b2fe-d444d064f9eb",
+      "speaker": "Dan",
+      "start_timestamp": 4934.0,
+      "text": "these days, I'll buy a soundboard and we'll just have"
+    },
+    {
+      "end_timestamp": 4941.0,
+      "id": "56f60a1d-500d-385c-ad41-a28283679cf5",
+      "speaker": "Jordan",
+      "start_timestamp": 4936.0,
+      "text": "the moment you do that. That's the end of this podcast. We're just gonna play with the soundboard for the entire time. So"
+    },
+    {
+      "end_timestamp": 4947.0,
+      "id": "9a03ddc4-66d9-3e24-9b5c-fc7befdaaed0",
+      "speaker": "Dan",
+      "start_timestamp": 4941.0,
+      "text": "one of this I don't remember exactly what these two clips are. But I know that the first one is offensive. So"
+    },
+    {
+      "end_timestamp": 4949.0,
+      "id": "402ec974-4d47-303a-9966-cfffc19b97ce",
+      "speaker": "Jordan",
+      "start_timestamp": 4947.0,
+      "text": "oh, god damn you."
+    },
+    {
+      "end_timestamp": 4954.0,
+      "id": "68f0ba31-6bfb-3eba-99b5-62a97b0147b3",
+      "speaker": "Dan",
+      "start_timestamp": 4949.0,
+      "text": "I love would you rather go love you love or would you rather go mystery first or offensive first?"
+    },
+    {
+      "end_timestamp": 4960.0,
+      "id": "6cd6b961-9882-398f-a7e6-2606b5244f52",
+      "speaker": "Jordan",
+      "start_timestamp": 4954.0,
+      "text": "Um, you know what? I feel like we have to go offensive because we got to leave people with the mystery, right? Oh, no."
+    },
+    {
+      "end_timestamp": 4964.0,
+      "id": "21016296-9cb4-3a7b-bbe2-c44c836120ed",
+      "speaker": "Dan",
+      "start_timestamp": 4960.0,
+      "text": "Oh, okay. Yeah. All right. All right. I got you. Here we go. This is offensive."
+    },
+    {
+      "end_timestamp": 5002.0,
+      "id": "9c0f66b0-e0a2-3b21-a6b6-35802bd847ef",
+      "speaker": "Alex Jones",
+      "start_timestamp": 4964.0,
+      "text": "Obama's refusal to veto anti Israel un vote, right most anti semitic incident in 2016. You know, I don't want to say it's anti semitic. But funding jehadi is all over the Middle East to kill every Christian they get a hold up is truly anti Christian. And where are the Christians complaining about that. But I know this, it is anti Israel to say turn it over to Palestinians, who if they took it over, would never stop killing each other. They can't stop killing each other all over the Middle East. It's a joke clean up your own house before you run around lecturing the rest of the world. Muslims. Wow. All right."
+    },
+    {
+      "end_timestamp": 5014.0,
+      "id": "290e157e-5fdc-35ea-8dd6-a68e8a84dcc7",
+      "speaker": "Jordan",
+      "start_timestamp": 5002.0,
+      "text": "Now here is in context here is the absolute problem with that is yes. He characterize them as Muslims altogether."
+    },
+    {
+      "end_timestamp": 5019.0,
+      "id": "aef3dc15-362a-3fc6-82fe-17cad5ff47b3",
+      "speaker": "Dan",
+      "start_timestamp": 5014.0,
+      "text": "No, no, aggressively. Right. Right. But the way he said"
+    },
+    {
+      "end_timestamp": 5085.0,
+      "id": "830d3540-6f5d-3d9c-9d56-9f7b92f5c37a",
+      "speaker": "Jordan",
+      "start_timestamp": 5019.0,
+      "text": "But the problems lumps, but the problem yeah, no, that's That's horrific. Get your own house in order Muslims. Yeah, no, that's and the Texas accent does not help his No, sir. Even if you're doing your best to not view him as racist, the Texas accent really makes it hard. But here's the problem with that, which there is a if you learn the history of Islam, the Sunni Shia divide has been the source of so much violence. Now whether or not that is any different from you know, any number like, let's pathway we talk about Ireland for a little second. And where are the Christians decrying that? Yeah, but when did he the twist, the twist that he had was so genius? And then he hit it? What are you talking about immediately following the Muslims killing each other or right before the Muslims killing each other? He had the perfect twist, which was implying that Obama was funding Islamist murdering Christians all throughout."
+    },
+    {
+      "end_timestamp": 5087.0,
+      "id": "de678f4f-7b7d-3bd3-86cd-44ca2c0f159f",
+      "speaker": "Dan",
+      "start_timestamp": 5085.0,
+      "text": "All right, well, that's a big that's a big narrative"
+    },
+    {
+      "end_timestamp": 5106.0,
+      "id": "e8ce735b-1655-32bd-a91f-e4a913e5c37b",
+      "speaker": "Jordan",
+      "start_timestamp": 5087.0,
+      "text": "of it. He said that. So he's saying that Georgeson no vote on the UN was not necessarily anti semitic, right. But the funding of Islamist murdering Christians all across the world is definitely anti Christian which which is unrelated to the previous statement right"
+    },
+    {
+      "end_timestamp": 5109.0,
+      "id": "60bba7a7-673d-3af6-81a4-c8313f00c957",
+      "speaker": "Dan",
+      "start_timestamp": 5106.0,
+      "text": "but if true I agree exactly well, it doesn't"
+    },
+    {
+      "end_timestamp": 5152.0,
+      "id": "74a4f4f2-f07b-30e3-bb75-7f4426074a23",
+      "speaker": "Jordan",
+      "start_timestamp": 5109.0,
+      "text": "get more anti Christian than fundraising the murdering of Christians Yeah. So put that shall we if we establish that is true then yes what is that is very Antichrist once you prove that to me you got a point you are correct you got a point so so we've got that right then we switch immediately back Yep. To the no vote is certainly anti Israel, which as we all can guess, is antiSemitic, right. Or I mean, I guess now it's hard to say that is a very complicated that I mean, yeah. Because I think you're confusing I think the no vote is absolutely the correct vote or not maybe the abstaining"
+    },
+    {
+      "end_timestamp": 5159.0,
+      "id": "01d54a0f-c67f-3d01-8c6d-de358600b883",
+      "speaker": "Dan",
+      "start_timestamp": 5152.0,
+      "text": "Yes. Which I believe is a lot of this settlement stuff is very exploitative they're dying they're"
+    },
+    {
+      "end_timestamp": 5193.0,
+      "id": "e07c50a1-bb4f-35c7-8470-2c992629c159",
+      "speaker": "Jordan",
+      "start_timestamp": 5159.0,
+      "text": "killing as many Palestinians as they can which his his so much of like the deep seated psychological issues there of Israel essentially trying to root out Palestinians is so fascinating to me Yeah, but because the the pure I hate to say irony, but just like that, that idea of like oh, now it's time to get them out of our country idea of James crazy yeah, that's really hard to justify there"
+    },
+    {
+      "end_timestamp": 5214.0,
+      "id": "e3585026-9a69-39e6-a404-b986fa457c85",
+      "speaker": "Dan",
+      "start_timestamp": 5193.0,
+      "text": "it's tough but if you would if like you look at the narrative from the Alex Jones wing of it, they aren't Palestinians right then none of them are Palestinian. They're globalist Islam is right there have been brought in to destabilize right we're probably funded by the Open the society George Soros, all this stuff, because it the one"
+    },
+    {
+      "end_timestamp": 5254.0,
+      "id": "3ccc4431-b526-372d-8f08-b5c076e58839",
+      "speaker": "Jordan",
+      "start_timestamp": 5214.0,
+      "text": "the one parallel I have to that which I think is uninformed. And at most an overgeneralization, or at least an overgeneralization. But the only thing I can think of to explain the the Israeli takeover of Palestine and the settlements and the absolute unwillingness to even consider a compromise is like, you know, how sexual abusers a lot of the times wind up having been sexually abused. Yeah, that's the one thing that I can think of that is a parallel that or like, in that, in that narrative,"
+    },
+    {
+      "end_timestamp": 5267.0,
+      "id": "8d09bbe1-3132-3eee-88e4-a1d9a8b4de17",
+      "speaker": "Dan",
+      "start_timestamp": 5254.0,
+      "text": "like children of alcoholics often end up dating alcoholic? Exactly, because you're trying to recreate the situation to make it right. Right. Well, but that I mean, that's how it works on an interpersonal level. But I don't know how that works as a society. Well,"
+    },
+    {
+      "end_timestamp": 5318.0,
+      "id": "fc9a35ea-7a9c-32c9-b44c-bb1e74f60dc5",
+      "speaker": "Jordan",
+      "start_timestamp": 5267.0,
+      "text": "because I mean, if you want to, if you want to call any any unwieldy nation, as a collection of children acting half as smart as the smartest of them. I mean, I can see it being a at least a national identity, like America, regardless of what side you are on. In the two party system. There is definitely a national identity, right? That's different from most other European countries Americana. It's, it's such a ridiculous country that we have that's filled with so many, like different regions that have zero to do with the others. And that's great, one consistent national identity, which is, fuck the governor. That's really our national identity."
+    },
+    {
+      "end_timestamp": 5325.0,
+      "id": "7f3774b1-a428-39fa-a306-014d6b2b6a96",
+      "speaker": "Dan",
+      "start_timestamp": 5318.0,
+      "text": "Alright, let's go to this next clip. I have no idea what this is. All right. Oh, wait, we're going random grab bag. I really don't remember what this is. All right,"
+    },
+    {
+      "end_timestamp": 5326.0,
+      "id": "bed6d782-96c3-3284-b059-caa6f42376bd",
+      "speaker": "Jordan",
+      "start_timestamp": 5325.0,
+      "text": "let's do this. Let's say"
+    },
+    {
+      "end_timestamp": 5359.0,
+      "id": "9d19e2f6-0464-3955-acec-ef76e731b744",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5326.0,
+      "text": "a nuclear war was breaking out with Russia. They just fired ICBMs in 1967. I would expect Walter Cronkite to be desperate and say everybody get to your bunkers. The missiles will be here in five minutes. Yes. I mean, it's almost to that level. Now. The urgency of repudiating Obama repudiating the globalist repudiating George Soros repudiating Henry Kissinger and all of these insane out of control anti American people who just want to destroy prosperity, that consolidate control and are willing to push us into World War Three to maintain their control a"
+    },
+    {
+      "end_timestamp": 5361.0,
+      "id": "6b602379-befb-30cf-bb4d-8a99823c0061",
+      "speaker": "Jordan",
+      "start_timestamp": 5359.0,
+      "text": "press pause real quick."
+    },
+    {
+      "end_timestamp": 5365.0,
+      "id": "7f2d6c02-0856-3113-9de0-cda71d814b67",
+      "speaker": "Dan",
+      "start_timestamp": 5361.0,
+      "text": "Do you see Kissinger? He did? who recently met with Mike Pence? I feel like he"
+    },
+    {
+      "end_timestamp": 5391.0,
+      "id": "2b40151d-8108-3695-8d03-a7bc0143b379",
+      "speaker": "Jordan",
+      "start_timestamp": 5365.0,
+      "text": "does not know anything about Kissinger. I know you're saying that's another grab bag poll there. That's a Saudi a Saudi Arabia in communist China. That's a mad lib. Kissinger could not be further on the side of Trump. Apparently. I mean, because you remember how Kissinger orchestrated anyways? I Kissinger is an evil motherfucker. It does seem that way."
+    },
+    {
+      "end_timestamp": 5401.0,
+      "id": "729f44c1-4c41-3d31-a268-2f8198a9e770",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5391.0,
+      "text": "Yeah. At a certain point, you want to arrest the independent press. You want people to come after me. You want to go after all of our freedoms. You want to be able to do all that He's horrible things."
+    },
+    {
+      "end_timestamp": 5415.0,
+      "id": "89995a64-2f05-3893-9b23-53b86ecf7454",
+      "speaker": "Dan",
+      "start_timestamp": 5401.0,
+      "text": "See, this is another reason why up top I wanted to make clear I don't want to go after him. No, I just want to have fun. I want to find I want to understand because he's so paranoid about people wanting to kick him off the air. I want to be clear that that's not what I want to do."
+    },
+    {
+      "end_timestamp": 5423.0,
+      "id": "7076d9b7-915d-3e60-a569-7f435a304279",
+      "speaker": "Jordan",
+      "start_timestamp": 5415.0,
+      "text": "No, no. Well, I mean, our entire livelihood if you're listening to this, a year from now, when we are the number one podcast on the planet, hold"
+    },
+    {
+      "end_timestamp": 5428.0,
+      "id": "2d756594-5328-3be8-8567-9d41348cf7d4",
+      "speaker": "Dan",
+      "start_timestamp": 5423.0,
+      "text": "on, we gotta get to the end. I'm really curious where this is, I am excited."
+    },
+    {
+      "end_timestamp": 5447.0,
+      "id": "e7fe6b2d-d7e5-3ec8-b7a7-04e8ee343f98",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5428.0,
+      "text": "And then you just think we're gonna shit here and take it and take it and take it and take it and take it and take it. Take it, take it and take it and take it and take it down keep escalating you're gonna get hurt."
+    },
+    {
+      "end_timestamp": 5448.0,
+      "id": "8f0f94f2-205d-3674-911f-d98a9c82a62e",
+      "speaker": "Dan",
+      "start_timestamp": 5447.0,
+      "text": "I swear to you I didn't loop that"
+    },
+    {
+      "end_timestamp": 5455.0,
+      "id": "48d16ec0-cb3f-30b7-8a44-11e48b93a1ba",
+      "speaker": "Jordan",
+      "start_timestamp": 5448.0,
+      "text": "that was the person I deserve a podcast award for perfect I got that well, so this is only"
+    },
+    {
+      "end_timestamp": 5457.0,
+      "id": "04742862-f65f-35bd-90d0-13488178d0e3",
+      "speaker": "Dan",
+      "start_timestamp": 5455.0,
+      "text": "halfway through the clip."
+    },
+    {
+      "end_timestamp": 5489.0,
+      "id": "fbd1dee6-a8a3-34c9-a1e9-5549908744b6",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5457.0,
+      "text": "Believe me you don't mean anything to me. So I don't even want to see you hurt. But dead rotting horse or something in the road? We're gonna look at you. Battle All right. And all you people. hell is your problem. Bunch of sick freaks but your neurotics want to run everything. Want to control everybody? You can't stand people that are better looking than you. You can't stand people that are stronger than you. You've got some weird twisted competitiveness in you. It's like they say in the great book they turn into a film that will be bloody goes. Competitiveness about me. I don't want anybody else to succeed."
+    },
+    {
+      "end_timestamp": 5519.0,
+      "id": "e13e8dad-9a5d-350c-a880-3654b79d85b7",
+      "speaker": "Dan",
+      "start_timestamp": 5489.0,
+      "text": "Okay, I remember why I pulled this clip now. This is one of these great, we're not gonna take it. We're not gonna take it. We're not gonna take it. We're not gonna. We're gonna this is such a great example of Alex Jones losing the thread halfway through? Oh, absolutely. It's just this perfect. Like a they're trying to destroy the you know, they're trying to take me off the air, the independent media trying to get rid of it. Also, Madeleine Albright. Madeleine Albright come from man and people who are more attractive than her. Madeleine Albright"
+    },
+    {
+      "end_timestamp": 5527.0,
+      "id": "df626399-43b0-3fa1-a4be-d0ccc2c13dbc",
+      "speaker": "Jordan",
+      "start_timestamp": 5519.0,
+      "text": "now? Well, it's a it's time to really take down Madeleine Albright. So"
+    },
+    {
+      "end_timestamp": 5535.0,
+      "id": "8a35c107-a143-3618-89d3-a4142d3a87ef",
+      "speaker": "Dan",
+      "start_timestamp": 5527.0,
+      "text": "he's now this is where the thread like he loses it entirely. And the end of this sentence is bananas. Oh, well,"
+    },
+    {
+      "end_timestamp": 5565.0,
+      "id": "7c5db65a-889e-3d75-b4d3-e450c39c9c54",
+      "speaker": "Jordan",
+      "start_timestamp": 5535.0,
+      "text": "it's it's exactly like when you're done. I know. I know. But before we go any further, it's exactly like you've been on this situation in onstage where you're too drunk. Oh, yeah. And you're talking and you're getting to the bit, and then halfway through all of a sudden your brain goes. Nope, don't have a bed anyway. Nope. So you just start saying stuff because you know, eventually, your brains just gonna at least pick something up. Yeah. Now that is exactly what we're not going to take it. We're not going to take it we're not going to take it was."
+    },
+    {
+      "end_timestamp": 5585.0,
+      "id": "91bbc037-1a09-3c77-964a-34416c35970e",
+      "speaker": "Dan",
+      "start_timestamp": 5565.0,
+      "text": "Now what's great about this is he does find a thread. It's the wrong, completely different. So he starts going down that path, and he thinks he's gonna find it again. And he doesn't know just goes to commercial bailed on the bus great. But how this fucking commercial break ends is amazing. So he's just talked about how like, and there will be blood. It's about competition, right?"
+    },
+    {
+      "end_timestamp": 5610.0,
+      "id": "b5ce3b06-fef5-3803-9d79-ab91ba09e20f",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5585.0,
+      "text": "I don't want anybody to succeed at my expense walking on me. But if you innovate, I'm only going to try to model myself after you and I'm going to admire you. I mean, I've literally pulled up by somebody's sports car before. It's super awesome. And my car is parked next to it. And the nice thing with that is an incredible car. Oh, man, sorry, sorry. It's better than yours."
+    },
+    {
+      "end_timestamp": 5611.0,
+      "id": "7fc67e00-bf7b-3fb4-8304-09672a330484",
+      "speaker": "Dan",
+      "start_timestamp": 5610.0,
+      "text": "No way. Is the crisper"
+    },
+    {
+      "end_timestamp": 5616.0,
+      "id": "356d8d94-2c75-317f-9060-0624cbb5e992",
+      "speaker": "Jordan",
+      "start_timestamp": 5611.0,
+      "text": "show way is the commercial music started. Okay. It's like the Oscars playing."
+    },
+    {
+      "end_timestamp": 5636.0,
+      "id": "936e29dc-94a5-3483-a7bc-895b52224c31",
+      "speaker": "Dan",
+      "start_timestamp": 5616.0,
+      "text": "They're playing them off. Because they realize he's lost it. Yeah. Like this guy in a nice car pulls up. And he's like, Hey, that's a nice car. And the guy in the car is like, hey, sorry, it's better than yours. But like not being a dick. He's being actually Hey, man. Look, I'm sorry, my car's button. Right? That has never fucking happened. 1000 times in the negative never happened."
+    },
+    {
+      "end_timestamp": 5639.0,
+      "id": "2bfab9a5-bd3c-37dc-abb1-8d95fcefd111",
+      "speaker": "Jordan",
+      "start_timestamp": 5636.0,
+      "text": "You know what, let's see where he goes."
+    },
+    {
+      "end_timestamp": 5662.0,
+      "id": "ff79af34-41fa-3b25-a596-ffb4563fd5d4",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5639.0,
+      "text": "That's like, no, no, no, literally, I don't care that your car is so cool. It was like a spaceship. You know, personally, I wouldn't drive a car like that was brought to my attention. But man, that's really a piece of art. You know? Incredible. You know? It's like people don't get it. You know? They don't competitive which means you like the competition. It's not that you don't want people that are successful, but that's where the globalist are. Okay."
+    },
+    {
+      "end_timestamp": 5664.0,
+      "id": "2bb3f9c6-d04d-3d05-afad-30f118c9f506",
+      "speaker": "Dan",
+      "start_timestamp": 5662.0,
+      "text": "Off to commercial and"
+    },
+    {
+      "end_timestamp": 5667.0,
+      "id": "55ba3e3d-3676-37a5-b2be-08832e371609",
+      "speaker": "Jordan",
+      "start_timestamp": 5664.0,
+      "text": "Okay. So the globalists are people"
+    },
+    {
+      "end_timestamp": 5682.0,
+      "id": "e617946b-0bf4-3489-981c-b444ee194418",
+      "speaker": "Dan",
+      "start_timestamp": 5667.0,
+      "text": "if you recall where that sentence started, it had to do with people trying to kick him off the air. Right? Which I guess if you want to be very generous, you could say that the idea of competition he's competition to them. I guess"
+    },
+    {
+      "end_timestamp": 5687.0,
+      "id": "d4bab4de-b6ab-3be9-bd99-f8e55cfe7a92",
+      "speaker": "Jordan",
+      "start_timestamp": 5682.0,
+      "text": "now they want to kill him though. They want to they don't want to drive him off. The"
+    },
+    {
+      "end_timestamp": 5700.0,
+      "id": "d7a53ce9-ac13-386a-af03-a41ad1e06389",
+      "speaker": "Dan",
+      "start_timestamp": 5687.0,
+      "text": "metaphor with a car is amazing. Because it's not a metaphor. It's that's that's a literal story. It's a story that has never happened to him. It's never happened to anybody what car looks like a space ship and our spaceship."
+    },
+    {
+      "end_timestamp": 5705.0,
+      "id": "bdb14a9f-6b0d-32af-92f4-2974235785d3",
+      "speaker": "Jordan",
+      "start_timestamp": 5700.0,
+      "text": "Also, why does he envy this car? Then say I would never get one of those cars. It's"
+    },
+    {
+      "end_timestamp": 5708.0,
+      "id": "3989c98d-366c-32b7-94c5-fe051543234b",
+      "speaker": "Dan",
+      "start_timestamp": 5705.0,
+      "text": "a piece of art. It's a piece of art drove through much of Taiwan."
+    },
+    {
+      "end_timestamp": 5709.0,
+      "id": "0b9a882d-8fde-371e-b9fa-1df9459ee97a",
+      "speaker": "Jordan",
+      "start_timestamp": 5708.0,
+      "text": "I want it look,"
+    },
+    {
+      "end_timestamp": 5713.0,
+      "id": "c494530c-1a77-34d0-867b-d084367ce60e",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5709.0,
+      "text": "I want to get that car, but I would never get one of those cars."
+    },
+    {
+      "end_timestamp": 5715.0,
+      "id": "09672c05-e7c9-34d0-9bd9-a50ed3b63e3b",
+      "speaker": "Dan",
+      "start_timestamp": 5713.0,
+      "text": "I have one more clip that I don't remember what it is."
+    },
+    {
+      "end_timestamp": 5763.0,
+      "id": "8a6daa24-ee51-3cc2-a82b-3855f2f8958b",
+      "speaker": "Jordan",
+      "start_timestamp": 5715.0,
+      "text": "He is. So he's, is he referencing that Kurt Vonnegut short story? Which one? But oh shit, do you remember the one where it's the the world is changed to be equal. So there's this dude. And he's the name. The short story is named after him. And so he's this perfect Uber match guy. And because of that, they have to make him equal to everybody else. So they put these earmuffs on him to make him half deaf. They put these giant bottle. That's how he sees himself. Yeah, absolutely. Yeah. He sees himself as somebody who's being who people are trying well. Yeah, I apologize for not being specific about Communist China and digital Dropbox with all the things necessary. Well,"
+    },
+    {
+      "end_timestamp": 5787.0,
+      "id": "57d5d0ed-39c9-3427-a436-13d7dc85df27",
+      "speaker": "Dan",
+      "start_timestamp": 5763.0,
+      "text": "that's the other thing that I think is really fascinating is that he always complains about how there's a learned helplessness and victim mentality and liberals. Right. And then he goes on to say that the globalist are responsible for all his problems, right. So it's like this weird, I don't understand what the line is between, like, one version of paranoia and the other. I'm not entirely sure. But once about prosperity, I guess. I don't"
+    },
+    {
+      "end_timestamp": 5803.0,
+      "id": "adc5feb0-cfc9-3d94-ae92-1f36b6e76d9e",
+      "speaker": "Jordan",
+      "start_timestamp": 5787.0,
+      "text": "know. I think, man, here's here's the thing that while we're talking, the only thing that I can conceive of is I want to eventually try and understand how his brain works. So"
+    },
+    {
+      "end_timestamp": 5819.0,
+      "id": "72e8a86d-8af2-3baf-a8d1-e735acb2f110",
+      "speaker": "Dan",
+      "start_timestamp": 5803.0,
+      "text": "that's why we got to keep doing this show. We have to keep doing so. Here's one more clip for you that I don't remember what it is. But it has to do with demons. George, you got to start over. The break."
+    },
+    {
+      "end_timestamp": 5822.0,
+      "id": "c488df9f-e7b3-34ff-bd3e-158ee8cb952c",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5819.0,
+      "text": "George in Texas, you're on the air. Go ahead. Thanks for calling."
+    },
+    {
+      "end_timestamp": 5836.0,
+      "id": "85eeb7cc-7535-31c0-8e9f-f4aeeb10d0b0",
+      "speaker": "Caller",
+      "start_timestamp": 5822.0,
+      "text": "Yes, Alex. I just this is where they want to be. They're going to start world war three. This has always been the plan. You know, they always have sure having Hillary be elected would have been great. You know, they can do whatever they want."
+    },
+    {
+      "end_timestamp": 5845.0,
+      "id": "e2d30701-bf5d-3555-8b5c-116993ea4b46",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5836.0,
+      "text": "Sort of war was she got it? They were gonna shut the press down. But she got it. It's an all the WikiLeaks. Yes, this is not they're just going ahead. Like Trump wasn't even elected. What does that tell you?"
+    },
+    {
+      "end_timestamp": 5849.0,
+      "id": "d2db9ea1-3eb5-3d63-afec-ae29327ec8d7",
+      "speaker": "Caller",
+      "start_timestamp": 5845.0,
+      "text": "They don't care, because they're crazy. And I think they're possessed. Personally,"
+    },
+    {
+      "end_timestamp": 5851.0,
+      "id": "2285144d-40db-39af-b5e8-5e034951a91c",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5849.0,
+      "text": "I definitely are their damn demons."
+    },
+    {
+      "end_timestamp": 5870.0,
+      "id": "70400682-8d1a-369a-81ad-1f1c6ce1e1c6",
+      "speaker": "Dan",
+      "start_timestamp": 5851.0,
+      "text": "Yep. They're damn demons. They're their literal demons. They're possessed. Yep. You often makes the claims that the people who are against him are literal demons, or being paid by Soros. Those are the two groups of people who are against him. And we can say 100% Neither."
+    },
+    {
+      "end_timestamp": 5897.0,
+      "id": "cec422ab-1c0f-324e-96cb-bb1082952ddc",
+      "speaker": "Jordan",
+      "start_timestamp": 5870.0,
+      "text": "Yes, I would. I would agree with neither. Yeah, I would say neither now. But that's, that's a brilliant move there is because you're never pinned down. Like yes, there is the narrative of being possessed. But it could also be like, No, that was a metaphor for George Soros. But also George Soros could be possessed if that's what you want to believe that he that's a metaphor for the globalists who are also you know,"
+    },
+    {
+      "end_timestamp": 5907.0,
+      "id": "610025c3-e66c-37e4-88b5-f82ee9c2148e",
+      "speaker": "Dan",
+      "start_timestamp": 5897.0,
+      "text": "he sells a shirt too. That's like a George Soros as a goblin kind of thing. I was like that. That's I don't know if that's anti semitic, but it doesn't feel good. I don't know."
+    },
+    {
+      "end_timestamp": 5913.0,
+      "id": "078bbe1d-4008-3a90-af91-35b4966fb4bb",
+      "speaker": "Jordan",
+      "start_timestamp": 5907.0,
+      "text": "Well, you know what, that's the next question. Right? Is Harry Potter anti semitic?"
+    },
+    {
+      "end_timestamp": 5917.0,
+      "id": "f766b4ce-2bc1-3df8-ac27-5785248eb7de",
+      "speaker": "Dan",
+      "start_timestamp": 5913.0,
+      "text": "100% right. That's an anti semitic hobby as a Jew."
+    },
+    {
+      "end_timestamp": 5923.0,
+      "id": "83eca231-f8df-3b60-9c17-624e063808ee",
+      "speaker": "Jordan",
+      "start_timestamp": 5917.0,
+      "text": "Oh, no, no, I was talking about the the goblins at the green Gods bank."
+    },
+    {
+      "end_timestamp": 5926.0,
+      "id": "2e53bbfd-5bcc-3281-b9fe-d4dbc9dfd2ad",
+      "speaker": "Dan",
+      "start_timestamp": 5923.0,
+      "text": "That was anti semitic. Anything about Harry Potter. I'm"
+    },
+    {
+      "end_timestamp": 5927.0,
+      "id": "4e95ef0d-4b0a-3d2c-9815-2e076c34c5c7",
+      "speaker": "Jordan",
+      "start_timestamp": 5926.0,
+      "text": "telling you, I'm telling you right now one"
+    },
+    {
+      "end_timestamp": 5929.0,
+      "id": "d043728a-5a92-38f2-b731-f8a5f0647d78",
+      "speaker": "Dan",
+      "start_timestamp": 5927.0,
+      "text": "of the movies and I remember Dobby"
+    },
+    {
+      "end_timestamp": 5937.0,
+      "id": "c359fd8f-7ca3-3e88-9513-c0194073a9f7",
+      "speaker": "Jordan",
+      "start_timestamp": 5929.0,
+      "text": "I'm telling you right now. Harry Potter. You heard it here. First, ladies and gentlemen. JK Rowling is possessed and an anti Semite."
+    },
+    {
+      "end_timestamp": 5947.0,
+      "id": "eb22d392-d800-3025-a8a5-205394fa1bdd",
+      "speaker": "Dan",
+      "start_timestamp": 5937.0,
+      "text": "Just getting rolling. Down the break? Well, anyway, those those other things that I wanted to tell you about Infowars today,"
+    },
+    {
+      "end_timestamp": 5950.0,
+      "id": "40ade215-4273-303c-a6cb-099a7d8ceb6d",
+      "speaker": "Jordan",
+      "start_timestamp": 5947.0,
+      "text": "let's let's close it with. With clip."
+    },
+    {
+      "end_timestamp": 5970.0,
+      "id": "1c88f63c-9e0f-377f-ad09-14158a34af6e",
+      "speaker": "Dan",
+      "start_timestamp": 5950.0,
+      "text": "This makes me laugh. So hard. I can't wait. And I hope you enjoy it. And if you've enjoyed this show, thank you for listening. Hopefully we'll do more of these in the near future. And we'll come up with a better name and tighten it up a little bit. Over two hours thing it's probably not going to work in our favor. Nope. But anyway, here we go."
+    },
+    {
+      "end_timestamp": null,
+      "id": "cd34e29c-d797-340e-9966-8de2eec5dfba",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5970.0,
+      "text": "And so we are in the real world in this epic time and everything you do is having a giant effect. Pray for this country, pray for awakening, pray for Providence, pray for spiritual defense and support and provision for Trump and for Infowars and for Matt Drudge, and for people like Steven Bannon and others that are at the tip of the spear of this fight because of duty. But understand this is real. You can see it it's not our opinion. We are the people resist thing that you are the folks resisting and we're all in this together. And none of us are perfect but we've got God on our side. Also we're running extending the Christmas special just even more until Wednesday and then it's over because people like it so much. Free shipping store wide 50 to 30% off everything. while supplies last the problem is we've sold out of I don't know eight different things at Infowars live.com. Or for store.com. To a lot of stuff has sold out we still have brain force now with 20% More in each bottle 30% Off you cannot beat that deal and free shipping time for auto ship and an additional 10% offs. Wow. Super Male Vitality of human avatar we are about to sell now. We've got 30% off on those x twos about sell out. We've got I mean it's $20 right now that is unprecedented and free shipping. We have the liver cleanse liver shield with oxy powder for the gallbladder and liver cleanse. That's discounted 30% off when you get them together. Again, we're talking 4.8 star reviews here are third party review sites, and so much more bio PCA for your hair, skin and nails. Everything else as well. We've got biome defense in the 25 billion person"
+    }
+  ],
+  "history": {
+    "original_format": "txt",
+    "type": "otter"
+  }
+}

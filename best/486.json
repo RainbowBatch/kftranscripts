@@ -1,0 +1,4112 @@
+{
+  "audio_identifier": "KF_486",
+  "audio_url": "https://traffic.libsyn.com/secure/knowledgefight/Sept-27-2020.mp3",
+  "blocks": [
+    {
+      "end_timestamp": 22.528,
+      "id": "2df43dd0-8caf-3199-b51a-1295fa809cef",
+      "speaker": null,
+      "start_timestamp": 22.016,
+      "text": "Have great respect"
+    },
+    {
+      "end_timestamp": 53.504,
+      "id": "cbc8e0cc-c857-3a3f-b731-2bbe465c59fb",
+      "speaker": null,
+      "start_timestamp": 52.992,
+      "text": "Knowledge"
+    },
+    {
+      "end_timestamp": 69.376,
+      "id": "a04b319f-ac96-387d-9ff1-9c0a195fd28b",
+      "speaker": null,
+      "start_timestamp": 67.328,
+      "text": "Doordash"
+    },
+    {
+      "end_timestamp": 70.144,
+      "id": "4ec0ffde-254d-3ba3-b23c-7b918f9148be",
+      "speaker": null,
+      "start_timestamp": 69.632,
+      "text": "What's up"
+    },
+    {
+      "end_timestamp": 73.472,
+      "id": "2bdae093-5e23-32a4-9725-ae1a338ff2c3",
+      "speaker": null,
+      "start_timestamp": 70.4,
+      "text": "What's today"
+    },
+    {
+      "end_timestamp": 79.872,
+      "id": "0f8e7dd5-d5ed-3957-96c2-6c33231f5db4",
+      "speaker": null,
+      "start_timestamp": 73.728,
+      "text": "Hey look at work tired of"
+    },
+    {
+      "end_timestamp": 91.392,
+      "id": "cbcdea1f-fef6-3812-9081-92a39c7b61d1",
+      "speaker": null,
+      "start_timestamp": 90.112,
+      "text": "On what am I on"
+    },
+    {
+      "end_timestamp": 93.44,
+      "id": "ebfd338d-eb6d-3da7-96f3-0cb3f296a681",
+      "speaker": null,
+      "start_timestamp": 91.648,
+      "text": "And it was exhilarating"
+    },
+    {
+      "end_timestamp": 95.488,
+      "id": "b4babb0d-74c9-31de-91a2-93a518e73dd9",
+      "speaker": null,
+      "start_timestamp": 93.696,
+      "text": "Overwhelming"
+    },
+    {
+      "end_timestamp": 102.4,
+      "id": "e4a5d4c6-1b3e-3498-ae27-ea3087b3b355",
+      "speaker": null,
+      "start_timestamp": 96.256,
+      "text": "I kind of feel a little bit I might cry"
+    },
+    {
+      "end_timestamp": 118.784,
+      "id": "f742f2ed-905c-3e32-a5fc-1c500999c9c4",
+      "speaker": null,
+      "start_timestamp": 115.456,
+      "text": "Sure"
+    },
+    {
+      "end_timestamp": 122.112,
+      "id": "b40f7987-9726-344f-a859-4831299ddc61",
+      "speaker": null,
+      "start_timestamp": 119.04,
+      "text": "I don't know how excited"
+    },
+    {
+      "end_timestamp": 128.768,
+      "id": "bba25e81-d035-3050-9b92-b745d661149d",
+      "speaker": null,
+      "start_timestamp": 122.624,
+      "text": "Slices"
+    },
+    {
+      "end_timestamp": 135.168,
+      "id": "d49e8f16-eaa2-337c-a821-74dc6e43c40b",
+      "speaker": null,
+      "start_timestamp": 129.024,
+      "text": "Like some people frame their first dollar made in business"
+    },
+    {
+      "end_timestamp": 141.568,
+      "id": "c5e20fd0-9f2c-3d21-aa31-833d8bb098d9",
+      "speaker": null,
+      "start_timestamp": 135.424,
+      "text": "No problem"
+    },
+    {
+      "end_timestamp": 151.296,
+      "id": "17bed30a-419c-3882-85e8-6ab8c4fab852",
+      "speaker": null,
+      "start_timestamp": 145.152,
+      "text": "I'll be more excited"
+    },
+    {
+      "end_timestamp": 156.672,
+      "id": "fe09d93f-0f66-3ebb-8c13-2312e043a3a5",
+      "speaker": null,
+      "start_timestamp": 151.552,
+      "text": "It's probably true"
+    },
+    {
+      "end_timestamp": 165.632,
+      "id": "8d3eb5c6-0ce6-3b25-a9fd-df502df6c129",
+      "speaker": null,
+      "start_timestamp": 159.488,
+      "text": "Workout"
+    },
+    {
+      "end_timestamp": 171.52,
+      "id": "915b0e4b-2a94-38a9-971b-488b74cc84d7",
+      "speaker": null,
+      "start_timestamp": 166.144,
+      "text": "R6S"
+    },
+    {
+      "end_timestamp": 177.92,
+      "id": "7bdec847-2c3b-3e72-a259-33a72435c051",
+      "speaker": null,
+      "start_timestamp": 171.776,
+      "text": "Cucumber"
+    },
+    {
+      "end_timestamp": 197.12,
+      "id": "8d018b5a-93c8-3c0c-abee-de7af9961569",
+      "speaker": null,
+      "start_timestamp": 192.512,
+      "text": "I know everybody's getting tired of"
+    },
+    {
+      "end_timestamp": 197.888,
+      "id": "0c8dc359-074a-3af7-b0d1-e355c8d7ce02",
+      "speaker": null,
+      "start_timestamp": 197.376,
+      "text": "Tennis"
+    },
+    {
+      "end_timestamp": 223.488,
+      "id": "de21fa43-83ad-32e3-8443-527b312bbb27",
+      "speaker": null,
+      "start_timestamp": 217.344,
+      "text": "Felt like it was"
+    },
+    {
+      "end_timestamp": 236.288,
+      "id": "4d3ea00a-b669-395a-a0fd-a3c3c1fc36df",
+      "speaker": null,
+      "start_timestamp": 230.144,
+      "text": "Jesus is over already"
+    },
+    {
+      "end_timestamp": 242.688,
+      "id": "ec8580f5-1d1c-33f1-be28-52cefe165b4a",
+      "speaker": null,
+      "start_timestamp": 236.544,
+      "text": "Is far too f****** long"
+    },
+    {
+      "end_timestamp": 247.552,
+      "id": "07333e13-3ce2-37fd-a60a-bd2b7640092d",
+      "speaker": null,
+      "start_timestamp": 244.224,
+      "text": "What we should do that exactly"
+    },
+    {
+      "end_timestamp": 253.952,
+      "id": "2d371414-b1d2-3c2d-a8e7-5ee86fb1a8f0",
+      "speaker": null,
+      "start_timestamp": 247.808,
+      "text": "No no reasonable person would say otherwise more time"
+    },
+    {
+      "end_timestamp": 260.351,
+      "id": "0ed9f47a-c8fd-3978-9fec-ba77b91e88de",
+      "speaker": null,
+      "start_timestamp": 254.208,
+      "text": "Two weeks and then Raphael will have another French Open"
+    },
+    {
+      "end_timestamp": 273.151,
+      "id": "8066a4e7-d5d5-35b9-a808-6fc53030eb1d",
+      "speaker": null,
+      "start_timestamp": 267.007,
+      "text": "When I was younger"
+    },
+    {
+      "end_timestamp": 289.023,
+      "id": "b92b10d7-106b-364b-948f-b4d0f1fa84e7",
+      "speaker": null,
+      "start_timestamp": 284.927,
+      "text": "2020 iPod"
+    },
+    {
+      "end_timestamp": 301.823,
+      "id": "730e3a73-66c8-36f5-abed-813d671bc914",
+      "speaker": null,
+      "start_timestamp": 295.679,
+      "text": "Acquired"
+    },
+    {
+      "end_timestamp": 308.479,
+      "id": "bcfdd3e6-2a9a-398b-a179-daf6e8c754b4",
+      "speaker": null,
+      "start_timestamp": 306.431,
+      "text": "Announce"
+    },
+    {
+      "end_timestamp": 311.551,
+      "id": "09cf7a39-8a8c-32f6-8452-813aa48fdd69",
+      "speaker": null,
+      "start_timestamp": 308.735,
+      "text": "43 Court which wasn't Garth Amy Coney Barrett"
+    },
+    {
+      "end_timestamp": 315.391,
+      "id": "94bd03f2-c838-3088-ab7b-0873cb12307b",
+      "speaker": null,
+      "start_timestamp": 311.807,
+      "text": "Great"
+    },
+    {
+      "end_timestamp": 320.511,
+      "id": "d13c30c6-6c46-3083-a96d-70e85a1f61c3",
+      "speaker": null,
+      "start_timestamp": 316.927,
+      "text": "Immediately"
+    },
+    {
+      "end_timestamp": 323.071,
+      "id": "16c40dd0-f0fa-3d87-a960-ee503d69bff2",
+      "speaker": null,
+      "start_timestamp": 320.767,
+      "text": "The inside scoop"
+    },
+    {
+      "end_timestamp": 324.863,
+      "id": "95ae0fbb-edf1-3fa6-b088-573cf7fe7a53",
+      "speaker": null,
+      "start_timestamp": 323.327,
+      "text": "Coney Barrett"
+    },
+    {
+      "end_timestamp": 328.447,
+      "id": "411acef7-8647-30ae-b730-c7866971de1a",
+      "speaker": null,
+      "start_timestamp": 325.119,
+      "text": "Totally excited"
+    },
+    {
+      "end_timestamp": 330.239,
+      "id": "e295f406-8498-30ca-ab30-00f2c44bfa10",
+      "speaker": null,
+      "start_timestamp": 328.703,
+      "text": "Dr. Robert Barnes"
+    },
+    {
+      "end_timestamp": 337.663,
+      "id": "a41e1e84-5a7c-3c64-8b5a-e19caef91f79",
+      "speaker": null,
+      "start_timestamp": 334.847,
+      "text": "We're coming in with some real hot"
+    },
+    {
+      "end_timestamp": 339.967,
+      "id": "68f69266-b1d4-3a7a-8a23-b8304b747d9d",
+      "speaker": null,
+      "start_timestamp": 337.919,
+      "text": "Barrett"
+    },
+    {
+      "end_timestamp": 351.999,
+      "id": "c463fd98-cccf-3ad0-b315-e40ad844ea73",
+      "speaker": null,
+      "start_timestamp": 346.111,
+      "text": "She was basically"
+    },
+    {
+      "end_timestamp": 353.535,
+      "id": "4224c643-85ae-3f37-a276-43e08b8fb25b",
+      "speaker": null,
+      "start_timestamp": 352.255,
+      "text": "Where's Detroit"
+    },
+    {
+      "end_timestamp": 359.935,
+      "id": "912b5bfa-97d7-3210-afd2-4f07f35bf55e",
+      "speaker": null,
+      "start_timestamp": 353.791,
+      "text": "Barn pitched megillah and somebody who would give him basically a winning floor"
+    },
+    {
+      "end_timestamp": 366.591,
+      "id": "fba09501-a9a9-3d7d-a4cc-99a1eea7ea92",
+      "speaker": null,
+      "start_timestamp": 362.751,
+      "text": "Very conservative doesn't have a lot of the bag"
+    },
+    {
+      "end_timestamp": 379.135,
+      "id": "c881d2fd-aeb3-341a-a76d-7a74b895a1b2",
+      "speaker": null,
+      "start_timestamp": 377.087,
+      "text": "Really"
+    },
+    {
+      "end_timestamp": 384.511,
+      "id": "3020ae76-423d-3a28-a155-723ab04efd6f",
+      "speaker": null,
+      "start_timestamp": 380.671,
+      "text": "Nomination"
+    },
+    {
+      "end_timestamp": 394.495,
+      "id": "662717dd-367c-3fa9-ab80-65f212a39707",
+      "speaker": null,
+      "start_timestamp": 389.375,
+      "text": "Workout"
+    },
+    {
+      "end_timestamp": 401.151,
+      "id": "a695b229-92ff-3dd6-a3af-c67d9a688710",
+      "speaker": null,
+      "start_timestamp": 395.007,
+      "text": "Somehow this is getting lost in the in all of this"
+    },
+    {
+      "end_timestamp": 419.327,
+      "id": "e1a801aa-5922-3af4-a9da-00ac3e6e0ad4",
+      "speaker": null,
+      "start_timestamp": 413.183,
+      "text": "Usually whenever there's big news why the Saturday episode"
+    },
+    {
+      "end_timestamp": 431.359,
+      "id": "de3d5eab-a8a9-39f1-b18a-522dba800e22",
+      "speaker": null,
+      "start_timestamp": 427.519,
+      "text": "Navigating somebody that he and his buddy Barnes"
+    },
+    {
+      "end_timestamp": 440.063,
+      "id": "4c5e2ce4-0f9d-36e0-9f64-8e5ef537d793",
+      "speaker": null,
+      "start_timestamp": 436.735,
+      "text": "Talking about how is the h"
+    },
+    {
+      "end_timestamp": 442.879,
+      "id": "a67baca2-1ab1-3998-8b2c-667bbea7ec81",
+      "speaker": null,
+      "start_timestamp": 440.575,
+      "text": "Toonami Barrett"
+    },
+    {
+      "end_timestamp": 449.023,
+      "id": "0d148341-4180-3807-9c7e-28f49563705a",
+      "speaker": null,
+      "start_timestamp": 443.391,
+      "text": "She's a federalist Society on the right"
+    },
+    {
+      "end_timestamp": 453.119,
+      "id": "cf0a8c0f-7b35-3c21-aa9d-a471386fe482",
+      "speaker": null,
+      "start_timestamp": 449.535,
+      "text": "Going to play"
+    },
+    {
+      "end_timestamp": 455.423,
+      "id": "b2b911f6-fa3a-3d4e-8b57-13936137c9d0",
+      "speaker": null,
+      "start_timestamp": 454.911,
+      "text": "The choice"
+    },
+    {
+      "end_timestamp": 462.079,
+      "id": "3110ddcc-70be-3458-9021-dcb5fd0ebaaa",
+      "speaker": null,
+      "start_timestamp": 456.959,
+      "text": "Justify"
+    },
+    {
+      "end_timestamp": 484.351,
+      "id": "415adf4c-0132-33bd-abf7-8a388ffaa2ac",
+      "speaker": null,
+      "start_timestamp": 478.207,
+      "text": "Let's do it"
+    },
+    {
+      "end_timestamp": 493.823,
+      "id": "5056ae7d-5025-3ed1-b7d7-7ea0d7f2a13f",
+      "speaker": null,
+      "start_timestamp": 491.775,
+      "text": "Sawyer thank you so much and I'll probably want"
+    },
+    {
+      "end_timestamp": 526.335,
+      "id": "473bc0e7-949f-3f48-a8b1-8625b220620d",
+      "speaker": null,
+      "start_timestamp": 520.191,
+      "text": "Surah Rahman"
+    },
+    {
+      "end_timestamp": 541.951,
+      "id": "8538de94-485b-3594-80f7-4538e37041a4",
+      "speaker": null,
+      "start_timestamp": 535.807,
+      "text": "Very much"
+    },
+    {
+      "end_timestamp": 548.351,
+      "id": "1adbe504-e828-3ca7-b1e4-72f4cad9551d",
+      "speaker": null,
+      "start_timestamp": 542.207,
+      "text": "I assure you is smart"
+    },
+    {
+      "end_timestamp": 552.447,
+      "id": "a926b9a7-177e-3e43-aa5e-9df6759b3224",
+      "speaker": null,
+      "start_timestamp": 548.607,
+      "text": "Kmart"
+    },
+    {
+      "end_timestamp": 562.687,
+      "id": "0913aafa-1f22-3c88-b70f-244fe8bf503e",
+      "speaker": null,
+      "start_timestamp": 556.543,
+      "text": "We got one show"
+    },
+    {
+      "end_timestamp": 569.087,
+      "id": "5205b13c-2049-34ff-a0ec-92bf8099e44e",
+      "speaker": null,
+      "start_timestamp": 562.943,
+      "text": "Kmart"
+    },
+    {
+      "end_timestamp": 571.647,
+      "id": "1b2022b7-9541-38bf-a5d2-58844a1088d5",
+      "speaker": null,
+      "start_timestamp": 570.111,
+      "text": "This is called"
+    },
+    {
+      "end_timestamp": 578.047,
+      "id": "1c770ade-4177-31c4-a43b-b0e865c9d2dc",
+      "speaker": null,
+      "start_timestamp": 575.231,
+      "text": "This is the stupidest thing in the world"
+    },
+    {
+      "end_timestamp": 580.863,
+      "id": "41021efe-6ab1-3fb9-bdfa-ace7c4ea3021",
+      "speaker": null,
+      "start_timestamp": 578.303,
+      "text": "No"
+    },
+    {
+      "end_timestamp": 587.263,
+      "id": "d35091ee-de25-37ed-bf1d-e839e277dd4f",
+      "speaker": null,
+      "start_timestamp": 581.119,
+      "text": "We're knowing good men are still thinking"
+    },
+    {
+      "end_timestamp": 602.111,
+      "id": "ae78d882-98cc-3cf4-9a8b-04bf62396661",
+      "speaker": null,
+      "start_timestamp": 600.575,
+      "text": "Kmart"
+    },
+    {
+      "end_timestamp": 623.103,
+      "id": "eb1fe893-739a-31db-a6cf-360e7945e82d",
+      "speaker": null,
+      "start_timestamp": 620.799,
+      "text": "Thank you so much"
+    },
+    {
+      "end_timestamp": 655.871,
+      "id": "4b08753e-e4f9-383b-aa6e-cf267590240b",
+      "speaker": null,
+      "start_timestamp": 654.335,
+      "text": "What you could do"
+    },
+    {
+      "end_timestamp": 662.271,
+      "id": "0ecd4687-ff64-3b52-a563-d87feb7ca765",
+      "speaker": null,
+      "start_timestamp": 656.127,
+      "text": "I see your eyes looking around"
+    },
+    {
+      "end_timestamp": 667.135,
+      "id": "68c63048-9fa4-324e-8847-eed39b714f37",
+      "speaker": null,
+      "start_timestamp": 662.527,
+      "text": "Rolling around in there"
+    },
+    {
+      "end_timestamp": 673.535,
+      "id": "4eb7ad13-9a90-38d7-888c-b4e93f09a806",
+      "speaker": null,
+      "start_timestamp": 667.391,
+      "text": "What you can do is be browbeat administration of your school in tattooing absolutely no"
+    },
+    {
+      "end_timestamp": 683.263,
+      "id": "f85ffc5b-bda2-3b42-ab21-871744698854",
+      "speaker": null,
+      "start_timestamp": 677.119,
+      "text": "Dealing with the fuc"
+    },
+    {
+      "end_timestamp": 685.567,
+      "id": "a26a6041-552c-31d8-a809-dda549471d00",
+      "speaker": null,
+      "start_timestamp": 684.543,
+      "text": "Normally I"
+    },
+    {
+      "end_timestamp": 691.967,
+      "id": "8392d187-7ba5-34d5-81ef-3a3be07a979a",
+      "speaker": null,
+      "start_timestamp": 685.823,
+      "text": "I f****** pull this off perfect absolutely"
+    },
+    {
+      "end_timestamp": 704.511,
+      "id": "e10a707d-5ff0-304e-ab3a-35285cf7db70",
+      "speaker": null,
+      "start_timestamp": 698.367,
+      "text": "I really like"
+    },
+    {
+      "end_timestamp": 706.559,
+      "id": "8fa9163c-dc29-3287-8f83-f4ca8f44ce8f",
+      "speaker": null,
+      "start_timestamp": 704.767,
+      "text": "A nightmare on"
+    },
+    {
+      "end_timestamp": 711.167,
+      "id": "1837da01-9b1d-3e96-b8d1-606d77700d22",
+      "speaker": null,
+      "start_timestamp": 706.815,
+      "text": "Uno"
+    },
+    {
+      "end_timestamp": 715.775,
+      "id": "2bd6852e-50f7-3d99-832e-c6d5b9585a30",
+      "speaker": null,
+      "start_timestamp": 711.679,
+      "text": "I was just overwhelmed"
+    },
+    {
+      "end_timestamp": 726.527,
+      "id": "e2075f2b-f187-3128-a615-e134f49ed6c3",
+      "speaker": null,
+      "start_timestamp": 720.383,
+      "text": "Do you want me to try disingenuous"
+    },
+    {
+      "end_timestamp": 739.327,
+      "id": "765a8b18-d4f4-3715-b248-b9c65d906cd2",
+      "speaker": null,
+      "start_timestamp": 733.183,
+      "text": "I don't want you to listen"
+    },
+    {
+      "end_timestamp": 742.399,
+      "id": "f79cdebb-47be-31ad-a6ad-f9fdc870ae12",
+      "speaker": null,
+      "start_timestamp": 739.583,
+      "text": "Surprising"
+    },
+    {
+      "end_timestamp": 758.783,
+      "id": "46194e73-0848-3fba-81b5-74a079b8fab1",
+      "speaker": null,
+      "start_timestamp": 754.175,
+      "text": "Tattoo on your arm"
+    },
+    {
+      "end_timestamp": 765.183,
+      "id": "b6be2aea-b360-3a48-8860-92dca8104518",
+      "speaker": null,
+      "start_timestamp": 759.039,
+      "text": "To do right there"
+    },
+    {
+      "end_timestamp": 769.279,
+      "id": "74f704d2-6001-331e-bc0b-56e60f2010e9",
+      "speaker": null,
+      "start_timestamp": 765.439,
+      "text": "Audio"
+    },
+    {
+      "end_timestamp": 775.679,
+      "id": "2f270f19-f2a3-302d-bc31-81e88c8f70df",
+      "speaker": null,
+      "start_timestamp": 769.535,
+      "text": "I told you I was off a little bit"
+    },
+    {
+      "end_timestamp": 793.087,
+      "id": "4d3abe82-e967-3736-83f0-b361e7e29a97",
+      "speaker": null,
+      "start_timestamp": 791.039,
+      "text": "On the ground"
+    },
+    {
+      "end_timestamp": 795.903,
+      "id": "b617731b-bc22-3bf4-a76b-6ddd378e884a",
+      "speaker": null,
+      "start_timestamp": 793.343,
+      "text": "Take the meat"
+    },
+    {
+      "end_timestamp": 802.303,
+      "id": "42637031-ff74-3e9d-b834-fa635eceac6a",
+      "speaker": null,
+      "start_timestamp": 796.415,
+      "text": "I like it your nice little"
+    },
+    {
+      "end_timestamp": 804.607,
+      "id": "10e8efaa-38ae-301d-b5ad-0bfafdfd0239",
+      "speaker": null,
+      "start_timestamp": 803.583,
+      "text": "Alright"
+    },
+    {
+      "end_timestamp": 809.983,
+      "id": "415b07cd-433c-36d0-aa40-6206ce8813fd",
+      "speaker": null,
+      "start_timestamp": 808.959,
+      "text": "Sunday"
+    },
+    {
+      "end_timestamp": 814.079,
+      "id": "1acf72f7-1f75-3ebd-a740-8756d10c922a",
+      "speaker": null,
+      "start_timestamp": 811.519,
+      "text": "And"
+    },
+    {
+      "end_timestamp": 814.847,
+      "id": "d4dbe373-7306-3ae3-923d-a4606863b612",
+      "speaker": null,
+      "start_timestamp": 814.335,
+      "text": "Subordinate"
+    },
+    {
+      "end_timestamp": 819.199,
+      "id": "b83c7ec4-e140-3e1e-9d35-f54af54185ee",
+      "speaker": null,
+      "start_timestamp": 818.175,
+      "text": "Vajacial"
+    },
+    {
+      "end_timestamp": 822.783,
+      "id": "2a225b6d-4bc6-3bfa-901d-cefb3d32c9e4",
+      "speaker": null,
+      "start_timestamp": 819.455,
+      "text": "Talking about Siri"
+    },
+    {
+      "end_timestamp": 828.927,
+      "id": "382396ad-47c1-37a5-bba4-8c963f82c967",
+      "speaker": null,
+      "start_timestamp": 828.415,
+      "text": "You know what"
+    },
+    {
+      "end_timestamp": 842.239,
+      "id": "d896f227-fba5-3e7c-8f9b-5d9e9a3222a9",
+      "speaker": null,
+      "start_timestamp": 836.607,
+      "text": "From The Middle"
+    },
+    {
+      "end_timestamp": 848.895,
+      "id": "689310f2-683e-30ff-9358-b72441419196",
+      "speaker": null,
+      "start_timestamp": 848.127,
+      "text": "Took over all the way"
+    },
+    {
+      "end_timestamp": 863.487,
+      "id": "9bf34939-b719-39b3-97a4-a2513e32e9ce",
+      "speaker": null,
+      "start_timestamp": 862.975,
+      "text": "Did they"
+    },
+    {
+      "end_timestamp": 893.695,
+      "id": "685f40a4-a16e-3aeb-a244-4048bad252a2",
+      "speaker": null,
+      "start_timestamp": 893.183,
+      "text": "Cool"
+    },
+    {
+      "end_timestamp": 896.255,
+      "id": "92f762de-64cc-3eee-a168-0d80938afbdc",
+      "speaker": null,
+      "start_timestamp": 893.951,
+      "text": "Serious people. People"
+    },
+    {
+      "end_timestamp": 905.727,
+      "id": "cb3d728c-6ee5-3748-a480-f95fc8c4ae97",
+      "speaker": null,
+      "start_timestamp": 903.679,
+      "text": "Cameron"
+    },
+    {
+      "end_timestamp": 911.871,
+      "id": "6ea62d15-992b-339d-b2cd-0b8bc53f3f7e",
+      "speaker": null,
+      "start_timestamp": 905.983,
+      "text": "Instead imagine a bunch of people with rocks just likes"
+    },
+    {
+      "end_timestamp": 924.671,
+      "id": "32879169-a88f-3f7e-bfa3-7dea6739ce81",
+      "speaker": null,
+      "start_timestamp": 918.527,
+      "text": "Oh that's for damn sure"
+    },
+    {
+      "end_timestamp": 926.975,
+      "id": "95e725b5-fea9-3995-a347-3d6a464d5cab",
+      "speaker": null,
+      "start_timestamp": 924.927,
+      "text": "Literally"
+    },
+    {
+      "end_timestamp": 948.223,
+      "id": "b3c014b9-ada3-327f-ae5b-13952418adbe",
+      "speaker": null,
+      "start_timestamp": 943.103,
+      "text": "Initial investment"
+    },
+    {
+      "end_timestamp": 958.207,
+      "id": "7544bd97-59fe-33f6-89fd-2207ff19ea71",
+      "speaker": null,
+      "start_timestamp": 954.879,
+      "text": "Expectation"
+    },
+    {
+      "end_timestamp": 963.839,
+      "id": "d8559740-db2c-3b4d-9a9e-5da2edb9be33",
+      "speaker": null,
+      "start_timestamp": 958.463,
+      "text": "Some sort of a charge for"
+    },
+    {
+      "end_timestamp": 972.287,
+      "id": "be0738eb-28d9-3931-be78-0a71e5678a0a",
+      "speaker": null,
+      "start_timestamp": 966.143,
+      "text": "Real serious real serious"
+    },
+    {
+      "end_timestamp": 976.639,
+      "id": "09ed0de4-d2ed-36ed-96f2-f07fc99a3d74",
+      "speaker": null,
+      "start_timestamp": 974.847,
+      "text": "What about everybody"
+    },
+    {
+      "end_timestamp": 981.503,
+      "id": "287c4282-24a2-3202-a669-fb92fe6d2094",
+      "speaker": null,
+      "start_timestamp": 976.895,
+      "text": "Information"
+    },
+    {
+      "end_timestamp": 1000.191,
+      "id": "2278c2b2-9ce1-3c5e-b00b-7b3ad938d648",
+      "speaker": null,
+      "start_timestamp": 999.167,
+      "text": "Good thing we got it on record"
+    },
+    {
+      "end_timestamp": 1013.503,
+      "id": "9c426707-70b9-321f-89bc-004c38ac0e9a",
+      "speaker": null,
+      "start_timestamp": 1009.919,
+      "text": "Nixon friends"
+    },
+    {
+      "end_timestamp": 1020.927,
+      "id": "68ed0343-55fb-399e-8d81-bbe3f8298c4a",
+      "speaker": null,
+      "start_timestamp": 1017.599,
+      "text": "I don't care"
+    },
+    {
+      "end_timestamp": 1029.119,
+      "id": "d3073316-3358-3b5e-899b-c4dfd1a986f2",
+      "speaker": null,
+      "start_timestamp": 1024.255,
+      "text": "To this with some sort of like agenda"
+    },
+    {
+      "end_timestamp": 1035.519,
+      "id": "9dd82157-dd78-3227-ab96-2ffc88963569",
+      "speaker": null,
+      "start_timestamp": 1029.375,
+      "text": "Source on character about"
+    },
+    {
+      "end_timestamp": 1036.543,
+      "id": "3690325b-33fe-360f-9e7a-a4147959f3b3",
+      "speaker": null,
+      "start_timestamp": 1035.775,
+      "text": "Rodger Stone out of prison"
+    },
+    {
+      "end_timestamp": 1042.175,
+      "id": "d5bc85f3-cf88-3a2e-844c-4253fc995c79",
+      "speaker": null,
+      "start_timestamp": 1038.591,
+      "text": "Every"
+    },
+    {
+      "end_timestamp": 1058.815,
+      "id": "ec9131fa-1dc9-3029-b79e-9083ce366fd6",
+      "speaker": null,
+      "start_timestamp": 1052.671,
+      "text": "46 days until the election"
+    },
+    {
+      "end_timestamp": 1067.519,
+      "id": "3b76561b-d83f-3b72-82cf-caa63a9cd392",
+      "speaker": null,
+      "start_timestamp": 1065.471,
+      "text": "Getting a little closer"
+    },
+    {
+      "end_timestamp": 1077.503,
+      "id": "47230208-37ce-3b9a-a8f6-af76d3feb422",
+      "speaker": null,
+      "start_timestamp": 1076.479,
+      "text": "Motherfuker"
+    },
+    {
+      "end_timestamp": 1079.807,
+      "id": "a8b5f14a-7c78-3cd9-ab11-160f015adc93",
+      "speaker": null,
+      "start_timestamp": 1079.039,
+      "text": "You"
+    },
+    {
+      "end_timestamp": 1086.463,
+      "id": "7b06b39e-69d5-3424-9306-152f1a1830e7",
+      "speaker": null,
+      "start_timestamp": 1085.951,
+      "text": "Sure"
+    },
+    {
+      "end_timestamp": 1114.879,
+      "id": "24716614-8dee-3f07-b728-3e3253a2af31",
+      "speaker": null,
+      "start_timestamp": 1110.271,
+      "text": "About Tony Barrett"
+    },
+    {
+      "end_timestamp": 1118.975,
+      "id": "1572021b-c16e-34b8-b2d0-7220df574570",
+      "speaker": null,
+      "start_timestamp": 1115.135,
+      "text": "Maybe pretend"
+    },
+    {
+      "end_timestamp": 1122.303,
+      "id": "3accfb18-8edd-302e-a682-cd94a24d0a70",
+      "speaker": null,
+      "start_timestamp": 1119.487,
+      "text": "David has the worst decision possible"
+    },
+    {
+      "end_timestamp": 1129.471,
+      "id": "6930e1b2-4d53-34de-8543-46f0b020232d",
+      "speaker": null,
+      "start_timestamp": 1128.959,
+      "text": "The moment"
+    },
+    {
+      "end_timestamp": 1137.663,
+      "id": "536cb19c-bb71-3cad-a662-d44c07906943",
+      "speaker": null,
+      "start_timestamp": 1131.519,
+      "text": "Hours after Ginsburg die"
+    },
+    {
+      "end_timestamp": 1146.111,
+      "id": "51de0a20-0e5d-3b73-adf5-c5ab7136fcd6",
+      "speaker": null,
+      "start_timestamp": 1144.319,
+      "text": "Action"
+    },
+    {
+      "end_timestamp": 1152.255,
+      "id": "95c0a6ae-a086-3cf9-abf8-55be120c3e91",
+      "speaker": null,
+      "start_timestamp": 1146.367,
+      "text": "She's the picture"
+    },
+    {
+      "end_timestamp": 1155.071,
+      "id": "6144cde5-bc7a-326e-abed-79371dddc4ad",
+      "speaker": null,
+      "start_timestamp": 1153.535,
+      "text": "Ginsburg"
+    },
+    {
+      "end_timestamp": 1204.223,
+      "id": "dce7cdf7-6212-393a-b765-15029cecf760",
+      "speaker": null,
+      "start_timestamp": 1198.079,
+      "text": "Call list about using covid-19 takeover s*** is completely made out of"
+    },
+    {
+      "end_timestamp": 1213.951,
+      "id": "b131a5a3-1863-3c71-89d7-db90464819a3",
+      "speaker": null,
+      "start_timestamp": 1209.599,
+      "text": "In February"
+    },
+    {
+      "end_timestamp": 1224.959,
+      "id": "19f5ad00-b26d-3942-abbe-781936dd1280",
+      "speaker": null,
+      "start_timestamp": 1221.119,
+      "text": "Which was hosted by"
+    },
+    {
+      "end_timestamp": 1228.031,
+      "id": "4b92ffe6-321e-33b3-97ea-d2366908a23a",
+      "speaker": null,
+      "start_timestamp": 1225.471,
+      "text": "It was posted online on July 14th"
+    },
+    {
+      "end_timestamp": 1229.055,
+      "id": "04b4d82a-6d17-3ee9-bdb1-8c8d0b2d54a3",
+      "speaker": null,
+      "start_timestamp": 1228.287,
+      "text": "Not in February"
+    },
+    {
+      "end_timestamp": 1233.407,
+      "id": "f2af3ba2-160f-3ce5-a3c2-aa1128ffb5ce",
+      "speaker": null,
+      "start_timestamp": 1229.567,
+      "text": "Groupism"
+    },
+    {
+      "end_timestamp": 1239.807,
+      "id": "0d2a1e08-bb38-3eb4-a1b0-4cd699e7b268",
+      "speaker": null,
+      "start_timestamp": 1233.663,
+      "text": "They're meeting every year in Davos Switzerland"
+    },
+    {
+      "end_timestamp": 1241.087,
+      "id": "c2890518-075b-3e15-89d9-6697b230263b",
+      "speaker": null,
+      "start_timestamp": 1240.063,
+      "text": "You referred to as"
+    },
+    {
+      "end_timestamp": 1250.047,
+      "id": "64c948df-fa78-3f65-ae41-c705087d0864",
+      "speaker": null,
+      "start_timestamp": 1247.743,
+      "text": "Put out this report not Davis because"
+    },
+    {
+      "end_timestamp": 1256.703,
+      "id": "501fda33-8054-3d1e-90a9-255f6fdd81bd",
+      "speaker": null,
+      "start_timestamp": 1250.559,
+      "text": "80%"
+    },
+    {
+      "end_timestamp": 1264.639,
+      "id": "97037a10-bc72-3f97-9a61-fa0a7a9532aa",
+      "speaker": null,
+      "start_timestamp": 1258.495,
+      "text": "Is the name"
+    },
+    {
+      "end_timestamp": 1277.696,
+      "id": "eb5a08be-8f8e-3f44-9bdb-a5ed9447bc69",
+      "speaker": null,
+      "start_timestamp": 1273.343,
+      "text": "Talk about"
+    },
+    {
+      "end_timestamp": 1291.776,
+      "id": "babc7786-936b-3a09-9c61-d06171f71587",
+      "speaker": null,
+      "start_timestamp": 1285.632,
+      "text": "These great reset presentation was released"
+    },
+    {
+      "end_timestamp": 1299.968,
+      "id": "5249c08c-9d10-3bb0-9dd2-b7320c11be7d",
+      "speaker": null,
+      "start_timestamp": 1298.688,
+      "text": "Things are structured"
+    },
+    {
+      "end_timestamp": 1301.76,
+      "id": "3ee40b16-fa84-3ec9-9432-f57da445105e",
+      "speaker": null,
+      "start_timestamp": 1300.224,
+      "text": "Across"
+    },
+    {
+      "end_timestamp": 1308.16,
+      "id": "7bccae13-a155-356b-a6a4-d55a128f5640",
+      "speaker": null,
+      "start_timestamp": 1302.784,
+      "text": "Very wide-ranging"
+    },
+    {
+      "end_timestamp": 1311.744,
+      "id": "6946d713-fcd9-3096-b4e9-9c0ad796383d",
+      "speaker": null,
+      "start_timestamp": 1308.672,
+      "text": "February because that's when he"
+    },
+    {
+      "end_timestamp": 1316.352,
+      "id": "b7c3cf8b-a536-3dac-a1c3-4bd6d42ebabd",
+      "speaker": null,
+      "start_timestamp": 1312.0,
+      "text": "The date"
+    },
+    {
+      "end_timestamp": 1318.144,
+      "id": "8f7b9640-9296-33b2-9e83-09dce8cf5071",
+      "speaker": null,
+      "start_timestamp": 1317.376,
+      "text": "224"
+    },
+    {
+      "end_timestamp": 1329.664,
+      "id": "ab8e8b1a-2369-3fb1-8d66-45feab751b6c",
+      "speaker": null,
+      "start_timestamp": 1328.128,
+      "text": "Intentionally"
+    },
+    {
+      "end_timestamp": 1332.48,
+      "id": "17f2e6ea-b828-3839-ac69-e1feffa82cb1",
+      "speaker": null,
+      "start_timestamp": 1330.176,
+      "text": "Listen to this section"
+    },
+    {
+      "end_timestamp": 1354.752,
+      "id": "626cba57-1852-3130-a3e0-97cb48d63e25",
+      "speaker": null,
+      "start_timestamp": 1351.424,
+      "text": "That he's using"
+    },
+    {
+      "end_timestamp": 1367.808,
+      "id": "0d8b85d2-5a92-3cb6-ab86-202dd70008ff",
+      "speaker": null,
+      "start_timestamp": 1361.664,
+      "text": "Group document"
+    },
+    {
+      "end_timestamp": 1386.24,
+      "id": "85d1a1a8-de95-3c5a-9b66-bcbabfa74253",
+      "speaker": null,
+      "start_timestamp": 1381.632,
+      "text": "Survivor"
+    },
+    {
+      "end_timestamp": 1388.8,
+      "id": "250baef6-e989-363f-9759-f660a88e809b",
+      "speaker": null,
+      "start_timestamp": 1387.264,
+      "text": "I just I just can't"
+    },
+    {
+      "end_timestamp": 1395.2,
+      "id": "81a4f8c1-04ae-3f5f-914b-e907444f32e3",
+      "speaker": null,
+      "start_timestamp": 1390.08,
+      "text": "Is that you can't start and then"
+    },
+    {
+      "end_timestamp": 1403.648,
+      "id": "b4eb25be-0467-30a5-b7a1-6dbbf6aa9f2d",
+      "speaker": null,
+      "start_timestamp": 1398.784,
+      "text": "Mike Adams"
+    },
+    {
+      "end_timestamp": 1410.048,
+      "id": "df1d0cb0-1211-3489-9fc9-0962779eaffd",
+      "speaker": null,
+      "start_timestamp": 1403.904,
+      "text": "To seriously bother Everything is Everything"
+    },
+    {
+      "end_timestamp": 1422.08,
+      "id": "a3e5bf29-5f68-34bb-8cc2-35eca5559c90",
+      "speaker": null,
+      "start_timestamp": 1418.496,
+      "text": "Police officers"
+    },
+    {
+      "end_timestamp": 1423.616,
+      "id": "8732174b-bcf8-38e0-b1dc-8298fec3d7ca",
+      "speaker": null,
+      "start_timestamp": 1422.336,
+      "text": "Who were shot"
+    },
+    {
+      "end_timestamp": 1433.088,
+      "id": "4c8e6715-8971-3851-ba2e-e58a82be8b09",
+      "speaker": null,
+      "start_timestamp": 1431.296,
+      "text": "Story"
+    },
+    {
+      "end_timestamp": 1453.312,
+      "id": "f5232230-1e88-3ec1-98bb-fca2ae2ee09c",
+      "speaker": null,
+      "start_timestamp": 1450.752,
+      "text": "Charade"
+    },
+    {
+      "end_timestamp": 1463.552,
+      "id": "a7c66e2d-2aaa-3e76-a19c-fed3608149da",
+      "speaker": null,
+      "start_timestamp": 1459.968,
+      "text": "WLKY"
+    },
+    {
+      "end_timestamp": 1467.136,
+      "id": "a99b4c38-d4f4-3185-ba70-971420f9cffb",
+      "speaker": null,
+      "start_timestamp": 1463.808,
+      "text": "Charged with 14 counts of wanton endangerment"
+    },
+    {
+      "end_timestamp": 1473.792,
+      "id": "ca412642-0c0e-3e36-ad07-37ec6cfe2a29",
+      "speaker": null,
+      "start_timestamp": 1470.72,
+      "text": "He's $1000000 with that"
+    },
+    {
+      "end_timestamp": 1476.608,
+      "id": "ee682c9a-d0d9-3d8b-8b31-f9d4a67de195",
+      "speaker": null,
+      "start_timestamp": 1474.304,
+      "text": "Games of Discovery chair"
+    },
+    {
+      "end_timestamp": 1482.752,
+      "id": "7f484f91-fea3-38d7-9089-fb9b90edad84",
+      "speaker": null,
+      "start_timestamp": 1476.864,
+      "text": "District attorney"
+    },
+    {
+      "end_timestamp": 1505.28,
+      "id": "cfae0184-3719-3af5-9195-7d94d4eec380",
+      "speaker": null,
+      "start_timestamp": 1501.696,
+      "text": "Tutoring"
+    },
+    {
+      "end_timestamp": 1509.376,
+      "id": "b98e569f-bbf2-3ded-b134-5ba49e49347d",
+      "speaker": null,
+      "start_timestamp": 1505.792,
+      "text": "The narrative in the story only has a weight if you accept the first plan"
+    },
+    {
+      "end_timestamp": 1512.704,
+      "id": "21043357-2b64-3742-bb91-85b5ea74cfb6",
+      "speaker": null,
+      "start_timestamp": 1510.912,
+      "text": "Where's the Second Glance"
+    },
+    {
+      "end_timestamp": 1516.288,
+      "id": "13ef3651-728a-3080-9612-6e5fab139ed4",
+      "speaker": null,
+      "start_timestamp": 1513.216,
+      "text": "Punishment for first-degree assault"
+    },
+    {
+      "end_timestamp": 1522.432,
+      "id": "5e9d1eea-bc93-384c-9449-4464b9975c1e",
+      "speaker": null,
+      "start_timestamp": 1516.544,
+      "text": "Pretty steep"
+    },
+    {
+      "end_timestamp": 1535.232,
+      "id": "a256bae8-ee49-3e4c-abe4-d2e9e3105a9f",
+      "speaker": null,
+      "start_timestamp": 1532.672,
+      "text": "District attorney"
+    },
+    {
+      "end_timestamp": 1539.072,
+      "id": "220e8631-1018-3d18-a458-2530799f2405",
+      "speaker": null,
+      "start_timestamp": 1536.0,
+      "text": "Charges are far more likely"
+    },
+    {
+      "end_timestamp": 1550.848,
+      "id": "6e7efe69-13a0-3668-bc9c-c50be158e5f6",
+      "speaker": null,
+      "start_timestamp": 1544.704,
+      "text": "Conversely it's much harder to understand how it's affected"
+    },
+    {
+      "end_timestamp": 1558.528,
+      "id": "7e07c6f5-ad97-3b43-a9e3-4cf624d89fe7",
+      "speaker": null,
+      "start_timestamp": 1552.384,
+      "text": "This is the sort of thing"
+    },
+    {
+      "end_timestamp": 1567.744,
+      "id": "1d9a52e9-7319-3e9e-b18f-b3819a123cfa",
+      "speaker": null,
+      "start_timestamp": 1567.232,
+      "text": "Refurbished shooter"
+    },
+    {
+      "end_timestamp": 1573.376,
+      "id": "80d27639-3d93-3cad-b6c4-9b574389ad6c",
+      "speaker": null,
+      "start_timestamp": 1568.0,
+      "text": "Responsible for reporting that there are no attempted murder charge"
+    },
+    {
+      "end_timestamp": 1579.776,
+      "id": "32de60e0-a40a-3acf-95f1-760847a089e5",
+      "speaker": null,
+      "start_timestamp": 1573.632,
+      "text": "It's a nice receiving the consequences"
+    },
+    {
+      "end_timestamp": 1586.176,
+      "id": "3b95421b-e92f-3c05-bf7b-7bf82b21adff",
+      "speaker": null,
+      "start_timestamp": 1580.032,
+      "text": "Something that is true but not the line part"
+    },
+    {
+      "end_timestamp": 1589.76,
+      "id": "e5731712-2bef-35ec-b1fe-d7bd8a4be66d",
+      "speaker": null,
+      "start_timestamp": 1588.992,
+      "text": "Athletic"
+    },
+    {
+      "end_timestamp": 1627.136,
+      "id": "8d63dbc9-a5de-3aca-8491-69b641403b1d",
+      "speaker": null,
+      "start_timestamp": 1626.368,
+      "text": "Respond"
+    },
+    {
+      "end_timestamp": 1637.632,
+      "id": "14701c0b-b704-30d1-b6d5-c7e0f81d53e3",
+      "speaker": null,
+      "start_timestamp": 1632.256,
+      "text": "Intellectual"
+    },
+    {
+      "end_timestamp": 1639.424,
+      "id": "0c40cfc5-a503-3838-8323-1489ced8f0e7",
+      "speaker": null,
+      "start_timestamp": 1637.888,
+      "text": "F*** yourself you know what you're doing"
+    },
+    {
+      "end_timestamp": 1647.616,
+      "id": "995d2708-27a1-321f-9e6a-98d52170aa78",
+      "speaker": null,
+      "start_timestamp": 1646.336,
+      "text": "About that"
+    },
+    {
+      "end_timestamp": 1651.968,
+      "id": "7ae1fb62-c06b-3637-b050-5d525ef1339f",
+      "speaker": null,
+      "start_timestamp": 1647.872,
+      "text": "Days of the inauguration"
+    },
+    {
+      "end_timestamp": 1655.296,
+      "id": "31e041a0-793f-340d-aab3-80b36805c5dd",
+      "speaker": null,
+      "start_timestamp": 1652.224,
+      "text": "And that is because we have a new narrative"
+    },
+    {
+      "end_timestamp": 1656.576,
+      "id": "38ba336d-fd1a-32e9-bad1-9cc377e3d421",
+      "speaker": null,
+      "start_timestamp": 1655.808,
+      "text": "It is"
+    },
+    {
+      "end_timestamp": 1658.624,
+      "id": "39ac75cc-eaf4-377d-8efa-7299508b3610",
+      "speaker": null,
+      "start_timestamp": 1657.6,
+      "text": "The time between"
+    },
+    {
+      "end_timestamp": 1663.232,
+      "id": "60bbccfb-c781-3e57-a4bd-0cc75c545a05",
+      "speaker": null,
+      "start_timestamp": 1659.392,
+      "text": "The election inauguration"
+    },
+    {
+      "end_timestamp": 1665.536,
+      "id": "2828d767-d836-380a-86cd-a3f86000d5ce",
+      "speaker": null,
+      "start_timestamp": 1663.488,
+      "text": "Might be the Rapture I don't know"
+    },
+    {
+      "end_timestamp": 1666.304,
+      "id": "dad0f6fb-edef-318e-a6a3-06fb4ad9e786",
+      "speaker": null,
+      "start_timestamp": 1665.792,
+      "text": "Alright"
+    },
+    {
+      "end_timestamp": 1681.92,
+      "id": "39ecd623-e51a-3a6c-985f-d863957b8f98",
+      "speaker": null,
+      "start_timestamp": 1681.152,
+      "text": "Election going"
+    },
+    {
+      "end_timestamp": 1682.688,
+      "id": "af628625-67f4-3e04-a67c-463d23d14c16",
+      "speaker": null,
+      "start_timestamp": 1682.176,
+      "text": "Vermont"
+    },
+    {
+      "end_timestamp": 1697.792,
+      "id": "b67215e5-241e-3e3d-853e-37cb48f8ede0",
+      "speaker": null,
+      "start_timestamp": 1697.024,
+      "text": "Surskit"
+    },
+    {
+      "end_timestamp": 1718.784,
+      "id": "b7c55cc5-5605-325b-a27d-97c434346eb7",
+      "speaker": null,
+      "start_timestamp": 1717.76,
+      "text": "No they're losing"
+    },
+    {
+      "end_timestamp": 1737.728,
+      "id": "395cd38b-ae69-3283-9c5b-bdb5e5dd3414",
+      "speaker": null,
+      "start_timestamp": 1736.96,
+      "text": "Call Aaron"
+    },
+    {
+      "end_timestamp": 1755.648,
+      "id": "96e2e246-78c3-3f8b-9f6a-d3f5a375668e",
+      "speaker": null,
+      "start_timestamp": 1749.504,
+      "text": "Nick Lachey"
+    },
+    {
+      "end_timestamp": 1760.0,
+      "id": "255d7bf3-894b-3a21-9fa1-004c1ed761bd",
+      "speaker": null,
+      "start_timestamp": 1755.904,
+      "text": "Soon or something"
+    },
+    {
+      "end_timestamp": 1767.68,
+      "id": "d1677bdd-6504-3ee7-9ad9-c26af2b20e15",
+      "speaker": null,
+      "start_timestamp": 1761.536,
+      "text": "So I guess"
+    },
+    {
+      "end_timestamp": 1780.224,
+      "id": "c110bc20-1f20-33ae-a0cd-fd485cde97e5",
+      "speaker": null,
+      "start_timestamp": 1774.592,
+      "text": "From getting elected"
+    },
+    {
+      "end_timestamp": 1787.648,
+      "id": "54d5e5ce-532e-36db-bf0f-ebfe443e8c40",
+      "speaker": null,
+      "start_timestamp": 1784.064,
+      "text": "Misrepresented"
+    },
+    {
+      "end_timestamp": 1794.816,
+      "id": "d8cfea3c-9a41-31df-bd3b-655855fdb0b9",
+      "speaker": null,
+      "start_timestamp": 1791.232,
+      "text": "Recording booth"
+    },
+    {
+      "end_timestamp": 1802.752,
+      "id": "9a24144b-bec5-3c25-9328-0a4fb5115519",
+      "speaker": null,
+      "start_timestamp": 1796.608,
+      "text": "When New York Times article about Trump attack"
+    },
+    {
+      "end_timestamp": 1809.152,
+      "id": "f4cc59ba-db02-3b0b-8349-2f2f761b9795",
+      "speaker": null,
+      "start_timestamp": 1803.008,
+      "text": "Forward"
+    },
+    {
+      "end_timestamp": 1814.528,
+      "id": "1388b2aa-828d-39bd-bbeb-5627b5ece32f",
+      "speaker": null,
+      "start_timestamp": 1809.408,
+      "text": "I don't want"
+    },
+    {
+      "end_timestamp": 1815.552,
+      "id": "5c246712-6d24-3222-b5eb-27599dc4d022",
+      "speaker": null,
+      "start_timestamp": 1814.784,
+      "text": "Throw Stone"
+    },
+    {
+      "end_timestamp": 1821.952,
+      "id": "a52352ae-30f5-3a39-961a-59e6cc80b18c",
+      "speaker": null,
+      "start_timestamp": 1815.808,
+      "text": "Trump to do"
+    },
+    {
+      "end_timestamp": 1843.712,
+      "id": "9535703a-46e6-3ff3-967b-b38783a45cad",
+      "speaker": null,
+      "start_timestamp": 1838.592,
+      "text": "Afterwards"
+    },
+    {
+      "end_timestamp": 1856.512,
+      "id": "d3e4f9d3-6b14-32e3-bb2d-af9a93147e40",
+      "speaker": null,
+      "start_timestamp": 1850.368,
+      "text": "We all know the outcome is already decided"
+    },
+    {
+      "end_timestamp": 1859.328,
+      "id": "63605364-f6d0-3056-8679-2172a0eb38ce",
+      "speaker": null,
+      "start_timestamp": 1856.768,
+      "text": "Explanation"
+    },
+    {
+      "end_timestamp": 1861.888,
+      "id": "e1c555da-70bd-3939-8860-3e28c02f993f",
+      "speaker": null,
+      "start_timestamp": 1859.584,
+      "text": "To come out with that ad campaign"
+    },
+    {
+      "end_timestamp": 1908.224,
+      "id": "4adaa2c8-03a2-3fb4-aaa9-4de09f4ee648",
+      "speaker": null,
+      "start_timestamp": 1903.872,
+      "text": "Election"
+    },
+    {
+      "end_timestamp": 1916.928,
+      "id": "044681a5-9b1d-3474-827f-11a943013c25",
+      "speaker": null,
+      "start_timestamp": 1910.784,
+      "text": "He's he's really really trying to push this talking quite hard because"
+    },
+    {
+      "end_timestamp": 1918.976,
+      "id": "0de711d6-05ef-3883-9380-866d83eb4ce0",
+      "speaker": null,
+      "start_timestamp": 1918.208,
+      "text": "Libertarian"
+    },
+    {
+      "end_timestamp": 1923.84,
+      "id": "81c85e03-486b-31a1-8d6f-9b70d56a90ad",
+      "speaker": null,
+      "start_timestamp": 1919.488,
+      "text": "Dictator"
+    },
+    {
+      "end_timestamp": 1936.896,
+      "id": "7bec9624-f3f0-3c65-be3e-fee0494801f3",
+      "speaker": null,
+      "start_timestamp": 1930.752,
+      "text": "You know hey if there's all these protests which are going to destroy city and sure"
+    },
+    {
+      "end_timestamp": 1943.296,
+      "id": "a56e394d-236c-3149-8c60-c0780a4c0c5a",
+      "speaker": null,
+      "start_timestamp": 1937.152,
+      "text": "Call Linda"
+    },
+    {
+      "end_timestamp": 1956.864,
+      "id": "eb4c9da2-49d0-34a3-b0bd-77e91d668d9f",
+      "speaker": null,
+      "start_timestamp": 1956.352,
+      "text": "When the military"
+    },
+    {
+      "end_timestamp": 1980.928,
+      "id": "aec4d53c-fbb9-3642-a602-af9942d3f626",
+      "speaker": null,
+      "start_timestamp": 1980.416,
+      "text": "Jerry"
+    },
+    {
+      "end_timestamp": 1981.696,
+      "id": "a9bf4532-cee1-3de1-b9c6-2883a680af4e",
+      "speaker": null,
+      "start_timestamp": 1981.184,
+      "text": "The Shadow"
+    },
+    {
+      "end_timestamp": 1988.096,
+      "id": "a2c8074b-a2ff-35c0-9042-9f50b335aaa7",
+      "speaker": null,
+      "start_timestamp": 1986.816,
+      "text": "Nothing worth anything"
+    },
+    {
+      "end_timestamp": 2000.64,
+      "id": "e0af0f49-369f-3bac-adf5-89f7fc7e0eef",
+      "speaker": null,
+      "start_timestamp": 2000.128,
+      "text": "What"
+    },
+    {
+      "end_timestamp": 2032.896,
+      "id": "3de9b066-075a-33b1-bda4-8bf4ad5a10e5",
+      "speaker": null,
+      "start_timestamp": 2026.752,
+      "text": "What seems so angry fake stories"
+    },
+    {
+      "end_timestamp": 2039.296,
+      "id": "950f6fc8-dd71-3005-97e5-61a88a13d6eb",
+      "speaker": null,
+      "start_timestamp": 2033.152,
+      "text": "He's with their newspapers and they look."
+    },
+    {
+      "end_timestamp": 2040.576,
+      "id": "d9a28d44-7e92-3aa1-a890-7f4086c4d05a",
+      "speaker": null,
+      "start_timestamp": 2039.552,
+      "text": "Jesus Christ"
+    },
+    {
+      "end_timestamp": 2045.44,
+      "id": "41ef1ce8-965e-3754-9028-2bf5fc335d9a",
+      "speaker": null,
+      "start_timestamp": 2043.904,
+      "text": "God dammit"
+    },
+    {
+      "end_timestamp": 2046.208,
+      "id": "2cc41eaa-a049-3cb7-a4a6-236ed6ad9f92",
+      "speaker": null,
+      "start_timestamp": 2045.696,
+      "text": "Zoe"
+    },
+    {
+      "end_timestamp": 2049.536,
+      "id": "b736fce4-e2cc-367c-9913-e9a6411fa568",
+      "speaker": null,
+      "start_timestamp": 2046.464,
+      "text": "Destroyed"
+    },
+    {
+      "end_timestamp": 2057.728,
+      "id": "4e64e7f2-ec55-39aa-a061-bd53d1829ea9",
+      "speaker": null,
+      "start_timestamp": 2055.68,
+      "text": "Spanky"
+    },
+    {
+      "end_timestamp": 2062.336,
+      "id": "d1acc674-10b0-37d9-a40c-28a662486f7c",
+      "speaker": null,
+      "start_timestamp": 2057.984,
+      "text": "I never should have said anything"
+    },
+    {
+      "end_timestamp": 2070.784,
+      "id": "81bfbced-6512-384b-89ca-18bca21c01d6",
+      "speaker": null,
+      "start_timestamp": 2064.64,
+      "text": "Magical little Counterpoint"
+    },
+    {
+      "end_timestamp": 2084.352,
+      "id": "a433d905-407d-38c9-b45e-ae5f188bf1cb",
+      "speaker": null,
+      "start_timestamp": 2078.208,
+      "text": "That's not fair the part of it though"
+    },
+    {
+      "end_timestamp": 2090.752,
+      "id": "5034ad55-0d29-38f1-a985-b19ba259b936",
+      "speaker": null,
+      "start_timestamp": 2084.608,
+      "text": "Stan"
+    },
+    {
+      "end_timestamp": 2103.296,
+      "id": "7c0cafd1-4213-3a19-974d-5d828cb40256",
+      "speaker": null,
+      "start_timestamp": 2102.272,
+      "text": "Gigantic detail"
+    },
+    {
+      "end_timestamp": 2106.112,
+      "id": "d7d0fb4a-6ebe-32ad-b0ac-7acbaf611815",
+      "speaker": null,
+      "start_timestamp": 2103.552,
+      "text": "I forgot that they're also going to send alligators to eat"
+    },
+    {
+      "end_timestamp": 2111.744,
+      "id": "15e9a345-7b45-3ce2-a548-1816bb5b3de8",
+      "speaker": null,
+      "start_timestamp": 2106.368,
+      "text": "Crocodile"
+    },
+    {
+      "end_timestamp": 2125.568,
+      "id": "e61e17e9-64a5-38c4-a34f-8b31bd721e21",
+      "speaker": null,
+      "start_timestamp": 2119.424,
+      "text": "People Like Us"
+    },
+    {
+      "end_timestamp": 2133.248,
+      "id": "a43ac870-25ad-3c1a-8941-96d23b1505a0",
+      "speaker": null,
+      "start_timestamp": 2129.92,
+      "text": "That's great"
+    },
+    {
+      "end_timestamp": 2134.528,
+      "id": "76959699-5f27-3ffe-9ddb-75c1a97ea4a7",
+      "speaker": null,
+      "start_timestamp": 2133.504,
+      "text": "Different problems"
+    },
+    {
+      "end_timestamp": 2171.392,
+      "id": "03c92bb8-e20c-3610-847b-dfe9d37c92a7",
+      "speaker": null,
+      "start_timestamp": 2168.32,
+      "text": "To have a reason for the"
+    },
+    {
+      "end_timestamp": 2174.976,
+      "id": "9c2b4734-e7ce-3f99-9843-c483e97936e4",
+      "speaker": null,
+      "start_timestamp": 2171.904,
+      "text": "Decision to take longer so they can crash the stock market"
+    },
+    {
+      "end_timestamp": 2188.032,
+      "id": "e2e2c7f5-4d89-3758-ad87-75e38f1d3245",
+      "speaker": null,
+      "start_timestamp": 2183.68,
+      "text": "If you believe anything"
+    },
+    {
+      "end_timestamp": 2194.432,
+      "id": "00c297b4-88e0-3a38-9056-3ff4f9328e7f",
+      "speaker": null,
+      "start_timestamp": 2188.288,
+      "text": "Worked up about whether or not"
+    },
+    {
+      "end_timestamp": 2203.392,
+      "id": "4eaae501-d36c-3de1-8f70-6e7ebc86bddf",
+      "speaker": null,
+      "start_timestamp": 2197.248,
+      "text": "The globalist"
+    },
+    {
+      "end_timestamp": 2211.072,
+      "id": "4dd60480-ae6c-3e6e-bb87-00d9ba4cccd2",
+      "speaker": null,
+      "start_timestamp": 2205.952,
+      "text": "Vaccines"
+    },
+    {
+      "end_timestamp": 2217.472,
+      "id": "dcc17330-afe8-34ea-9b7c-679b465fcb20",
+      "speaker": null,
+      "start_timestamp": 2211.328,
+      "text": "How to twerk"
+    },
+    {
+      "end_timestamp": 2224.64,
+      "id": "53420baa-dfbb-3edf-b41c-7570c04b8a81",
+      "speaker": null,
+      "start_timestamp": 2219.52,
+      "text": "Which is the release of super bio weapons"
+    },
+    {
+      "end_timestamp": 2226.432,
+      "id": "cb71ca35-d195-35d9-9e06-4586e802389c",
+      "speaker": null,
+      "start_timestamp": 2224.896,
+      "text": "The relief"
+    },
+    {
+      "end_timestamp": 2245.632,
+      "id": "959c220b-ee02-329a-8bda-f9fad3f77d12",
+      "speaker": null,
+      "start_timestamp": 2239.488,
+      "text": "The word he says"
+    },
+    {
+      "end_timestamp": 2252.288,
+      "id": "37d4767d-0f6a-38eb-9e23-6c2c232c11e2",
+      "speaker": null,
+      "start_timestamp": 2246.144,
+      "text": "I'm getting another four years means nothing"
+    },
+    {
+      "end_timestamp": 2258.688,
+      "id": "63d2b415-5dc6-3e9f-b712-4c6d75f13d57",
+      "speaker": null,
+      "start_timestamp": 2252.544,
+      "text": "If he threatens our plans at all"
+    },
+    {
+      "end_timestamp": 2261.504,
+      "id": "4064d3ef-391f-3590-9975-0af81ce6764a",
+      "speaker": null,
+      "start_timestamp": 2258.944,
+      "text": "None of it has any effect"
+    },
+    {
+      "end_timestamp": 2266.624,
+      "id": "26d56e1c-485a-3877-a1a1-3b1d7c2c9c75",
+      "speaker": null,
+      "start_timestamp": 2262.272,
+      "text": "Words that came out of his mouth"
+    },
+    {
+      "end_timestamp": 2268.16,
+      "id": "5e1eb739-02f0-3c88-a288-02a89a0c5d61",
+      "speaker": null,
+      "start_timestamp": 2266.88,
+      "text": "For Christian"
+    },
+    {
+      "end_timestamp": 2286.08,
+      "id": "411bc08c-4885-342a-a1d2-b00298e8ec54",
+      "speaker": null,
+      "start_timestamp": 2280.192,
+      "text": "Unreleased world society"
+    },
+    {
+      "end_timestamp": 2299.136,
+      "id": "7432fc99-57c1-317a-ad73-ba7a7202665e",
+      "speaker": null,
+      "start_timestamp": 2296.832,
+      "text": "Display seems like a small"
+    },
+    {
+      "end_timestamp": 2305.024,
+      "id": "2e95ead4-5e18-3727-a6fa-c9ed0a9a0a61",
+      "speaker": null,
+      "start_timestamp": 2299.648,
+      "text": "All about whether or not Trump"
+    },
+    {
+      "end_timestamp": 2317.824,
+      "id": "1a8d4b43-ee3a-33c7-8c36-e7ae1885bcd8",
+      "speaker": null,
+      "start_timestamp": 2317.056,
+      "text": "Bored"
+    },
+    {
+      "end_timestamp": 2339.84,
+      "id": "4ffccd3a-7c59-3ef4-9bf9-99674818b55d",
+      "speaker": null,
+      "start_timestamp": 2333.696,
+      "text": "Having an emotional day"
+    },
+    {
+      "end_timestamp": 2343.424,
+      "id": "b8bf4ded-18fc-362c-bae7-4bbc5c04dbeb",
+      "speaker": null,
+      "start_timestamp": 2340.096,
+      "text": "By way of trash truck"
+    },
+    {
+      "end_timestamp": 2346.496,
+      "id": "f649c88f-ce07-3b11-b580-1a0778746604",
+      "speaker": null,
+      "start_timestamp": 2345.984,
+      "text": "Chris Brown"
+    },
+    {
+      "end_timestamp": 2349.312,
+      "id": "dc27f1f1-4503-3f66-9763-3b760e3f1027",
+      "speaker": null,
+      "start_timestamp": 2346.752,
+      "text": "Trucks"
+    },
+    {
+      "end_timestamp": 2355.712,
+      "id": "25eb850f-b645-3ca9-a2c7-1961a1b876a0",
+      "speaker": null,
+      "start_timestamp": 2349.568,
+      "text": "Hundred percent certainty"
+    },
+    {
+      "end_timestamp": 2359.296,
+      "id": "5833fd6e-c4ab-3361-af59-4b33e38b1b5c",
+      "speaker": null,
+      "start_timestamp": 2355.968,
+      "text": "Next year"
+    },
+    {
+      "end_timestamp": 2368.768,
+      "id": "ad7d2857-7428-35c4-8c99-9338ba66a48d",
+      "speaker": null,
+      "start_timestamp": 2363.392,
+      "text": "What's appreciate"
+    },
+    {
+      "end_timestamp": 2372.352,
+      "id": "ebc84661-a58a-3c2b-8a42-15399378f38e",
+      "speaker": null,
+      "start_timestamp": 2371.328,
+      "text": "It's like nobody"
+    },
+    {
+      "end_timestamp": 2381.056,
+      "id": "cf582b39-13bd-3856-abe5-02ab6153c059",
+      "speaker": null,
+      "start_timestamp": 2374.912,
+      "text": "Murder"
+    },
+    {
+      "end_timestamp": 2388.736,
+      "id": "04a0bac1-4f6e-37a6-8af0-3b6186d8eeca",
+      "speaker": null,
+      "start_timestamp": 2384.64,
+      "text": "A lot of control over a lot of"
+    },
+    {
+      "end_timestamp": 2389.76,
+      "id": "09884fff-17bf-3f5c-b1d5-316b701cc38d",
+      "speaker": null,
+      "start_timestamp": 2389.248,
+      "text": "And"
+    },
+    {
+      "end_timestamp": 2406.656,
+      "id": "63ead8ef-dba5-3c56-9a1a-b7434ac0d9eb",
+      "speaker": null,
+      "start_timestamp": 2400.512,
+      "text": "Yes certainly this is made us all take a lot more of the philosophical Longview like"
+    },
+    {
+      "end_timestamp": 2409.984,
+      "id": "ae7ea734-91e1-393b-9d1e-ca8eb6b194b4",
+      "speaker": null,
+      "start_timestamp": 2406.912,
+      "text": "Generation"
+    },
+    {
+      "end_timestamp": 2411.264,
+      "id": "352a6689-5ba8-3bf7-9f4c-9e6541e1a466",
+      "speaker": null,
+      "start_timestamp": 2410.24,
+      "text": "Obviously"
+    },
+    {
+      "end_timestamp": 2417.664,
+      "id": "6e42c7c5-31c9-3a79-8aa8-2bb5b32c74b4",
+      "speaker": null,
+      "start_timestamp": 2416.64,
+      "text": "Yeah"
+    },
+    {
+      "end_timestamp": 2424.064,
+      "id": "3d70e1f8-c5ca-3074-8da8-48470cf1ce59",
+      "speaker": null,
+      "start_timestamp": 2417.92,
+      "text": "Don't worry about it"
+    },
+    {
+      "end_timestamp": 2435.328,
+      "id": "6ba95c0f-5acd-3a94-8167-b40cc1fcd8db",
+      "speaker": null,
+      "start_timestamp": 2429.184,
+      "text": "I don't have a lot to answer"
+    },
+    {
+      "end_timestamp": 2443.52,
+      "id": "817bd220-f2f7-3d90-accc-095df47fc27f",
+      "speaker": null,
+      "start_timestamp": 2441.728,
+      "text": "It's a real problem because"
+    },
+    {
+      "end_timestamp": 2446.336,
+      "id": "e5660eff-0d3d-3f17-b229-dbb5d9bffa44",
+      "speaker": null,
+      "start_timestamp": 2444.032,
+      "text": "All this should be trivial"
+    },
+    {
+      "end_timestamp": 2449.152,
+      "id": "16aa2e35-3fac-3a4e-a9f9-58ee14ac39a9",
+      "speaker": null,
+      "start_timestamp": 2447.872,
+      "text": "The ultimate"
+    },
+    {
+      "end_timestamp": 2454.272,
+      "id": "abd6ffa2-7795-3f38-8c9f-526b93aa247d",
+      "speaker": null,
+      "start_timestamp": 2449.664,
+      "text": "Is to stop"
+    },
+    {
+      "end_timestamp": 2457.6,
+      "id": "5d344880-0f25-30eb-b803-cba54d254c6d",
+      "speaker": null,
+      "start_timestamp": 2454.784,
+      "text": "You know it's right away cuz evolve then"
+    },
+    {
+      "end_timestamp": 2465.536,
+      "id": "b25817b7-43d6-3260-9a06-6b3d1c13300c",
+      "speaker": null,
+      "start_timestamp": 2464.512,
+      "text": "Prism"
+    },
+    {
+      "end_timestamp": 2468.864,
+      "id": "b4c842d5-f6ff-3891-b00e-131b6f8c8704",
+      "speaker": null,
+      "start_timestamp": 2465.792,
+      "text": "Find Soros and take him out real whatever you know"
+    },
+    {
+      "end_timestamp": 2470.144,
+      "id": "cfb40fde-6a29-3c1d-b606-7bfb8e901cfe",
+      "speaker": null,
+      "start_timestamp": 2469.12,
+      "text": "It's alright"
+    },
+    {
+      "end_timestamp": 2473.728,
+      "id": "08663ffc-5459-34a8-b586-c2a454e992ec",
+      "speaker": null,
+      "start_timestamp": 2472.448,
+      "text": "Is to discuss"
+    },
+    {
+      "end_timestamp": 2483.456,
+      "id": "fcde6999-93ae-31c8-ab86-5b3f02793359",
+      "speaker": null,
+      "start_timestamp": 2477.312,
+      "text": "How do you clean water"
+    },
+    {
+      "end_timestamp": 2493.952,
+      "id": "a35fda15-ad21-3f5f-89bd-dc9edfe4e601",
+      "speaker": null,
+      "start_timestamp": 2491.648,
+      "text": "I don't think it's as profitable"
+    },
+    {
+      "end_timestamp": 2501.12,
+      "id": "7b0eff79-bf3b-3a75-9614-99c73e888b7d",
+      "speaker": null,
+      "start_timestamp": 2494.976,
+      "text": "Binder demon"
+    },
+    {
+      "end_timestamp": 2503.424,
+      "id": "2bad917a-21ed-3d28-a7e0-c5c0d85813ca",
+      "speaker": null,
+      "start_timestamp": 2501.376,
+      "text": "Juice everybody up"
+    },
+    {
+      "end_timestamp": 2525.439,
+      "id": "d3450ae7-e634-301b-ad5b-afdcf79415a5",
+      "speaker": null,
+      "start_timestamp": 2519.295,
+      "text": "Attorney General of New York Township"
+    },
+    {
+      "end_timestamp": 2542.847,
+      "id": "8719ac1d-68b9-3af5-8fb9-75f2f7d50338",
+      "speaker": null,
+      "start_timestamp": 2541.311,
+      "text": "Truly believes that"
+    },
+    {
+      "end_timestamp": 2545.407,
+      "id": "2cb5c2c7-404e-3f5c-88e4-7257e28e3a67",
+      "speaker": null,
+      "start_timestamp": 2544.127,
+      "text": "And all that stuff"
+    },
+    {
+      "end_timestamp": 2557.183,
+      "id": "21202d62-938e-38f3-be61-0c2fb3995b10",
+      "speaker": null,
+      "start_timestamp": 2556.415,
+      "text": "Call Ben"
+    },
+    {
+      "end_timestamp": 2562.047,
+      "id": "59b1ac88-bc3b-3cdd-89cf-59b73cb9ece0",
+      "speaker": null,
+      "start_timestamp": 2558.719,
+      "text": "Stupid"
+    },
+    {
+      "end_timestamp": 2567.935,
+      "id": "bc66c3d4-18fa-315e-bef1-0b8b810e93b2",
+      "speaker": null,
+      "start_timestamp": 2566.655,
+      "text": "For the Supreme Court"
+    },
+    {
+      "end_timestamp": 2572.287,
+      "id": "715394ef-b84a-3a8f-9d10-9af44d1dd7aa",
+      "speaker": null,
+      "start_timestamp": 2568.447,
+      "text": "Alex isn't saying it is a very bad idea"
+    },
+    {
+      "end_timestamp": 2574.591,
+      "id": "10170589-eea9-3f5f-bfd2-17abbdd56997",
+      "speaker": null,
+      "start_timestamp": 2572.799,
+      "text": "Hey got to fall in line"
+    },
+    {
+      "end_timestamp": 2594.047,
+      "id": "575cf918-2e48-38f9-b576-221719aaff25",
+      "speaker": null,
+      "start_timestamp": 2590.975,
+      "text": "Power notes"
+    },
+    {
+      "end_timestamp": 2604.287,
+      "id": "53ad35e3-4110-3cff-8533-67fa79e56ff6",
+      "speaker": null,
+      "start_timestamp": 2598.143,
+      "text": "Obviously"
+    },
+    {
+      "end_timestamp": 2605.567,
+      "id": "e962dcaf-8ec6-3a67-b76e-1feaba9fefcb",
+      "speaker": null,
+      "start_timestamp": 2604.543,
+      "text": "Licker"
+    },
+    {
+      "end_timestamp": 2609.919,
+      "id": "7af9a16b-6c82-336f-ab0d-b720fb25175b",
+      "speaker": null,
+      "start_timestamp": 2609.407,
+      "text": "Cool"
+    },
+    {
+      "end_timestamp": 2616.063,
+      "id": "26d93196-6c96-38fe-997e-45b1af716ab3",
+      "speaker": null,
+      "start_timestamp": 2611.711,
+      "text": "Then"
+    },
+    {
+      "end_timestamp": 2624.255,
+      "id": "33887231-3003-32f2-b9f1-d953f4b188d7",
+      "speaker": null,
+      "start_timestamp": 2618.111,
+      "text": "Then you're saying that you want a Supreme Court Justice"
+    },
+    {
+      "end_timestamp": 2628.607,
+      "id": "96358757-98c9-360b-bb33-7e5b0110da73",
+      "speaker": null,
+      "start_timestamp": 2624.511,
+      "text": "Globalist plant"
+    },
+    {
+      "end_timestamp": 2631.679,
+      "id": "27aada4b-c9a2-3812-b483-d82d9b4faf32",
+      "speaker": null,
+      "start_timestamp": 2630.143,
+      "text": "Strength"
+    },
+    {
+      "end_timestamp": 2638.335,
+      "id": "cf5cf3d9-a3f8-39fc-ab8c-2302a128f642",
+      "speaker": null,
+      "start_timestamp": 2632.191,
+      "text": "For some reason Trump"
+    },
+    {
+      "end_timestamp": 2641.407,
+      "id": "e8f74799-ed98-3e99-85d4-2494df60c60d",
+      "speaker": null,
+      "start_timestamp": 2639.615,
+      "text": "And supporting"
+    },
+    {
+      "end_timestamp": 2643.455,
+      "id": "98dd5083-f8a5-3138-9b0c-02d4ae7c286c",
+      "speaker": null,
+      "start_timestamp": 2641.663,
+      "text": "Globalist plan"
+    },
+    {
+      "end_timestamp": 2653.695,
+      "id": "890bede5-7d79-3dfd-8bfd-50503867edd3",
+      "speaker": null,
+      "start_timestamp": 2652.671,
+      "text": "Buddy"
+    },
+    {
+      "end_timestamp": 2660.607,
+      "id": "048a9df9-832a-3cb2-8933-07175d94b17c",
+      "speaker": null,
+      "start_timestamp": 2654.463,
+      "text": "Now that you think about suggest that isn't a class of"
+    },
+    {
+      "end_timestamp": 2662.911,
+      "id": "aae1dcf7-abd1-307d-9cd9-f6bc3b897e58",
+      "speaker": null,
+      "start_timestamp": 2660.863,
+      "text": "Goodnight everybody"
+    },
+    {
+      "end_timestamp": 2664.447,
+      "id": "6305bca3-628e-3f1c-ac86-452ca429e545",
+      "speaker": null,
+      "start_timestamp": 2663.423,
+      "text": "All of them"
+    },
+    {
+      "end_timestamp": 2667.007,
+      "id": "e4dbdc94-6371-3b4d-aaa0-e0e8931925af",
+      "speaker": null,
+      "start_timestamp": 2665.215,
+      "text": "For summer"
+    },
+    {
+      "end_timestamp": 2668.031,
+      "id": "c9816b52-d09c-3e5b-a705-bbedf7540359",
+      "speaker": null,
+      "start_timestamp": 2667.519,
+      "text": "Well"
+    },
+    {
+      "end_timestamp": 2672.639,
+      "id": "ef245736-b330-3206-95e8-138f8d0c8384",
+      "speaker": null,
+      "start_timestamp": 2668.287,
+      "text": "Going through because"
+    },
+    {
+      "end_timestamp": 2673.407,
+      "id": "c5a6b4d0-7ffd-3c89-9778-4de0204d6878",
+      "speaker": null,
+      "start_timestamp": 2672.895,
+      "text": "Democrat"
+    },
+    {
+      "end_timestamp": 2674.943,
+      "id": "5c1628d9-36b7-3808-b934-f9336632f7d1",
+      "speaker": null,
+      "start_timestamp": 2673.663,
+      "text": "Are clearly again"
+    },
+    {
+      "end_timestamp": 2684.927,
+      "id": "a6aba471-fd8d-3be1-b4b7-c954096afe7d",
+      "speaker": null,
+      "start_timestamp": 2681.087,
+      "text": "She had a lot of ideas"
+    },
+    {
+      "end_timestamp": 2687.231,
+      "id": "38348644-26c3-3d85-b5f6-43cd275ec471",
+      "speaker": null,
+      "start_timestamp": 2685.183,
+      "text": "Sportacus"
+    },
+    {
+      "end_timestamp": 2693.631,
+      "id": "11dab312-65af-322d-b3a5-73ab05d383a9",
+      "speaker": null,
+      "start_timestamp": 2687.487,
+      "text": "Basically just Oppositional defiant"
+    },
+    {
+      "end_timestamp": 2728.447,
+      "id": "1ca23cd2-94db-30df-bdf3-c64e5ebd83b6",
+      "speaker": null,
+      "start_timestamp": 2724.607,
+      "text": "Oh no she's broke"
+    },
+    {
+      "end_timestamp": 2740.991,
+      "id": "0dbc9fdf-0e7c-3972-89a3-67c63968f2b3",
+      "speaker": null,
+      "start_timestamp": 2734.847,
+      "text": "See this is the difference between someone like Alex"
+    },
+    {
+      "end_timestamp": 2747.391,
+      "id": "6c9c6be1-e46f-33f7-9b61-c9cba9062ba2",
+      "speaker": null,
+      "start_timestamp": 2741.247,
+      "text": "Embarrass"
+    },
+    {
+      "end_timestamp": 2760.703,
+      "id": "0d491042-f8c6-3f6f-a0f7-0752f6c25302",
+      "speaker": null,
+      "start_timestamp": 2758.911,
+      "text": "For Supreme Court nomination"
+    },
+    {
+      "end_timestamp": 2767.103,
+      "id": "e40556f4-aad6-3e77-80c4-3471576d5e0d",
+      "speaker": null,
+      "start_timestamp": 2760.959,
+      "text": "It violated some piece of the Damned"
+    },
+    {
+      "end_timestamp": 2769.663,
+      "id": "8427e4e0-4bab-36c0-ab93-e53b3d7ec752",
+      "speaker": null,
+      "start_timestamp": 2767.359,
+      "text": "Or something"
+    },
+    {
+      "end_timestamp": 2773.503,
+      "id": "bc8cd6ec-5d55-3f0f-9668-1e6eaaf0ebbc",
+      "speaker": null,
+      "start_timestamp": 2770.943,
+      "text": "Except in opposition to"
+    },
+    {
+      "end_timestamp": 2788.351,
+      "id": "86c84aee-ebd3-35fb-9fb2-23bd4f9bcd75",
+      "speaker": null,
+      "start_timestamp": 2782.207,
+      "text": "I mean"
+    },
+    {
+      "end_timestamp": 2792.191,
+      "id": "2184cf1c-d8f7-334f-ab25-852942ac9958",
+      "speaker": null,
+      "start_timestamp": 2788.607,
+      "text": "The Reason by everybody"
+    },
+    {
+      "end_timestamp": 2795.007,
+      "id": "092a67eb-8871-3822-a206-ba323820c3fd",
+      "speaker": null,
+      "start_timestamp": 2792.447,
+      "text": "Is there unified in one"
+    },
+    {
+      "end_timestamp": 2797.567,
+      "id": "cc8b7442-7339-3583-a77d-0a5a0418e5d6",
+      "speaker": null,
+      "start_timestamp": 2795.263,
+      "text": "Anything but left like soon"
+    },
+    {
+      "end_timestamp": 2801.919,
+      "id": "9c13759d-d07b-3c42-b12d-53b64234b94c",
+      "speaker": null,
+      "start_timestamp": 2800.127,
+      "text": "About their political position"
+    },
+    {
+      "end_timestamp": 2808.319,
+      "id": "f832b284-f8e6-3384-aad8-2dd3a146057c",
+      "speaker": null,
+      "start_timestamp": 2802.175,
+      "text": "5 blocks"
+    },
+    {
+      "end_timestamp": 2814.719,
+      "id": "a035fafd-0e10-358c-a26a-b9769d02f418",
+      "speaker": null,
+      "start_timestamp": 2808.575,
+      "text": "Anything that they don't mean you have to support it"
+    },
+    {
+      "end_timestamp": 2822.655,
+      "id": "700005f8-4c76-36d8-a4d1-4f113eb945da",
+      "speaker": null,
+      "start_timestamp": 2816.511,
+      "text": "Soros paid all the protesters me run 2019"
+    },
+    {
+      "end_timestamp": 2835.455,
+      "id": "8053fda7-392c-3e97-8031-68f294f3ec39",
+      "speaker": null,
+      "start_timestamp": 2829.567,
+      "text": "Socially responsible"
+    },
+    {
+      "end_timestamp": 2840.831,
+      "id": "b4754718-b958-34b8-881e-3c693a72ff9d",
+      "speaker": null,
+      "start_timestamp": 2839.551,
+      "text": "Black lives matter"
+    },
+    {
+      "end_timestamp": 2842.623,
+      "id": "200bd5b5-bf55-38f7-a2b3-ddababc0f0c1",
+      "speaker": null,
+      "start_timestamp": 2841.087,
+      "text": "Elemento"
+    },
+    {
+      "end_timestamp": 2847.231,
+      "id": "d377e0dd-7e75-326b-ae2c-b93c26db14d7",
+      "speaker": null,
+      "start_timestamp": 2843.135,
+      "text": "Protest"
+    },
+    {
+      "end_timestamp": 2873.087,
+      "id": "ade075eb-6c18-3c2d-b152-e0e9377cbaf7",
+      "speaker": null,
+      "start_timestamp": 2872.319,
+      "text": "Sure whatever"
+    },
+    {
+      "end_timestamp": 2874.879,
+      "id": "980b5d08-9d28-379d-ae33-9ac8debee375",
+      "speaker": null,
+      "start_timestamp": 2873.599,
+      "text": "So for Alex"
+    },
+    {
+      "end_timestamp": 2881.535,
+      "id": "9c4f4037-6f7f-38c8-ad74-994130873598",
+      "speaker": null,
+      "start_timestamp": 2875.391,
+      "text": "There's a position needs to be called artificial"
+    },
+    {
+      "end_timestamp": 2901.759,
+      "id": "f895200b-3424-3ae6-b10b-7d6be5812716",
+      "speaker": null,
+      "start_timestamp": 2897.151,
+      "text": "Because"
+    },
+    {
+      "end_timestamp": 2907.903,
+      "id": "c0975ffb-213b-3bce-8d15-9f46410f9087",
+      "speaker": null,
+      "start_timestamp": 2906.623,
+      "text": "You believe the same thing"
+    },
+    {
+      "end_timestamp": 2914.047,
+      "id": "e0715c70-db8b-3ded-bbcc-915ee46943cb",
+      "speaker": null,
+      "start_timestamp": 2908.159,
+      "text": "Maybe"
+    },
+    {
+      "end_timestamp": 2914.815,
+      "id": "80ce3bbb-cc62-3b3b-b0ca-c77442d15e5c",
+      "speaker": null,
+      "start_timestamp": 2914.303,
+      "text": "Can't really"
+    },
+    {
+      "end_timestamp": 2918.143,
+      "id": "57cf3e57-bb7b-383e-ad11-5cec631cb2bc",
+      "speaker": null,
+      "start_timestamp": 2915.071,
+      "text": "Can't really drive with"
+    },
+    {
+      "end_timestamp": 2923.007,
+      "id": "ee730b5a-1e48-376f-b9fb-e216c66f8667",
+      "speaker": null,
+      "start_timestamp": 2921.727,
+      "text": "Philosophical"
+    },
+    {
+      "end_timestamp": 2927.103,
+      "id": "71f54ffb-943f-33d5-8793-c4e01e3a3a9c",
+      "speaker": null,
+      "start_timestamp": 2925.055,
+      "text": "I think the Democrats are right on this one"
+    },
+    {
+      "end_timestamp": 2930.943,
+      "id": "41379712-35ae-3e1b-992a-742f664d3b18",
+      "speaker": null,
+      "start_timestamp": 2927.359,
+      "text": "Like imagine inside in 2020"
+    },
+    {
+      "end_timestamp": 2933.503,
+      "id": "09fcb5df-c6ab-3399-94c9-dddea564f3d6",
+      "speaker": null,
+      "start_timestamp": 2931.199,
+      "text": "Imagine that"
+    },
+    {
+      "end_timestamp": 2935.039,
+      "id": "2b2964a3-28b1-3d47-91f3-e805bd7239d0",
+      "speaker": null,
+      "start_timestamp": 2934.015,
+      "text": "So"
+    },
+    {
+      "end_timestamp": 2942.463,
+      "id": "0e31e030-910c-3b4d-a534-75e339b9b5f1",
+      "speaker": null,
+      "start_timestamp": 2941.695,
+      "text": "Because"
+    },
+    {
+      "end_timestamp": 2945.023,
+      "id": "806a76b9-fb89-3f9a-ac34-a83ebc4743d1",
+      "speaker": null,
+      "start_timestamp": 2942.719,
+      "text": "I mean you want someone"
+    },
+    {
+      "end_timestamp": 2946.815,
+      "id": "ee67d1e8-917d-39c9-bb0b-5c0da5da9340",
+      "speaker": null,
+      "start_timestamp": 2945.535,
+      "text": "Quran the Quarry"
+    },
+    {
+      "end_timestamp": 2952.447,
+      "id": "1ec5f8ba-269d-3a90-b98c-baf589ebf85f",
+      "speaker": null,
+      "start_timestamp": 2948.095,
+      "text": "Rite Aid got to figure out why the f*** did Trump nominate this person"
+    },
+    {
+      "end_timestamp": 2957.055,
+      "id": "9ed4fea7-b710-3d37-b940-5b5d0a948e38",
+      "speaker": null,
+      "start_timestamp": 2952.703,
+      "text": "She's prorock down and pro-vaccine"
+    },
+    {
+      "end_timestamp": 2972.415,
+      "id": "85e17832-d768-3673-8251-cf106fc37fd6",
+      "speaker": null,
+      "start_timestamp": 2971.903,
+      "text": "Oh yeah"
+    },
+    {
+      "end_timestamp": 2995.455,
+      "id": "920377b9-880f-3ecd-9a9d-77808947c665",
+      "speaker": null,
+      "start_timestamp": 2991.871,
+      "text": "That this is a Federalist Society"
+    },
+    {
+      "end_timestamp": 2999.551,
+      "id": "b1335c78-669d-332b-9d79-79b8f1759c69",
+      "speaker": null,
+      "start_timestamp": 2998.527,
+      "text": "The election"
+    },
+    {
+      "end_timestamp": 3010.815,
+      "id": "bfe5309c-e64f-3500-8e5f-b22d2426e36b",
+      "speaker": null,
+      "start_timestamp": 3010.303,
+      "text": "Brother"
+    },
+    {
+      "end_timestamp": 3017.215,
+      "id": "c3067abb-c53f-32c0-a716-58e1d071199d",
+      "speaker": null,
+      "start_timestamp": 3011.071,
+      "text": "You're the one that told me"
+    },
+    {
+      "end_timestamp": 3024.383,
+      "id": "c3f17c84-5f15-3afb-88f2-f2f055a20e7e",
+      "speaker": null,
+      "start_timestamp": 3021.567,
+      "text": "Response"
+    },
+    {
+      "end_timestamp": 3032.575,
+      "id": "141d2e05-9e6e-3532-a14e-a524e27f35e1",
+      "speaker": null,
+      "start_timestamp": 3030.271,
+      "text": "What else you got"
+    },
+    {
+      "end_timestamp": 3046.143,
+      "id": "16b52e3c-12ed-3eff-8c52-e3a80d152f44",
+      "speaker": null,
+      "start_timestamp": 3039.999,
+      "text": "Pro lockdown pro-vaccine"
+    },
+    {
+      "end_timestamp": 3048.959,
+      "id": "e22411f9-d6a0-3af7-905d-ced9dd6f0c57",
+      "speaker": null,
+      "start_timestamp": 3046.655,
+      "text": "Mandatory vaccine"
+    },
+    {
+      "end_timestamp": 3052.287,
+      "id": "87afec06-eaea-3822-9220-ff22a7985e24",
+      "speaker": null,
+      "start_timestamp": 3049.215,
+      "text": "Because you were told she would hand him"
+    },
+    {
+      "end_timestamp": 3059.711,
+      "id": "cf7622b5-f1a2-397c-8133-7c03f44f5abf",
+      "speaker": null,
+      "start_timestamp": 3053.567,
+      "text": "Because she was part of the bush-gore team which aliver Bush stole"
+    },
+    {
+      "end_timestamp": 3072.511,
+      "id": "75b2d5d9-4852-371a-a525-be94df036e42",
+      "speaker": null,
+      "start_timestamp": 3068.927,
+      "text": "Federalist"
+    },
+    {
+      "end_timestamp": 3079.423,
+      "id": "bf24e594-2392-3206-98ce-8154c5ef9930",
+      "speaker": null,
+      "start_timestamp": 3078.655,
+      "text": "You think"
+    },
+    {
+      "end_timestamp": 3082.751,
+      "id": "8212f1ab-1ab5-3e17-86e0-2ac0057db84b",
+      "speaker": null,
+      "start_timestamp": 3079.679,
+      "text": "If you are born"
+    },
+    {
+      "end_timestamp": 3086.335,
+      "id": "3cfef34a-ca9b-3087-a3e1-da08cf983e17",
+      "speaker": null,
+      "start_timestamp": 3084.031,
+      "text": "Like how can you understand"
+    },
+    {
+      "end_timestamp": 3088.383,
+      "id": "c1203462-9026-3773-9c99-66d467b5302c",
+      "speaker": null,
+      "start_timestamp": 3086.591,
+      "text": "Your guy who's your"
+    },
+    {
+      "end_timestamp": 3090.687,
+      "id": "f30bfb53-865a-3651-8938-a712de4fcabf",
+      "speaker": null,
+      "start_timestamp": 3088.639,
+      "text": "You telling me"
+    },
+    {
+      "end_timestamp": 3093.759,
+      "id": "e0eceb78-c1b6-30c8-ae77-92ada3564e28",
+      "speaker": null,
+      "start_timestamp": 3090.943,
+      "text": "Federalist Society"
+    },
+    {
+      "end_timestamp": 3104.767,
+      "id": "3536da19-a7f9-37b5-a871-7fda9abd12b2",
+      "speaker": null,
+      "start_timestamp": 3103.231,
+      "text": "That these people can visit"
+    },
+    {
+      "end_timestamp": 3105.535,
+      "id": "925ccc6f-ff1c-39ba-80f0-4093e57f2666",
+      "speaker": null,
+      "start_timestamp": 3105.023,
+      "text": "Trump"
+    },
+    {
+      "end_timestamp": 3109.119,
+      "id": "9fe64b8e-684a-37f3-814d-4d33921752cc",
+      "speaker": null,
+      "start_timestamp": 3105.791,
+      "text": "To nominate this person right because of the"
+    },
+    {
+      "end_timestamp": 3115.519,
+      "id": "07c0e1aa-6955-34e4-a07b-3b16afa347e7",
+      "speaker": null,
+      "start_timestamp": 3109.375,
+      "text": "Bush V Gore"
+    },
+    {
+      "end_timestamp": 3120.639,
+      "id": "b7c8d576-20bd-3825-97e2-19d7662e1f84",
+      "speaker": null,
+      "start_timestamp": 3119.103,
+      "text": "Malik"
+    },
+    {
+      "end_timestamp": 3121.663,
+      "id": "12c11c5d-38f2-3343-8f39-1c358304b677",
+      "speaker": null,
+      "start_timestamp": 3120.895,
+      "text": "Is"
+    },
+    {
+      "end_timestamp": 3134.719,
+      "id": "8d303c8b-f6f3-3982-bf82-521e92b48ba7",
+      "speaker": null,
+      "start_timestamp": 3132.415,
+      "text": "In order to stay in power"
+    },
+    {
+      "end_timestamp": 3140.351,
+      "id": "b351a5cb-2bf3-37da-a92f-876b868043f3",
+      "speaker": null,
+      "start_timestamp": 3134.975,
+      "text": "That's not good"
+    },
+    {
+      "end_timestamp": 3153.151,
+      "id": "95fbb6bc-ad08-3bc0-a799-18b5928d2be2",
+      "speaker": null,
+      "start_timestamp": 3147.007,
+      "text": "Everything that you disagree with her about simply because she is"
+    },
+    {
+      "end_timestamp": 3154.175,
+      "id": "4a75e081-2de0-3df5-b1ae-6c592e488c5a",
+      "speaker": null,
+      "start_timestamp": 3153.407,
+      "text": "Wrong with that damn"
+    },
+    {
+      "end_timestamp": 3160.575,
+      "id": "f8cef3ff-4faf-316d-9c2e-920563ce9071",
+      "speaker": null,
+      "start_timestamp": 3154.431,
+      "text": "It's bad I mean it's just"
+    },
+    {
+      "end_timestamp": 3180.543,
+      "id": "3a947ffc-1927-3b28-bfd3-6fed696812c8",
+      "speaker": null,
+      "start_timestamp": 3179.519,
+      "text": "Cupboard"
+    },
+    {
+      "end_timestamp": 3193.343,
+      "id": "d2e19b1f-f6ab-37c7-84cb-a51e3ab1eb32",
+      "speaker": null,
+      "start_timestamp": 3187.199,
+      "text": "Bar was a terrible choice in many"
+    },
+    {
+      "end_timestamp": 3197.183,
+      "id": "2ebb5893-6cc5-3dd5-b8d5-e296873b8773",
+      "speaker": null,
+      "start_timestamp": 3193.599,
+      "text": "Appointed there because he had previously helped"
+    },
+    {
+      "end_timestamp": 3203.583,
+      "id": "c884a1bc-211b-33d9-8b49-e22d7e034798",
+      "speaker": null,
+      "start_timestamp": 3197.439,
+      "text": "Cover up crime"
+    },
+    {
+      "end_timestamp": 3206.143,
+      "id": "ecfb593d-1351-3dc2-9b73-281bfdf6afdf",
+      "speaker": null,
+      "start_timestamp": 3203.839,
+      "text": "Whether she could be another William Barr"
+    },
+    {
+      "end_timestamp": 3215.103,
+      "id": "01a15cf6-d0a1-3f85-bf9d-3317a95e2d23",
+      "speaker": null,
+      "start_timestamp": 3208.959,
+      "text": "Hey this looks like a bad idea"
+    },
+    {
+      "end_timestamp": 3220.991,
+      "id": "4b16a89f-12d6-3482-9dd2-713f420eb7f6",
+      "speaker": null,
+      "start_timestamp": 3217.407,
+      "text": "We have to wrestle with a really difficult in here and that is that"
+    },
+    {
+      "end_timestamp": 3225.599,
+      "id": "b5dc5762-1a1e-3a3b-8134-04868e92773e",
+      "speaker": null,
+      "start_timestamp": 3221.759,
+      "text": "The Koch brothers"
+    },
+    {
+      "end_timestamp": 3231.743,
+      "id": "65ddc244-7ca1-3877-8420-7f035e040b95",
+      "speaker": null,
+      "start_timestamp": 3229.183,
+      "text": "Amy Coney Barrett"
+    },
+    {
+      "end_timestamp": 3234.559,
+      "id": "bd8a088c-da80-3ea8-a336-50e986122907",
+      "speaker": null,
+      "start_timestamp": 3231.999,
+      "text": "This is going to probably piss you off"
+    },
+    {
+      "end_timestamp": 3249.663,
+      "id": "f1e86b28-b307-3339-a7a8-a4a6a1c4460a",
+      "speaker": null,
+      "start_timestamp": 3249.151,
+      "text": "Actually"
+    },
+    {
+      "end_timestamp": 3259.903,
+      "id": "7a79ff40-282b-3c0b-bc14-35cf9b72c7e1",
+      "speaker": null,
+      "start_timestamp": 3256.575,
+      "text": "Wow"
+    },
+    {
+      "end_timestamp": 3267.327,
+      "id": "4fe3bcba-ad10-36ce-a58a-9eb2830a2fd7",
+      "speaker": null,
+      "start_timestamp": 3264.767,
+      "text": "Paisley that makes me shiver"
+    },
+    {
+      "end_timestamp": 3273.727,
+      "id": "9be96450-188e-34cf-a055-778473cbe6a5",
+      "speaker": null,
+      "start_timestamp": 3267.583,
+      "text": "Physically you just took a shot of something weird for the first time"
+    },
+    {
+      "end_timestamp": 3283.711,
+      "id": "6792e947-7798-338b-b4f1-4ec4f4c41aee",
+      "speaker": null,
+      "start_timestamp": 3277.567,
+      "text": "That one was"
+    },
+    {
+      "end_timestamp": 3296.511,
+      "id": "4bb0e9ae-36f3-3ec0-89f2-4606a88d7ef8",
+      "speaker": null,
+      "start_timestamp": 3290.367,
+      "text": "Or whatever"
+    },
+    {
+      "end_timestamp": 3300.607,
+      "id": "45b783dd-3e0b-3997-b613-55f71e97a49b",
+      "speaker": null,
+      "start_timestamp": 3296.767,
+      "text": "Kill me"
+    },
+    {
+      "end_timestamp": 3307.007,
+      "id": "d7ed6a0e-c082-337e-8aa8-12d9557aa765",
+      "speaker": null,
+      "start_timestamp": 3300.863,
+      "text": "Career considering"
+    },
+    {
+      "end_timestamp": 3311.871,
+      "id": "219c3f3f-cc37-3e33-9bdf-3b0da9979645",
+      "speaker": null,
+      "start_timestamp": 3308.031,
+      "text": "And Ron Paul is first president of a way back and then where"
+    },
+    {
+      "end_timestamp": 3316.991,
+      "id": "5d1b327d-adad-3d2a-b46b-84598ec0cfb0",
+      "speaker": null,
+      "start_timestamp": 3312.127,
+      "text": "Cook Brothers bathroom freedomworks Sunday then after fantano"
+    },
+    {
+      "end_timestamp": 3319.039,
+      "id": "6f2dcc9a-4854-3a14-9739-f0091f562e25",
+      "speaker": null,
+      "start_timestamp": 3317.247,
+      "text": "The tea party with you"
+    },
+    {
+      "end_timestamp": 3322.879,
+      "id": "8ac5b95f-e1d3-3821-9314-d15dc784487e",
+      "speaker": null,
+      "start_timestamp": 3321.087,
+      "text": "It's tough to understand how"
+    },
+    {
+      "end_timestamp": 3323.903,
+      "id": "1ef83f97-7cc6-30f2-8c28-02388d0543fe",
+      "speaker": null,
+      "start_timestamp": 3323.135,
+      "text": "Pro-immigration"
+    },
+    {
+      "end_timestamp": 3336.447,
+      "id": "3d53c3cc-5d92-3e88-900f-cb9285d79ad2",
+      "speaker": null,
+      "start_timestamp": 3331.839,
+      "text": "Watching listening to these two guys eat what is clearly a big bulshit"
+    },
+    {
+      "end_timestamp": 3353.087,
+      "id": "e9da89ba-1ef0-372f-b219-0c7c60d581e4",
+      "speaker": null,
+      "start_timestamp": 3346.943,
+      "text": "Honestly"
+    },
+    {
+      "end_timestamp": 3366.143,
+      "id": "7312752c-b8c3-305f-a57d-e255b6e62bfd",
+      "speaker": null,
+      "start_timestamp": 3359.999,
+      "text": "Bad"
+    },
+    {
+      "end_timestamp": 3372.543,
+      "id": "51c66ecf-fb0b-39ce-ae5c-674997199358",
+      "speaker": null,
+      "start_timestamp": 3366.399,
+      "text": "In order to make things"
+    },
+    {
+      "end_timestamp": 3378.943,
+      "id": "924fa450-9880-3c73-bc97-97979592c5f0",
+      "speaker": null,
+      "start_timestamp": 3372.799,
+      "text": "Pretty funny"
+    },
+    {
+      "end_timestamp": 3388.671,
+      "id": "2b5de138-5b4d-336b-9d74-26ad7edc467e",
+      "speaker": null,
+      "start_timestamp": 3382.527,
+      "text": "Leave this in the same position"
+    },
+    {
+      "end_timestamp": 3391.999,
+      "id": "b3016e72-45fe-3110-ba84-3d429b7d916a",
+      "speaker": null,
+      "start_timestamp": 3388.927,
+      "text": "Supreme Court"
+    },
+    {
+      "end_timestamp": 3427.071,
+      "id": "ca317149-f4b9-302e-8e43-dd52b340ce3e",
+      "speaker": null,
+      "start_timestamp": 3422.207,
+      "text": "Adulterated"
+    },
+    {
+      "end_timestamp": 3433.727,
+      "id": "603e6be2-12f8-3efa-ba13-9d51cf894cc2",
+      "speaker": null,
+      "start_timestamp": 3427.583,
+      "text": "The end of it I'm just shivering and angry"
+    },
+    {
+      "end_timestamp": 3456.767,
+      "id": "9f5267e1-58f0-35a6-befb-5e6c90c7285d",
+      "speaker": null,
+      "start_timestamp": 3450.623,
+      "text": "You know that's right"
+    },
+    {
+      "end_timestamp": 3459.839,
+      "id": "8fff8397-0c7a-3a51-9ec6-3c0f7f208110",
+      "speaker": null,
+      "start_timestamp": 3458.303,
+      "text": "Unclear"
+    },
+    {
+      "end_timestamp": 3462.399,
+      "id": "163704eb-716b-31c6-8d23-1dcba04c7e21",
+      "speaker": null,
+      "start_timestamp": 3460.095,
+      "text": "Tumi"
+    },
+    {
+      "end_timestamp": 3469.055,
+      "id": "70218cea-b356-3951-a89f-e72ffea1d10d",
+      "speaker": null,
+      "start_timestamp": 3468.031,
+      "text": "For them"
+    },
+    {
+      "end_timestamp": 3469.823,
+      "id": "8627e820-4519-32ec-8c8c-e4d9202f179d",
+      "speaker": null,
+      "start_timestamp": 3469.311,
+      "text": "2"
+    },
+    {
+      "end_timestamp": 3474.175,
+      "id": "a41f6d73-707b-3c77-90a1-c6a5813666ef",
+      "speaker": null,
+      "start_timestamp": 3471.103,
+      "text": "Nominate end-to-end another Supreme Court Justice"
+    },
+    {
+      "end_timestamp": 3477.503,
+      "id": "3edb778a-b0fe-3fca-9f58-c40a9d627d9f",
+      "speaker": null,
+      "start_timestamp": 3474.687,
+      "text": "Like because if you add Coney Barrett"
+    },
+    {
+      "end_timestamp": 3480.319,
+      "id": "989e4c31-584f-3839-a2ed-d31b19e677ac",
+      "speaker": null,
+      "start_timestamp": 3477.759,
+      "text": "The Supreme Court is so comically"
+    },
+    {
+      "end_timestamp": 3483.135,
+      "id": "36d30009-f796-35ff-a833-dea7aa0db0d1",
+      "speaker": null,
+      "start_timestamp": 3481.855,
+      "text": "There's no point in even having"
+    },
+    {
+      "end_timestamp": 3487.999,
+      "id": "23f79efb-9d0b-3496-9e67-e3cfc9b92f47",
+      "speaker": null,
+      "start_timestamp": 3487.231,
+      "text": "Still"
+    },
+    {
+      "end_timestamp": 3489.791,
+      "id": "6a749114-9d65-301d-a85f-f76e93753723",
+      "speaker": null,
+      "start_timestamp": 3488.255,
+      "text": "What's that mean"
+    },
+    {
+      "end_timestamp": 3495.423,
+      "id": "870a0590-42b8-3e1f-890d-c8352ac08c05",
+      "speaker": null,
+      "start_timestamp": 3490.303,
+      "text": "Even then you know whenever if we elect by and actually work"
+    },
+    {
+      "end_timestamp": 3499.263,
+      "id": "87824be2-3702-3563-82b8-0fd54a82a89b",
+      "speaker": null,
+      "start_timestamp": 3498.239,
+      "text": "Great"
+    },
+    {
+      "end_timestamp": 3502.335,
+      "id": "acc45627-6bd2-3ab6-ae9c-12b310474306",
+      "speaker": null,
+      "start_timestamp": 3499.775,
+      "text": "Supreme Court"
+    },
+    {
+      "end_timestamp": 3507.455,
+      "id": "b0f034f9-4c5b-3254-80a1-61a50f9c2812",
+      "speaker": null,
+      "start_timestamp": 3506.943,
+      "text": "Where"
+    },
+    {
+      "end_timestamp": 3511.295,
+      "id": "929349e1-8299-3eef-8c6c-a121922a44c5",
+      "speaker": null,
+      "start_timestamp": 3507.711,
+      "text": "Tire system"
+    },
+    {
+      "end_timestamp": 3513.087,
+      "id": "a6161143-9c70-3885-bb8b-ce2332058242",
+      "speaker": null,
+      "start_timestamp": 3511.551,
+      "text": "It's not too much different"
+    },
+    {
+      "end_timestamp": 3515.135,
+      "id": "e565530e-b27d-3a3e-99d3-4cd70579fab9",
+      "speaker": null,
+      "start_timestamp": 3513.343,
+      "text": "Tumi"
+    },
+    {
+      "end_timestamp": 3518.207,
+      "id": "3cdb96e6-926e-34e7-811d-8e5ce0f04211",
+      "speaker": null,
+      "start_timestamp": 3515.391,
+      "text": "What's going to or what needs to be done to correct"
+    },
+    {
+      "end_timestamp": 3519.743,
+      "id": "fedf23d2-cbc9-324d-9cef-5f48bdc63201",
+      "speaker": null,
+      "start_timestamp": 3518.463,
+      "text": "Gretna"
+    },
+    {
+      "end_timestamp": 3527.935,
+      "id": "9c848281-e783-3e6b-b312-8ffb5420c071",
+      "speaker": null,
+      "start_timestamp": 3521.791,
+      "text": "What the answer to that these world"
+    },
+    {
+      "end_timestamp": 3533.311,
+      "id": "09520004-c649-3572-a558-2f7ff88859ac",
+      "speaker": null,
+      "start_timestamp": 3532.031,
+      "text": "Ultrabar"
+    },
+    {
+      "end_timestamp": 3539.711,
+      "id": "abb64654-8c0a-36c8-857c-a05d7771d89f",
+      "speaker": null,
+      "start_timestamp": 3533.567,
+      "text": "Amy Coney Barrett somebody who"
+    },
+    {
+      "end_timestamp": 3543.039,
+      "id": "bafc8090-2657-30a7-bbea-ee0761dbcc43",
+      "speaker": null,
+      "start_timestamp": 3540.223,
+      "text": "Prologue"
+    },
+    {
+      "end_timestamp": 3547.647,
+      "id": "77fc72ef-01c1-3b2c-bb3b-0becc92dd224",
+      "speaker": null,
+      "start_timestamp": 3543.295,
+      "text": "He's someone who's highly susceptible to attack from The Fringe right"
+    },
+    {
+      "end_timestamp": 3551.231,
+      "id": "501dd1ce-3b18-3c73-bef5-19c19ec347bc",
+      "speaker": null,
+      "start_timestamp": 3547.903,
+      "text": "There is a possibility"
+    },
+    {
+      "end_timestamp": 3557.631,
+      "id": "d45b8c5e-3d26-3688-8e3d-00a4f1436dc2",
+      "speaker": null,
+      "start_timestamp": 3551.487,
+      "text": "On people who are like Ted Cruz"
+    },
+    {
+      "end_timestamp": 3560.191,
+      "id": "5b5468a8-ca9a-3a86-90e9-7a1e79939621",
+      "speaker": null,
+      "start_timestamp": 3557.887,
+      "text": "Not being able to support her nomination"
+    },
+    {
+      "end_timestamp": 3566.591,
+      "id": "79ec85b0-85af-30f1-baf3-44f03432c937",
+      "speaker": null,
+      "start_timestamp": 3560.447,
+      "text": "Pissing off on crowd"
+    },
+    {
+      "end_timestamp": 3577.343,
+      "id": "4e4a12db-c3a4-3b3e-9b10-0962aaa6c34d",
+      "speaker": null,
+      "start_timestamp": 3576.319,
+      "text": "And we end up with"
+    },
+    {
+      "end_timestamp": 3583.743,
+      "id": "8cfe2346-7f23-3584-85d9-5b415f4dc979",
+      "speaker": null,
+      "start_timestamp": 3577.599,
+      "text": "Getting to the election with an opener"
+    },
+    {
+      "end_timestamp": 3591.679,
+      "id": "aabb508e-1803-3aba-88d5-0a1c537dbfcd",
+      "speaker": null,
+      "start_timestamp": 3590.399,
+      "text": "Probably"
+    },
+    {
+      "end_timestamp": 3593.215,
+      "id": "024b3130-4017-3908-8242-9103b7271d51",
+      "speaker": null,
+      "start_timestamp": 3591.935,
+      "text": "Supreme Court"
+    },
+    {
+      "end_timestamp": 3608.319,
+      "id": "9a70215c-6a42-3847-821b-7e228d8ff651",
+      "speaker": null,
+      "start_timestamp": 3606.783,
+      "text": "And I were at the hearing"
+    },
+    {
+      "end_timestamp": 3612.415,
+      "id": "75e921b4-21e3-3f75-982e-ce9366bb9f40",
+      "speaker": null,
+      "start_timestamp": 3611.647,
+      "text": "More than anything else"
+    },
+    {
+      "end_timestamp": 3622.655,
+      "id": "7ca649b0-ade8-3924-9c06-7d34d4dd3ca2",
+      "speaker": null,
+      "start_timestamp": 3618.559,
+      "text": "A reverse psychology"
+    },
+    {
+      "end_timestamp": 3629.055,
+      "id": "287d90c2-45b4-3e84-92e0-8c73a3b88645",
+      "speaker": null,
+      "start_timestamp": 3622.911,
+      "text": "Like seriously just she believes that the far-right Fringe"
+    },
+    {
+      "end_timestamp": 3633.919,
+      "id": "305e3184-7d08-31b7-9e80-e5f871ffaffc",
+      "speaker": null,
+      "start_timestamp": 3629.311,
+      "text": "Their ship"
+    },
+    {
+      "end_timestamp": 3640.319,
+      "id": "f1304748-82fb-3045-96bb-439d3ea7be68",
+      "speaker": null,
+      "start_timestamp": 3634.175,
+      "text": "But like seriously"
+    },
+    {
+      "end_timestamp": 3658.239,
+      "id": "25075fe4-9c3f-3018-a1d8-4a8e0b2a06c5",
+      "speaker": null,
+      "start_timestamp": 3652.095,
+      "text": "Subway"
+    },
+    {
+      "end_timestamp": 3667.967,
+      "id": "baf39cf2-6bde-32d6-b33d-2367ff8c46ad",
+      "speaker": null,
+      "start_timestamp": 3664.639,
+      "text": "Particularly vulnerable to"
+    },
+    {
+      "end_timestamp": 3677.951,
+      "id": "ca6725a1-6bd5-3a7d-94bb-6f6c7cf3cd23",
+      "speaker": null,
+      "start_timestamp": 3671.807,
+      "text": "It is a tool that the last disposal"
+    },
+    {
+      "end_timestamp": 3680.511,
+      "id": "54f94770-405a-317b-8c0c-28ad49131f9f",
+      "speaker": null,
+      "start_timestamp": 3678.207,
+      "text": "Toodaloo"
+    },
+    {
+      "end_timestamp": 3685.375,
+      "id": "53771f66-d7e7-35a8-9620-c5d5e1b0e66c",
+      "speaker": null,
+      "start_timestamp": 3684.095,
+      "text": "There are a lot of people"
+    },
+    {
+      "end_timestamp": 3699.199,
+      "id": "9e6db025-ee0e-3497-ae67-e07694594b0c",
+      "speaker": null,
+      "start_timestamp": 3693.055,
+      "text": "Clearly saying that they don't like her"
+    },
+    {
+      "end_timestamp": 3705.599,
+      "id": "ae3a8624-f76a-30c8-899c-f571b4aa722f",
+      "speaker": null,
+      "start_timestamp": 3705.087,
+      "text": "For sterile"
+    },
+    {
+      "end_timestamp": 3706.623,
+      "id": "84a89dc5-2d3b-32d5-9dd2-9cb2bfe27baf",
+      "speaker": null,
+      "start_timestamp": 3706.111,
+      "text": "Nations in Topeka"
+    },
+    {
+      "end_timestamp": 3716.095,
+      "id": "56aa7efc-a196-3d96-aa5d-00ad90cb9eeb",
+      "speaker": null,
+      "start_timestamp": 3715.327,
+      "text": "Never issued in America"
+    },
+    {
+      "end_timestamp": 3719.935,
+      "id": "11157b63-bc93-351e-a6ab-0c1dc7987ce4",
+      "speaker": null,
+      "start_timestamp": 3718.911,
+      "text": "Citizens united"
+    },
+    {
+      "end_timestamp": 3737.599,
+      "id": "fa19b059-cd2f-317e-a474-7f1226c5e441",
+      "speaker": null,
+      "start_timestamp": 3737.087,
+      "text": "USA"
+    },
+    {
+      "end_timestamp": 3750.399,
+      "id": "261bcc5f-8a30-3019-b5ff-64d55bb02015",
+      "speaker": null,
+      "start_timestamp": 3748.351,
+      "text": "You selling me on."
+    },
+    {
+      "end_timestamp": 3762.175,
+      "id": "7b3071e5-6daa-3898-9dcc-0489c438581b",
+      "speaker": null,
+      "start_timestamp": 3756.031,
+      "text": "This goes to show"
+    },
+    {
+      "end_timestamp": 3768.575,
+      "id": "ce9a5719-f21a-3e77-b89c-15cf0639fee3",
+      "speaker": null,
+      "start_timestamp": 3762.431,
+      "text": "I don't know cuz I'm not"
+    },
+    {
+      "end_timestamp": 3774.975,
+      "id": "25c7b911-03ff-3471-9e82-f9837bd5556b",
+      "speaker": null,
+      "start_timestamp": 3768.831,
+      "text": "Underline"
+    },
+    {
+      "end_timestamp": 3777.791,
+      "id": "526eca3e-dd69-3079-81b2-86ac275317a1",
+      "speaker": null,
+      "start_timestamp": 3776.255,
+      "text": "Jacobson"
+    },
+    {
+      "end_timestamp": 3784.191,
+      "id": "09b0c365-4d14-3546-8f51-a13f9ea454e4",
+      "speaker": null,
+      "start_timestamp": 3778.047,
+      "text": "Massachusetts"
+    },
+    {
+      "end_timestamp": 3787.519,
+      "id": "8a202df5-db2f-3c3e-aa00-5f2791a89f2f",
+      "speaker": null,
+      "start_timestamp": 3784.447,
+      "text": "Dollars"
+    },
+    {
+      "end_timestamp": 3800.063,
+      "id": "aca15d62-7650-371f-9296-eccd83ca988a",
+      "speaker": null,
+      "start_timestamp": 3799.039,
+      "text": "Not getting vaccinated"
+    },
+    {
+      "end_timestamp": 3801.855,
+      "id": "29dfb81f-9fec-3a98-97d3-07ac7b56c3a5",
+      "speaker": null,
+      "start_timestamp": 3800.319,
+      "text": "They create the public health burden"
+    },
+    {
+      "end_timestamp": 3809.279,
+      "id": "69cd864a-3c6d-3b3c-aa88-46d586d6732f",
+      "speaker": null,
+      "start_timestamp": 3808.511,
+      "text": "Territory"
+    },
+    {
+      "end_timestamp": 3810.815,
+      "id": "dc76a9c6-708e-365e-a345-812667411178",
+      "speaker": null,
+      "start_timestamp": 3809.535,
+      "text": "Forcing people to get"
+    },
+    {
+      "end_timestamp": 3812.863,
+      "id": "977796f6-d471-3be9-93d1-f2b006ac430c",
+      "speaker": null,
+      "start_timestamp": 3811.071,
+      "text": "Vaccines"
+    },
+    {
+      "end_timestamp": 3829.759,
+      "id": "7797210f-29c3-373d-9b0c-dfb25aa29290",
+      "speaker": null,
+      "start_timestamp": 3823.615,
+      "text": "That if you don't get a vaccine"
+    },
+    {
+      "end_timestamp": 3838.463,
+      "id": "48eab95e-66ea-3f58-80d8-58dd065142cb",
+      "speaker": null,
+      "start_timestamp": 3836.927,
+      "text": "Subsequently"
+    },
+    {
+      "end_timestamp": 3845.631,
+      "id": "a5bdf168-de4b-3789-bc52-bfd626afe017",
+      "speaker": null,
+      "start_timestamp": 3839.487,
+      "text": "Yeah"
+    },
+    {
+      "end_timestamp": 3860.991,
+      "id": "8f844bd2-6fb6-39d5-b94a-3d12d73d0ce5",
+      "speaker": null,
+      "start_timestamp": 3857.919,
+      "text": "How succinctly they are making the case"
+    },
+    {
+      "end_timestamp": 3863.039,
+      "id": "182fd4a6-032a-3679-a263-a3557e87eed5",
+      "speaker": null,
+      "start_timestamp": 3861.503,
+      "text": "For not supporting her"
+    },
+    {
+      "end_timestamp": 3866.367,
+      "id": "0e24074c-3486-339a-8f2b-99dadd7babc4",
+      "speaker": null,
+      "start_timestamp": 3863.295,
+      "text": "The same time"
+    },
+    {
+      "end_timestamp": 3868.671,
+      "id": "58c2e9f2-e140-3767-ab11-4c492247f4ad",
+      "speaker": null,
+      "start_timestamp": 3866.623,
+      "text": "F******"
+    },
+    {
+      "end_timestamp": 3870.719,
+      "id": "e5535018-2450-3bed-8e28-11163f2a178a",
+      "speaker": null,
+      "start_timestamp": 3868.927,
+      "text": "Now it gets even weirder"
+    },
+    {
+      "end_timestamp": 3871.743,
+      "id": "0ab29d2a-a393-303e-acc9-f0ec8d793e7c",
+      "speaker": null,
+      "start_timestamp": 3870.975,
+      "text": "Because"
+    },
+    {
+      "end_timestamp": 3878.655,
+      "id": "e617dfe8-c72e-3ff1-8826-e84414748fb0",
+      "speaker": null,
+      "start_timestamp": 3874.303,
+      "text": "This was that"
+    },
+    {
+      "end_timestamp": 3884.543,
+      "id": "2b5a8c46-c47c-3f3c-b51f-16c20d09b666",
+      "speaker": null,
+      "start_timestamp": 3879.167,
+      "text": "I've experienced even on Infowars"
+    },
+    {
+      "end_timestamp": 3886.591,
+      "id": "3bfe5f30-0e04-3c11-bd27-25cca1de2c7e",
+      "speaker": null,
+      "start_timestamp": 3884.799,
+      "text": "Pretzel"
+    },
+    {
+      "end_timestamp": 3904.767,
+      "id": "6d4d3e09-30d1-3722-a168-7e6a354c16e9",
+      "speaker": null,
+      "start_timestamp": 3903.999,
+      "text": "The George Soros"
+    },
+    {
+      "end_timestamp": 3911.935,
+      "id": "2474f429-86bf-38e2-8d46-0770874fa9c4",
+      "speaker": null,
+      "start_timestamp": 3910.655,
+      "text": "That's amazing"
+    },
+    {
+      "end_timestamp": 3912.959,
+      "id": "dec11b96-a2cb-3338-97a9-3c1630309821",
+      "speaker": null,
+      "start_timestamp": 3912.447,
+      "text": "So"
+    },
+    {
+      "end_timestamp": 3917.311,
+      "id": "6a2cd555-731f-3780-bdb1-3819c59d8ea0",
+      "speaker": null,
+      "start_timestamp": 3915.775,
+      "text": "Trump to appoint"
+    },
+    {
+      "end_timestamp": 3918.335,
+      "id": "2f0cfc90-587b-379a-93fb-c711009ffc17",
+      "speaker": null,
+      "start_timestamp": 3917.567,
+      "text": "This lady"
+    },
+    {
+      "end_timestamp": 3921.151,
+      "id": "f9dfd1ae-a672-3888-99fd-79a19fbb7144",
+      "speaker": null,
+      "start_timestamp": 3918.847,
+      "text": "Who is pro-force vaccination"
+    },
+    {
+      "end_timestamp": 3922.431,
+      "id": "0f243743-f9ce-376d-afb6-96008ca1876e",
+      "speaker": null,
+      "start_timestamp": 3921.407,
+      "text": "In order"
+    },
+    {
+      "end_timestamp": 3926.271,
+      "id": "a2be357d-5770-3a87-a077-b7b689c5a1a3",
+      "speaker": null,
+      "start_timestamp": 3923.711,
+      "text": "Vaccination"
+    },
+    {
+      "end_timestamp": 3927.551,
+      "id": "4a5662ad-50e5-3319-a5e0-fe11501bde6c",
+      "speaker": null,
+      "start_timestamp": 3926.527,
+      "text": "So"
+    },
+    {
+      "end_timestamp": 3929.599,
+      "id": "46d43bea-b360-3779-bb9f-fbf1405a4adf",
+      "speaker": null,
+      "start_timestamp": 3928.831,
+      "text": "By himself"
+    },
+    {
+      "end_timestamp": 3935.999,
+      "id": "ec09aebc-a149-3ce8-9c23-ee27fd6459bc",
+      "speaker": null,
+      "start_timestamp": 3929.855,
+      "text": "Make a decision to nominate for the Supreme Court"
+    },
+    {
+      "end_timestamp": 3936.767,
+      "id": "4a983085-16c3-3049-9a71-9784c2365dcf",
+      "speaker": null,
+      "start_timestamp": 3936.255,
+      "text": "To make"
+    },
+    {
+      "end_timestamp": 3942.911,
+      "id": "eb69ca90-fb8f-36c5-9128-aa3e109de52a",
+      "speaker": null,
+      "start_timestamp": 3937.023,
+      "text": "Horse vaccinations"
+    },
+    {
+      "end_timestamp": 3947.775,
+      "id": "b132185a-659c-37c8-a5aa-5eafe2741900",
+      "speaker": null,
+      "start_timestamp": 3943.167,
+      "text": "Supreme Court"
+    },
+    {
+      "end_timestamp": 3959.039,
+      "id": "d0307b15-4374-3271-8546-9cc8796680b7",
+      "speaker": null,
+      "start_timestamp": 3952.895,
+      "text": "This would be like Garland"
+    },
+    {
+      "end_timestamp": 3971.839,
+      "id": "f355d9ad-bc39-3de1-913b-c039a9f98ec8",
+      "speaker": null,
+      "start_timestamp": 3965.695,
+      "text": "In 2016"
+    },
+    {
+      "end_timestamp": 3988.223,
+      "id": "40be1b69-80d2-3b56-93ad-e74ce1a0dec1",
+      "speaker": null,
+      "start_timestamp": 3985.151,
+      "text": "I can't believe"
+    },
+    {
+      "end_timestamp": 3989.503,
+      "id": "46c0ff36-8340-3693-b244-85d902569d60",
+      "speaker": null,
+      "start_timestamp": 3988.479,
+      "text": "Can't believe this"
+    },
+    {
+      "end_timestamp": 3991.551,
+      "id": "60e98490-f4f1-3601-993a-54e53cdd23cf",
+      "speaker": null,
+      "start_timestamp": 3989.759,
+      "text": "You know you want"
+    },
+    {
+      "end_timestamp": 3995.903,
+      "id": "e37eb288-ca5a-3d30-9871-4b41f5e2a2a2",
+      "speaker": null,
+      "start_timestamp": 3991.807,
+      "text": "People to find some Backbone in times of crisis"
+    },
+    {
+      "end_timestamp": 3997.183,
+      "id": "33dba1f8-2b8d-33a9-9fde-110034761f10",
+      "speaker": null,
+      "start_timestamp": 3996.159,
+      "text": "Just a little bit"
+    },
+    {
+      "end_timestamp": 3999.999,
+      "id": "c5c178bb-29c6-3344-9491-3d27f8b39bdc",
+      "speaker": null,
+      "start_timestamp": 3997.695,
+      "text": "From no one"
+    },
+    {
+      "end_timestamp": 4009.727,
+      "id": "0724b267-0905-3c69-8be4-821a9e41bcb9",
+      "speaker": null,
+      "start_timestamp": 4008.703,
+      "text": "Need"
+    },
+    {
+      "end_timestamp": 4015.615,
+      "id": "b4d0fcd2-1e03-3b75-94dd-07434003b4ed",
+      "speaker": null,
+      "start_timestamp": 4011.775,
+      "text": "From the consequences of trump"
+    },
+    {
+      "end_timestamp": 4026.623,
+      "id": "dcd022f0-06bf-3869-8c2b-6235ff2edeb2",
+      "speaker": null,
+      "start_timestamp": 4022.271,
+      "text": "Even worse"
+    },
+    {
+      "end_timestamp": 4044.031,
+      "id": "18b1412c-9c21-32e4-bc96-80cc23d47603",
+      "speaker": null,
+      "start_timestamp": 4042.751,
+      "text": "Interview scenarios"
+    },
+    {
+      "end_timestamp": 4048.383,
+      "id": "aceb353c-a837-329d-b97c-008610cf7966",
+      "speaker": null,
+      "start_timestamp": 4046.079,
+      "text": "Himself"
+    },
+    {
+      "end_timestamp": 4054.015,
+      "id": "16b84435-2065-33f4-95e2-5f086aaba049",
+      "speaker": null,
+      "start_timestamp": 4051.199,
+      "text": "We need Trump"
+    },
+    {
+      "end_timestamp": 4056.063,
+      "id": "ab47e3cd-d9b8-33fa-a215-2007e647a74f",
+      "speaker": null,
+      "start_timestamp": 4054.271,
+      "text": "Used Supreme Court nomination"
+    },
+    {
+      "end_timestamp": 4058.111,
+      "id": "6a6b4710-93c9-3ece-a8bb-594377164d0e",
+      "speaker": null,
+      "start_timestamp": 4056.319,
+      "text": "That you chose to make himself"
+    },
+    {
+      "end_timestamp": 4064.767,
+      "id": "adc0a320-84b7-3ec9-95be-a5b728de05bd",
+      "speaker": null,
+      "start_timestamp": 4058.623,
+      "text": "It's not even making a lesser of two evils making an evil"
+    },
+    {
+      "end_timestamp": 4072.703,
+      "id": "59fb5911-303c-3f8f-a770-18a522291196",
+      "speaker": null,
+      "start_timestamp": 4069.119,
+      "text": "Supreme Court"
+    },
+    {
+      "end_timestamp": 4085.759,
+      "id": "55d95a4f-2ac0-39df-a511-4e5ee6024f01",
+      "speaker": null,
+      "start_timestamp": 4081.919,
+      "text": "You know in the next 4 years"
+    },
+    {
+      "end_timestamp": 4087.039,
+      "id": "8045501a-04f6-35af-905f-6b7a75ed23b7",
+      "speaker": null,
+      "start_timestamp": 4086.015,
+      "text": "We might need"
+    },
+    {
+      "end_timestamp": 4099.583,
+      "id": "156dd440-d70b-3e67-8415-59a54d1e8982",
+      "speaker": null,
+      "start_timestamp": 4093.695,
+      "text": "Bernie Sanders"
+    },
+    {
+      "end_timestamp": 4119.039,
+      "id": "65038302-c10c-39ad-8d4a-b8452bdc4d5e",
+      "speaker": null,
+      "start_timestamp": 4117.759,
+      "text": "As anything other than"
+    },
+    {
+      "end_timestamp": 4123.391,
+      "id": "62020885-90e2-3902-ab3b-bb44eb4cc0d5",
+      "speaker": null,
+      "start_timestamp": 4119.295,
+      "text": "F****** right-wing dingbats"
+    },
+    {
+      "end_timestamp": 4128.511,
+      "id": "5ea8e5fa-1403-3c15-a62c-5e0f504d0088",
+      "speaker": null,
+      "start_timestamp": 4123.647,
+      "text": "Brave"
+    },
+    {
+      "end_timestamp": 4134.911,
+      "id": "fa764809-add4-332e-9fce-3ca84949b7ed",
+      "speaker": null,
+      "start_timestamp": 4128.767,
+      "text": "4"
+    },
+    {
+      "end_timestamp": 4141.823,
+      "id": "044ee3f5-9f26-3f83-8da8-142e6bb534c7",
+      "speaker": null,
+      "start_timestamp": 4137.215,
+      "text": "It's one of those things where I think the right has to be a little disappointed in their dictator"
+    },
+    {
+      "end_timestamp": 4146.943,
+      "id": "707d0e72-e662-3a1d-8f21-1e39d20264d5",
+      "speaker": null,
+      "start_timestamp": 4142.079,
+      "text": "Mussolini"
+    },
+    {
+      "end_timestamp": 4152.575,
+      "id": "8d4b7916-9a4e-38fb-a993-82f2a188f726",
+      "speaker": null,
+      "start_timestamp": 4148.223,
+      "text": "They were they were evil dictators"
+    },
+    {
+      "end_timestamp": 4159.231,
+      "id": "38169d50-f5c3-3cc6-85ce-6abecddec1d3",
+      "speaker": null,
+      "start_timestamp": 4153.087,
+      "text": "Trump doesn't even know how to do barisan dictator"
+    },
+    {
+      "end_timestamp": 4167.679,
+      "id": "e563e0d4-e5c5-3731-b7cd-7b2840e9bad8",
+      "speaker": null,
+      "start_timestamp": 4164.607,
+      "text": "Where it's like you know how you"
+    },
+    {
+      "end_timestamp": 4174.079,
+      "id": "91cf5b79-72b9-3bce-8d72-a1aaddebd2a8",
+      "speaker": null,
+      "start_timestamp": 4167.935,
+      "text": "You made him good"
+    },
+    {
+      "end_timestamp": 4176.383,
+      "id": "9ab54bc7-78df-3b3e-8175-bd47c5198a76",
+      "speaker": null,
+      "start_timestamp": 4175.359,
+      "text": "Barnes about like"
+    },
+    {
+      "end_timestamp": 4178.943,
+      "id": "c5eaa1df-7a80-322d-834c-b9aacdb8e8e1",
+      "speaker": null,
+      "start_timestamp": 4176.639,
+      "text": "You know hey"
+    },
+    {
+      "end_timestamp": 4184.831,
+      "id": "42e311e6-38b5-3ffe-8d05-9ac2041be2fd",
+      "speaker": null,
+      "start_timestamp": 4184.063,
+      "text": "What about you"
+    },
+    {
+      "end_timestamp": 4189.951,
+      "id": "221ad398-89a6-35fc-b479-eef4c5dc30d1",
+      "speaker": null,
+      "start_timestamp": 4189.183,
+      "text": "So weak"
+    },
+    {
+      "end_timestamp": 4191.743,
+      "id": "4e9f846b-0713-38dc-b2fe-23306d0fe50b",
+      "speaker": null,
+      "start_timestamp": 4190.207,
+      "text": "This is just the weakest thing ever"
+    },
+    {
+      "end_timestamp": 4254.463,
+      "id": "21b0f4dd-15d6-3e2b-9de2-434e12ff0fb3",
+      "speaker": null,
+      "start_timestamp": 4253.951,
+      "text": "What"
+    },
+    {
+      "end_timestamp": 4269.311,
+      "id": "e7f307ac-51ec-325c-b5cb-41db5e6dc0b4",
+      "speaker": null,
+      "start_timestamp": 4263.423,
+      "text": "Trump"
+    },
+    {
+      "end_timestamp": 4271.871,
+      "id": "dc5c2de9-f486-3471-bd65-1e61cfa0d2fd",
+      "speaker": null,
+      "start_timestamp": 4270.079,
+      "text": "Is Brentwood"
+    },
+    {
+      "end_timestamp": 4274.431,
+      "id": "5d8c24a1-7824-3633-8476-c4af5e77b970",
+      "speaker": null,
+      "start_timestamp": 4272.383,
+      "text": "How can you eat this much s***"
+    },
+    {
+      "end_timestamp": 4280.575,
+      "id": "60768676-fe41-3168-b7f5-b467f0a95a20",
+      "speaker": null,
+      "start_timestamp": 4274.687,
+      "text": "This is so much eating this much s***"
+    },
+    {
+      "end_timestamp": 4286.975,
+      "id": "39728741-4a70-3b1e-87c2-6b43c6ec17b5",
+      "speaker": null,
+      "start_timestamp": 4280.831,
+      "text": "Tired"
+    },
+    {
+      "end_timestamp": 4293.119,
+      "id": "ec28b9f5-c1b5-3950-8e8a-0bf6d5b2d3ab",
+      "speaker": null,
+      "start_timestamp": 4289.535,
+      "text": "Yeah"
+    },
+    {
+      "end_timestamp": 4303.871,
+      "id": "90e00c18-223d-30fe-ab1b-2dcbd2661dbf",
+      "speaker": null,
+      "start_timestamp": 4303.103,
+      "text": "Exactly"
+    },
+    {
+      "end_timestamp": 4310.271,
+      "id": "1c8e261d-2c51-3077-91e5-3416f744eb3e",
+      "speaker": null,
+      "start_timestamp": 4304.383,
+      "text": "Alex is worried about going to jail Oregon"
+    },
+    {
+      "end_timestamp": 4317.183,
+      "id": "9ca45ee5-27b9-3edf-88e0-85841a4f1dd9",
+      "speaker": null,
+      "start_timestamp": 4315.903,
+      "text": "Position in the market"
+    },
+    {
+      "end_timestamp": 4323.583,
+      "id": "28f74f95-dff7-3100-a107-7e9d2cc59f45",
+      "speaker": null,
+      "start_timestamp": 4317.439,
+      "text": "Surrounding Trump"
+    },
+    {
+      "end_timestamp": 4329.983,
+      "id": "e6b6addd-205f-3699-b111-51f237789fc5",
+      "speaker": null,
+      "start_timestamp": 4323.839,
+      "text": "You know"
+    },
+    {
+      "end_timestamp": 4336.383,
+      "id": "b608aa5b-95e9-3131-b541-e619fced41f0",
+      "speaker": null,
+      "start_timestamp": 4330.239,
+      "text": "Over and over again probably true"
+    },
+    {
+      "end_timestamp": 4354.815,
+      "id": "8f18f1a1-5428-3bca-9ca4-4884ba0ad3c1",
+      "speaker": null,
+      "start_timestamp": 4354.303,
+      "text": "God dammit"
+    },
+    {
+      "end_timestamp": 4367.359,
+      "id": "93454c72-d694-31da-a474-16c15ba4f5da",
+      "speaker": null,
+      "start_timestamp": 4361.215,
+      "text": "Really super viola"
+    },
+    {
+      "end_timestamp": 4370.175,
+      "id": "3edf8369-1c74-3231-9ee9-b1fb5c1f78eb",
+      "speaker": null,
+      "start_timestamp": 4369.151,
+      "text": "Shreveport doesn't matter"
+    },
+    {
+      "end_timestamp": 4379.903,
+      "id": "095a9d77-4df6-3958-8d61-2275acffa597",
+      "speaker": null,
+      "start_timestamp": 4379.135,
+      "text": "And this is it"
+    },
+    {
+      "end_timestamp": 4414.463,
+      "id": "67c89e06-7be3-337d-8e33-65ed5c55fb0d",
+      "speaker": null,
+      "start_timestamp": 4413.183,
+      "text": "Leave a little leftovers there"
+    },
+    {
+      "end_timestamp": 4418.559,
+      "id": "18171c5e-3a8d-3a05-a0a1-49338320cc2c",
+      "speaker": null,
+      "start_timestamp": 4414.719,
+      "text": "And then lick Trump's boots over and over and over again until maybe he uses"
+    },
+    {
+      "end_timestamp": 4421.887,
+      "id": "80c258a6-1296-3430-ae30-15b91ca3c75b",
+      "speaker": null,
+      "start_timestamp": 4418.815,
+      "text": "Smiles at you"
+    },
+    {
+      "end_timestamp": 4428.543,
+      "id": "39d3f78e-4aa8-3830-855e-0f54c55f1681",
+      "speaker": null,
+      "start_timestamp": 4422.399,
+      "text": "But I don't know why"
+    },
+    {
+      "end_timestamp": 4433.663,
+      "id": "3f097554-2c5d-3318-bb4e-023280c54343",
+      "speaker": null,
+      "start_timestamp": 4428.799,
+      "text": "Disgraceful"
+    },
+    {
+      "end_timestamp": 4434.943,
+      "id": "daabd371-9b52-363f-883e-8f34c56131cf",
+      "speaker": null,
+      "start_timestamp": 4433.919,
+      "text": "Almost to like"
+    },
+    {
+      "end_timestamp": 4437.503,
+      "id": "1844c430-66c5-3fa4-8f4e-8aed45d23dfc",
+      "speaker": null,
+      "start_timestamp": 4435.967,
+      "text": "I expect this"
+    },
+    {
+      "end_timestamp": 4442.879,
+      "id": "e129e0ae-bf5c-3463-9a94-53e43d961307",
+      "speaker": null,
+      "start_timestamp": 4440.575,
+      "text": "I expect them to pull out bowls"
+    },
+    {
+      "end_timestamp": 4444.415,
+      "id": "5e98d3fb-2a69-317e-b2d7-af4d5f96691c",
+      "speaker": null,
+      "start_timestamp": 4443.135,
+      "text": "Trump flavored chips"
+    },
+    {
+      "end_timestamp": 4447.231,
+      "id": "f25657ad-dff1-3621-a4ae-3f55af0702f8",
+      "speaker": null,
+      "start_timestamp": 4444.927,
+      "text": "And eat it in front of us because there's no bottom"
+    },
+    {
+      "end_timestamp": 4449.023,
+      "id": "262d3af1-7787-3181-b943-1dc70d478681",
+      "speaker": null,
+      "start_timestamp": 4447.999,
+      "text": "But at the same time"
+    },
+    {
+      "end_timestamp": 4452.863,
+      "id": "c6b90e4c-7953-3753-9e90-792ec84869ad",
+      "speaker": null,
+      "start_timestamp": 4449.535,
+      "text": "How can anyone pull out of a trump flavored kit"
+    },
+    {
+      "end_timestamp": 4454.143,
+      "id": "ef12633d-c978-3573-98c6-2b6a267bd51c",
+      "speaker": null,
+      "start_timestamp": 4453.375,
+      "text": "And not be"
+    },
+    {
+      "end_timestamp": 4460.543,
+      "id": "c1f92273-f716-3689-a87d-ace1eaa9c0dc",
+      "speaker": null,
+      "start_timestamp": 4454.399,
+      "text": "Not have a problem continuing to"
+    },
+    {
+      "end_timestamp": 4463.871,
+      "id": "d6024090-6ec1-3cb6-8d70-5eff79448982",
+      "speaker": null,
+      "start_timestamp": 4460.799,
+      "text": "An argument for why somebody should not be nominated"
+    },
+    {
+      "end_timestamp": 4466.687,
+      "id": "842e9efa-080c-3eb0-859c-2e19721c15f9",
+      "speaker": null,
+      "start_timestamp": 4464.127,
+      "text": "As it's a great choice"
+    },
+    {
+      "end_timestamp": 4467.711,
+      "id": "51d056af-1c98-3544-92d0-4af758df968e",
+      "speaker": null,
+      "start_timestamp": 4466.943,
+      "text": "Is a parrot"
+    },
+    {
+      "end_timestamp": 4497.407,
+      "id": "441b5f7e-534c-3bec-affc-2bbfa7376188",
+      "speaker": null,
+      "start_timestamp": 4494.591,
+      "text": "Ears"
+    },
+    {
+      "end_timestamp": 4500.991,
+      "id": "cef18b3f-9fb3-3a00-8fd6-4462964bb162",
+      "speaker": null,
+      "start_timestamp": 4497.663,
+      "text": "Or why it is parody is because he's"
+    },
+    {
+      "end_timestamp": 4507.647,
+      "id": "83493cd0-cd7f-3537-ad71-5578ec8d15e6",
+      "speaker": null,
+      "start_timestamp": 4501.503,
+      "text": "Literally saying you should vote for this guy because he's in appointing a Supreme Court Justice"
+    },
+    {
+      "end_timestamp": 4509.439,
+      "id": "adb2c691-ced5-33a4-b9ea-2b47c3a027fb",
+      "speaker": null,
+      "start_timestamp": 4507.903,
+      "text": "Who's in favor of killing all of us"
+    },
+    {
+      "end_timestamp": 4515.839,
+      "id": "a48369ca-e6fa-3cd6-8912-0c0cc3bfa8df",
+      "speaker": null,
+      "start_timestamp": 4509.695,
+      "text": "Who is"
+    },
+    {
+      "end_timestamp": 4519.679,
+      "id": "bd981528-bbf0-3b33-bee0-38141f21ff9a",
+      "speaker": null,
+      "start_timestamp": 4516.095,
+      "text": "How do you estimate"
+    }
+  ],
+  "history": {
+    "original_format": "srt",
+    "type": "autosub"
+  }
+}
