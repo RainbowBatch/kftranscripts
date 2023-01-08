@@ -3,680 +3,1709 @@
   "audio_url": "https://traffic.libsyn.com/secure/knowledgefight/TheGrove.mp3",
   "blocks": [
     {
-      "end_timestamp": 18.0,
-      "id": "5948fec1-bc0f-3e18-8c56-c1dd43e0c360",
-      "speaker": "Dan",
-      "start_timestamp": 0.0,
-      "text": "Andy in Kansas, you're on the air. Thanks for holding. Oh, Alex, I'm a first time caller. I'm a huge fan. I love your work. Hey, everybody. Welcome back to knowledge fight. I'm Dan. I'm Jordan. We're a couple dudes who like to sit around drink novelty beverages and talk a little bit about Alex Jones. We've got a little shorty episode for you here today. Oh, do we? Yep, got"
+      "end_timestamp": 2.61,
+      "id": "aec613b7-f716-337b-9624-d91fefeae659",
+      "speaker": "Alex Jones",
+      "start_timestamp": 0,
+      "text": "Andy in Kansas, you're on the air. Thanks for holding."
     },
     {
-      "end_timestamp": 23.0,
-      "id": "05a59846-d016-3e2b-85b0-d2c6fd2a89a9",
+      "end_timestamp": 5.94,
+      "id": "4ca2c914-43f0-3362-843a-4c51136157c0",
+      "speaker": "Andy In Kansas",
+      "start_timestamp": 2.61,
+      "text": "Hello, Alex, I'm a first time caller. I'm a huge fan. I love your work."
+    },
+    {
+      "end_timestamp": 6.46,
+      "id": "89231409-70f9-3c60-bc52-11d0a0c35e34",
+      "speaker": "Alex Jones",
+      "start_timestamp": 5.94,
+      "text": "I love you."
+    },
+    {
+      "end_timestamp": 9.12,
+      "id": "885fb95a-8dbf-3865-9c6e-0d721ba6002d",
+      "speaker": "Dan",
+      "start_timestamp": 6.46,
+      "text": "Hey, everybody. Welcome back to Knowledge fight. I'm Dan."
+    },
+    {
+      "end_timestamp": 9.67,
+      "id": "51b73f1a-561f-30ce-a8e2-c7d6f973dafa",
       "speaker": "Jordan",
-      "start_timestamp": 18.0,
-      "text": "Alawite denying people the three hours that they generally love to sit through."
+      "start_timestamp": 9.12,
+      "text": "I'm Jordan."
     },
     {
-      "end_timestamp": 32.0,
-      "id": "782b8ad9-5ade-35e2-ad51-302205ba3d1b",
+      "end_timestamp": 17.13,
+      "id": "bab2c1f8-0db9-3bc7-bdd4-e27be9e4cde3",
       "speaker": "Dan",
-      "start_timestamp": 23.0,
-      "text": "We are but we'll be back with another episode very shortly. But for today, I wanted to do a little bit of a special thing. A little bit of an Alex Jones. You busted?"
+      "start_timestamp": 9.67,
+      "text": "We're a couple dudes who like to sit around, drink novelty beverages, and talk a little bit about Alex Jones. We've got a little shorty episode for you here today."
     },
     {
-      "end_timestamp": 39.0,
-      "id": "c85f3009-af72-3f4f-90cb-7f108f15bb3c",
+      "end_timestamp": 17.63,
+      "id": "fa4aea17-d605-3551-9464-1d897a79b211",
       "speaker": "Jordan",
-      "start_timestamp": 32.0,
-      "text": "Oh, we got to fool you busted episode. So I don't know how much you rely on cheerleading for you. I just want you to succeed. Dan."
+      "start_timestamp": 17.13,
+      "text": "Oh, do we?"
     },
     {
-      "end_timestamp": 48.0,
-      "id": "0a921949-89f0-3ce0-931d-3722fba4046c",
+      "end_timestamp": 18,
+      "id": "ae00f165-eb6d-36b8-9a40-4891a1bbbde8",
       "speaker": "Dan",
-      "start_timestamp": 39.0,
-      "text": "Thank you. I appreciate that. I like having someone on my team. I don't know. Jordan, how much do you know about Alex Jones his career?"
+      "start_timestamp": 17.63,
+      "text": "Yep, got a little"
     },
     {
-      "end_timestamp": 63.0,
-      "id": "e61e7ae4-e15b-3daa-89cb-93ebe6370935",
+      "end_timestamp": 23,
+      "id": "c148145e-1053-35ef-9b70-fe0a3b08e797",
       "speaker": "Jordan",
-      "start_timestamp": 48.0,
-      "text": "I know that he's been on since at the very least y2k. Sure. And he was, I think killed in the concentration camp at that old abandoned airport at Austin airport."
+      "start_timestamp": 18,
+      "text": "Are we denying people the three hours that they generally love to sit through?"
     },
     {
-      "end_timestamp": 99.0,
-      "id": "76024341-9c1b-3cf6-b902-89f2e5ecf99f",
+      "end_timestamp": 32,
+      "id": "ef8293a9-ffb5-3258-a2b4-181f8fa4664c",
       "speaker": "Dan",
-      "start_timestamp": 63.0,
-      "text": "Yeah, absolutely. Okay. How did he do? The good. Survive the killing? Damn it. So he was on public access TV, which I've looked into us getting a public access TV show how'd it go? Turns out you got to pay a lot for courses Bucha. They make you pay like hundreds of dollars to take TV production classes. And they take like months to complete the ones you need in order to get on TV. But if we just shoot our own videos, they'll put the mic play them. So conceivably, we're"
+      "start_timestamp": 23,
+      "text": "We are but we'll be back with another episode very shortly. But for today, I wanted to do a little bit of a special thing. A little bit of an Alex Jones, Ya Busted."
     },
     {
-      "end_timestamp": 102.0,
-      "id": "633ce146-15f2-3fbf-b3bf-1064cefdb4df",
+      "end_timestamp": 33.77,
+      "id": "4ddb21b4-f949-326c-8457-724f7c3099c8",
       "speaker": "Jordan",
-      "start_timestamp": 99.0,
-      "text": "gonna need we're gonna need a better studio than your bedroom."
+      "start_timestamp": 32,
+      "text": "Oh, we got to full ya busted episode."
     },
     {
-      "end_timestamp": 118.0,
-      "id": "4fd5f500-f6b5-3fe1-bd2d-6d7fce0d670b",
+      "end_timestamp": 35.49,
+      "id": "940ce4c9-cddb-3c58-adcd-24bae4a45ee7",
       "speaker": "Dan",
-      "start_timestamp": 102.0,
-      "text": "So you guys would like to donate to the show. That money may go towards us making a TV show for public access, which would also be on YouTube. That's something we're considering that would be fucking awesome. In the spirit of Alex Jones as early career, we will do public access."
+      "start_timestamp": 33.77,
+      "text": "So I don't know how much you rely on"
     },
     {
-      "end_timestamp": 123.0,
-      "id": "797254c5-4630-3154-9c47-144aaf1e9dc1",
+      "end_timestamp": 39,
+      "id": "68cceb74-6c7c-3a44-b0e1-53e46626db94",
       "speaker": "Jordan",
-      "start_timestamp": 118.0,
-      "text": "I would know, I don't even care. I would love to do public access TV. So"
+      "start_timestamp": 35.49,
+      "text": "I don't know why I'm cheerleading for you. I just want you to succeed, Dan."
     },
     {
-      "end_timestamp": 211.0,
-      "id": "3d3e40f4-79a7-3fdb-b052-838b847288b7",
+      "end_timestamp": 48,
+      "id": "af42b3b3-b0c6-3c90-9a55-3e109a77c58c",
       "speaker": "Dan",
-      "start_timestamp": 123.0,
-      "text": "we would like to do that. And I thank everybody who has donated and we really appreciate it. But if people want to throw down a little something, something we have some projects we want to work on. But anyway, Alex started in public access TV. Then his dentist father talked to one of his patients who was a radio executive and got him a radio job paid for his first AD, the American dream. Alex Jones, his first ad he bought your show, Alex Jones, his first ad that was a contingent part of him getting a radio show was his dad's dental practice. And so that's how he came into being. But he didn't really make it big outside of the Austin market where people thought he was kind of a crazy yeller, because he was yeah, he would go out that hasn't changed. He would go out in public with bull horns and make a big spectacle of himself and scream about banks and what have you, right, that was sort of his modus operandi. And because he was this crazy public figure. That's why Richard Linklater, who was an Austin filmmaker at the time, ended up putting him in waking life and then Scanner Darkly, a little bit down the road where he played characters, very similar to himself crazy. Street Preachers. in waking life. He's a guy yelling in a bullhorn, driving around in a car. And he's got a stretch for him, but he's yelling a bunch of stuff back then that I actually kind of cool with because they're all about human potential and stuff like that. He's screaming about how the indomitable spirit of humanity is great. He just leaves out all the globalists stuff is there"
+      "start_timestamp": 39,
+      "text": "Thank you. I appreciate that. I like having someone on my team. I don't know, Jordan, how much you know about Alex Jones's career?"
     },
     {
-      "end_timestamp": 218.0,
-      "id": "ebd3e475-0301-35f1-ad8e-dfb2e252d536",
+      "end_timestamp": 63,
+      "id": "aba976f3-0286-3560-a60a-8af10bc2cf9b",
       "speaker": "Jordan",
-      "start_timestamp": 211.0,
-      "text": "and and I'm guessing, just going out on that on a limb here? No, no boner pills."
+      "start_timestamp": 48,
+      "text": "I know that he's been on, since at the very least y2k. sure. And he was, I think killed in the concentration camp at that old abandoned airport."
     },
     {
-      "end_timestamp": 242.0,
-      "id": "0360b6e5-e09b-36d3-ac16-96f2632bb9fc",
+      "end_timestamp": 65.43,
+      "id": "5991268e-0bf5-3c15-8c01-1f0e53d4d501",
       "speaker": "Dan",
-      "start_timestamp": 218.0,
-      "text": "No boner pills. At this point. Dr. Group had not developed these. He was probably still getting his PhD and chiropractic at that point. Also, dude, I found a fucking episode where Anthony Gucci rd and Alex Jones have a little bit of a rap session about Doctor group's backstory. Oh boy, and it's fucking crazy. It's like a comic book. I'll give you I'll give you the brief version. Give"
+      "start_timestamp": 63,
+      "text": "That Austin airport? Absolutely."
     },
     {
-      "end_timestamp": 243.0,
-      "id": "6092178a-2595-3c2d-91ef-31a92294eb55",
+      "end_timestamp": 66.96,
+      "id": "6e8b15f2-2101-37c7-bc26-1fd060dba0e3",
       "speaker": "Jordan",
-      "start_timestamp": 242.0,
-      "text": "me some broad strokes. Dr."
+      "start_timestamp": 65.43,
+      "text": "Okay. How did he do?"
     },
     {
-      "end_timestamp": 250.0,
-      "id": "c38fb9e5-a388-3bc0-b38a-6c13098b4c50",
+      "end_timestamp": 70.28,
+      "id": "bddb80d2-d5d5-320e-aec4-63f3dab855e7",
       "speaker": "Dan",
-      "start_timestamp": 243.0,
-      "text": "Group is a crazy Austin, not real doctor doctor. Like I actually think he's based out of Dallas."
+      "start_timestamp": 66.96,
+      "text": "He did good. He survived. Survived the killing."
     },
     {
-      "end_timestamp": 253.0,
-      "id": "d56ffee0-d018-310c-bc7c-568948f0b886",
+      "end_timestamp": 70.93,
+      "id": "c69cb016-ef4f-3d84-a91a-39e89f88da7f",
       "speaker": "Jordan",
-      "start_timestamp": 250.0,
-      "text": "I'm not entirely sure you somewhere in Texas, Texas, Dr. Texas Nandakumar."
+      "start_timestamp": 70.28,
+      "text": "Damn it."
     },
     {
-      "end_timestamp": 295.0,
-      "id": "348b1002-117b-3692-bffc-d5e632f2329b",
+      "end_timestamp": 77.25,
+      "id": "c6e7040d-bdc2-365a-b92f-344e441afaa6",
       "speaker": "Dan",
-      "start_timestamp": 253.0,
-      "text": "He has a place called the Global Healing Institute or whatever. A big Healing Center. Anyway, it's irrelevant. He has a PhD from a chiropractic school, which isn't a real PhD. And he has a bunch of other bullshit degrees on home. Homeopathic medicine. Yeah, that aren't real also, but he has a degree in magic but Anthony Gucci already and Alex have this chat about how Dr. Group is trying to make up for the evils of his father. Apparently abductor groups dad created a bunch of these things that are toxifying the atmosphere. Dr. Group, Dr. Group finds out about this and turns on his dad."
+      "start_timestamp": 70.93,
+      "text": "So he was on public access TV, which I've looked into us getting a public access TV show."
     },
     {
-      "end_timestamp": 300.0,
-      "id": "caddf93d-0228-31ee-88c6-d1fa645ccacc",
+      "end_timestamp": 78.17,
+      "id": "4584218c-9865-3b5c-b3b5-3f64ac20a775",
+      "speaker": "Dan",
+      "start_timestamp": 77.25,
+      "text": "How'd it go?"
+    },
+    {
+      "end_timestamp": 81.23,
+      "id": "b1722000-d3da-3df5-b708-1d91cbc4d4be",
+      "speaker": "Dan",
+      "start_timestamp": 78.17,
+      "text": "Turns out you got to pay a lot for courses"
+    },
+    {
+      "end_timestamp": 81.72,
+      "id": "b413992b-1de5-3d62-8c99-d904ae589c3d",
       "speaker": "Jordan",
-      "start_timestamp": 295.0,
-      "text": "No. No. So he has a Luke Skywalker situation."
+      "start_timestamp": 81.23,
+      "text": "Boooo!"
     },
     {
-      "end_timestamp": 311.0,
-      "id": "87a58b3e-f193-3c60-b1bc-1fddeee0dd8c",
+      "end_timestamp": 99,
+      "id": "61d39d51-77a5-34ba-b57c-4f5966a5a4a6",
       "speaker": "Dan",
-      "start_timestamp": 300.0,
-      "text": "Yeah, so he dedicates his life to creating products that undo the damage that his father has done. It's crazy. It's so crazy."
+      "start_timestamp": 81.72,
+      "text": "They make you pay like hundreds of dollars to take TV production classes. And they take like months to complete the ones you need in order to get on TV. But if we just shoot our own videos, they'll put, they might play them. So conceivably,"
     },
     {
-      "end_timestamp": 330.0,
-      "id": "096492ad-1e91-3d11-980b-5eb758adaf62",
+      "end_timestamp": 102,
+      "id": "e153eca9-c6a6-3232-b88e-689458623a27",
       "speaker": "Jordan",
-      "start_timestamp": 311.0,
-      "text": "So, so his dad was ostensibly a real scientist, probably. And he became a doctor of toner pill. Yeah, exact Boehner juice to defend against the toxicity in the atmosphere created by his evil scientist father."
+      "start_timestamp": 99,
+      "text": "We're gonna need we're gonna need a better studio than your bedroom."
     },
     {
-      "end_timestamp": 392.0,
-      "id": "20bf174b-29ea-382a-b139-c76d77eae593",
+      "end_timestamp": 112.22,
+      "id": "f24e103d-0765-384f-9472-7087bcf6abbe",
       "speaker": "Dan",
-      "start_timestamp": 330.0,
-      "text": "Yeah, it's hard to tell from watching the clip. If this is stuff that they're making up for stuff that they that Dr. Group made up, or if they were smoking weed, with Dr. Group, and he just told them that they're like, Oh, he's so cool. He's so cool. Also, I found evidence from 2015 that Alex Jones is not lying about smoking weed once a year. What that came out in his divorce case, or that's a true thing. He said in court during the custody case that he smokes weed once a year. Now, I knew that I knew that I said the exact same thing and 2015 That's crazy. He says he smoked weed once a year to check in on it to see what's going on with it. See what it does to people. That's crazy. It's like, I don't like weed. Turns out I dry it. I don't like it. It's nuts. It's nuts. That that isn't something that just came out of his mouth. He's been saying that for years. So anyway, Doctor group. All right, point is he's not he's not selling boner pills in waking life. Yes. So that's how he sort of, you know, that's why he's in movies,"
+      "start_timestamp": 102,
+      "text": "So if you guys would like to donate to the show. That money may go towards us making a TV show for public access, which would also be on YouTube. That's something we're considering."
     },
     {
-      "end_timestamp": 397.0,
-      "id": "07a78cec-134e-32c5-86fc-0f8b2ba57b76",
+      "end_timestamp": 113.96000000000001,
+      "id": "846ed1cf-e68f-36a1-a7c4-e808eb6991d2",
       "speaker": "Jordan",
-      "start_timestamp": 392.0,
-      "text": "right? But he's he's a fucking lunatic. And it's fun to listen to a fucking lunatic. Yeah."
+      "start_timestamp": 112.22,
+      "text": "That would be fucking awesome."
     },
     {
-      "end_timestamp": 503.0,
-      "id": "4483ff7f-a32d-3dfb-9682-535babbf56a4",
+      "end_timestamp": 118,
+      "id": "a3ac238b-46bb-3e32-8b2f-53b40240ac1b",
       "speaker": "Dan",
-      "start_timestamp": 397.0,
-      "text": "But the reason that he ever broke through in conspiracy theory communities, and the reason that he got this elevated status as the champion of conspiracies, what made it really break was that he put out a video where he showed breaking into and infiltrating Bohemian Grove, right, in the hills of California. I believe it's in the north, the North Coast area. So anyway, that was in 2000. Allegedly, he infiltrated on July 15 2000. And he made the biggest fucking deal out of it. He made a video, started selling it. This is sort of the beginning of his documentary Empire started getting a lot of attention for it, because it was this mysterious place where powerful people go, and Alex Jones as he sells himself as the only person who's been able to break in, right. And the hallmark of it the big coup de gras is he got footage of the cremation of care ceremony, which is the most famous part of the video. It's the part that everyone who's seen it, it's parfait, remember, because the rest of it's fucking bullshit. It's a video of a giant stone owl, where they burn a figure in effigy. And he portrays it as a satanic ceremony where they're killing a baby. All this shit. Yeah. The realities of the actual ceremony are very different. But we'll get to that in a minute. He presented it as, like, Hey, I went in, snuck in. I went into the den of vipers secret agent style. I went in there with a camera, and I fucking got it. I got it. And they can't deny it. Right. Here's why he's busted."
+      "start_timestamp": 113.96000000000001,
+      "text": "In the spirit of Alex Jones's early career, we will do public access TV!"
     },
     {
-      "end_timestamp": 512.0,
-      "id": "53b536f4-cc78-317d-be2f-9a1e25473f9a",
+      "end_timestamp": 123,
+      "id": "c670de76-cdfa-33e9-b299-6d077f528c94",
       "speaker": "Jordan",
-      "start_timestamp": 503.0,
-      "text": "Oh, no, he's Boston. There's his entire career is based on a lie. Yes, that makes perfect sense. According to all the stuff I know about it. I've done"
+      "start_timestamp": 118,
+      "text": "I would, no, I don't even care. I would love to do public access TV."
     },
     {
-      "end_timestamp": 555.0,
-      "id": "7f68f58b-312c-3319-a451-4ead30b5a399",
+      "end_timestamp": 144.01,
+      "id": "56b951f2-9ad4-3c00-9eb9-66ed4cd625c5",
       "speaker": "Dan",
-      "start_timestamp": 512.0,
-      "text": "a bit of looking into the realities of the situation. And I'm here to say that I don't believe for a second his version of the story. Okay, at all. Okay, so I have posted and I'll put a link to this. I've posted links to some of the videos that are important to the evidence. Some people some internet sleuths have done some really good work on this. Okay. But the more important pieces are Alex Jones claims that he is the one who exposed Bohemian Grove and before that no one knew about and it was the shadowy place where really powerful elites went. And I would like to play this news report from 1981."
+      "start_timestamp": 123,
+      "text": "So we would like to do that. And I thank everybody who has donated and we really appreciate it. But if people want to throw down a little something something, we have some projects we want to work on. But anyway, Alex started in public access TV. Then his dentist father talked to one of his patients, who was a radio executive, and got him a radio job, paid for his first ad,"
     },
     {
-      "end_timestamp": 575.0,
-      "id": "af263c9f-f2c4-3970-a25f-82e258454dd6",
+      "end_timestamp": 145.12,
+      "id": "bfe67b6e-4004-30b7-b82a-6051ed0a5cd4",
+      "speaker": "Jordan",
+      "start_timestamp": 144.01,
+      "text": "The American dream."
+    },
+    {
+      "end_timestamp": 146.34,
+      "id": "fd75c77e-9406-3665-a00b-1a0cf1d346bb",
+      "speaker": "Dan",
+      "start_timestamp": 145.12,
+      "text": "Alex Jones's first ad"
+    },
+    {
+      "end_timestamp": 147.51,
+      "id": "194798f2-daad-329f-85ed-6811d487c823",
+      "speaker": "Jordan",
+      "start_timestamp": 146.34,
+      "text": "Daddy bought you a show,"
+    },
+    {
+      "end_timestamp": 164.27,
+      "id": "c7c10993-1852-3e4d-8f9a-9dfe538a00e7",
+      "speaker": "Dan",
+      "start_timestamp": 147.51,
+      "text": "Alex Jones's first ad, that was a contingent part of him getting a radio show, was his dad's dental practice. And so that's how he came into being. But he didn't really make it big outside of the Austin market where people thought he was kind of a crazy yeller, because he was. yeah. He would go out"
+    },
+    {
+      "end_timestamp": 165.44,
+      "id": "a40c5753-5c18-34d6-aee8-e08bf77e0757",
+      "speaker": "Jordan",
+      "start_timestamp": 164.27,
+      "text": "That hasn't changed."
+    },
+    {
+      "end_timestamp": 195.21,
+      "id": "83e5d534-bfd7-3d08-8977-91ba16c87820",
+      "speaker": "Dan",
+      "start_timestamp": 165.44,
+      "text": "He would go out in public with bull horns and make a big spectacle of himself and scream about banks and what have you. right. That was sort of his modus operandi. And because he was this crazy public figure, that's why Richard Linklater, who was an Austin filmmaker at the time, ended up putting him in Waking Life and then Scanner Darkly, a little bit down the road where he played characters very similar to himself. Crazy street preachers. In Waking Life, he's a guy yelling in a bullhorn, driving around in a car. And he's got"
+    },
+    {
+      "end_timestamp": 196.53,
+      "id": "8ad57ed8-564f-3f1e-a54b-d0f896e5e2c2",
+      "speaker": "Jordan",
+      "start_timestamp": 195.21,
+      "text": "It's a stretch for him."
+    },
+    {
+      "end_timestamp": 211,
+      "id": "5247a2e5-fa1c-3c3f-a879-cbe07eb0fd01",
+      "speaker": "Dan",
+      "start_timestamp": 196.53,
+      "text": "But he's yelling a bunch of stuff back then that I'm actually kind of cool with because they're all about human potential and stuff like that. He's screaming about how the indomitable spirit of humanity is great. He just leaves out all the globalists stuff."
+    },
+    {
+      "end_timestamp": 218,
+      "id": "37b7a58a-97d4-3019-9077-d50c9db375c7",
+      "speaker": "Jordan",
+      "start_timestamp": 211,
+      "text": "Is there, and and I'm guessing, just going out on that, on a limb here? No, no boner pills, huh?"
+    },
+    {
+      "end_timestamp": 242,
+      "id": "b9e1088a-001a-30ec-8f8d-52f5c3ead742",
+      "speaker": "Dan",
+      "start_timestamp": 218,
+      "text": "No boner pills. At this point. Dr. Group had not developed these. He was probably still getting his PhD in chiropracty at that point. Also, dude, I found a fucking episode where Anthony Gucciardi and Alex Jones have a little bit of a rap session about Dr. Group's backstory. oh boy. And it's fucking crazy. It's like a comic book. I'll give you I'll give you the brief version."
+    },
+    {
+      "end_timestamp": 243,
+      "id": "ae589b65-ebe4-3dc9-891f-d88b7d757100",
+      "speaker": "Jordan",
+      "start_timestamp": 242,
+      "text": "Give me some broad strokes."
+    },
+    {
+      "end_timestamp": 251.42,
+      "id": "4a4ef1cb-795c-3d7c-8cde-6d6474e4d058",
+      "speaker": "Dan",
+      "start_timestamp": 243,
+      "text": "Dr. Group is a crazy Austin, not real doctor, doctor. Like I actually think he's based out of Dallas. I'm not entirely sure, he's somewhere in Texas."
+    },
+    {
+      "end_timestamp": 253,
+      "id": "2f6979f9-09dc-3f70-9c96-a55f4b4c4dc1",
+      "speaker": "Jordan",
+      "start_timestamp": 251.42,
+      "text": "Texas doctor. Texas non-doctor doctor."
+    },
+    {
+      "end_timestamp": 257.55,
+      "id": "980a6dde-4aeb-3d85-91a7-c0974ffc179a",
+      "speaker": "Dan",
+      "start_timestamp": 253,
+      "text": "He has a place called the Global Healing Institute or whatever."
+    },
+    {
+      "end_timestamp": 257.91,
+      "id": "97db6e67-a033-3d84-8b7b-31a364fefdc1",
+      "speaker": "Jordan",
+      "start_timestamp": 257.55,
+      "text": "I'm a big fan."
+    },
+    {
+      "end_timestamp": 273.51,
+      "id": "e1759cd3-5ef5-36d5-9194-cf2cfe561f7c",
+      "speaker": "Dan",
+      "start_timestamp": 257.91,
+      "text": "Global Healing Center? Anyway, it's irrelevant. He has a PhD from a chiropracty school, which isn't a real PhD. And he has a bunch of other bullshit degrees on home, homeopathic medicine. yeah. That aren't real also, but..."
+    },
+    {
+      "end_timestamp": 275.26,
+      "id": "d082c1d4-1915-3e54-b421-5466471da492",
+      "speaker": "Jordan",
+      "start_timestamp": 273.51,
+      "text": "He has a degree in magic."
+    },
+    {
+      "end_timestamp": 295,
+      "id": "7a6e7e31-df9e-3183-aac1-a65a3feaee10",
+      "speaker": "Dan",
+      "start_timestamp": 275.26,
+      "text": "--but Anthony Gucciardi and Alex have this chat about how Dr. Group is trying to make up for the evils of his father. Apparently Dr. Group's dad created a bunch of these things that are toxifying the atmosphere. Dr. Group, Dr. Group finds out about this and turns on his dad."
+    },
+    {
+      "end_timestamp": 300,
+      "id": "524f63ff-9eae-336e-91c7-ced6e896a998",
+      "speaker": "Jordan",
+      "start_timestamp": 295,
+      "text": "No. No. So this is a Luke Skywalker situation?"
+    },
+    {
+      "end_timestamp": 311,
+      "id": "f642482f-df51-3091-97ae-44812cc6680e",
+      "speaker": "Dan",
+      "start_timestamp": 300,
+      "text": "Yeah, so he dedicates his life to creating products that undo the damage that his father has done to humanity! It's crazy. It's so crazy."
+    },
+    {
+      "end_timestamp": 315.38,
+      "id": "b58879d9-e060-3e69-acbf-b1dfaaa3b3f1",
+      "speaker": "Jordan",
+      "start_timestamp": 311,
+      "text": "So, so his dad was ostensibly a real scientist."
+    },
+    {
+      "end_timestamp": 316.29,
+      "id": "0430d999-c3fa-3b59-a227-60cdb608e19b",
+      "speaker": "Dan",
+      "start_timestamp": 315.38,
+      "text": "Probably."
+    },
+    {
+      "end_timestamp": 318.66,
+      "id": "94cb261c-7c7a-30e8-8d5b-95fd4266178c",
+      "speaker": "Jordan",
+      "start_timestamp": 316.29,
+      "text": "And he became a doctor of"
+    },
+    {
+      "end_timestamp": 319.93,
+      "id": "783d3cd0-3415-3ff3-991d-67e41a4b0b14",
+      "speaker": "Dan",
+      "start_timestamp": 318.66,
+      "text": "Boner pills."
+    },
+    {
+      "end_timestamp": 321.26,
+      "id": "6465878d-cc43-373b-9a44-f63dd322ad42",
+      "speaker": "Jordan",
+      "start_timestamp": 319.93,
+      "text": "Yeah, exactly."
+    },
+    {
+      "end_timestamp": 322.41,
+      "id": "4bc3e664-8e0b-3b9d-8efc-460ad5e6b85a",
+      "speaker": "Dan",
+      "start_timestamp": 321.26,
+      "text": "Boner juice."
+    },
+    {
+      "end_timestamp": 330,
+      "id": "3c759262-a4dc-3129-89dd-ed0b73feeffe",
+      "speaker": "Jordan",
+      "start_timestamp": 322.41,
+      "text": "To defend against the toxicity in the atmosphere created by his evil scientist father."
+    },
+    {
+      "end_timestamp": 335.2,
+      "id": "4a8ef5ae-e64a-3363-b034-4c70d3dc73b8",
+      "speaker": "Dan",
+      "start_timestamp": 330,
+      "text": "Yeah, it's hard to tell from watching the clip if this is stuff that they're making up..."
+    },
+    {
+      "end_timestamp": 337.83,
+      "id": "c4f03c01-cde8-35b4-a87c-bfb34bf8af7c",
+      "speaker": "Jordan",
+      "start_timestamp": 335.2,
+      "text": "Or stuff that they, that Dr. Group made up?"
+    },
+    {
+      "end_timestamp": 350.69,
+      "id": "0e77a9a3-d135-3249-8743-f22bb4990ee5",
+      "speaker": "Dan",
+      "start_timestamp": 337.83,
+      "text": "--or if they were smoking weed, with Dr. Group, and he just told them that they're like, Oh, he's so cool. He's so cool. Also, I found evidence from 2015 that Alex Jones is not lying about smoking weed once a year."
+    },
+    {
+      "end_timestamp": 351.05,
+      "id": "07222e7f-820d-32c9-a38c-9cd407d32ae5",
+      "speaker": "Jordan",
+      "start_timestamp": 350.69,
+      "text": "What?!"
+    },
+    {
+      "end_timestamp": 353.13,
+      "id": "c9bf64da-4d50-3ff4-afea-5d3cdd7b9a1d",
+      "speaker": "Dan",
+      "start_timestamp": 351.05,
+      "text": "That came out in his divorce case,"
+    },
+    {
+      "end_timestamp": 354.73,
+      "id": "7a05e715-79d9-32e3-b59c-6220b36320c6",
+      "speaker": "Jordan",
+      "start_timestamp": 353.13,
+      "text": "Wait, that's a true thing?"
+    },
+    {
+      "end_timestamp": 359.12,
+      "id": "a84a9504-d7ca-3e4c-83f6-aadcd1eacf4f",
+      "speaker": "Dan",
+      "start_timestamp": 354.73,
+      "text": "He said in court during the custody case that he smokes weed once a year."
+    },
+    {
+      "end_timestamp": 360.83,
+      "id": "749c1e6b-9a13-3d17-9761-12400630de29",
+      "speaker": "Jordan",
+      "start_timestamp": 359.12,
+      "text": "No, I knew that. I knew that."
+    },
+    {
+      "end_timestamp": 363.08,
+      "id": "f4c82483-62fd-3b11-8d2a-5314eaa0657e",
+      "speaker": "Dan",
+      "start_timestamp": 360.83,
+      "text": "He said the exact same thing in 2015."
+    },
+    {
+      "end_timestamp": 363.9,
+      "id": "6406b438-bc09-3a8d-8496-e9f6f87f1530",
+      "speaker": "Jordan",
+      "start_timestamp": 363.08,
+      "text": "That's crazy."
+    },
+    {
+      "end_timestamp": 370.59,
+      "id": "16827d55-5148-3ff8-b152-0040d5ed5be7",
+      "speaker": "Dan",
+      "start_timestamp": 363.9,
+      "text": "He says he smoked weed once a year to check in on it to see what's going on with it. See what it does to people."
+    },
+    {
+      "end_timestamp": 371.42,
+      "id": "9a17a61f-a429-3324-8020-2153cc822992",
+      "speaker": "Jordan",
+      "start_timestamp": 370.59,
+      "text": "That's crazy."
+    },
+    {
+      "end_timestamp": 392,
+      "id": "516997a2-c30c-3376-a041-b4b41a25b6e0",
+      "speaker": "Dan",
+      "start_timestamp": 371.42,
+      "text": "He's like, I don't like weed. Turns out, I try it. I don't like it. It's nuts. It's nuts that that isn't something that just came out of his mouth. He's been saying that for years. So anyway, Doctor Group is full of shit. all right. Point is he's not he's not selling boner pills in Waking Life. yes. So that's how he sort of, you know, that's why he's in movies."
+    },
+    {
+      "end_timestamp": 397,
+      "id": "d1845d4b-d02a-3c50-8fae-0a27bddefc97",
+      "speaker": "Jordan",
+      "start_timestamp": 392,
+      "text": "Right. Because he's he's a fucking lunatic and it's fun to listen to a fucking lunatic."
+    },
+    {
+      "end_timestamp": 490.56,
+      "id": "e52eb872-57bc-31e8-81c9-7f890690ac11",
+      "speaker": "Dan",
+      "start_timestamp": 397,
+      "text": "Yeah. But the reason that he ever broke through in conspiracy theory communities, and the reason that he got this elevated status as the champion of conspiracies, what made it really break was that he put out a video where he showed breaking into and infiltrating Bohemian Grove. right. In the hills of California. I believe it's in the north, the North Coast area. So anyway, that was in 2000. Allegedly, he infiltrated on July 15th 2000. And he made the biggest fucking deal out of it. He made a video, started selling it. This is sort of the beginning of his documentary empire, started getting a lot of attention for it, because it was this mysterious place where powerful people go, and Alex Jones, he sells himself as the only person who's been able to break in. right. And the hallmark of it, the big coup de gras, is he got footage of the cremation of care ceremony, which is the most famous part of the video. It's the part that everyone who's seen it, it's the part they remember because the rest of it's fucking bullshit. It's a video of a giant stone owl, where they burn a figure in effigy. And he portrays it as a satanic ceremony where they're killing a baby. All this shit. yeah. The realities of the actual ceremony are very different. But we'll get to that in a minute. He presented it as, like, Hey, I went in..."
+    },
+    {
+      "end_timestamp": 491.26,
+      "id": "553c9fa6-635a-3952-81a6-afa66b83697a",
+      "speaker": "Jordan",
+      "start_timestamp": 490.56,
+      "text": "Snuck in."
+    },
+    {
+      "end_timestamp": 493.58,
+      "id": "171b9adc-ada9-38df-8411-a002ced11af2",
+      "speaker": "Dan",
+      "start_timestamp": 491.26,
+      "text": "--I went into the den of vipers..."
+    },
+    {
+      "end_timestamp": 494.95,
+      "id": "64b4bade-76de-3316-84f2-416ac7969278",
+      "speaker": "Jordan",
+      "start_timestamp": 493.58,
+      "text": "Secret agent style."
+    },
+    {
+      "end_timestamp": 503,
+      "id": "ded43f22-bd78-355c-be54-b953ecb73a7a",
+      "speaker": "Dan",
+      "start_timestamp": 494.95,
+      "text": "--I went in there with a camera, and I fucking got it. I got it. And they can't deny it. right. Here's why he's busted."
+    },
+    {
+      "end_timestamp": 506.67,
+      "id": "47a21358-c2fe-3627-8192-3e2830dd71a2",
+      "speaker": "Jordan",
+      "start_timestamp": 503,
+      "text": "Oh, no, he's busted? His entire career is based on a lie?"
+    },
+    {
+      "end_timestamp": 506.98,
+      "id": "54e05033-1018-3b39-8cb6-20dd1003d90a",
+      "speaker": "Dan",
+      "start_timestamp": 506.67,
+      "text": "Yes."
+    },
+    {
+      "end_timestamp": 512,
+      "id": "4bee10a1-6d6e-318f-a5d9-a235d2a28fbe",
+      "speaker": "Jordan",
+      "start_timestamp": 506.98,
+      "text": "That makes perfect sense, according to all the stuff I know about him."
+    },
+    {
+      "end_timestamp": 522.12,
+      "id": "3d3995fb-64b0-3990-838a-d5e3fd65d784",
+      "speaker": "Dan",
+      "start_timestamp": 512,
+      "text": "I've done a bit of looking into the realities of the situation. And I'm here to say that I don't believe for a second, his version of the story."
+    },
+    {
+      "end_timestamp": 522.55,
+      "id": "362b204b-b7b7-3f63-8e3e-e72cadf7c46e",
+      "speaker": "Jordan",
+      "start_timestamp": 522.12,
+      "text": "Okay."
+    },
+    {
+      "end_timestamp": 523.09,
+      "id": "3bf791e5-6343-312b-bd89-6a50b89813e5",
+      "speaker": "Dan",
+      "start_timestamp": 522.55,
+      "text": "At all."
+    },
+    {
+      "end_timestamp": 523.44,
+      "id": "a13fe086-ddd1-3543-9e5a-5cf047605593",
+      "speaker": "Jordan",
+      "start_timestamp": 523.09,
+      "text": "Okay!"
+    },
+    {
+      "end_timestamp": 555,
+      "id": "01c266bb-15a1-3a27-aa49-6fc45deb6c10",
+      "speaker": "Dan",
+      "start_timestamp": 523.44,
+      "text": "So I have posted, and I'll put a link to this. I've posted links to some of the videos that are important to the evidence. Some people, some internet sleuths have done some really good work on this. okay. But the more important pieces are, Alex Jones claims that he is the one who exposed Bohemian Grove and before that no one knew about it and it was the shadowy place where really powerful elites went. And I would like to play this news report from 1981."
+    },
+    {
+      "end_timestamp": 575,
+      "id": "797a53ab-e927-3ceb-b1cd-81276576c8e6",
       "speaker": "Reporter 1 (50)",
-      "start_timestamp": 555.0,
-      "text": "Now a question What have Herbert Hoover Art Linkletter Jack London and Richard Nixon all had in common. They've all been members of the exclusive all male bohemian club in California, where every year at this time the elite from around the country get together for two and a half weeks of fun and games. Shepard has this special assignment report."
+      "start_timestamp": 555,
+      "text": "Now, a question. What have Herbert Hoover, Art Linkletter, Jack London, and Richard Nixon all had in common? They've all been members of the exclusive, all male Bohemian Club in California, where every year at this time, the elite from around the country get together for two and a half weeks of fun and games. Steve Shepard has this special assignment report."
     },
     {
-      "end_timestamp": 619.0,
-      "id": "2def75c0-008f-3499-843e-de0c58a5edbf",
+      "end_timestamp": 583.29,
+      "id": "17371e35-773d-3a4e-bcc1-afef0eddfafd",
       "speaker": "Reporter 2 (50)",
-      "start_timestamp": 575.0,
-      "text": "More than 2000 members of San Francisco's exclusive and all male bohemian club at once again descended on Northern California 80s news. Yeah, we'll spend most of them are July in camped on some 2700 acres of pristine and privately owned redwood forest forest very much like this. The place is called Bohemian Grove and it's located just at miles north of San Francisco. The Grove is the Bohemian club summer retreat, and its facilities are hidden beneath lush forest canopy extending south from the banks of Sonoma County's Russian River. For more than a century, the camp has been a place for Clarion readings, guests from all across America gather to relax. Yeah, retreat is divided into"
+      "start_timestamp": 575,
+      "text": "More than 2000 members of San Francisco's exclusive and all male Bohemian Club, have once again descended on Northern California..."
     },
     {
-      "end_timestamp": 628.0,
-      "id": "490cab97-5bd0-3abc-919a-6d6a052cae3d",
+      "end_timestamp": 584.95,
+      "id": "82aca32e-4a9e-366a-9af7-d732d9a648f3",
       "speaker": "Jordan",
-      "start_timestamp": 619.0,
-      "text": "it does there. There is a reason that we don't watch ABC news anymore, isn't there? Yeah, it goes on for Bohemian Grove walks down 30 miles from over here."
+      "start_timestamp": 583.29,
+      "text": "God, I love you, 80s news."
     },
     {
-      "end_timestamp": 643.0,
-      "id": "dc31ddd0-645c-3d22-8a84-bcce43ecee35",
-      "speaker": "Dan",
-      "start_timestamp": 628.0,
-      "text": "You know why? Because it has information in it. Yeah, no, it goes. It goes into it takes like, it's a five minute piece. There's footage inside the Bohemian Grove area. He talks to people. It's from Maine to Bohemian Grove. It's 19. Well, not well, like, oh,"
+      "end_timestamp": 619,
+      "id": "9203b178-8fa8-3d32-9529-648608a7fa13",
+      "speaker": "Reporter 2 (50)",
+      "start_timestamp": 584.95,
+      "text": "--will spend most of the month of July camped on some 2700 acres of pristine and privately owned redwood forest. Forest very much like this. The place is called Bohemian Grove and it's located just 80 miles north of San Francisco. The Grove is the Bohemian Club's summer retreat, and its facilities are hidden beneath lush forest canopy, extending south from the banks of Sonoma County's Russian River. For more than a century, the camp has been a place for club members and guests from all across America gather to relax. The retreat is divided into"
     },
     {
-      "end_timestamp": 646.0,
-      "id": "82eb7f1a-1c42-3208-9094-1e5a7ac2d82a",
+      "end_timestamp": 623.43,
+      "id": "3aef816c-15f4-33f4-9192-3746970e5ca7",
       "speaker": "Jordan",
-      "start_timestamp": 643.0,
-      "text": "but people who are part of the Yeah, yeah, extensively."
+      "start_timestamp": 619,
+      "text": "There is a reason that we don't watch 80s news anymore, isn't there?"
     },
     {
-      "end_timestamp": 659.0,
-      "id": "cd31a901-1efc-395e-9a31-b099a3e620f7",
+      "end_timestamp": 624.75,
+      "id": "b24a59e9-505e-3b0f-a5e0-4cecdc8f83ce",
       "speaker": "Dan",
-      "start_timestamp": 646.0,
-      "text": "And that's 19 years before Alex Jones broken. Wow. So that's one that's one piece that's taken away from his eye exposed this shit right there straight up on the news talking about how the elites go here. And"
+      "start_timestamp": 623.43,
+      "text": "Yeah, it goes on for about"
     },
     {
-      "end_timestamp": 667.0,
-      "id": "a7fc2aed-466b-3e13-80be-66e7b3f9eb9b",
+      "end_timestamp": 628,
+      "id": "84f12f43-e354-3514-a026-e7f5d6519e52",
       "speaker": "Jordan",
-      "start_timestamp": 659.0,
-      "text": "this is from way back even when fucking Richard Nixon and Herbert Hoover could be involved with it. Yeah. So this has been going on for what? 70 years."
+      "start_timestamp": 624.75,
+      "text": "Bohemian Grove, walks down 30 miles from over here."
     },
     {
-      "end_timestamp": 673.0,
-      "id": "1a6005a3-ea41-335a-bdde-5d673675c372",
+      "end_timestamp": 630.79,
+      "id": "fd9242b0-a802-337b-b876-8c46be88b20b",
       "speaker": "Dan",
-      "start_timestamp": 667.0,
+      "start_timestamp": 628,
+      "text": "You know why? Because it has information in it."
+    },
+    {
+      "end_timestamp": 631.89,
+      "id": "4aabf86e-2914-3382-be17-dc4dba57ac60",
+      "speaker": "Jordan",
+      "start_timestamp": 630.79,
+      "text": "Yeah, I know. Ugh."
+    },
+    {
+      "end_timestamp": 639.67,
+      "id": "20258e3c-fa57-33d7-a7cb-8701dbbb919d",
+      "speaker": "Dan",
+      "start_timestamp": 631.89,
+      "text": "It goes into, it takes like, it's a five minute piece. There's footage inside the Bohemian Grove area. He talks to people. It's from 19"
+    },
+    {
+      "end_timestamp": 641.01,
+      "id": "267be8df-6da0-3f5c-a4f9-2eb031596ccf",
+      "speaker": "Jordan",
+      "start_timestamp": 639.67,
+      "text": "In the Bohemian Grove?"
+    },
+    {
+      "end_timestamp": 643,
+      "id": "15ac6dba-dc61-35c8-84b0-2ff16fb17d8c",
+      "speaker": "Dan",
+      "start_timestamp": 641.01,
+      "text": "It's 19, well, not while the stuff's going on."
+    },
+    {
+      "end_timestamp": 644.69,
+      "id": "c988f358-941f-376e-93cd-9390ee7c60f7",
+      "speaker": "Jordan",
+      "start_timestamp": 643,
+      "text": "But people who are part of the"
+    },
+    {
+      "end_timestamp": 659,
+      "id": "45cf793e-9741-3947-b252-d5a42e883863",
+      "speaker": "Dan",
+      "start_timestamp": 644.69,
+      "text": "Yeah, yeah, extensively. And that's 19 years before Alex Jones broke in. wow. So that's one, that's one piece that's taken away from his, I exposed this shit. right. There, straight up on the news talking about how the elites go here."
+    },
+    {
+      "end_timestamp": 667,
+      "id": "10b80205-16ed-3429-b8d0-4ef82f4f89c5",
+      "speaker": "Jordan",
+      "start_timestamp": 659,
+      "text": "And this is from way back even when fucking Richard Nixon and Herbert Hoover could be involved with it. yeah. So this has been going on for what, 70 years?"
+    },
+    {
+      "end_timestamp": 673,
+      "id": "ce1ddeb2-18bb-30ca-a94b-d2d98f6d43c5",
+      "speaker": "Dan",
+      "start_timestamp": 667,
       "text": "It started a long time ago. It started at like, 100 something years ago. I can't remember exactly."
     },
     {
-      "end_timestamp": 687.0,
-      "id": "a7670ce1-c5e2-3e64-a7e6-d627d1fb43b0",
+      "end_timestamp": 687,
+      "id": "2d12285e-21cb-3597-9d3a-29701a76e858",
       "speaker": "Jordan",
-      "start_timestamp": 673.0,
-      "text": "Also, the weird thing about 80s news is that they can just say all male, and that's fine. Yeah, like the Bohemian Grove, the all male club and everybody's like, yes. Good. We have one wonderful move on."
+      "start_timestamp": 673,
+      "text": "Also, the weird thing about 80s news is that they can just say all male, and that's fine. yeah. Like, the Bohemian Grove, the all male club, and everybody's like, yes. Good. We have one. Wonderful, move on."
     },
     {
-      "end_timestamp": 773.0,
-      "id": "8340998d-1bf5-36dd-b3b7-505633dfb90e",
+      "end_timestamp": 701.5,
+      "id": "47964f45-e49f-3278-bae7-0bff87649c31",
       "speaker": "Dan",
-      "start_timestamp": 687.0,
-      "text": "So more fascinating little pieces of Alex being completely wrong. Are that in 1989? Which, if you're counting is 11 years before Alex Jones broke in a journalist named Philip Weiss reporting for spy magazine infiltrated Bohemian Grove for six days. No shit, six days, he's just hanging out. I would like to read a couple of excerpts from his column. So this is from Philip Boyce's article and I quote, for me, the trick was getting in a guest card was out of the question. Club bylaws have stated that a member sponsors application, quote, shall not shall be in writing and shall contain full information for the guidance of the board in determining the merits and qualifications of the proposed guest. No. Section Eight article 18 was to find a screen for me and my attempts to get a job as a waiter or a valet and one of the camps failed. In the end, I entered by stealth. Some observers of the grove have warned that security was too good. They'd sniff me out immediately. I might last three hours before they put me in Santa Rosa jail for trespassing. Lowell Bergman, a producer with 60 minutes who used to hunt rabbits in the nearby hills remember to fire road leading into a site near the grandness Ville waste treatment plant, but said they'd spot me sneaking in. Others mentioned barbed wire and electronic monitoring devices and places where the grove abuts mount Rio and helicopters patrolling the ridge roads that traverse the 1000 foot hills and formed the groves perimeter."
+      "start_timestamp": 687,
+      "text": "So more fascinating little pieces of Alex being completely wrong. Are that in 1989, which, if you're counting, is 11 years before Alex Jones broke in, a journalist named Philip Weiss reporting for spy magazine infiltrated Bohemian Grove for six days."
     },
     {
-      "end_timestamp": 777.0,
-      "id": "0cae1221-42a2-3139-8004-8696a0439d35",
+      "end_timestamp": 702.02,
+      "id": "4664ed5c-ae37-36fd-b850-32f63ce937a7",
       "speaker": "Jordan",
-      "start_timestamp": 773.0,
-      "text": "This is when we find out he just fucking walked in, isn't it one day,"
+      "start_timestamp": 701.5,
+      "text": "No shit."
     },
     {
-      "end_timestamp": 823.0,
-      "id": "c03c7465-31db-32c7-a3dc-9797de2008c3",
+      "end_timestamp": 702.59,
+      "id": "e930126a-4815-3056-a958-3b9ed74616b6",
       "speaker": "Dan",
-      "start_timestamp": 777.0,
-      "text": "I drove up to the front gate and got a daunting glimpse of what looked like the grove sheriff. a barrel like figure in a Smokey the Bear hat. A set of checkpoints on the Berlin Wall seem to stretch out behind him. But by then I'd made my connection. My driver was Mary more in Earth Mother type with long silvery blonde hair, who's the most active member of a distinctively California and left wing group called the Bohemian Grove Action Network, more agreed to help me get in providing me with a sort of underground railroad. She put at my service a mountain guide who demanded only that I keep the methods he devised for me confidential. He had a keen geographical sense. And a girlfriend who described a plan to seed magic crystals at the grove gates and make them open up have their own accord so the Native American drummers could walk in. We didn't do it that way. This guy's a great writer."
+      "start_timestamp": 702.02,
+      "text": "Six days."
     },
     {
-      "end_timestamp": 827.0,
-      "id": "d4a19fde-82ac-35ac-b9c4-f6c5a08af5f5",
+      "end_timestamp": 703.91,
+      "id": "3063248d-5537-3f15-b2b1-19a7444ebda6",
       "speaker": "Jordan",
-      "start_timestamp": 823.0,
-      "text": "It's fucking that's a great punch line. Yeah, we it's a great punch. I"
+      "start_timestamp": 702.59,
+      "text": "He's just hanging out."
     },
     {
-      "end_timestamp": 840.0,
-      "id": "8415f537-4130-3b1e-8402-d61f23c958bb",
+      "end_timestamp": 773,
+      "id": "37a7d4e7-0f99-3a1e-b85c-32846107ded0",
       "speaker": "Dan",
-      "start_timestamp": 827.0,
-      "text": "didn't do it that way. But it turned out the grove security isn't quite what it's reputed to be the sociologists who had studied the place where right there was no real security. Yeah, so there's that."
+      "start_timestamp": 703.91,
+      "text": "I would like to read a couple of excerpts from his column. So this is from Philip Weiss' article and I quote, \"For me, the trick was getting in. A guest card was out of the question. Club bylaws have stated that a member sponsors application, quote, shall not, shall be in writing and shall contain full information for the guidance of the board in determining the merits and qualifications of the proposed guest. No. Section Eight article 18 was too fine a screen for me and my attempts to get a job as a waiter or a valet in one of the camps failed. In the end, I entered by stealth. Some observers of the grove have warned that security was too good. They'd sniff me out immediately. I might last three hours before they put me in Santa Rosa jail for trespassing. Lowell Bergman, a producer with 60 Minutes who used to hunt rabbits in the nearby hills, remembered a fire road leading into a site near the Guerneville waste treatment plant, but said they'd spot me sneaking in. Others mentioned barbed wire and electronic monitoring devices and places where the grove abuts Mount Rio, and helicopters patrolling the ridge roads that traverse the 1000 foot hills and formed the groves perimeter.\""
     },
     {
-      "end_timestamp": 845.0,
-      "id": "8024b227-4e60-3010-b805-ed0a8ee44eff",
+      "end_timestamp": 777,
+      "id": "82a83e22-167d-32fa-8335-939ce7f05ef3",
       "speaker": "Jordan",
-      "start_timestamp": 840.0,
+      "start_timestamp": 773,
+      "text": "This is when we find out he just fucking walked in, isn't it."
+    },
+    {
+      "end_timestamp": 823,
+      "id": "ac5aa2fd-5e2b-3752-a36e-4b4359b107b0",
+      "speaker": "Dan",
+      "start_timestamp": 777,
+      "text": "\"One day, I drove up to the front gate and got a daunting glimpse of what looked like the grove sheriff, a barrel like figure in a Smokey the Bear hat. A set of checkpoints on the Berlin Wall seem to stretch out behind him. But by then I'd made my connection. My driver was Mary Moore, an Earth Mother type with long silvery blonde hair, who's the most active member of a distinctively Californian left wing group called the Bohemian Grove Action Network. Moore agreed to help me get in, providing me with a sort of underground railroad. She put at my service a mountain guide who demanded only that I keep the methods he devised for me confidential. He had a keen geographical sense and a girlfriend who described a plan to seed magic crystals at the grove gates and make them open up of their own accord so the Native American drummers could walk in. We didn't do it that way.\" This guy's a great writer."
+    },
+    {
+      "end_timestamp": 827,
+      "id": "40ab03e8-f3ca-3a69-b391-bfc04bbbda20",
+      "speaker": "Jordan",
+      "start_timestamp": 823,
+      "text": "It's fucking, that's a great punch line. That's a great punch line."
+    },
+    {
+      "end_timestamp": 840,
+      "id": "eb1714b5-6e96-3134-8d5d-340088367ade",
+      "speaker": "Dan",
+      "start_timestamp": 827,
+      "text": "\"We didn't do it that way. But it turned out, the grove security isn't quite what it's reputed to be. The sociologists who had studied the place were right, there was no real security.\" yeah. So there's that."
+    },
+    {
+      "end_timestamp": 845,
+      "id": "5af4e39b-34ad-3618-aa0e-eb0fbb6a5844",
+      "speaker": "Jordan",
+      "start_timestamp": 840,
       "text": "Okay, so the real security is the legend. That's what that's what the real security is"
     },
     {
-      "end_timestamp": 920.0,
-      "id": "331d57d0-8794-3d2c-9034-f364289b9a21",
+      "end_timestamp": 854.06,
+      "id": "c3d7e6c8-dcb8-361f-9438-d14a8016598b",
       "speaker": "Dan",
-      "start_timestamp": 845.0,
-      "text": "that well, yeah. Or probably a lot of security if you try and go into like through the direct front gate, right. But there's not like snipers posted? Of course not. So he like I said he stayed there for days, and just hung out and did all the stuff along with them. And one of the things that he said is that the key to his disguise was always have a drink in hand. Because everybody is drinking. Everyone's just drunk. There's people passed out in bushes, right. And so he just described it essentially as being a crazy, super powerful, rich people summer camp. Yeah. And we'll get we'll get back to that in a second. Like he had to have a reason to be there. Yeah, so here's what he did. My imposter included misrepresenting myself in conversation with other campers. And my story kept changing as I learned more about how life inside was organized. I said I was a guest of Bromley camp, where unsuitable visitors ended up at 33. I was one of the youngest bohemians, but I was welcome almost Just as a policy matter, quote, we looked around and saw we were becoming an old men's club, a member said explaining recent efforts efforts to recruit fresh blood. Being from New York was fine. The Grove limits retreat guests to out of staters, though clamoring by well connected Californians to visit the forest has resulted in the rise of the June spring Jinx weekend. Not sure what"
+      "start_timestamp": 845,
+      "text": "Somewhat, yeah. Or probably a lot of security, if you try and go into like, through the direct front gate. right. But there's not like snipers posted and shit like that."
     },
     {
-      "end_timestamp": 922.0,
-      "id": "1f11555c-c6de-35b3-9c55-201d7f4923c5",
+      "end_timestamp": 855.07,
+      "id": "02fade81-f19d-360d-845f-a50368421bed",
       "speaker": "Jordan",
-      "start_timestamp": 920.0,
-      "text": "that means. I don't know what that means either."
+      "start_timestamp": 854.06,
+      "text": "No. Of course not."
     },
     {
-      "end_timestamp": 1005.0,
-      "id": "c6cd39b7-241b-3715-9fa5-61ea0a4f00cb",
+      "end_timestamp": 920,
+      "id": "8f9bfeee-08e3-338f-a0ac-f65904318eaf",
       "speaker": "Dan",
-      "start_timestamp": 922.0,
-      "text": "I used my hands racist. I used my real name. No, no one out. No one inside acted suspicious, but paranoia about the grove seemed justified. And I brought along my own version of cyanide in are all a tranquilizer used by actors to counteract stage fright. One day a member asked if I was related to a bohemian named Jack Weiss. No, but I've heard a lot about him and I'd like to meet him. You can't he said he's dead. After that, I began working a dead West Coast relatives promise to have me out to the grove one summer into my shaggy dog story about an invitation. Very nice. So basically, he's in the mix. He's just hanging out with these people, and, and hanging out drinking with these superpowers. No one sniffs him out. He ends up bringing a camera on the last day because he's like, Oh, if I get kicked out, whatever, this is my last day here. Yeah, too late now. So yeah, he ends up too late now. Motherfuckers You can't catch me. He ends up hanging out with him. He goes to the cremation of care ceremony that Alex Jones videotapes and misrepresents as some sort of a satanic thing. The the reality of it is, is that the cremation of care ceremony is this thing, where you have all these super powerful people who have crazy stressful lives, it's much the same as like really rich people often go to dominate tricks is right to get the power taken away, rather have a symbolic power exchange. In the same way, these supers are"
+      "start_timestamp": 855.07,
+      "text": "So he like I said he stayed there for days, and just hung out and did all the stuff along with them. And one of the things that he said is that the key to his disguise was always have a drink in hand. Because everybody is drinking. Everyone's just drunk. There's people passed out in bushes. right. And so he just described it essentially as being a crazy, super powerful, rich people summer camp. yeah. And we'll get we'll get back to that in a second. Like he had to have a reason to be there. So here's what he did. \"My imposter included misrepresenting myself in conversation with other campers. And my story kept changing as I learned more about how life inside was organized. I said I was a guest of Bromley camp, where unsortable visitors end up. At 33, I was one of the youngest Bohemians, but I was welcome almost as a policy matter. Quote, we looked around and saw we were becoming an old men's club, a member said, explaining recent efforts efforts to recruit fresh blood. Being from New York was fine. The Grove limits retreat guests to out of staters, though clamoring by well connected Californians to visit the forest has resulted in the rise of the June Spring Jinx weekend.\" Not sure what that means."
     },
     {
-      "end_timestamp": 1010.0,
-      "id": "bec639af-e309-31de-b894-da1de0b0f649",
+      "end_timestamp": 922,
+      "id": "4b5a3109-04a3-350e-96c3-5cd6dd21f8b7",
       "speaker": "Jordan",
-      "start_timestamp": 1005.0,
-      "text": "somebody who's in control all the time, nothing is more tantalizing then losing that control."
+      "start_timestamp": 920,
+      "text": "I don't know what that means either. Sounds racist."
     },
     {
-      "end_timestamp": 1062.0,
-      "id": "6ecbb8b8-128e-3c71-9c4e-e73a749ec163",
+      "end_timestamp": 953.89,
+      "id": "e75c27f9-3cb6-3c30-a9da-33b43e8a0032",
       "speaker": "Dan",
-      "start_timestamp": 1010.0,
-      "text": "Exactly. Yeah. And in this case, these people have such scrutinized lives and such stress that they go to this place where they can privately let loose, maybe do some gay stuff, get drunk all the time. Put on little musical numbers. Have people give speeches? And that's basically a lot of what goes on there. There's a lot of politics discussion that goes on now too much more than originally, it's a Borgia party. Yeah, yeah, more or less. So the cremation of care ceremony is where you have a manifestation of care who comes in which is this this what is burned in effigy eventually. And it is this, this, this idea of de stresses and the cares of the outside world. And they bring it in on a on a boat, a pontoon boat, to this ritual space in front of the giant owl of wisdom, the giant owl Moloch."
+      "start_timestamp": 922,
+      "text": "\"I used my real name. No, no one out. No one inside acted suspicious, but paranoia about the grove seemed justified. And I brought along my own version of cyanide, Inoral, a tranquilizer used by actors to counteract stage fright. One day a member asked if I was related to a Bohemian named Jack Weiss. No, but I've heard a lot about him and I'd like to meet him. You can't he said, he's dead. After that, I began working a dead West Coast relative's promise to have me out to the grove one summer into my shaggy dog story about an invitation.\""
     },
     {
-      "end_timestamp": 1064.0,
-      "id": "a60c409c-b6de-35ae-9d63-de730b3d7ef0",
+      "end_timestamp": 954.53,
+      "id": "65296835-38b0-3a5b-9e9c-0c874060a86a",
       "speaker": "Jordan",
-      "start_timestamp": 1062.0,
-      "text": "God, I hate rich people. It's"
+      "start_timestamp": 953.89,
+      "text": "Very nice."
     },
     {
-      "end_timestamp": 1089.0,
-      "id": "862b37a1-69d0-329e-95ce-50281085f54c",
+      "end_timestamp": 971,
+      "id": "fe192997-8d4f-321a-8aba-9adb5744c272",
       "speaker": "Dan",
-      "start_timestamp": 1064.0,
-      "text": "voiced by Walter Cronkite. And so they have this ritualistic play wherein all of the cares of the outside world are burned in front of the this hour of wisdom. And it's only able to be burned by the everlasting flame. That never goes out throughout the entire weeks long. It's a bunch of rich people LARPing in a sex romp and a summer camp. Yeah, and I think it's fucking awesome. I"
+      "start_timestamp": 954.53,
+      "text": "So basically, he's in the mix. He's just hanging out with these people, and, and hanging out drinking with these superpowerful people. No one sniffs him out. He ends up bringing a camera on the last day because he's like, Oh, if I get kicked out, whatever, this is my last day here."
     },
     {
-      "end_timestamp": 1094.0,
-      "id": "f5e7478d-d3a4-38bc-b046-c6b9af901883",
+      "end_timestamp": 972.16,
+      "id": "5b166f99-15d2-3bd1-adcd-345aa9a3e830",
       "speaker": "Jordan",
-      "start_timestamp": 1089.0,
-      "text": "think that sounds amazing. It sounds fucking stupid. But I want to I want to go and get shit faced."
+      "start_timestamp": 971,
+      "text": "Yeah, too late now."
     },
     {
-      "end_timestamp": 1104.0,
-      "id": "34aa8c8e-148a-3dde-84d3-6b8a4b952a5a",
+      "end_timestamp": 973.32,
+      "id": "257acea9-5b85-35a5-a487-99cdc3f6c6b3",
       "speaker": "Dan",
-      "start_timestamp": 1094.0,
-      "text": "I would go in a heartbeat. Yeah, could have gone at some point. I don't care that it's quote the fanciest goddamn thing Nixon has ever seen. That's a direct quote."
+      "start_timestamp": 972.16,
+      "text": "So yeah, he ends up"
     },
     {
-      "end_timestamp": 1110.0,
-      "id": "e0345592-e081-383c-a755-8dc9ecd412f7",
+      "end_timestamp": 976.11,
+      "id": "e9d2081d-d023-3662-b791-eb59b0f6adfe",
       "speaker": "Jordan",
-      "start_timestamp": 1104.0,
-      "text": "That's a direct quote from Nixon. Yeah. It's a good thing. Alex Jones got in there to expose it."
+      "start_timestamp": 973.32,
+      "text": "Too late now, motherfuckers You can't catch me."
     },
     {
-      "end_timestamp": 1129.0,
-      "id": "0a98e294-0b3c-3c68-b91c-de28ee64a432",
+      "end_timestamp": 1005,
+      "id": "411077e3-124a-3377-b228-38a41fcfae4c",
       "speaker": "Dan",
-      "start_timestamp": 1110.0,
-      "text": "Yeah. So those are two things that happened over a decade before Alex ostensibly allegedly revealed it to the brain. And that this guy, Philip Weiss, I really recommend it's a long read. But I recommend everybody reading his article here about his infiltration, because it's, first of all, he's a great writer."
+      "start_timestamp": 976.11,
+      "text": "He ends up hanging out with them. He goes to the cremation of care ceremony that Alex Jones videotapes and misrepresents as some sort of a satanic thing. The the reality of it is, is that the cremation of care ceremony is this thing, where you have all these super powerful people who have crazy stressful lives, it's much the same as like really rich people often go to dominatrixes to get the power taken away, have a symbolic power exchange. In the same way, these supers"
     },
     {
-      "end_timestamp": 1131.0,
-      "id": "e3222945-4ccd-3eed-8920-f2ba375a8b28",
+      "end_timestamp": 1010,
+      "id": "e8724f44-b29a-392f-8887-84bceb121472",
       "speaker": "Jordan",
-      "start_timestamp": 1129.0,
+      "start_timestamp": 1005,
+      "text": "For somebody who's in control all the time, nothing is more tantalizing than losing that control."
+    },
+    {
+      "end_timestamp": 1035.64,
+      "id": "c41a6bad-2fbe-3738-858c-bca64d9826bb",
+      "speaker": "Dan",
+      "start_timestamp": 1010,
+      "text": "Exactly. yeah. And in this case, these people have such scrutinized lives and such stress that they go to this place where they can privately let loose, maybe do some gay stuff, get drunk all the time. Put on little musical numbers. Have people give speeches. And that's basically a lot of what goes on there. There's a lot of politics discussion that goes on now too, much more than originally."
+    },
+    {
+      "end_timestamp": 1037,
+      "id": "8bcb9239-53d4-3be9-b515-eb7d4ee861c9",
+      "speaker": "Jordan",
+      "start_timestamp": 1035.64,
+      "text": "It's a Borgia party."
+    },
+    {
+      "end_timestamp": 1062,
+      "id": "7a2db624-d00a-361e-968c-7b9c2987832f",
+      "speaker": "Dan",
+      "start_timestamp": 1037,
+      "text": "Yeah, yeah, more or less. So the cremation of care ceremony is where you have a manifestation of care who comes in, which is this, this what is burned in effigy eventually. And it is this, this, this idea of the stresses and the cares of the outside world. And they bring it in on a on a boat, a pontoon boat, to this ritual space in front of the giant owl of wisdom, the giant owl Moloch."
+    },
+    {
+      "end_timestamp": 1064,
+      "id": "adffcf29-a1f5-3b55-b2ac-9e910e8c797e",
+      "speaker": "Jordan",
+      "start_timestamp": 1062,
+      "text": "God, I hate rich people."
+    },
+    {
+      "end_timestamp": 1082.04,
+      "id": "e173afcb-fd27-3cbc-be8a-5d9f5f11854a",
+      "speaker": "Dan",
+      "start_timestamp": 1064,
+      "text": "It's voiced by Walter Cronkite. And so they have this ritualistic play wherein all of the cares of the outside world are burned in front of the, this owl of wisdom. And it's only able to be burned by the everlasting flame. That never goes out throughout the entire weeks long celebration."
+    },
+    {
+      "end_timestamp": 1085.17,
+      "id": "3763b3e7-8200-3296-b1a8-7d5b45a1eb85",
+      "speaker": "Jordan",
+      "start_timestamp": 1082.04,
+      "text": "It's a bunch of rich people LARPing in a sex romp."
+    },
+    {
+      "end_timestamp": 1089.87,
+      "id": "df989d1b-6ca4-3b01-8a30-f27b082b24c0",
+      "speaker": "Dan",
+      "start_timestamp": 1085.17,
+      "text": "And a summer camp. And I think it's fucking awesome. I think that sounds amazing."
+    },
+    {
+      "end_timestamp": 1094,
+      "id": "e5f37b51-415a-33e0-aa1f-00b23d77fff4",
+      "speaker": "Jordan",
+      "start_timestamp": 1089.87,
+      "text": "It sounds fucking stupid. But I want to I want to go and get shit faced."
+    },
+    {
+      "end_timestamp": 1104,
+      "id": "d66d2b93-470a-3eb8-9113-9dbe2bbf5675",
+      "speaker": "Dan",
+      "start_timestamp": 1094,
+      "text": "I would go in a heartbeat, if I could have gone at some point. I don't care that it's quote, the faggiest goddamn thing Nixon has ever seen. That's a direct quote."
+    },
+    {
+      "end_timestamp": 1106.12,
+      "id": "3dc032fb-9d7c-3a26-a21b-139bd64080d5",
+      "speaker": "Jordan",
+      "start_timestamp": 1104,
+      "text": "That's a direct quote from Nixon."
+    },
+    {
+      "end_timestamp": 1106.49,
+      "id": "4d1d0517-a61c-3f01-a7aa-df3c2ce2a093",
+      "speaker": "Dan",
+      "start_timestamp": 1106.12,
+      "text": "Yeah."
+    },
+    {
+      "end_timestamp": 1110,
+      "id": "b9d31ad1-ef10-36c3-a830-10feeee91487",
+      "speaker": "Jordan",
+      "start_timestamp": 1106.49,
+      "text": "It's a good thing Alex Jones got in there to expose it."
+    },
+    {
+      "end_timestamp": 1115.64,
+      "id": "5a0e12d1-f09e-3fdb-898e-dcfaab29287f",
+      "speaker": "Dan",
+      "start_timestamp": 1110,
+      "text": "Yeah. So those are two things that happened over a decade before Alex ostensibly, allegedly,"
+    },
+    {
+      "end_timestamp": 1117.27,
+      "id": "377dfc97-bce1-3643-81de-f0c5ec211be0",
+      "speaker": "Jordan",
+      "start_timestamp": 1115.64,
+      "text": "Revealed it to the public."
+    },
+    {
+      "end_timestamp": 1129,
+      "id": "27e48019-47a2-399e-b192-8ded8ea536b6",
+      "speaker": "Dan",
+      "start_timestamp": 1117.27,
+      "text": "Right. And that this guy, Philip Weiss, I really recommend, it's a long read but I recommend everybody reading his article here about his infiltration, because it's, first of all, he's a great writer."
+    },
+    {
+      "end_timestamp": 1131,
+      "id": "409b19a8-edf3-36d6-8e06-af2f93cc3de9",
+      "speaker": "Jordan",
+      "start_timestamp": 1129,
       "text": "Yeah, clearly, he's got some he's got some chops."
     },
     {
-      "end_timestamp": 1142.0,
-      "id": "a9488d99-e836-37fd-9e3c-b76f27bff630",
+      "end_timestamp": 1142,
+      "id": "7ba485a6-b724-3941-85b5-ea1578497acc",
       "speaker": "Dan",
-      "start_timestamp": 1131.0,
-      "text": "It's pithy, it's witty, it's really great. And it's a really interesting window into sort of the reality of what the Bohemian club is more than Alex's satanic nonsense spouts."
+      "start_timestamp": 1131,
+      "text": "It's pithy, it's witty, it's really great. And it's a really interesting window into sort of the reality of what the Bohemian Club is, more than Alex's satanic nonsense spouts."
     },
     {
-      "end_timestamp": 1147.0,
-      "id": "936fa7a5-5e89-3516-af11-10bbd3080628",
+      "end_timestamp": 1147,
+      "id": "d43498cb-af12-3d5a-a24d-ac8b117b1807",
       "speaker": "Jordan",
-      "start_timestamp": 1142.0,
-      "text": "It's like if Hunter S Thompson didn't make up what he was talking about."
+      "start_timestamp": 1142,
+      "text": "It's like if Hunter S. Thompson didn't make up what he was talking about."
     },
     {
-      "end_timestamp": 1209.0,
-      "id": "7cc92d0a-5b14-3f78-84b7-72d6ccf0f60f",
+      "end_timestamp": 1178.85,
+      "id": "4a5a2521-ef9c-3bbf-b712-b6c9811839bf",
       "speaker": "Dan",
-      "start_timestamp": 1147.0,
-      "text": "So the other problem that Alex Jones has, with his movie that he put out his documentary about breaking into Bohemian Grove, is that a couple people have done some really good analysis on it. And one question keeps jumping out and that is, why do all of the things that seem the craziest about Bohemian Grove? Why is none of that on camera? Why is that just Alex's narration over shots of trees and stuff like that. He talks about how he sees surveillance equipment everywhere, but he doesn't show wires going all around the trees as in show, none of that is on camera. Okay. He talks about seeing all sorts of things and none of it is presented within the documentary. Further. He says that he gets accosted by sheriff's on his way in to try and break And it's not on tape. He just says that it happened. There's no reason to believe that it actually happened. When you're making a documentary you really got to show and prove. Yeah, what you're doing. Yeah."
+      "start_timestamp": 1147,
+      "text": "Right. So the other problem that Alex Jones has, with his movie that he put out, his documentary about breaking into Bohemian Grove, is that a couple people have done some really good analysis on it. And one question keeps jumping out and that is, why do all of the things that seem the craziest about Bohemian Grove, why is none of that on camera? Why is that just Alex's narration over shots of trees and stuff like that. He talks about how he sees surveillance equipment everywhere..."
     },
     {
-      "end_timestamp": 1211.0,
-      "id": "0568f3dc-2699-3a15-bacd-bc3c9cea5474",
+      "end_timestamp": 1179.86,
+      "id": "d820f7a0-6ac7-36af-a862-2876b006b420",
       "speaker": "Jordan",
-      "start_timestamp": 1209.0,
-      "text": "Instead without Alex's strong suit instead, what"
+      "start_timestamp": 1178.85,
+      "text": "But he doesn't show it."
     },
     {
-      "end_timestamp": 1219.0,
-      "id": "c5663f63-d72a-3e6e-9ec9-0f9bb4728a1e",
+      "end_timestamp": 1182.17,
+      "id": "7e44498f-94f6-3fd8-b1cb-2692cc929c84",
       "speaker": "Dan",
-      "start_timestamp": 1211.0,
-      "text": "they do have is shaky footage of trees when he's allegedly hiking to break into the camp. Yeah,"
+      "start_timestamp": 1179.86,
+      "text": "--wires going all around the trees..."
     },
     {
-      "end_timestamp": 1220.0,
-      "id": "34af3acb-2fb2-3e74-bd12-70b0f47f09ab",
+      "end_timestamp": 1182.92,
+      "id": "91d07166-dba0-3e33-9b6f-d6ff6ecb32a0",
       "speaker": "Jordan",
-      "start_timestamp": 1219.0,
-      "text": "he made the Blair Witch Project,"
+      "start_timestamp": 1182.17,
+      "text": "Doesn't show it."
     },
     {
-      "end_timestamp": 1248.0,
-      "id": "612ea926-9e0e-3d1a-baf0-a0ea8d925501",
+      "end_timestamp": 1209,
+      "id": "4f772275-467c-3134-9f63-7488e99ab719",
       "speaker": "Dan",
-      "start_timestamp": 1220.0,
-      "text": "basically. Yeah, it's found footage. Yeah, exactly. The other problem is, he's walking around in these trees, and then it cuts. And it says half an hour later, to try and create the illusion that he hiked around in the woods. So far, he walks so far this awesome video that I've linked to here on a knowledge by.com. Like I said, I'll post the link. This guy took Google Maps, and found the spots exactly where Alex was."
+      "start_timestamp": 1182.92,
+      "text": "--none of that is on camera. okay. He talks about seeing all sorts of things and none of it is presented within the documentary. Further, he says that he gets accosted by sheriffs on his way in to try and break in. It's not on tape. He just says that it happened. There's no reason to believe that it actually happened. When you're making a documentary you really got to show and prove what you're doing. Instead, what"
     },
     {
-      "end_timestamp": 1252.0,
-      "id": "bdcc5794-c98f-3740-ace8-b7b14530e4f5",
+      "end_timestamp": 1211,
+      "id": "0825d78d-d0f9-3207-95c2-6dc0e360adb6",
       "speaker": "Jordan",
-      "start_timestamp": 1248.0,
-      "text": "Sometimes I love the internet. It's so amazing. Sometimes I love the internet."
+      "start_timestamp": 1209,
+      "text": "Not Alex's strong suit."
     },
     {
-      "end_timestamp": 1387.0,
-      "id": "6467a185-d97d-3871-beb8-b2f1158f44ab",
+      "end_timestamp": 1219,
+      "id": "9ae8836a-7b6c-3d0a-b19e-6db9af8a0e23",
       "speaker": "Dan",
-      "start_timestamp": 1252.0,
-      "text": "Basically, what he ended up doing in that alleged half hour is walked about 50 feet. He made almost like the area that he would have to walk to get to where he says he ends up this parking lot this parking area where he ends up and gets picked up by a shuttle. What is so close to the external road? There's no way that it would take half an hour cheese even with his bloated out of shape ass right? There's no way it's just literally impossible. The only explanation? He got an in he got a guest pass. No. Oh, I don't know if that's possible. A lot of conspiracy theorists think that. Yeah. A lot of weirdos on the internet are like, obviously, it's because he's part of the globalists, that makes perfect sense. And he was just there because they wanted to expose it perfect, right? The more likely reality is if that half hour delay did happen. It's Alex Jones took a nap. It's Alex Jones fucking psyching himself out in the middle of the woods. Yeah, he's like, he's afraid to try and break it. Right. That's possible. And that's why it's cut. Yeah. The other possibility is he wants to present it as it's super hard to get in. But as Philip Weiss experience, it's really not those kind of walk in. Yeah. And so I don't think he necessarily had a pass, or someone who is like you get in or whatever. Yeah, I think that the shuttle that shows up doesn't check people's IDs unnecessarily. So if you're in the Bohemian Grove parking area, which is clearly accessible, and really, as these Google maps show, not far from the road, right? If you're in there, they just pick you up and take you in. Hmm, because it's just a shuttle that runs consistently. So he gets in there. It's like an airport shuttle. Yeah. So the other problem is, if you look at it, it's it's laid out when he gets picked up by the shuttle. And then there's not a whole lot that goes on. And then he has footage of the cremation of care ceremony. And it's pitch black. It's just completely dark out. Right. So he's been hanging out. He must have Yeah, and none of that footage is shown. He just tells you what has happened. He's like, I went to this place, this place and this place, right? And then, bam, it's super dark out. It's the dead of night. And then they don't show how they leave. Hmm. So"
+      "start_timestamp": 1211,
+      "text": "Instead, what they do have is shaky footage of trees when he's allegedly hiking to break into the camp."
     },
     {
-      "end_timestamp": 1401.0,
-      "id": "289654bc-ec85-3469-9009-3648dc67adbf",
+      "end_timestamp": 1220,
+      "id": "8b3a873c-6f4a-3634-9c1c-ecc2ef128687",
       "speaker": "Jordan",
-      "start_timestamp": 1387.0,
-      "text": "so his entire career is built on something that people have already done. Yeah. And is clearly edited in a way that is manipulative, exactly. The most likely most likely didn't even really"
+      "start_timestamp": 1219,
+      "text": "Yeah, he made the Blair Witch Project"
     },
     {
-      "end_timestamp": 1466.0,
-      "id": "9d295966-f7bb-338c-a885-e2b6df53ca98",
+      "end_timestamp": 1222.09,
+      "id": "853bd9cb-fa0e-3bfd-8019-4474096581ad",
       "speaker": "Dan",
-      "start_timestamp": 1401.0,
-      "text": "matter. The most likely scenario is that it's I imagine maybe security's beefed up now, just because the horrifying world we live in, right, but this is pre 911. This was in 2000. Yeah. So I can even still steal a plane back then. Yeah, multiple. I think that they're like, here's my, like, real world scenario of what I think happened. He knew that this was a very opportunistic way he could make a name for himself, because he wasn't cutting it as a local conspiracy guy course. And so he maybe read Philip wises article, maybe he knew about the Grove, from these news reports that do exist from the past, right? And so I mean, why he'd have to go all the way to California from Texas. It's a big trip through he has to get something out of it, of course, so he knows he can sneak in pretty easily, but he has to present it as really difficult. Because otherwise this isn't the Secret Sacred Space that he's broken into. It's just you went to these old dudes gay camp. Yeah, enjoy it. So he gets in. And there's nothing nefarious maybe is"
+      "start_timestamp": 1220,
+      "text": "Basically. It's found footage."
     },
     {
-      "end_timestamp": 1470.0,
-      "id": "3bd65638-38b4-3eb9-bcc5-36669c59a11e",
+      "end_timestamp": 1223.1,
+      "id": "4ffeb620-bd9b-306e-b56c-88b654b4772d",
       "speaker": "Jordan",
-      "start_timestamp": 1466.0,
-      "text": "in even better. Like that's an even better thing. If you just catch"
+      "start_timestamp": 1222.09,
+      "text": "Yeah, exactly."
     },
     {
-      "end_timestamp": 1520.0,
-      "id": "7e479827-d3a6-322f-b93c-82dfc5e10dd4",
+      "end_timestamp": 1234.9,
+      "id": "47892d29-11e5-39a8-a406-1792240651b3",
       "speaker": "Dan",
-      "start_timestamp": 1470.0,
-      "text": "Nixon bang and a dude, but it doesn't feed his globalist narrative. No, of course not. And that would be crazy. If you put that out. That would be fucking that'd be problematic as a documentary. So he knows that he can get in easily he gets in and when he's inside, there's not all that crazy shit happening. So people drinking a ton, right? And so he he narrates what he wants the audience to think happened, which isn't what happened. He just wandered around. People probably like, what's going on here? He's drinking. I don't know that it's fucking Alex Jones because he's not a media figure at this time. Right? So they he just blends in a bunch of drunk people. He sees the cremation of care ceremony. And it does if you don't know what it is, it does look fucking weird. It's a bunch of people in cloaks Brian something and I know what it is, and it's still weird. Oh, it's fucking weird."
+      "start_timestamp": 1223.1,
+      "text": "The other problem is, he's walking around in these trees, and then it cuts. And it says, half an hour later, to try and create the illusion that he hiked around in the woods."
     },
     {
-      "end_timestamp": 1525.0,
-      "id": "43434cc7-9c08-3fec-8114-38c615125713",
-      "speaker": "Jordan",
-      "start_timestamp": 1520.0,
-      "text": "It's not like, knowledge has changed my ability to be like, fucking what? But"
-    },
-    {
-      "end_timestamp": 1551.0,
-      "id": "29233d25-7c0b-3305-9659-9bd5f6c18028",
+      "end_timestamp": 1236.57,
+      "id": "36273ceb-e3c6-3aea-8702-0161657e9a2d",
       "speaker": "Dan",
-      "start_timestamp": 1525.0,
-      "text": "it's weird on the same level that taking communion is weird. Yeah, that sort of thing. Everything out of that makes dark and weird. You're eating the body of what are you doing your flesh and blood? Yeah. Anyway, it's good stuff. So he goes in. He's like, Oh, yeah, I can twist this right. And so we twist it into a fucking satanic thing. Never wrestles with the fact that he's lying. And then it's perfect."
+      "start_timestamp": 1234.9,
+      "text": "So far. He walked so far."
     },
     {
-      "end_timestamp": 1556.0,
-      "id": "e14b6f92-f61e-305f-b813-121a4735e7c5",
+      "end_timestamp": 1248,
+      "id": "7ea8761e-8a38-331a-a13d-e57b0f970591",
+      "speaker": "Dan",
+      "start_timestamp": 1236.57,
+      "text": "This awesome video that I've linked to here on a knowledge fight dot com. Like I said, I'll post the link. This guy took Google Maps, and found the spot exactly where Alex was."
+    },
+    {
+      "end_timestamp": 1249.58,
+      "id": "8988da6a-a6ed-315c-bfd3-cbb90a6348e2",
       "speaker": "Jordan",
-      "start_timestamp": 1551.0,
+      "start_timestamp": 1248,
+      "text": "Sometimes I love the internet."
+    },
+    {
+      "end_timestamp": 1250.45,
+      "id": "2f13c6e3-c5a9-31af-9f42-f33d52af6a60",
+      "speaker": "Dan",
+      "start_timestamp": 1249.58,
+      "text": "It's so amazing."
+    },
+    {
+      "end_timestamp": 1252,
+      "id": "8732e0b0-9581-3b42-9ccc-f357ae27852f",
+      "speaker": "Jordan",
+      "start_timestamp": 1250.45,
+      "text": "Sometimes I love the internet."
+    },
+    {
+      "end_timestamp": 1279.35,
+      "id": "762f8981-d274-315f-ae2b-e831a287120f",
+      "speaker": "Dan",
+      "start_timestamp": 1252,
+      "text": "Basically, what he ended up doing in that alleged half hour is, walked about 50 feet. He made almost like, the area that he would have to walk to get to where he says he ends up, this parking lot, this parking area where he ends up and gets picked up by a shuttle, is so close to the external road. There's no way that it would take half an hour, even with his bloated, out of shape ass. There's no way, it's just literally impossible. The only explanation?"
+    },
+    {
+      "end_timestamp": 1281.43,
+      "id": "f3af4c9d-d97e-3af0-bae8-f39ce5532c10",
+      "speaker": "Jordan",
+      "start_timestamp": 1279.35,
+      "text": "He got an in. He got a guest pass."
+    },
+    {
+      "end_timestamp": 1292.36,
+      "id": "772e7ede-0163-355c-9e22-69a1768ef54b",
+      "speaker": "Dan",
+      "start_timestamp": 1281.43,
+      "text": "No. I don't know, that's possible. A lot of conspiracy theorists think that. yeah. A lot of weirdos on the internet are like, obviously, it's because he's part of the globalists..."
+    },
+    {
+      "end_timestamp": 1293.93,
+      "id": "6f2b3d8a-62ba-3ccb-b66f-8994395a02f4",
+      "speaker": "Jordan",
+      "start_timestamp": 1292.36,
+      "text": "That makes perfect sense."
+    },
+    {
+      "end_timestamp": 1297.2,
+      "id": "6de24e9f-2eb2-3b1c-8091-3337b5dc8361",
+      "speaker": "Dan",
+      "start_timestamp": 1293.93,
+      "text": "--and he was just there because they wanted to expose it."
+    },
+    {
+      "end_timestamp": 1298.32,
+      "id": "8925b8e1-7216-3977-adae-8f3f87fd86b7",
+      "speaker": "Jordan",
+      "start_timestamp": 1297.2,
+      "text": "Perfect, I love it."
+    },
+    {
+      "end_timestamp": 1302.97,
+      "id": "dc8ecf7f-0de4-3655-aa3f-c8dec39fd925",
+      "speaker": "Dan",
+      "start_timestamp": 1298.32,
+      "text": "The more likely reality is if that half hour delay did happen? It's Alex Jones"
+    },
+    {
+      "end_timestamp": 1303.86,
+      "id": "d5f4ae9e-b726-30bf-8d69-50d055b3e041",
+      "speaker": "Jordan",
+      "start_timestamp": 1302.97,
+      "text": "He took a nap?"
+    },
+    {
+      "end_timestamp": 1322.14,
+      "id": "f6a1b314-87a2-3b12-9091-3e7e6505fe02",
+      "speaker": "Dan",
+      "start_timestamp": 1303.86,
+      "text": "It's Alex Jones fucking psyching himself out in the middle of the woods. He's like, he's afraid to try and break in. right. That's possible. And that's why it's cut. yeah. The other possibility is, he wants to present it as it's super hard to get in. But as Philip Weiss experienced, it's really not all that hard."
+    },
+    {
+      "end_timestamp": 1323.68,
+      "id": "22de31ee-c642-3e20-bb65-bdc3f30acc82",
+      "speaker": "Jordan",
+      "start_timestamp": 1322.14,
+      "text": "You just kind of walk in."
+    },
+    {
+      "end_timestamp": 1334.48,
+      "id": "352a39ae-dd59-3a67-a211-61cf269d65ef",
+      "speaker": "Dan",
+      "start_timestamp": 1323.68,
+      "text": "Yeah. And so I don't think he necessarily had a pass, or someone who is like you get in or whatever.  I think that the shuttle that shows up doesn't check people's IDs necessarily."
+    },
+    {
+      "end_timestamp": 1335.36,
+      "id": "724edbc5-b95d-3859-a01d-6341e37224e8",
+      "speaker": "Jordan",
+      "start_timestamp": 1334.48,
+      "text": "Of course not."
+    },
+    {
+      "end_timestamp": 1351.44,
+      "id": "e02d4525-c137-3bb0-be4d-377877cb708f",
+      "speaker": "Dan",
+      "start_timestamp": 1335.36,
+      "text": "So if you're in the Bohemian Grove parking area, which is clearly accessible, and really, as these Google maps show, not far from the road. If you're in there, they just pick you up and take you in. Because it's just a shuttle that runs consistently. So he gets in there"
+    },
+    {
+      "end_timestamp": 1353.22,
+      "id": "eb464773-2512-32ab-a943-e5b5b0404d51",
+      "speaker": "Jordan",
+      "start_timestamp": 1351.44,
+      "text": "It's like an airport shuttle."
+    },
+    {
+      "end_timestamp": 1369.18,
+      "id": "48eece68-ed9d-3fc7-bef6-5c18b0fd76c4",
+      "speaker": "Dan",
+      "start_timestamp": 1353.22,
+      "text": "Yeah. So the other problem is, if you look at it, it's it's light out when he gets picked up by the shuttle. And then there's not a whole lot that goes on. And then he has footage of the cremation of care ceremony. And it's pitch black. It's just completely dark out."
+    },
+    {
+      "end_timestamp": 1371.14,
+      "id": "ba261ba1-c33b-369e-ac52-e198af63a4f5",
+      "speaker": "Jordan",
+      "start_timestamp": 1369.18,
+      "text": "Right. So he's been hanging out."
+    },
+    {
+      "end_timestamp": 1387,
+      "id": "b8cecd3e-6c28-3af0-932c-05157d058da7",
+      "speaker": "Dan",
+      "start_timestamp": 1371.14,
+      "text": "He must have, and none of that footage is shown. He just tells you what has happened. He's like, I went to this place, this place and this place. And then, bam, it's super dark out. It's the dead of night. And then they don't show how they leave."
+    },
+    {
+      "end_timestamp": 1395.99,
+      "id": "fe4b1888-2b74-3924-8550-f7ed118a580e",
+      "speaker": "Jordan",
+      "start_timestamp": 1387,
+      "text": "Huh. So his entire career is built on something that people have already done. Yeah. And is clearly edited in a way that is"
+    },
+    {
+      "end_timestamp": 1396.87,
+      "id": "563d05f4-23f3-30d8-993b-2be84c6709b9",
+      "speaker": "Dan",
+      "start_timestamp": 1395.99,
+      "text": "Manipulative."
+    },
+    {
+      "end_timestamp": 1400.96,
+      "id": "d9eea6e4-1606-376e-b488-94c08f70a757",
+      "speaker": "Jordan",
+      "start_timestamp": 1396.87,
+      "text": "Exactly. And most likely, most likely didn't even really matter."
+    },
+    {
+      "end_timestamp": 1411.53,
+      "id": "789608f1-e4a9-339a-a43e-7e64f6c19bb1",
+      "speaker": "Dan",
+      "start_timestamp": 1400.96,
+      "text": "The most likely scenario is that, it's, I imagine maybe security's beefed up now, just because the horrifying world we live in, but this is pre 911. This was in 2000."
+    },
+    {
+      "end_timestamp": 1414.81,
+      "id": "448d4be9-6242-368e-a721-11ebc64a098a",
+      "speaker": "Jordan",
+      "start_timestamp": 1411.53,
+      "text": "Yeah. You could even still steal a plane back then."
+    },
+    {
+      "end_timestamp": 1466,
+      "id": "b2025a11-ae67-39b0-aa85-20a036b7814b",
+      "speaker": "Dan",
+      "start_timestamp": 1414.81,
+      "text": "Yeah, multiple. I think that they're like, here's my, like, real world scenario of what I think happened. He knew that this was a very opportunistic way he could make a name for himself, because he wasn't cutting it as a local conspiracy guy. And so he maybe read Philip Weiss's article, maybe he knew about the Grove from these news reports that do exist from the past. And so I mean, why he'd have to go all the way to California from Texas. It's a big trip so he has to get something out of it. So he knows he can sneak in pretty easily, but he has to present it as really difficult. Because otherwise this isn't the Secret Sacred Space that he's broken into. It's just, you went to these old dudes' gay camp. Enjoy. So he gets in and there's nothing nefarious happening"
+    },
+    {
+      "end_timestamp": 1470,
+      "id": "d7e9f0de-4f27-3c3f-a2b9-02a0b9306469",
+      "speaker": "Jordan",
+      "start_timestamp": 1466,
+      "text": "Which maybe is an even better, like, that's an even better thing, if you just catch fucking Nixon banging a dude."
+    },
+    {
+      "end_timestamp": 1472.58,
+      "id": "d4f16f02-fa39-360c-99c4-bfc13a641a40",
+      "speaker": "Dan",
+      "start_timestamp": 1470,
+      "text": "But it doesn't feed his globalist narrative."
+    },
+    {
+      "end_timestamp": 1473.67,
+      "id": "d635c0b5-53f3-3c31-a42c-914d8d0ca647",
+      "speaker": "Jordan",
+      "start_timestamp": 1472.58,
+      "text": "No, of course not."
+    },
+    {
+      "end_timestamp": 1476.25,
+      "id": "44db51f4-22da-3b1e-969e-78b1ff47fa67",
+      "speaker": "Dan",
+      "start_timestamp": 1473.67,
+      "text": "And that would be crazy if you put that out."
+    },
+    {
+      "end_timestamp": 1478.06,
+      "id": "fefa275f-a30f-3102-971d-8c2ac6b58b37",
+      "speaker": "Jordan",
+      "start_timestamp": 1476.25,
+      "text": "That would be fucking hilarious."
+    },
+    {
+      "end_timestamp": 1516.35,
+      "id": "525b9ab3-9b8c-336d-a709-44404b576dc2",
+      "speaker": "Dan",
+      "start_timestamp": 1478.06,
+      "text": "That'd be problematic as a documentary. So he knows that he can get in easily, he gets in, and when he's inside, there's not all that crazy shit happening except people drinking a ton. And so he he narrates what he wants the audience to think happened, which isn't what happened. He just wandered around. People probably like, how's it going, cheers. Drinking, don't know that it's fucking Alex Jones because he's not a media figure at this time. So they he just blends in, a bunch of drunk people. He sees the cremation of care ceremony. And it does, if you don't know what it is, it does look fucking weird. It's a bunch of people in cloaks, burning something in effigy."
+    },
+    {
+      "end_timestamp": 1518.68,
+      "id": "6f581f27-5cb9-3288-b046-467284275d9a",
+      "speaker": "Jordan",
+      "start_timestamp": 1516.35,
+      "text": "I know what it is, and it's still weird."
+    },
+    {
+      "end_timestamp": 1520,
+      "id": "21bcbaff-f7d5-3d59-96b6-5a6f2a3538af",
+      "speaker": "Dan",
+      "start_timestamp": 1518.68,
+      "text": "Oh, it's fucking weird as shit."
+    },
+    {
+      "end_timestamp": 1525,
+      "id": "edca45d3-a3bd-3970-a174-3a15d89adbbb",
+      "speaker": "Jordan",
+      "start_timestamp": 1520,
+      "text": "It's not like, knowledge has changed my ability to be like, fucking what?"
+    },
+    {
+      "end_timestamp": 1538.6,
+      "id": "66e89596-b5c6-3c04-8303-bfd8110019eb",
+      "speaker": "Dan",
+      "start_timestamp": 1525,
+      "text": "But it's weird on the same level that taking communion is weird. That sort of thing. Everything out context is fucking weird. You're eating the body of, what are you doing, you're eating flesh and blood? Anyway..."
+    },
+    {
+      "end_timestamp": 1539.68,
+      "id": "4aa29119-01f1-31d5-ac5a-1be5ff2f9c3c",
+      "speaker": "Jordan",
+      "start_timestamp": 1538.6,
+      "text": "It's good stuff."
+    },
+    {
+      "end_timestamp": 1541.49,
+      "id": "ae43cfbb-5269-3d5b-97c8-e4d982e6a3b4",
+      "speaker": "Dan",
+      "start_timestamp": 1539.68,
+      "text": "--so he goes in, he's like..."
+    },
+    {
+      "end_timestamp": 1541.85,
+      "id": "25966975-eb4c-3268-9dc7-da4935da202c",
+      "speaker": "Jordan",
+      "start_timestamp": 1541.49,
+      "text": "Tasty."
+    },
+    {
+      "end_timestamp": 1551,
+      "id": "cbfb6e38-f98c-3e65-8540-b1f4c73d8b9e",
+      "speaker": "Dan",
+      "start_timestamp": 1541.85,
+      "text": "--oh, yeah, I can twist this. And so he twists it into a fucking satanic thing. Never wrestles with the fact that he's lying. I think. And then it's perfect."
+    },
+    {
+      "end_timestamp": 1556,
+      "id": "a596577a-bbf8-3c8e-ad92-41619dd395a9",
+      "speaker": "Jordan",
+      "start_timestamp": 1551,
       "text": "Another subtitle to the Alex Jones biography. Never wrestles with the fact that he's lying."
     },
     {
-      "end_timestamp": 1587.0,
-      "id": "f596d4d1-ecfa-3c79-aa6b-6ce48c7fa54f",
+      "end_timestamp": 1577.67,
+      "id": "7714564a-7d73-3baf-bfcf-a0773daa1bec",
       "speaker": "Dan",
-      "start_timestamp": 1556.0,
-      "text": "It's perfect, though, because you have all of these powerful people who do go there. It is a real social club that tons of elites in business and politics go to right. And if you can use that as a way to connect with them all in some sort of shadowy evil organization, satanic shit. Scar is born. Exactly. And unfortunately, upon scrutiny, none of it matches up. None of it is real. Alex, you're busted."
+      "start_timestamp": 1556,
+      "text": "It's perfect, though, because you have all of these powerful people who do go there. It is a real social club that tons of elites in business and politics go to. right. And if you can use that as a way to connect them all in some sort of shadowy evil organization, satanic shit."
     },
     {
-      "end_timestamp": 1590.0,
-      "id": "43761ec4-c71f-3573-9678-1f0cc13d7df2",
+      "end_timestamp": 1578.89,
+      "id": "27f68f31-cb91-3f7c-b0df-bf7be028555a",
       "speaker": "Jordan",
-      "start_timestamp": 1587.0,
-      "text": "Man, it makes? Oh, yes."
+      "start_timestamp": 1577.67,
+      "text": "A star is born."
     },
     {
-      "end_timestamp": 1594.0,
-      "id": "8bda267e-4f3d-390a-b24d-d7c668ee9867",
+      "end_timestamp": 1587,
+      "id": "47cb646d-6096-368f-aabb-ca0f84362db6",
       "speaker": "Dan",
-      "start_timestamp": 1590.0,
-      "text": "I want to give this caveat to the busting. Okay,"
+      "start_timestamp": 1578.89,
+      "text": "Exactly. And unfortunately, upon scrutiny, none of it matches up. None of it is real. Alex, ya busted."
     },
     {
-      "end_timestamp": 1598.0,
-      "id": "042b51e4-5e6f-382c-9509-a9cd574c0b4a",
+      "end_timestamp": 1588.85,
+      "id": "0eca5e01-7deb-3b4d-9d8b-555fcf11cbde",
       "speaker": "Jordan",
-      "start_timestamp": 1594.0,
-      "text": "so All right. Alex Jones in Alex, Ian 90%. Busted."
+      "start_timestamp": 1587,
+      "text": "Man, it makes"
     },
     {
-      "end_timestamp": 1619.0,
-      "id": "94798c37-e432-3bbc-891d-f82958335b86",
+      "end_timestamp": 1589.61,
+      "id": "fee29eaa-bb49-3e8f-9382-4a62321ca162",
       "speaker": "Dan",
-      "start_timestamp": 1598.0,
-      "text": "He claims that a lot of the reason that there's not a footage of a bunch of stuff is because he's using one hour tapes, one hour long tapes. Sure. So but even if that's true, there's at least like there have to be 20 Something hours of footage that wasn't used in the course. So Alex, you can be on busted."
+      "start_timestamp": 1588.85,
+      "text": "Oh! Oh!"
     },
     {
-      "end_timestamp": 1628.0,
-      "id": "c7c13de5-fbe6-3221-8856-8fad4e838079",
+      "end_timestamp": 1590,
+      "id": "3ffd9e03-8d7c-397f-bf6f-61f53931a8b7",
       "speaker": "Jordan",
-      "start_timestamp": 1619.0,
-      "text": "If you release the release, the footage released the raw tapes. Yeah. And hopefully you did it on VHS. Because beta max players are really hard to find. Yes,"
+      "start_timestamp": 1589.61,
+      "text": "Yes."
     },
     {
-      "end_timestamp": 1649.0,
-      "id": "fab545d2-f91c-32ef-8fc8-3112dfca8fc0",
+      "end_timestamp": 1594,
+      "id": "b597195f-c85a-3546-a19d-71bc7b848cd1",
       "speaker": "Dan",
-      "start_timestamp": 1628.0,
-      "text": "I'm willing to believe you. I mean, not about the stuff like the conclusions you draw about the Satanism and stuff. Also not willing to believe you about you exposing it because we have documented evidence of yours before you going in it being out very public thing. But I'm willing to believe that you broke in if you will release the full tapes, which you won't do. Because you're a liar. And you're a propagandist."
+      "start_timestamp": 1590,
+      "text": "I want to give this caveat to the busting."
     },
     {
-      "end_timestamp": 1653.0,
-      "id": "87633306-197d-3caa-a63a-b2a809b45c81",
+      "end_timestamp": 1595.32,
+      "id": "d9d66a6e-6470-3d9f-b5e7-5ec065dc11d4",
       "speaker": "Jordan",
-      "start_timestamp": 1649.0,
-      "text": "And also because you don't listen to the show. No, that's true. And you"
+      "start_timestamp": 1594,
+      "text": "Okay. All right."
     },
     {
-      "end_timestamp": 1656.0,
-      "id": "023a36a5-3584-3e62-91a9-5ce57f457423",
+      "end_timestamp": 1596.33,
+      "id": "5c308269-7688-3019-9ddb-d65be93dc535",
       "speaker": "Dan",
-      "start_timestamp": 1653.0,
-      "text": "faked the thing that made you famous, that adulation?"
+      "start_timestamp": 1595.32,
+      "text": "Alex Jones, in"
     },
     {
-      "end_timestamp": 1663.0,
-      "id": "5d4c6ca7-edb5-3c05-976e-c6ea7c6a910b",
+      "end_timestamp": 1598,
+      "id": "bd4e4321-8c06-31b4-ace0-9a0834d5858c",
       "speaker": "Jordan",
-      "start_timestamp": 1656.0,
-      "text": "That is such a perfect origin story for this inveterate unending monstrous liar."
+      "start_timestamp": 1596.33,
+      "text": "Alex, ya 90% busted."
     },
     {
-      "end_timestamp": 1670.0,
-      "id": "1482b5b3-7e9e-3955-887a-6dc51acde5e4",
+      "end_timestamp": 1619,
+      "id": "078cc9c0-a26a-3175-8f89-8a7123490c42",
       "speaker": "Dan",
-      "start_timestamp": 1663.0,
-      "text": "Well, you find out that this is probably a lie. And that's like, oh, yeah, checks out, you find out that his dad bought him a radio show. It's like no checks out,"
+      "start_timestamp": 1598,
+      "text": "He claims that a lot of the reason that there's not a footage of a bunch of stuff is because he's using one hour tapes, one hour long tapes.  So but even if that's true, there's at least like there have to be 20 something hours of footage that wasn't used in this documentary. So, Alex, you can be unbusted, if you release"
     },
     {
-      "end_timestamp": 1674.0,
-      "id": "041164fb-b2f0-3041-b0b8-376794e8e2dc",
+      "end_timestamp": 1620.42,
+      "id": "7c456792-1709-34a3-81aa-39bfcc0a0766",
       "speaker": "Jordan",
-      "start_timestamp": 1670.0,
-      "text": "you find out that his mom kicked them off of her knee when he was six"
+      "start_timestamp": 1619,
+      "text": "Release the footage."
     },
     {
-      "end_timestamp": 1677.0,
-      "id": "e8c9a8e2-99d1-39eb-9fff-9b7330562026",
+      "end_timestamp": 1621.92,
+      "id": "bd8bce8e-dadd-36d3-8d78-b4c327eec122",
       "speaker": "Dan",
-      "start_timestamp": 1674.0,
-      "text": "checks out. Yep. All the past checks out, but not the way he wants it to."
+      "start_timestamp": 1620.42,
+      "text": "Release the raw tapes."
     },
     {
-      "end_timestamp": 1682.0,
-      "id": "51cd2f74-6a1a-34be-9713-ae1502313f18",
+      "end_timestamp": 1628,
+      "id": "abf8e1d4-e853-375a-b107-76049bbca4c1",
       "speaker": "Jordan",
-      "start_timestamp": 1677.0,
+      "start_timestamp": 1621.92,
+      "text": "Yeah. And hopefully you did it on VHS. Because Betamax players are really hard to find."
+    },
+    {
+      "end_timestamp": 1649,
+      "id": "ea11944f-d412-337e-9e74-2d608ded845c",
+      "speaker": "Dan",
+      "start_timestamp": 1628,
+      "text": "Yeah. I'm willing to believe you. I mean, not about the stuff like the conclusions you draw about the Satanism and stuff. Also not willing to believe you about you exposing it because we have documented evidence of, years before you going in, it being a very public thing. But I'm willing to believe that you broke in if you will release the full tapes, which you won't do. Because you're a liar. And you're a propagandist."
+    },
+    {
+      "end_timestamp": 1653,
+      "id": "4e7266c7-fd2e-3759-b26b-7e7498ca762f",
+      "speaker": "Jordan",
+      "start_timestamp": 1649,
+      "text": "And also because you don't listen to the show."
+    },
+    {
+      "end_timestamp": 1656,
+      "id": "2202799a-4862-3978-9196-c267ea0f4f39",
+      "speaker": "Dan",
+      "start_timestamp": 1653,
+      "text": "No, that's true. And you faked the thing that made you famous. Congratulations."
+    },
+    {
+      "end_timestamp": 1663,
+      "id": "93d8f829-8de0-3a4b-8f5c-69df724e2650",
+      "speaker": "Jordan",
+      "start_timestamp": 1656,
+      "text": "That is such a perfect origin story for this inveterate, unending, monstrous liar."
+    },
+    {
+      "end_timestamp": 1670,
+      "id": "eccb6ff1-ad6d-3930-bdee-c95499e89002",
+      "speaker": "Dan",
+      "start_timestamp": 1663,
+      "text": "Well, you find out that this is probably a lie. And that's like, oh, yeah, checks out. You find out that his dad bought him a radio show. It's like, that checks out."
+    },
+    {
+      "end_timestamp": 1674,
+      "id": "eb79936f-6d76-3644-8fb9-ffcd4a9c0399",
+      "speaker": "Jordan",
+      "start_timestamp": 1670,
+      "text": "You find out that his mom kicked him off of her knee when he was six."
+    },
+    {
+      "end_timestamp": 1677,
+      "id": "826f0368-719b-34be-95c5-68050ada6507",
+      "speaker": "Dan",
+      "start_timestamp": 1674,
+      "text": "Checks out. yep. All the past checks out, but not the way he wants it to."
+    },
+    {
+      "end_timestamp": 1682,
+      "id": "08127b2d-ec9a-3a16-a921-84a3f71c1837",
+      "speaker": "Jordan",
+      "start_timestamp": 1677,
       "text": "And Alex, if you are listening, I want to know,"
     },
     {
-      "end_timestamp": 1684.0,
-      "id": "8a96354c-256c-388e-bcca-0d51b1d0ad0c",
+      "end_timestamp": 1684,
+      "id": "06a8fdc4-f77b-3e87-b9c3-903863d2397b",
       "speaker": "Dan",
-      "start_timestamp": 1682.0,
-      "text": "I always would you like to be a policy walk?"
+      "start_timestamp": 1682,
+      "text": "Alex, would you like to be a policy wonk?"
     },
     {
-      "end_timestamp": 1689.0,
-      "id": "998f87df-aa0a-3517-a996-06ee3a1b3c46",
+      "end_timestamp": 1689,
+      "id": "917f57b2-0670-31d4-ab97-4745da921d0b",
       "speaker": "Jordan",
-      "start_timestamp": 1684.0,
-      "text": "Did you kill your dog knock? You got to tell us Yeah."
+      "start_timestamp": 1684,
+      "text": "Did you kill your dog, Nonk? You got to tell us."
     },
     {
-      "end_timestamp": 1691.0,
-      "id": "a8523385-c6b3-3214-8b04-7e35c2539401",
+      "end_timestamp": 1691,
+      "id": "a1a56254-25b1-35b2-9d80-23ad00cd7576",
       "speaker": "Dan",
-      "start_timestamp": 1689.0,
-      "text": "And release the tapes and release the"
+      "start_timestamp": 1689,
+      "text": "Yeah, you got to now. And release the tapes."
     },
     {
-      "end_timestamp": 1698.0,
-      "id": "0f14d533-b88e-3a56-9895-0bfa550e4c99",
+      "end_timestamp": 1698,
+      "id": "cd7fa4c3-60fc-32f2-a66a-656aa4f87e86",
       "speaker": "Jordan",
-      "start_timestamp": 1691.0,
-      "text": "tapes of you murdering your dog dog. Anyways, I think that means"
+      "start_timestamp": 1691,
+      "text": "And release the tapes of you murdering your dog, Nonk. Anyways, I think that means (knocking)."
     },
     {
-      "end_timestamp": 1700.0,
-      "id": "1bec99b7-81f4-3d8c-9cfe-02a754acba51",
+      "end_timestamp": 1700,
+      "id": "b4b6d947-5b4c-374e-b189-3fc25cafc3e9",
       "speaker": "Dan",
-      "start_timestamp": 1698.0,
+      "start_timestamp": 1698,
       "text": "Hey, what's going on?"
     },
     {
-      "end_timestamp": 1703.0,
-      "id": "015b0734-b269-3b0d-b07c-e80390a7caad",
+      "end_timestamp": 1702,
+      "id": "1b79f64e-58a5-3e7c-85be-b47cb736a31f",
       "speaker": "Jordan",
-      "start_timestamp": 1700.0,
-      "text": "This is this is Jordan fool. Watch."
+      "start_timestamp": 1700,
+      "text": "This is this is Jordan."
     },
     {
-      "end_timestamp": 1709.0,
-      "id": "80d52f41-9021-3292-b5a3-c037327bd43f",
+      "end_timestamp": 1702.5,
+      "id": "25bc73c1-81f8-3f4b-a627-14d5ce15a338",
       "speaker": "Dan",
-      "start_timestamp": 1703.0,
-      "text": "That was Walter Cronkite."
+      "start_timestamp": 1702,
+      "text": "Fool!"
     },
     {
-      "end_timestamp": 1715.0,
-      "id": "071e1361-e9f8-3a23-8a76-cd92d47087fd",
-      "speaker": "Dan",
-      "start_timestamp": 1709.0,
-      "text": "So anyway, we'll be back with a full episode very shortly. But for now you can find us at knowledge fight.com"
-    },
-    {
-      "end_timestamp": 1731.0,
-      "id": "dc4ee46f-cbd4-327b-9c93-f9dcbe1ac715",
+      "end_timestamp": 1703,
+      "id": "a455f5b6-5067-3942-8c2b-d622012b2261",
       "speaker": "Jordan",
-      "start_timestamp": 1715.0,
-      "text": "We love you and join the policy wonks. Follow us on At knowledge underscore fight on Twitter, each one teach one tell your friends. You know, look us up on iTunes. Leave us a review that way more people can find us. And if you'd like to become a policy wonk,"
+      "start_timestamp": 1702.5,
+      "text": "What?!"
     },
     {
-      "end_timestamp": 1757.0,
-      "id": "3d9a0957-136f-3127-aa3b-e87d0a5febcb",
+      "end_timestamp": 1709,
+      "id": "6ae28ad5-77b5-3641-b07a-ff1d7821f09a",
       "speaker": "Dan",
-      "start_timestamp": 1731.0,
-      "text": "you may and please if you if you're considering donating, we are. We're serious about trying to start a public access TV. We actually really are I want to do that. We need funding for it. Because I don't think either of us have a good camera. We need to set up this desk in some way. Yeah, it's minimal expenses, but it's stuff I can't handle. Right. So if you'd like to donate, we'll be going towards that. Anyway, Jordan."
+      "start_timestamp": 1703,
+      "text": "That was Walter Cronkite as the owl. Ya busted."
     },
     {
-      "end_timestamp": 1767.0,
-      "id": "58848a3d-2c11-3d42-a0ee-f8e879896558",
+      "end_timestamp": 1709,
+      "id": "f612b71a-c49e-3585-9d03-923e28100289",
       "speaker": "Jordan",
-      "start_timestamp": 1757.0,
-      "text": "Hey, you know, I know the Bohemian Grove thing. Really? That kind of narrative is dead. That story is dead. Yeah. Can I ask you a question?"
+      "start_timestamp": 1709,
+      "text": "Ya busted."
     },
     {
-      "end_timestamp": 1769.0,
-      "id": "9553114d-610c-3c92-a372-55b8aead35a6",
+      "end_timestamp": 1715,
+      "id": "17e67d85-978e-301d-b667-a2b32f9426e3",
       "speaker": "Dan",
-      "start_timestamp": 1767.0,
-      "text": "Is it about a potential member of where he"
+      "start_timestamp": 1709,
+      "text": "So anyway, we'll be back with a full episode very shortly. But for now you can find us at knowledge fight dot com."
     },
     {
-      "end_timestamp": 1774.0,
-      "id": "80549ed2-b425-3199-8396-a6f0f4dcc75a",
+      "end_timestamp": 1720.76,
+      "id": "7ef84840-8b94-3025-bb18-f3c0256b50e4",
       "speaker": "Jordan",
-      "start_timestamp": 1769.0,
-      "text": "grew? I think it might be. Actually my real question is how's John Rapoport doing"
+      "start_timestamp": 1715,
+      "text": "We love you and join the policy wonks. Follow us on at knowledge underscore fight on Twitter."
     },
     {
-      "end_timestamp": null,
-      "id": "9558944b-74e3-3c83-9a63-52cfdaeccb68",
+      "end_timestamp": 1723.24,
+      "id": "ef6cc4c0-1d08-35de-abc5-d0defd0c370d",
+      "speaker": "Dan",
+      "start_timestamp": 1720.76,
+      "text": "Each one teach one, tell your friends."
+    },
+    {
+      "end_timestamp": 1731,
+      "id": "177bd89e-f4ed-304e-a7dd-88c87b1f489d",
+      "speaker": "Jordan",
+      "start_timestamp": 1723.24,
+      "text": "You know, look us up on iTunes. Leave us a review, that way more people can find us. And if you'd like to become a policy wonk,"
+    },
+    {
+      "end_timestamp": 1738.84,
+      "id": "78272e30-7873-3d7f-8301-58bae0864215",
+      "speaker": "Dan",
+      "start_timestamp": 1731,
+      "text": "You may, and please, if you, if you're considering donating, we are, we're serious about trying to start a public access TV show."
+    },
+    {
+      "end_timestamp": 1741.77,
+      "id": "51d35e60-8ed5-3080-b655-b06f0bfaf493",
+      "speaker": "Jordan",
+      "start_timestamp": 1738.84,
+      "text": "We actually really are. I want to do that so bad."
+    },
+    {
+      "end_timestamp": 1757,
+      "id": "105146f7-eb9a-3af3-b53b-1e451815fae5",
+      "speaker": "Dan",
+      "start_timestamp": 1741.77,
+      "text": "We need funding for it. Because I don't think either of us have a good camera. We need to set up this desk in some way. yeah. It's minimal expenses, but it's stuff I can't handle. right. So if you'd like to donate, it'll be going towards that. Anywaaaay. Jordan."
+    },
+    {
+      "end_timestamp": 1763.33,
+      "id": "615c66e6-5b36-3b23-b420-34e8bc48089a",
+      "speaker": "Jordan",
+      "start_timestamp": 1757,
+      "text": "Hey, you know, I know the Bohemian Grove thing. Really, that kind of narrative is dead."
+    },
+    {
+      "end_timestamp": 1764.76,
+      "id": "7ce92bbf-358b-3cee-89e6-2848ede3c5a2",
+      "speaker": "Dan",
+      "start_timestamp": 1763.33,
+      "text": "That story is dead."
+    },
+    {
+      "end_timestamp": 1767,
+      "id": "d3389f25-78ca-3dc3-bc14-35e5b88a13a0",
+      "speaker": "Jordan",
+      "start_timestamp": 1764.76,
+      "text": "It's dead. yeah. Can I ask you a question?"
+    },
+    {
+      "end_timestamp": 1769,
+      "id": "d93427ab-1274-3954-9dcb-ca9f52627a15",
+      "speaker": "Dan",
+      "start_timestamp": 1767,
+      "text": "Is it about a potential member of Bohemian Grove?"
+    },
+    {
+      "end_timestamp": 1774,
+      "id": "07607ae8-4b07-3683-9761-f29709881c2d",
+      "speaker": "Jordan",
+      "start_timestamp": 1769,
+      "text": "I think it might be. Actually my real question is, how's John Rapoport doing?"
+    },
+    {
+      "end_timestamp": 1774.75,
+      "id": "78733355-9be6-329e-9863-a8b2ab5d99b1",
+      "speaker": "Dan",
+      "start_timestamp": 1774,
+      "text": "He still liiives!"
+    },
+    {
+      "end_timestamp": 1777.47,
+      "id": "14f4598f-e323-3218-b633-834484978abb",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1774.75,
+      "text": "Andy in Kansas, you're on the air. Thanks for holding."
+    },
+    {
+      "end_timestamp": 1780.53,
+      "id": "7bbc8731-05ff-3c9d-9c3d-eeb4770d402d",
       "speaker": "Andy In Kansas",
-      "start_timestamp": 1774.0,
-      "text": "he still loves Andy in Kansas, you're on the air. Thanks for holding. Well, Alex, I'm a first time caller. I'm a huge fan. I love your work."
+      "start_timestamp": 1777.47,
+      "text": "Hello, Alex, I'm a first time caller. I'm a huge fan. I love your work."
+    },
+    {
+      "end_timestamp": 1781,
+      "id": "66ec85ee-a2fa-3ec9-95ea-46931e9014dd",
+      "speaker": "Alex Jones",
+      "start_timestamp": 1780.53,
+      "text": "I love you."
     }
   ],
   "history": {
-    "original_format": "txt",
-    "type": "otter"
+    "original_format": "json",
+    "type": "fek"
   }
 }
